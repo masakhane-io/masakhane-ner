@@ -10,7 +10,7 @@
 | Igbo  | Ignatius Ezeani, Chiamaka, Chris | 
 | Kinyarwanda | Rubungo Andre Niyongabo |
 | Luo   | Perez Ogayo |
-| Naija Pidgin | Orevaoghene Ahia, Kelechi |
+| Naija Pidgin | Orevaoghene Ahia, Kelechi, Adewale	Akinfaderin |
 | Oromo | Mamo |
 | Swahili | Catherine Gitau, Brian Muhia |
 | Wolof | Abdoulaye, Thierno Ibrahim Diop |
