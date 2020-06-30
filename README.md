@@ -8,7 +8,7 @@
 | Amharic | |
 | Hausa  |  | 
 | Igbo  |  | 
-| kinyarwanda | |
+| Kinyarwanda | |
 | Luo   |  |
 | Naija Pidgin |  |
 | Oromo | |
