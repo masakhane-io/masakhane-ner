@@ -7,7 +7,7 @@ Number of articles per category
 
 -------------------------------
 | Category | Number of articles|
--------------------------------
+|-------------------------------|
 | fashion | 15 |
 | news | 30 |
 | people | 15 |
