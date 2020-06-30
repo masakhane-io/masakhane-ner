@@ -1,4 +1,4 @@
-Named Entity Recognition datasets of African Languages
+**Named Entity Recognition datasets of African Languages
 
 
 Volunteer names
