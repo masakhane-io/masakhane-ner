@@ -5,13 +5,13 @@
 ----------------
 | Language | Volunteer names |
 |----------|-----------------|
-| Amharic | Seid, Atnafu, Musie  |
-| Hausa  | Shamsudden Muhammad | 
+| Amharic | Seid, Atnafu, Musie Meressa  |
+| Hausa  | Shamsudden Muhammad, Tajuddeen | 
 | Igbo  | Chiamaka, Chris | 
 | Kinyarwanda | Rubungo Andre Niyongabo |
-| Luo   | Perez |
+| Luo   | Perez Ogayo |
 | Naija Pidgin | Orevaoghene Ahia, Kelechi |
 | Oromo | Mamo |
-| Swahili | Catherine, Brian |
-| Wolof | Abdoulaye, Diop |
-| Yorùbá | David Adelani, Timi Fasubaa, Femi, Mofetoluwa, Jesujoba, Tosin |
+| Swahili | Catherine Gitau, Brian Muhia |
+| Wolof | Abdoulaye, Thierno Ibrahim Diop |
+| Yorùbá | David Adelani, Timi Fasubaa, Femi Olah, Mofetoluwa Adeyemi, Jesujoba Alabi, Tosin Adewumi |
