@@ -5,9 +5,9 @@
 ----------------
 | Language | Volunteer names |
 |----------|-----------------|
-| Amharic | Seid, Atnafu, Musie Meressa  |
+| Amharic | Seid Muhie, Atnafu, Musie Meressa  |
 | Hausa  | Shamsudden Muhammad, Tajuddeen | 
-| Igbo  | Chiamaka, Chris | 
+| Igbo  | Ignatius Ezeani, Chiamaka, Chris | 
 | Kinyarwanda | Rubungo Andre Niyongabo |
 | Luo   | Perez Ogayo |
 | Naija Pidgin | Orevaoghene Ahia, Kelechi |
