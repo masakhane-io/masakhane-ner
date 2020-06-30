@@ -15,5 +15,5 @@ Number of sentences per topic category
 | Africa's news | 1,788  |
 | Most popular news | 90 |
 
-Total no of tokens: 176,415
+Total number of tokens: 176,415
 
