@@ -1,1 +1,1 @@
-Named Entity Recognition dataset for African Languages
+Named Entity Recognition datasets for African Languages
