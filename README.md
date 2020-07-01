@@ -8,7 +8,7 @@
 | Amharic | Seid Muhie, Atnafu, Musie Meressa  |
 | Hausa  | Shamsudden Muhammad, Tajuddeen | 
 | Igbo  | Ignatius Ezeani, Chiamaka, Chris | 
-| Kinyarwanda | Rubungo Andre Niyongabo |
+| Kinyarwanda | Rubungo Andre Niyongabo, Happy Buzaaba |
 | Luo   | Perez Ogayo |
 | Naija Pidgin | Orevaoghene Ahia, Kelechi, Adewale	Akinfaderin |
 | Oromo | Mamo |
