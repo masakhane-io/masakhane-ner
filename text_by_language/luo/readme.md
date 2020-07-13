@@ -1,5 +1,5 @@
 
-The sentences were obtained from Ramogi FM website: https://rmsradio.co.ke/brands/ramogi-fm/ 
+168 sentences (4K tokens) were obtained from Ramogi FM website: https://rmsradio.co.ke/brands/ramogi-fm/ 
 
 Dates published: 14/3/2020 - 10/7/2020
 
