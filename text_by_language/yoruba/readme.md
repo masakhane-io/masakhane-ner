@@ -5,4 +5,4 @@
 4,998 sentences from JW website news section https://www.jw.org/yo/iroyin/jw/
 
 
-In total, we have 9,035 sentences (232,510 tokens)
+In total, we have 8,381 sentences (232,510 tokens)
