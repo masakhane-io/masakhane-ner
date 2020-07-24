@@ -1,21 +1,25 @@
 
-168 sentences (4K tokens) were obtained from Ramogi FM website: https://rmsradio.co.ke/brands/ramogi-fm/ 
 
-Dates published: 14/3/2020 - 10/7/2020
+# LUO LANGUAGE DATASET FOR NER
 
-Categories
+## About Dataset
+The sentences were obtained from Ramogi FM website: https://rmsradio.co.ke/brands/ramogi-fm/ 
 
-Accidents, disasters and deaths	25
+Dates published: 14/3/2018 - 11/7/2020.
 
-Crime and Legal	38
+Get the most updated information and how to contribute [from this repo](https://github.com/Pogayo/Luo-News-Dataset/).
 
-Education 16	3
+### Categories
+Category | Frequency
+----------|---------
+Accidents, disasters and deaths| 175
+Crime and Legal	| 236
+Education	| 53
+Gender	| 7
+Health	| 234
+Politics and Government	| 339
+Religion	| 67
+Business	| 43
+Sports, music and entertainment	| 37
+TOTAL	| 1191
 
-Gender	7
-
-Health	45
-
-Politics and Government	42
-
-Religion	7
-	
