@@ -5,21 +5,21 @@
 ## About Dataset
 The sentences were obtained from Ramogi FM website: https://rmsradio.co.ke/brands/ramogi-fm/ 
 
-Dates published: 1/9/2018 - 27/7/2020.
+Dates published: 1/9/2018 - 10/8/2020.
 
 Get the most updated information and how to contribute [from this repo](https://github.com/Pogayo/Luo-News-Dataset/).
 
 ### Categories
 Category | Frequency
 ----------|---------
-Accidents, disasters and deaths| 141
-Crime and Legal	| 183
-Education	| 32
-Gender	| 7
-Health	| 209
-Politics and Government	| 239
+Accidents, disasters and deaths |	162
+Crime and Legal |	212
+Education |	34
+Gender	| 17
+Health	| 235
+Politics and Government |	274
 Religion	| 46
-Business	| 27
-Sports, music and entertainment	| 25
-TOTAL	| 909
+Business	| 45
+Sports, music and entertainment| 	29
+Total	| 1054
 
