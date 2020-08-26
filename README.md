@@ -5,7 +5,7 @@
 ----------------
 | Language | Volunteer names |
 |----------|-----------------|
-| Amharic | Seid Muhie, Atnafu, Musie Meressa  |
+| Amharic | Seid Muhie, Atnafu, Musie Meressa, Israel Abebe  |
 | Hausa  | Shamsudden Muhammad, Tajuddeen, Emmanuel |
 | Igbo  | Ignatius Ezeani, Chiamaka, Chris |
 | Kinyarwanda | Rubungo Andre Niyongabo, Happy Buzaaba |
