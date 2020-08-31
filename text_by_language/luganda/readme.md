@@ -1,6 +1,6 @@
 Sentences obtained from Bukedde online Newspaper www.bukedde.co.ug between January 2009 to April 2020.
 
-The dataset consists of 7937 sentences and 134,485 tokens.
+The dataset consists of 9,988 sentences and 177,784 tokens.
 
 <!--
 
