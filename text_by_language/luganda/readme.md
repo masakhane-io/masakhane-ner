@@ -1,6 +1,10 @@
 Sentences obtained from Bukedde online Newspaper www.bukedde.co.ug between January 2009 to April 2020.
 
+<<<<<<< HEAD
 The dataset consists of 8,423 sentences and 190,591 tokens.
+=======
+The dataset consists of 9,810 sentences and 200,805 tokens.
+>>>>>>> 6827729d28e1c5210d72f14e7951d4d91c868200
 
 <!--
 
