@@ -14,4 +14,4 @@
 | Naija Pidgin | Orevaoghene Ahia, Kelechi, Adewale	Akinfaderin |
 | Swahili | Catherine Gitau, Brian Muhia and Stephen Reuben |
 | Wolof | [Abdoulaye Diallo](https://github.com/abdoulsn), [Thierno Ibrahim Diop](https://github.com/bayethiernodiop), and [Derguene Mbaye](https://github.com/DerXter) |
-| Yorùbá | David Adelani, Timi Fasubaa, Femi Olah, Mofetoluwa Adeyemi, Jesujoba Alabi, Tosin Adewumi |
+| Yorùbá | David Adelani, Mofetoluwa Adeyemi, Jesujoba Alabi, Tosin Adewumi |
