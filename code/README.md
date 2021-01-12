@@ -36,7 +36,7 @@ export SAVE_STEPS=10000
 export SEED=1
 
 CUDA_VISIBLE_DEVICES=1,2,3 python3 train_ner.py --data_dir data/swahili/ \
---model_type bert \
+--model_type xlmroberta \
 --model_name_or_path $BERT_MODEL \
 --output_dir $OUTPUT_DIR \
 --max_seq_length  $MAX_LENGTH \
