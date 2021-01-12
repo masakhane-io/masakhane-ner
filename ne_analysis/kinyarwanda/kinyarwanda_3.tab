@@ -1,0 +1,730 @@
+Andre	annotation-0	Kigo cy’Imisoro n’amahoro	kinyarwanda_3:37510-37534	NIL	ORG	NAM	1.0	
+Andre	annotation-1	kuwa 24 Werurwe 2020	kinyarwanda_3:51562-51581	NIL	DATE	NAM	1.0	
+Andre	annotation-2	Rwanda	kinyarwanda_3:11666-11671	NIL	LOC	NAM	1.0	
+Andre	annotation-3	Rwanda	kinyarwanda_3:15729-15734	NIL	LOC	NAM	1.0	
+Andre	annotation-4	Nyakanga	kinyarwanda_3:36331-36338	NIL	DATE	NAM	1.0	
+Andre	annotation-5	kuwa 10 Gicurasi 2020	kinyarwanda_3:7477-7497	NIL	DATE	NAM	1.0	
+Andre	annotation-6	2016	kinyarwanda_3:29315-29318	NIL	DATE	NAM	1.0	
+Andre	annotation-7	2019	kinyarwanda_3:6688-6691	NIL	DATE	NAM	1.0	
+Andre	annotation-8	Rwanda	kinyarwanda_3:39934-39939	NIL	LOC	NAM	1.0	
+Andre	annotation-9	Fitch Ratings	kinyarwanda_3:29320-29332	NIL	ORG	NAM	1.0	
+Andre	annotation-10	Yolande Makolo	kinyarwanda_3:73442-73455	NIL	PER	NAM	1.0	
+Andre	annotation-11	Burasirazuba	kinyarwanda_3:19761-19772	NIL	LOC	NAM	1.0	
+Andre	annotation-12	Banki Nkuru y’u Rwanda	kinyarwanda_3:43656-43677	NIL	ORG	NAM	1.0	
+Andre	annotation-13	U Rwanda	kinyarwanda_3:41041-41048	NIL	LOC	NAM	1.0	
+Andre	annotation-14	2019/20	kinyarwanda_3:1979-1985	NIL	DATE	NAM	1.0	
+Andre	annotation-15	Amerika	kinyarwanda_3:70813-70819	NIL	LOC	NAM	1.0	
+Andre	annotation-16	Israel	kinyarwanda_3:69551-69556	NIL	LOC	NAM	1.0	
+Andre	annotation-17	Kanama 1967	kinyarwanda_3:30741-30751	NIL	DATE	NAM	1.0	
+Andre	annotation-18	Rwanda	kinyarwanda_3:50859-50864	NIL	LOC	NAM	1.0	
+Andre	annotation-19	Microsoft	kinyarwanda_3:25511-25519	NIL	ORG	NAM	1.0	
+Andre	annotation-20	ADEPR Kibuye	kinyarwanda_3:73947-73958	NIL	ORG	NAM	1.0	
+Andre	annotation-21	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:65113-65140	NIL	LOC	NAM	1.0	
+Andre	annotation-22	Rwanda	kinyarwanda_3:1361-1366	NIL	LOC	NAM	1.0	
+Andre	annotation-23	w’Umuryango w’Ubumwe bw’u Burayi	kinyarwanda_3:724-755	NIL	ORG	NAM	1.0	
+Andre	annotation-24	Rwanda	kinyarwanda_3:63427-63432	NIL	LOC	NAM	1.0	
+Andre	annotation-25	myaka itanu ishize	kinyarwanda_3:52506-52523	NIL	DATE	NAM	1.0	
+Andre	annotation-26	NISR	kinyarwanda_3:9130-9133	NIL	ORG	NAM	1.0	
+Andre	annotation-27	y’Ishami ry’Ubukerarugendo mu Rugaga rw’Abikorera	kinyarwanda_3:13477-13525	NIL	ORG	NAM	1.0	
+Andre	annotation-28	Rwanda	kinyarwanda_3:20-25	NIL	LOC	NAM	1.0	
+Andre	annotation-29	Fitch	kinyarwanda_3:29252-29256	NIL	ORG	NAM	1.0	
+Andre	annotation-30	Burayi	kinyarwanda_3:49840-49845	NIL	LOC	NAM	1.0	
+Andre	annotation-31	u Rwanda	kinyarwanda_3:73761-73768	NIL	LOC	NAM	1.0	
+Andre	annotation-32	Europe	kinyarwanda_3:49524-49529	NIL	LOC	NAM	1.0	
+Andre	annotation-33	Amerika	kinyarwanda_3:65069-65075	NIL	LOC	NAM	1.0	
+Andre	annotation-34	Werurwe	kinyarwanda_3:25502-25508	NIL	DATE	NAM	1.0	
+Andre	annotation-35	Tanzania	kinyarwanda_3:50725-50732	NIL	LOC	NAM	1.0	
+Andre	annotation-36	SACCO	kinyarwanda_3:22506-22510	NIL	ORG	NAM	1.0	
+Andre	annotation-37	Rwanda	kinyarwanda_3:62228-62233	NIL	LOC	NAM	1.0	
+Andre	annotation-38	Tanzania	kinyarwanda_3:49805-49812	NIL	LOC	NAM	1.0	
+Andre	annotation-39	1994	kinyarwanda_3:74844-74847	NIL	DATE	NAM	1.0	
+Andre	annotation-40	Banki Nkuru y’u Rwanda	kinyarwanda_3:22738-22759	NIL	ORG	NAM	1.0	
+Andre	annotation-41	Tehran	kinyarwanda_3:71047-71052	NIL	LOC	NAM	1.0	
+Andre	annotation-42	Uganda	kinyarwanda_3:74230-74235	NIL	LOC	NAM	1.0	
+Andre	annotation-43	Rwanda	kinyarwanda_3:47153-47158	NIL	LOC	NAM	1.0	
+Andre	annotation-44	Rwanda	kinyarwanda_3:11455-11460	NIL	LOC	NAM	1.0	
+Andre	annotation-45	Bharti Airtel	kinyarwanda_3:60515-60527	NIL	ORG	NAM	1.0	
+Andre	annotation-46	Uzziel Ndagijimana	kinyarwanda_3:64176-64193	NIL	PER	NAM	1.0	
+Andre	annotation-47	Rwanda	kinyarwanda_3:72851-72856	NIL	LOC	NAM	1.0	
+Andre	annotation-48	SACCO	kinyarwanda_3:23955-23959	NIL	ORG	NAM	1.0	
+Andre	annotation-49	Banki y’Isi	kinyarwanda_3:46359-46369	NIL	ORG	NAM	1.0	
+Andre	annotation-50	2019	kinyarwanda_3:58348-58351	NIL	DATE	NAM	1.0	
+Andre	annotation-51	Uzziel Ndagijimana	kinyarwanda_3:53477-53494	NIL	PER	NAM	1.0	
+Andre	annotation-52	BPR	kinyarwanda_3:32440-32442	NIL	ORG	NAM	1.0	
+Andre	annotation-53	2012	kinyarwanda_3:22107-22110	NIL	DATE	NAM	1.0	
+Andre	annotation-54	w’Urugaga rw’Abikorera mu Rwanda	kinyarwanda_3:45725-45756	NIL	ORG	NAM	1.0	
+Andre	annotation-55	Ndagijimana Uzziel	kinyarwanda_3:46845-46862	NIL	PER	NAM	1.0	
+Andre	annotation-56	Rwanda	kinyarwanda_3:71961-71966	NIL	LOC	NAM	1.0	
+Andre	annotation-57	2019/20	kinyarwanda_3:36288-36294	NIL	DATE	NAM	1.0	
+Andre	annotation-58	2018	kinyarwanda_3:63686-63689	NIL	DATE	NAM	1.0	
+Andre	annotation-59	Banki ya Kigali	kinyarwanda_3:10405-10419	NIL	ORG	NAM	1.0	
+Andre	annotation-60	u Rwanda	kinyarwanda_3:38678-38685	NIL	LOC	NAM	1.0	
+Andre	annotation-61	Uzziel Ndagijimana	kinyarwanda_3:44204-44221	NIL	PER	NAM	1.0	
+Andre	annotation-62	Qasem Soleimani	kinyarwanda_3:66516-66530	NIL	PER	NAM	1.0	
+Andre	annotation-63	Amazon	kinyarwanda_3:27694-27699	NIL	ORG	NAM	1.0	
+Andre	annotation-64	Zoom	kinyarwanda_3:25027-25030	NIL	ORG	NAM	1.0	
+Andre	annotation-65	PSF	kinyarwanda_3:13528-13530	NIL	ORG	NAM	1.0	
+Andre	annotation-66	Nicola Bellomo	kinyarwanda_3:28-41	NIL	PER	NAM	1.0	
+Andre	annotation-67	Popular Mobilization Forces	kinyarwanda_3:66043-66069	NIL	ORG	NAM	1.0	
+Andre	annotation-68	leta ya Carolina y’Epfo	kinyarwanda_3:68923-68945	NIL	LOC	NAM	1.0	
+Andre	annotation-69	2017	kinyarwanda_3:53217-53220	NIL	DATE	NAM	1.0	
+Andre	annotation-70	Tanzania	kinyarwanda_3:50052-50059	NIL	LOC	NAM	1.0	
+Andre	annotation-71	Iran	kinyarwanda_3:67425-67428	NIL	LOC	NAM	1.0	
+Andre	annotation-72	Buhinde	kinyarwanda_3:61421-61427	NIL	LOC	NAM	1.0	
+Andre	annotation-73	BPR Plc	kinyarwanda_3:35120-35126	NIL	ORG	NAM	1.0	
+Andre	annotation-74	Tehran	kinyarwanda_3:71471-71476	NIL	LOC	NAM	1.0	
+Andre	annotation-75	Rwanda	kinyarwanda_3:36690-36695	NIL	LOC	NAM	1.0	
+Andre	annotation-76	Airtel Rwanda	kinyarwanda_3:62006-62018	NIL	ORG	NAM	1.0	
+Andre	annotation-77	John Rwangombwa	kinyarwanda_3:23723-23737	NIL	PER	NAM	1.0	
+Andre	annotation-78	kwa gatatu	kinyarwanda_3:7789-7798	NIL	DATE	NAM	1.0	
+Andre	annotation-79	uyu mwaka	kinyarwanda_3:12860-12868	NIL	DATE	NAM	1.0	
+Andre	annotation-80	Rwanda	kinyarwanda_3:53688-53693	NIL	LOC	NAM	1.0	
+Andre	annotation-81	2019	kinyarwanda_3:54908-54911	NIL	DATE	NAM	1.0	
+Andre	annotation-82	Amerika	kinyarwanda_3:68556-68562	NIL	LOC	NAM	1.0	
+Andre	annotation-83	BRD	kinyarwanda_3:28731-28733	NIL	ORG	NAM	1.0	
+Andre	annotation-84	Mwanza	kinyarwanda_3:49470-49475	NIL	LOC	NAM	1.0	
+Andre	annotation-85	Hassan Rouhani	kinyarwanda_3:66551-66564	NIL	PER	NAM	1.0	
+Andre	annotation-86	Inteko Ishinga Amategeko	kinyarwanda_3:1644-1667	NIL	ORG	NAM	1.0	
+Andre	annotation-87	Afurika	kinyarwanda_3:1275-1281	NIL	LOC	NAM	1.0	
+Andre	annotation-88	NISR	kinyarwanda_3:8932-8935	NIL	ORG	NAM	1.0	
+Andre	annotation-89	Rwanda	kinyarwanda_3:29300-29305	NIL	LOC	NAM	1.0	
+Andre	annotation-90	Nyakanga	kinyarwanda_3:2022-2029	NIL	DATE	NAM	1.0	
+Andre	annotation-91	Buhinde	kinyarwanda_3:60176-60182	NIL	LOC	NAM	1.0	
+Andre	annotation-92	n’u Burayi	kinyarwanda_3:1283-1292	NIL	LOC	NAM	1.0	
+Andre	annotation-93	Rutagungira Eve Nicolas	kinyarwanda_3:22002-22024	NIL	PER	NAM	1.0	
+Andre	annotation-94	Buyapani	kinyarwanda_3:50777-50784	NIL	LOC	NAM	1.0	
+Andre	annotation-95	Minisiteri y’Ubucuruzi n’Inganda	kinyarwanda_3:20202-20233	NIL	ORG	NAM	1.0	
+Andre	annotation-96	Yolande Makolo	kinyarwanda_3:73650-73663	NIL	PER	NAM	1.0	
+Andre	annotation-97	EU	kinyarwanda_3:14-15	NIL	ORG	NAM	1.0	
+Andre	annotation-98	kwa gatatu	kinyarwanda_3:9386-9395	NIL	DATE	NAM	1.0	
+Andre	annotation-99	Rwanda	kinyarwanda_3:71850-71855	NIL	LOC	NAM	1.0	
+Andre	annotation-100	umwaka ushize	kinyarwanda_3:42153-42165	NIL	DATE	NAM	1.0	
+Andre	annotation-101	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:29682-29709	NIL	LOC	NAM	1.0	
+Andre	annotation-102	Fitch Ratings	kinyarwanda_3:28859-28871	NIL	ORG	NAM	1.0	
+Andre	annotation-103	Mata	kinyarwanda_3:8390-8393	NIL	DATE	NAM	1.0	
+Andre	annotation-104	Soleimani	kinyarwanda_3:67308-67316	NIL	PER	NAM	1.0	
+Andre	annotation-105	uyu mwaka	kinyarwanda_3:47919-47927	NIL	DATE	NAM	1.0	
+Andre	annotation-106	Ruhango	kinyarwanda_3:19071-19077	NIL	LOC	NAM	1.0	
+Andre	annotation-107	Amerika	kinyarwanda_3:21938-21944	NIL	LOC	NAM	1.0	
+Andre	annotation-108	Claver Gatete	kinyarwanda_3:55028-55040	NIL	PER	NAM	1.0	
+Andre	annotation-109	1999	kinyarwanda_3:6862-6865	NIL	DATE	NAM	1.0	
+Andre	annotation-110	Mata 2020	kinyarwanda_3:7769-7777	NIL	DATE	NAM	1.0	
+Andre	annotation-111	Rwanda	kinyarwanda_3:51627-51632	NIL	LOC	NAM	1.0	
+Andre	annotation-112	Rwanda	kinyarwanda_3:73383-73388	NIL	LOC	NAM	1.0	
+Andre	annotation-113	Rwanda	kinyarwanda_3:56354-56359	NIL	LOC	NAM	1.0	
+Andre	annotation-114	Facebook	kinyarwanda_3:61221-61228	NIL	ORG	NAM	1.0	
+Andre	annotation-115	2019	kinyarwanda_3:55944-55947	NIL	DATE	NAM	1.0	
+Andre	annotation-116	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:65782-65809	NIL	LOC	NAM	1.0	
+Andre	annotation-117	2020/2021	kinyarwanda_3:450-458	NIL	DATE	NAM	1.0	
+Andre	annotation-118	Iran	kinyarwanda_3:68281-68284	NIL	LOC	NAM	1.0	
+Andre	annotation-119	2019	kinyarwanda_3:6778-6781	NIL	DATE	NAM	1.0	
+Andre	annotation-120	u Rwanda	kinyarwanda_3:986-993	NIL	LOC	NAM	1.0	
+Andre	annotation-121	Parti Socialiste	kinyarwanda_3:74411-74426	NIL	ORG	NAM	1.0	
+Andre	annotation-122	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:6745-6772	NIL	LOC	NAM	1.0	
+Andre	annotation-123	Rwanda	kinyarwanda_3:28640-28645	NIL	LOC	NAM	1.0	
+Andre	annotation-124	u Rwanda	kinyarwanda_3:51984-51991	NIL	LOC	NAM	1.0	
+Andre	annotation-125	Rwanda	kinyarwanda_3:13945-13950	NIL	LOC	NAM	1.0	
+Andre	annotation-126	Israel	kinyarwanda_3:70099-70104	NIL	LOC	NAM	1.0	
+Andre	annotation-127	Mata 2020	kinyarwanda_3:8186-8194	NIL	DATE	NAM	1.0	
+Andre	annotation-128	Ngabonzima Viateur	kinyarwanda_3:21602-21619	NIL	PER	NAM	1.0	
+Andre	annotation-129	Ku wa 18 Werurwe	kinyarwanda_3:10185-10200	NIL	DATE	NAM	1.0	
+Andre	annotation-130	Uganda	kinyarwanda_3:71860-71865	NIL	LOC	NAM	1.0	
+Andre	annotation-131	Kayigi Aimable	kinyarwanda_3:37574-37587	NIL	PER	NAM	1.0	
+Andre	annotation-132	Bugesera	kinyarwanda_3:19533-19540	NIL	LOC	NAM	1.0	
+Andre	annotation-133	Banki y’Isi	kinyarwanda_3:12360-12370	NIL	ORG	NAM	1.0	
+Andre	annotation-134	2024	kinyarwanda_3:64061-64064	NIL	DATE	NAM	1.0	
+Andre	annotation-135	BRD	kinyarwanda_3:30705-30707	NIL	ORG	NAM	1.0	
+Andre	annotation-136	2019	kinyarwanda_3:54131-54134	NIL	DATE	NAM	1.0	
+Andre	annotation-137	EU	kinyarwanda_3:520-521	NIL	ORG	NAM	1.0	
+Andre	annotation-138	Tanzania	kinyarwanda_3:49005-49012	NIL	LOC	NAM	1.0	
+Andre	annotation-139	Abu Mahdi al-Muhandis	kinyarwanda_3:66236-66256	NIL	PER	NAM	1.0	
+Andre	annotation-140	BNR	kinyarwanda_3:43884-43886	NIL	ORG	NAM	1.0	
+Andre	annotation-141	Rwanda	kinyarwanda_3:46308-46313	NIL	LOC	NAM	1.0	
+Andre	annotation-142	Masoro	kinyarwanda_3:56589-56594	NIL	LOC	NAM	1.0	
+Andre	annotation-143	mpera za 2019	kinyarwanda_3:31653-31665	NIL	DATE	NAM	1.0	
+Andre	annotation-144	Amerika	kinyarwanda_3:66094-66100	NIL	LOC	NAM	1.0	
+Andre	annotation-145	Mata 2019	kinyarwanda_3:7104-7112	NIL	DATE	NAM	1.0	
+Andre	annotation-146	BPR	kinyarwanda_3:33043-33045	NIL	ORG	NAM	1.0	
+Andre	annotation-147	OMS	kinyarwanda_3:18834-18836	NIL	ORG	NAM	1.0	
+Andre	annotation-148	Bharti	kinyarwanda_3:61147-61152	NIL	ORG	NAM	1.0	
+Andre	annotation-149	kuwa 24 Werurwe 2020	kinyarwanda_3:23827-23846	NIL	DATE	NAM	1.0	
+Andre	annotation-150	Mata 2020	kinyarwanda_3:8760-8768	NIL	DATE	NAM	1.0	
+Andre	annotation-151	Rwanda	kinyarwanda_3:28759-28764	NIL	LOC	NAM	1.0	
+Andre	annotation-152	Werurwe	kinyarwanda_3:13561-13567	NIL	DATE	NAM	1.0	
+Andre	annotation-153	Donald Trump	kinyarwanda_3:65925-65936	NIL	PER	NAM	1.0	
+Andre	annotation-154	Bharti Airtel	kinyarwanda_3:59525-59537	NIL	ORG	NAM	1.0	
+Andre	annotation-155	Mbabazi	kinyarwanda_3:20840-20846	NIL	PER	NAM	1.0	
+Andre	annotation-156	n’u Bwongereza	kinyarwanda_3:26675-26688	NIL	LOC	NAM	1.0	
+Andre	annotation-157	Rwanda	kinyarwanda_3:41434-41439	NIL	LOC	NAM	1.0	
+Andre	annotation-158	Kenya	kinyarwanda_3:50399-50403	NIL	LOC	NAM	1.0	
+Andre	annotation-159	Rwanda	kinyarwanda_3:47478-47483	NIL	LOC	NAM	1.0	
+Andre	annotation-160	BRD	kinyarwanda_3:30590-30592	NIL	ORG	NAM	1.0	
+Andre	annotation-161	BNR	kinyarwanda_3:23943-23945	NIL	ORG	NAM	1.0	
+Andre	annotation-162	u Rwanda	kinyarwanda_3:62318-62325	NIL	LOC	NAM	1.0	
+Andre	annotation-163	UNCTAD	kinyarwanda_3:47816-47821	NIL	ORG	NAM	1.0	
+Andre	annotation-164	2017	kinyarwanda_3:55614-55617	NIL	DATE	NAM	1.0	
+Andre	annotation-165	Banki Nkuru y’Igihugu	kinyarwanda_3:11082-11102	NIL	ORG	NAM	1.0	
+Andre	annotation-166	BPR Plc	kinyarwanda_3:33879-33885	NIL	ORG	NAM	1.0	
+Andre	annotation-167	Iraq	kinyarwanda_3:66291-66294	NIL	LOC	NAM	1.0	
+Andre	annotation-168	u Rwanda	kinyarwanda_3:29434-29441	NIL	LOC	NAM	1.0	
+Andre	annotation-169	uyu wa 29 Mata 2020	kinyarwanda_3:10717-10735	NIL	DATE	NAM	1.0	
+Andre	annotation-170	BPR Plc	kinyarwanda_3:31994-32000	NIL	ORG	NAM	1.0	
+Andre	annotation-171	Buhinde	kinyarwanda_3:59378-59384	NIL	LOC	NAM	1.0	
+Andre	annotation-172	Kuva mu gitondo cyo kuri uyu wa Gatanu	kinyarwanda_3:71380-71417	NIL	DATE	NAM	1.0	
+Andre	annotation-173	Rwanda	kinyarwanda_3:41771-41776	NIL	LOC	NAM	1.0	
+Andre	annotation-174	Peloton	kinyarwanda_3:27223-27229	NIL	ORG	NAM	1.0	
+Andre	annotation-175	Ishami ry’Umuryango w’Abibumbye ryita ku Buzima ku Isi	kinyarwanda_3:18679-18732	NIL	ORG	NAM	1.0	
+Andre	annotation-176	u Rwanda	kinyarwanda_3:40906-40913	NIL	LOC	NAM	1.0	
+Andre	annotation-177	Bharti Airtel	kinyarwanda_3:59171-59183	NIL	ORG	NAM	1.0	
+Andre	annotation-178	Rwanda	kinyarwanda_3:59483-59488	NIL	LOC	NAM	1.0	
+Andre	annotation-179	Uganda	kinyarwanda_3:72105-72110	NIL	LOC	NAM	1.0	
+Andre	annotation-180	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:65396-65423	NIL	LOC	NAM	1.0	
+Andre	annotation-181	Israel	kinyarwanda_3:50764-50769	NIL	LOC	NAM	1.0	
+Andre	annotation-182	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:70707-70734	NIL	LOC	NAM	1.0	
+Andre	annotation-183	Rwanda	kinyarwanda_3:30938-30943	NIL	LOC	NAM	1.0	
+Andre	annotation-184	Bharti Airtel	kinyarwanda_3:62069-62081	NIL	ORG	NAM	1.0	
+Andre	annotation-185	kwa kane	kinyarwanda_3:9356-9363	NIL	DATE	NAM	1.0	
+Andre	annotation-186	Bruxelles	kinyarwanda_3:49285-49293	NIL	LOC	NAM	1.0	
+Andre	annotation-187	Rwanda	kinyarwanda_3:52228-52233	NIL	LOC	NAM	1.0	
+Andre	annotation-188	Kinazi	kinyarwanda_3:17795-17800	NIL	LOC	NAM	1.0	
+Andre	annotation-189	Uganda	kinyarwanda_3:71798-71803	NIL	LOC	NAM	1.0	
+Andre	annotation-190	RNC	kinyarwanda_3:72271-72273	NIL	ORG	NAM	1.0	
+Andre	annotation-191	Mata 2019	kinyarwanda_3:9016-9024	NIL	DATE	NAM	1.0	
+Andre	annotation-192	2015-2019	kinyarwanda_3:52701-52709	NIL	DATE	NAM	1.0	
+Andre	annotation-193	Mata 2019	kinyarwanda_3:6911-6919	NIL	DATE	NAM	1.0	
+Andre	annotation-194	u Rwanda	kinyarwanda_3:49705-49712	NIL	LOC	NAM	1.0	
+Andre	annotation-195	Soleimani	kinyarwanda_3:69131-69139	NIL	PER	NAM	1.0	
+Andre	annotation-196	2020	kinyarwanda_3:42203-42206	NIL	DATE	NAM	1.0	
+Andre	annotation-197	Bagdad	kinyarwanda_3:66189-66194	NIL	LOC	NAM	1.0	
+Andre	annotation-198	Kinazi	kinyarwanda_3:18244-18249	NIL	LOC	NAM	1.0	
+Andre	annotation-199	SACCO	kinyarwanda_3:23133-23137	NIL	ORG	NAM	1.0	
+Andre	annotation-200	2015	kinyarwanda_3:52585-52588	NIL	DATE	NAM	1.0	
+Andre	annotation-201	Daily Monitor	kinyarwanda_3:72317-72329	NIL	ORG	NAM	1.0	
+Andre	annotation-202	mpera za 2019	kinyarwanda_3:6168-6180	NIL	DATE	NAM	1.0	
+Andre	annotation-203	2020/21	kinyarwanda_3:36307-36313	NIL	DATE	NAM	1.0	
+Andre	annotation-204	Burayi	kinyarwanda_3:49025-49030	NIL	LOC	NAM	1.0	
+Andre	annotation-205	Rwanda	kinyarwanda_3:52671-52676	NIL	LOC	NAM	1.0	
+Andre	annotation-206	2022	kinyarwanda_3:48305-48308	NIL	DATE	NAM	1.0	
+Andre	annotation-207	EU	kinyarwanda_3:1207-1208	NIL	ORG	NAM	1.0	
+Andre	annotation-208	Rwanda	kinyarwanda_3:52469-52474	NIL	LOC	NAM	1.0	
+Andre	annotation-209	n’Inteko ishinga amategeko	kinyarwanda_3:67461-67486	NIL	ORG	NAM	1.0	
+Andre	annotation-210	BCG	kinyarwanda_3:5961-5963	NIL	ORG	NAM	1.0	
+Andre	annotation-211	Soleimani	kinyarwanda_3:69530-69538	NIL	PER	NAM	1.0	
+Andre	annotation-212	BRD	kinyarwanda_3:30267-30269	NIL	ORG	NAM	1.0	
+Andre	annotation-213	Washington	kinyarwanda_3:71033-71042	NIL	LOC	NAM	1.0	
+Andre	annotation-214	IMF	kinyarwanda_3:46606-46608	NIL	ORG	NAM	1.0	
+Andre	annotation-215	Ndagijimana	kinyarwanda_3:13894-13904	NIL	PER	NAM	1.0	
+Andre	annotation-216	uyu mwaka	kinyarwanda_3:37135-37143	NIL	DATE	NAM	1.0	
+Andre	annotation-217	Mukhisa Kituyi	kinyarwanda_3:48343-48356	NIL	PER	NAM	1.0	
+Andre	annotation-218	James Zhan	kinyarwanda_3:48771-48780	NIL	PER	NAM	1.0	
+Andre	annotation-219	burasirazuba bwo hagati	kinyarwanda_3:65446-65468	NIL	LOC	NAM	1.0	
+Andre	annotation-220	2019	kinyarwanda_3:7430-7433	NIL	DATE	NAM	1.0	
+Andre	annotation-221	Mata 2020	kinyarwanda_3:7196-7204	NIL	DATE	NAM	1.0	
+Andre	annotation-222	Abu Mahdi al-Muhandis	kinyarwanda_3:65952-65972	NIL	PER	NAM	1.0	
+Andre	annotation-223	u Rwanda	kinyarwanda_3:29341-29348	NIL	LOC	NAM	1.0	
+Andre	annotation-224	Rwanda	kinyarwanda_3:45889-45894	NIL	LOC	NAM	1.0	
+Andre	annotation-225	Rwanda	kinyarwanda_3:30239-30244	NIL	LOC	NAM	1.0	
+Andre	annotation-226	Bruxelles	kinyarwanda_3:49147-49155	NIL	LOC	NAM	1.0	
+Andre	annotation-227	BRD	kinyarwanda_3:30089-30091	NIL	ORG	NAM	1.0	
+Andre	annotation-228	NISR	kinyarwanda_3:57415-57418	NIL	ORG	NAM	1.0	
+Andre	annotation-229	uyu wa Gatanu	kinyarwanda_3:65163-65175	NIL	DATE	NAM	1.0	
+Andre	annotation-230	Iran	kinyarwanda_3:67530-67533	NIL	LOC	NAM	1.0	
+Andre	annotation-231	Elizabeth Warren	kinyarwanda_3:67966-67981	NIL	PER	NAM	1.0	
+Andre	annotation-232	RNC	kinyarwanda_3:72048-72050	NIL	ORG	NAM	1.0	
+Andre	annotation-233	Brussels	kinyarwanda_3:49480-49487	NIL	LOC	NAM	1.0	
+Andre	annotation-234	kuva mu 2005	kinyarwanda_3:48184-48195	NIL	DATE	NAM	1.0	
+Andre	annotation-235	Uganda	kinyarwanda_3:72795-72800	NIL	LOC	NAM	1.0	
+Andre	annotation-236	Zoom	kinyarwanda_3:25131-25134	NIL	ORG	NAM	1.0	
+Andre	annotation-237	Mata 2019	kinyarwanda_3:7298-7306	NIL	DATE	NAM	1.0	
+Andre	annotation-238	BPR	kinyarwanda_3:34318-34320	NIL	ORG	NAM	1.0	
+Andre	annotation-239	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:65895-65922	NIL	LOC	NAM	1.0	
+Andre	annotation-240	Entebbe	kinyarwanda_3:50363-50369	NIL	LOC	NAM	1.0	
+Andre	annotation-241	Rwanda	kinyarwanda_3:13740-13745	NIL	LOC	NAM	1.0	
+Andre	annotation-242	NISR	kinyarwanda_3:58175-58178	NIL	ORG	NAM	1.0	
+Andre	annotation-243	NISR	kinyarwanda_3:51544-51547	NIL	ORG	NAM	1.0	
+Andre	annotation-244	Amerika	kinyarwanda_3:66735-66741	NIL	LOC	NAM	1.0	
+Andre	annotation-245	Israel	kinyarwanda_3:69608-69613	NIL	LOC	NAM	1.0	
+Andre	annotation-246	Werurwe 2020	kinyarwanda_3:8264-8275	NIL	DATE	NAM	1.0	
+Andre	annotation-247	Burayi	kinyarwanda_3:49364-49369	NIL	LOC	NAM	1.0	
+Andre	annotation-248	Rwanda	kinyarwanda_3:72184-72189	NIL	LOC	NAM	1.0	
+Andre	annotation-249	Fitch Ratings	kinyarwanda_3:29133-29145	NIL	ORG	NAM	1.0	
+Andre	annotation-250	BNR	kinyarwanda_3:43680-43682	NIL	ORG	NAM	1.0	
+Andre	annotation-251	Soleimani	kinyarwanda_3:68104-68112	NIL	PER	NAM	1.0	
+Andre	annotation-252	Mbabazi Christian	kinyarwanda_3:19300-19316	NIL	PER	NAM	1.0	
+Andre	annotation-253	1994	kinyarwanda_3:52282-52285	NIL	DATE	NAM	1.0	
+Andre	annotation-254	2020	kinyarwanda_3:58671-58674	NIL	DATE	NAM	1.0	
+Andre	annotation-255	Banki Nkuru y’u Rwanda	kinyarwanda_3:22556-22577	NIL	ORG	NAM	1.0	
+Andre	annotation-256	Werurwe	kinyarwanda_3:37725-37731	NIL	DATE	NAM	1.0	
+Andre	annotation-257	kuva mu Ukuboza	kinyarwanda_3:25234-25248	NIL	DATE	NAM	1.0	
+Andre	annotation-258	byumweru bitandatu bishize	kinyarwanda_3:61092-61117	NIL	DATE	NAM	1.0	
+Andre	annotation-259	NAEB	kinyarwanda_3:62953-62956	NIL	ORG	NAM	1.0	
+Andre	annotation-260	2017	kinyarwanda_3:53391-53394	NIL	DATE	NAM	1.0	
+Andre	annotation-261	Reliance Jio	kinyarwanda_3:60100-60111	NIL	ORG	NAM	1.0	
+Andre	annotation-262	2019/20	kinyarwanda_3:36042-36048	NIL	DATE	NAM	1.0	
+Andre	annotation-263	BRD	kinyarwanda_3:29720-29722	NIL	ORG	NAM	1.0	
+Andre	annotation-264	Jio	kinyarwanda_3:61129-61131	NIL	ORG	NAM	1.0	
+Andre	annotation-265	Airtel Rwanda	kinyarwanda_3:61818-61830	NIL	ORG	NAM	1.0	
+Andre	annotation-266	UNCTAD	kinyarwanda_3:48335-48340	NIL	ORG	NAM	1.0	
+Andre	annotation-267	Qasem Soleimani	kinyarwanda_3:66217-66231	NIL	PER	NAM	1.0	
+Andre	annotation-268	RNC	kinyarwanda_3:72716-72718	NIL	ORG	NAM	1.0	
+Andre	annotation-269	Rwanda	kinyarwanda_3:53645-53650	NIL	LOC	NAM	1.0	
+Andre	annotation-270	Minisiteri y’Imari n’Igenamigambi	kinyarwanda_3:38046-38078	NIL	ORG	NAM	1.0	
+Andre	annotation-271	2018	kinyarwanda_3:63538-63541	NIL	DATE	NAM	1.0	
+Andre	annotation-272	Banki y’Isi	kinyarwanda_3:41151-41161	NIL	ORG	NAM	1.0	
+Andre	annotation-273	Kinazi	kinyarwanda_3:17921-17926	NIL	LOC	NAM	1.0	
+Andre	annotation-274	Iran	kinyarwanda_3:65676-65679	NIL	LOC	NAM	1.0	
+Andre	annotation-275	2024	kinyarwanda_3:43417-43420	NIL	DATE	NAM	1.0	
+Andre	annotation-276	Buhinde	kinyarwanda_3:59671-59677	NIL	LOC	NAM	1.0	
+Andre	annotation-277	uyu mwaka	kinyarwanda_3:46679-46687	NIL	DATE	NAM	1.0	
+Andre	annotation-278	2016	kinyarwanda_3:54981-54984	NIL	DATE	NAM	1.0	
+Andre	annotation-279	Banki Nkuru y’u Rwanda	kinyarwanda_3:43860-43881	NIL	ORG	NAM	1.0	
+Andre	annotation-280	kwa kane	kinyarwanda_3:35079-35086	NIL	DATE	NAM	1.0	
+Andre	annotation-281	2019	kinyarwanda_3:51600-51603	NIL	DATE	NAM	1.0	
+Andre	annotation-282	u Rwanda	kinyarwanda_3:50926-50933	NIL	LOC	NAM	1.0	
+Andre	annotation-283	2019	kinyarwanda_3:46562-46565	NIL	DATE	NAM	1.0	
+Andre	annotation-284	Mitterand	kinyarwanda_3:74774-74782	NIL	PER	NAM	1.0	
+Andre	annotation-285	u Rwanda	kinyarwanda_3:35924-35931	NIL	LOC	NAM	1.0	
+Andre	annotation-286	Minisiteri y’Imari n’Igenamigambi	kinyarwanda_3:36610-36642	NIL	ORG	NAM	1.0	
+Andre	annotation-287	Ikigo cy’igihugu gishinzwe ibarurishamibare mu Rwanda	kinyarwanda_3:6921-6973	NIL	ORG	NAM	1.0	
+Andre	annotation-288	Kampala	kinyarwanda_3:73991-73997	NIL	LOC	NAM	1.0	
+Andre	annotation-289	uwo mwaka	kinyarwanda_3:54479-54487	NIL	DATE	NAM	1.0	
+Andre	annotation-290	Banki Nkuru y’Igihugu	kinyarwanda_3:44792-44812	NIL	ORG	NAM	1.0	
+Andre	annotation-291	Uzziel Ndagijimana	kinyarwanda_3:42431-42448	NIL	PER	NAM	1.0	
+Andre	annotation-292	u Rwanda	kinyarwanda_3:32207-32214	NIL	LOC	NAM	1.0	
+Andre	annotation-293	uyu wa Gatanu	kinyarwanda_3:65549-65561	NIL	DATE	NAM	1.0	
+Andre	annotation-294	Netflix	kinyarwanda_3:26104-26110	NIL	ORG	NAM	1.0	
+Andre	annotation-295	u Rwanda	kinyarwanda_3:805-812	NIL	LOC	NAM	1.0	
+Andre	annotation-296	Javad Zarif	kinyarwanda_3:66700-66710	NIL	PER	NAM	1.0	
+Andre	annotation-297	Umwaka ushize muri Werurwe	kinyarwanda_3:49672-49697	NIL	DATE	NAM	1.0	
+Andre	annotation-298	BPR Plc	kinyarwanda_3:31668-31674	NIL	ORG	NAM	1.0	
+Andre	annotation-299	Habarurema	kinyarwanda_3:4263-4272	NIL	PER	NAM	1.0	
+Andre	annotation-300	Amazon	kinyarwanda_3:60403-60408	NIL	ORG	NAM	1.0	
+Andre	annotation-301	Uganda	kinyarwanda_3:74269-74274	NIL	LOC	NAM	1.0	
+Andre	annotation-302	Soleimani	kinyarwanda_3:70196-70204	NIL	PER	NAM	1.0	
+Andre	annotation-303	Rwanda	kinyarwanda_3:512-517	NIL	LOC	NAM	1.0	
+Andre	annotation-304	Qasem Soleimani	kinyarwanda_3:65193-65207	NIL	PER	NAM	1.0	
+Andre	annotation-305	Werurwe	kinyarwanda_3:46129-46135	NIL	DATE	NAM	1.0	
+Andre	annotation-306	hagati ya Mata na Kamena	kinyarwanda_3:12251-12274	NIL	DATE	NAM	1.0	
+Andre	annotation-307	Iran	kinyarwanda_3:71152-71155	NIL	LOC	NAM	1.0	
+Andre	annotation-308	u Rwanda	kinyarwanda_3:36170-36177	NIL	LOC	NAM	1.0	
+Andre	annotation-309	Bushinwa	kinyarwanda_3:6787-6794	NIL	LOC	NAM	1.0	
+Andre	annotation-310	Richard Tusabe	kinyarwanda_3:38104-38117	NIL	PER	NAM	1.0	
+Andre	annotation-311	Amelie de Montchalin	kinyarwanda_3:70474-70493	NIL	PER	NAM	1.0	
+Andre	annotation-312	Uganda	kinyarwanda_3:50376-50381	NIL	LOC	NAM	1.0	
+Andre	annotation-313	2015	kinyarwanda_3:52952-52955	NIL	DATE	NAM	1.0	
+Andre	annotation-314	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:59017-59044	NIL	LOC	NAM	1.0	
+Andre	annotation-315	u Rwanda	kinyarwanda_3:14454-14461	NIL	LOC	NAM	1.0	
+Andre	annotation-316	RNC	kinyarwanda_3:73197-73199	NIL	ORG	NAM	1.0	
+Andre	annotation-317	Rwanda	kinyarwanda_3:41141-41146	NIL	LOC	NAM	1.0	
+Andre	annotation-318	2020	kinyarwanda_3:62592-62595	NIL	DATE	NAM	1.0	
+Andre	annotation-319	Bellomo	kinyarwanda_3:1149-1155	NIL	PER	NAM	1.0	
+Andre	annotation-320	Iran	kinyarwanda_3:66892-66895	NIL	LOC	NAM	1.0	
+Andre	annotation-321	y’Inama ya Loni ishinzwe ubucuruzi n’iterambere	kinyarwanda_3:47553-47599	NIL	ORG	NAM	1.0	
+Andre	annotation-322	Nyakanga	kinyarwanda_3:36085-36092	NIL	DATE	NAM	1.0	
+Andre	annotation-323	Tanzania	kinyarwanda_3:49717-49724	NIL	LOC	NAM	1.0	
+Andre	annotation-324	RwandAir	kinyarwanda_3:49395-49402	NIL	ORG	NAM	1.0	
+Andre	annotation-325	Amazon	kinyarwanda_3:59047-59052	NIL	ORG	NAM	1.0	
+Andre	annotation-326	Qasem Soleimani	kinyarwanda_3:65579-65593	NIL	PER	NAM	1.0	
+Andre	annotation-327	burasirazuba bwo hagati	kinyarwanda_3:68843-68865	NIL	LOC	NAM	1.0	
+Andre	annotation-328	2018	kinyarwanda_3:57521-57524	NIL	DATE	NAM	1.0	
+Andre	annotation-329	Burayi	kinyarwanda_3:74757-74762	NIL	LOC	NAM	1.0	
+Andre	annotation-330	Vodafone Idea	kinyarwanda_3:61302-61314	NIL	ORG	NAM	1.0	
+Andre	annotation-331	RNC	kinyarwanda_3:73425-73427	NIL	ORG	NAM	1.0	
+Andre	annotation-332	2020	kinyarwanda_3:47541-47544	NIL	DATE	NAM	1.0	
+Andre	annotation-333	PSF	kinyarwanda_3:46103-46105	NIL	ORG	NAM	1.0	
+Andre	annotation-334	Prime Life Insurance	kinyarwanda_3:2540-2559	NIL	ORG	NAM	1.0	
+Andre	annotation-335	u Rwanda	kinyarwanda_3:51215-51222	NIL	LOC	NAM	1.0	
+Andre	annotation-336	Rwanda	kinyarwanda_3:58808-58813	NIL	LOC	NAM	1.0	
+Andre	annotation-337	BNR	kinyarwanda_3:22580-22582	NIL	ORG	NAM	1.0	
+Andre	annotation-338	Frank Mugambage	kinyarwanda_3:73170-73184	NIL	PER	NAM	1.0	
+Andre	annotation-339	Alphabet Inc	kinyarwanda_3:61231-61242	NIL	ORG	NAM	1.0	
+Andre	annotation-340	) August 3, 20	kinyarwanda_3:73685-73698	NIL	DATE	NAM	1.0	
+Andre	annotation-341	Burayi	kinyarwanda_3:49970-49975	NIL	LOC	NAM	1.0	
+Andre	annotation-342	Iran	kinyarwanda_3:68370-68373	NIL	LOC	NAM	1.0	
+Andre	annotation-343	Bugereki	kinyarwanda_3:70127-70134	NIL	LOC	NAM	1.0	
+Andre	annotation-344	Amerika	kinyarwanda_3:66169-66175	NIL	LOC	NAM	1.0	
+Andre	annotation-345	Netflix	kinyarwanda_3:26338-26344	NIL	ORG	NAM	1.0	
+Andre	annotation-346	Buhinde	kinyarwanda_3:59936-59942	NIL	LOC	NAM	1.0	
+Andre	annotation-347	Uganda	kinyarwanda_3:73154-73159	NIL	LOC	NAM	1.0	
+Andre	annotation-348	Trump	kinyarwanda_3:69034-69038	NIL	PER	NAM	1.0	
+Andre	annotation-349	Habarurema Innocent	kinyarwanda_3:3209-3227	NIL	PER	NAM	1.0	
+Andre	annotation-350	RSSB	kinyarwanda_3:31070-31073	NIL	ORG	NAM	1.0	
+Andre	annotation-351	Jeff Bezos	kinyarwanda_3:27794-27803	NIL	PER	NAM	1.0	
+Andre	annotation-352	Joe Biden	kinyarwanda_3:67558-67566	NIL	PER	NAM	1.0	
+Andre	annotation-353	2015	kinyarwanda_3:56247-56250	NIL	DATE	NAM	1.0	
+Andre	annotation-354	Barrack Obama	kinyarwanda_3:67612-67624	NIL	PER	NAM	1.0	
+Andre	annotation-355	2020	kinyarwanda_3:62312-62315	NIL	DATE	NAM	1.0	
+Andre	annotation-356	Bufaransa	kinyarwanda_3:74471-74479	NIL	LOC	NAM	1.0	
+Andre	annotation-357	Bufaransa	kinyarwanda_3:74578-74586	NIL	LOC	NAM	1.0	
+Andre	annotation-358	kwa gatatu	kinyarwanda_3:8252-8261	NIL	DATE	NAM	1.0	
+Andre	annotation-359	RNC	kinyarwanda_3:72913-72915	NIL	ORG	NAM	1.0	
+Andre	annotation-360	2016	kinyarwanda_3:54432-54435	NIL	DATE	NAM	1.0	
+Andre	annotation-361	u Rwanda	kinyarwanda_3:55285-55292	NIL	LOC	NAM	1.0	
+Andre	annotation-362	Banki Nkuru y’Igihugu	kinyarwanda_3:45245-45265	NIL	ORG	NAM	1.0	
+Andre	annotation-363	Reliance Jio	kinyarwanda_3:60007-60018	NIL	ORG	NAM	1.0	
+Andre	annotation-364	Iran	kinyarwanda_3:66694-66697	NIL	LOC	NAM	1.0	
+Andre	annotation-365	Buhinde	kinyarwanda_3:61329-61335	NIL	LOC	NAM	1.0	
+Andre	annotation-366	myaka itanu ishize	kinyarwanda_3:52681-52698	NIL	DATE	NAM	1.0	
+Andre	annotation-367	Muhizi Serge	kinyarwanda_3:5637-5648	NIL	PER	NAM	1.0	
+Andre	annotation-368	Uganda	kinyarwanda_3:71882-71887	NIL	LOC	NAM	1.0	
+Andre	annotation-369	Ndagijimana Uzziel	kinyarwanda_3:38602-38619	NIL	PER	NAM	1.0	
+Andre	annotation-370	Ukuboza 2017	kinyarwanda_3:42120-42131	NIL	DATE	NAM	1.0	
+Andre	annotation-371	Ikigo cy’igihugu gishinzwe ibarurishamibare mu Rwanda	kinyarwanda_3:7115-7167	NIL	ORG	NAM	1.0	
+Andre	annotation-372	Kampala	kinyarwanda_3:72213-72219	NIL	LOC	NAM	1.0	
+Andre	annotation-373	Liban	kinyarwanda_3:69790-69794	NIL	LOC	NAM	1.0	
+Andre	annotation-374	BRD	kinyarwanda_3:30514-30516	NIL	ORG	NAM	1.0	
+Andre	annotation-375	Soleimani	kinyarwanda_3:69886-69894	NIL	PER	NAM	1.0	
+Andre	annotation-376	NISR	kinyarwanda_3:6976-6979	NIL	ORG	NAM	1.0	
+Andre	annotation-377	Naftali Bennett	kinyarwanda_3:70215-70229	NIL	PER	NAM	1.0	
+Andre	annotation-378	ClassPass	kinyarwanda_3:27095-27103	NIL	ORG	NAM	1.0	
+Andre	annotation-379	u Rwanda	kinyarwanda_3:258-265	NIL	LOC	NAM	1.0	
+Andre	annotation-380	Amerika	kinyarwanda_3:22280-22286	NIL	LOC	NAM	1.0	
+Andre	annotation-381	Habanabariho Théoneste	kinyarwanda_3:4426-4447	NIL	PER	NAM	1.0	
+Andre	annotation-382	Ndagijimana	kinyarwanda_3:64756-64766	NIL	PER	NAM	1.0	
+Andre	annotation-383	Nicola Bellomo	kinyarwanda_3:768-781	NIL	PER	NAM	1.0	
+Andre	annotation-384	Rwanda	kinyarwanda_3:43953-43958	NIL	LOC	NAM	1.0	
+Andre	annotation-385	Netflix	kinyarwanda_3:26807-26813	NIL	ORG	NAM	1.0	
+Andre	annotation-386	Kinazi	kinyarwanda_3:20436-20441	NIL	LOC	NAM	1.0	
+Andre	annotation-387	Trump	kinyarwanda_3:68071-68075	NIL	PER	NAM	1.0	
+Andre	annotation-388	Amazon	kinyarwanda_3:27923-27928	NIL	ORG	NAM	1.0	
+Andre	annotation-389	Banki y’Isi	kinyarwanda_3:43144-43154	NIL	ORG	NAM	1.0	
+Andre	annotation-390	Rwanda	kinyarwanda_3:35821-35826	NIL	LOC	NAM	1.0	
+Andre	annotation-391	2018	kinyarwanda_3:56979-56982	NIL	DATE	NAM	1.0	
+Andre	annotation-392	Iran	kinyarwanda_3:66031-66034	NIL	LOC	NAM	1.0	
+Andre	annotation-393	BPR	kinyarwanda_3:33597-33599	NIL	ORG	NAM	1.0	
+Andre	annotation-394	BPR Plc	kinyarwanda_3:35350-35356	NIL	ORG	NAM	1.0	
+Andre	annotation-395	u Rwanda	kinyarwanda_3:64607-64614	NIL	LOC	NAM	1.0	
+Andre	annotation-396	2019	kinyarwanda_3:12743-12746	NIL	DATE	NAM	1.0	
+Andre	annotation-397	RSB	kinyarwanda_3:21796-21798	NIL	ORG	NAM	1.0	
+Andre	annotation-398	Mata 2020	kinyarwanda_3:7002-7010	NIL	DATE	NAM	1.0	
+Andre	annotation-399	BNR	kinyarwanda_3:45666-45668	NIL	ORG	NAM	1.0	
+Andre	annotation-400	2024	kinyarwanda_3:42386-42389	NIL	DATE	NAM	1.0	
+Andre	annotation-401	Kinazi Cassava Plant	kinyarwanda_3:17929-17948	NIL	ORG	NAM	1.0	
+Andre	annotation-402	Bharti Airtel	kinyarwanda_3:59763-59775	NIL	ORG	NAM	1.0	
+Andre	annotation-403	RwandAir	kinyarwanda_3:49635-49642	NIL	ORG	NAM	1.0	
+Andre	annotation-404	n’Ikigo cy’Igihugu gishinzwe guteza Imbere Ibyoherezwa mu Mahanga bikomoka ku Buhinzi	kinyarwanda_3:62866-62950	NIL	ORG	NAM	1.0	
+Andre	annotation-405	4 Kamena 2020	kinyarwanda_3:60994-61006	NIL	DATE	NAM	1.0	
+Andre	annotation-406	Ntara y’Amajyepfo	kinyarwanda_3:19040-19056	NIL	LOC	NAM	1.0	
+Andre	annotation-407	y’Ishami ry’Ubukerarugendo mu Rugaga rw’Abikorera	kinyarwanda_3:46052-46100	NIL	ORG	NAM	1.0	
+Andre	annotation-408	Rwanda	kinyarwanda_3:16759-16764	NIL	LOC	NAM	1.0	
+Andre	annotation-409	Bharti Airtel	kinyarwanda_3:61793-61805	NIL	ORG	NAM	1.0	
+Andre	annotation-410	NISR	kinyarwanda_3:7170-7173	NIL	ORG	NAM	1.0	
+Andre	annotation-411	Kigali	kinyarwanda_3:55790-55795	NIL	LOC	NAM	1.0	
+Andre	annotation-412	Gicurasi	kinyarwanda_3:37793-37800	NIL	DATE	NAM	1.0	
+Andre	annotation-413	Majyepfo	kinyarwanda_3:19740-19747	NIL	LOC	NAM	1.0	
+Andre	annotation-414	BNR	kinyarwanda_3:10881-10883	NIL	ORG	NAM	1.0	
+Andre	annotation-415	BPR	kinyarwanda_3:34072-34074	NIL	ORG	NAM	1.0	
+Andre	annotation-416	François Mitterand	kinyarwanda_3:74614-74631	NIL	PER	NAM	1.0	
+Andre	annotation-417	Uganda	kinyarwanda_3:73700-73705	NIL	LOC	NAM	1.0	
+Andre	annotation-418	Iran	kinyarwanda_3:69095-69098	NIL	LOC	NAM	1.0	
+Andre	annotation-419	Ndagijimana	kinyarwanda_3:17308-17318	NIL	PER	NAM	1.0	
+Andre	annotation-420	NAEB	kinyarwanda_3:64016-64019	NIL	ORG	NAM	1.0	
+Andre	annotation-421	Soleimani	kinyarwanda_3:71516-71524	NIL	PER	NAM	1.0	
+Andre	annotation-422	CMI	kinyarwanda_3:73910-73912	NIL	ORG	NAM	1.0	
+Andre	annotation-423	Rwanda	kinyarwanda_3:32912-32917	NIL	LOC	NAM	1.0	
+Andre	annotation-424	Charlotte Mukankusi	kinyarwanda_3:72721-72739	NIL	PER	NAM	1.0	
+Andre	annotation-425	UNCTAD	kinyarwanda_3:48763-48768	NIL	ORG	NAM	1.0	
+Andre	annotation-426	Yusuf Murangwa	kinyarwanda_3:58181-58194	NIL	PER	NAM	1.0	
+Andre	annotation-427	ku wa 10 Mata	kinyarwanda_3:10758-10770	NIL	DATE	NAM	1.0	
+Andre	annotation-428	Twitter	kinyarwanda_3:49418-49424	NIL	ORG	NAM	1.0	
+Andre	annotation-429	Banki y’u Rwanda Itsura Amajyambere	kinyarwanda_3:28694-28728	NIL	ORG	NAM	1.0	
+Andre	annotation-430	Amazon	kinyarwanda_3:61544-61549	NIL	ORG	NAM	1.0	
+Andre	annotation-431	Kanama 2009	kinyarwanda_3:30818-30828	NIL	DATE	NAM	1.0	
+Andre	annotation-432	Ceaser Nkusi Nkwesi	kinyarwanda_3:4883-4901	NIL	PER	NAM	1.0	
+Andre	annotation-433	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:12181-12208	NIL	LOC	NAM	1.0	
+Andre	annotation-434	Mwanza	kinyarwanda_3:49251-49256	NIL	LOC	NAM	1.0	
+Andre	annotation-435	2014	kinyarwanda_3:53085-53088	NIL	DATE	NAM	1.0	
+Andre	annotation-436	n’Ikigo gishinzwe Ubuziranenge	kinyarwanda_3:20971-21000	NIL	ORG	NAM	1.0	
+Andre	annotation-437	Tel Aviv	kinyarwanda_3:70309-70316	NIL	LOC	NAM	1.0	
+Andre	annotation-438	Rwanda	kinyarwanda_3:52978-52983	NIL	LOC	NAM	1.0	
+Andre	annotation-439	BRD	kinyarwanda_3:29005-29007	NIL	ORG	NAM	1.0	
+Andre	annotation-440	u Rwanda	kinyarwanda_3:16701-16708	NIL	LOC	NAM	1.0	
+Andre	annotation-441	Rwanda	kinyarwanda_3:64079-64084	NIL	LOC	NAM	1.0	
+Andre	annotation-442	Werurwe	kinyarwanda_3:26632-26638	NIL	DATE	NAM	1.0	
+Andre	annotation-443	Ukuboza 2017	kinyarwanda_3:61774-61785	NIL	DATE	NAM	1.0	
+Andre	annotation-444	Werurwe umwaka ushize	kinyarwanda_3:50625-50645	NIL	DATE	NAM	1.0	
+Andre	annotation-445	Iran	kinyarwanda_3:66376-66379	NIL	LOC	NAM	1.0	
+Andre	annotation-446	Iran	kinyarwanda_3:68528-68531	NIL	LOC	NAM	1.0	
+Andre	annotation-447	Google	kinyarwanda_3:61247-61252	NIL	ORG	NAM	1.0	
+Andre	annotation-448	Boston Consulting Group	kinyarwanda_3:5936-5958	NIL	ORG	NAM	1.0	
+Andre	annotation-449	Leta Zunze Ubummwe za Amerika	kinyarwanda_3:69967-69995	NIL	LOC	NAM	1.0	
+Andre	annotation-450	Banki y’Abaturage y’u Rwanda	kinyarwanda_3:31964-31991	NIL	ORG	NAM	1.0	
+Andre	annotation-451	NISR	kinyarwanda_3:7471-7474	NIL	ORG	NAM	1.0	
+Andre	annotation-452	n’u Rwanda	kinyarwanda_3:1210-1219	NIL	LOC	NAM	1.0	
+Andre	annotation-453	Amerika	kinyarwanda_3:70642-70648	NIL	LOC	NAM	1.0	
+Andre	annotation-454	Prime Life Insurance	kinyarwanda_3:2739-2758	NIL	ORG	NAM	1.0	
+Andre	annotation-455	uyu wa Kane	kinyarwanda_3:60971-60981	NIL	DATE	NAM	1.0	
+Andre	annotation-456	1999	kinyarwanda_3:6356-6359	NIL	DATE	NAM	1.0	
+Andre	annotation-457	Mata	kinyarwanda_3:9205-9208	NIL	DATE	NAM	1.0	
+Andre	annotation-458	Uber	kinyarwanda_3:28353-28356	NIL	ORG	NAM	1.0	
+Andre	annotation-459	RwandAir	kinyarwanda_3:48964-48971	NIL	ORG	NAM	1.0	
+Andre	annotation-460	Tanzania	kinyarwanda_3:50509-50516	NIL	LOC	NAM	1.0	
+Andre	annotation-461	2019	kinyarwanda_3:48112-48115	NIL	DATE	NAM	1.0	
+Andre	annotation-462	Iran	kinyarwanda_3:65080-65083	NIL	LOC	NAM	1.0	
+Andre	annotation-463	Afurika yo munsi y’Ubutayu bwa Sahara	kinyarwanda_3:13103-13139	NIL	LOC	NAM	1.0	
+Andre	annotation-464	burasirazuba bwo hagati	kinyarwanda_3:65832-65854	NIL	LOC	NAM	1.0	
+Andre	annotation-465	2020/21	kinyarwanda_3:1691-1697	NIL	DATE	NAM	1.0	
+Andre	annotation-466	Kampala	kinyarwanda_3:71990-71996	NIL	LOC	NAM	1.0	
+Andre	annotation-467	Bagdad	kinyarwanda_3:66298-66303	NIL	LOC	NAM	1.0	
+Andre	annotation-468	BNR	kinyarwanda_3:22762-22764	NIL	ORG	NAM	1.0	
+Andre	annotation-469	PS	kinyarwanda_3:74571-74572	NIL	ORG	NAM	1.0	
+Andre	annotation-470	Millicom International Cellular SA	kinyarwanda_3:61907-61940	NIL	ORG	NAM	1.0	
+Andre	annotation-471	Bwongereza	kinyarwanda_3:72403-72412	NIL	LOC	NAM	1.0	
+Andre	annotation-472	Tanzania	kinyarwanda_3:49263-49270	NIL	LOC	NAM	1.0	
+Andre	annotation-473	Rwanda	kinyarwanda_3:7332-7337	NIL	LOC	NAM	1.0	
+Andre	annotation-474	Ayatollah Ali Khamenei	kinyarwanda_3:66382-66403	NIL	PER	NAM	1.0	
+Andre	annotation-475	uyu mwuka	kinyarwanda_3:67109-67117	NIL	DATE	NAM	1.0	
+Andre	annotation-476	Werurwe 2020	kinyarwanda_3:9398-9409	NIL	DATE	NAM	1.0	
+Andre	annotation-477	Rwanda	kinyarwanda_3:73142-73147	NIL	LOC	NAM	1.0	
+Andre	annotation-478	2019	kinyarwanda_3:57044-57047	NIL	DATE	NAM	1.0	
+Andre	annotation-479	2020/21	kinyarwanda_3:1998-2004	NIL	DATE	NAM	1.0	
+Andre	annotation-480	BRD	kinyarwanda_3:29957-29959	NIL	ORG	NAM	1.0	
+Andre	annotation-481	kwa gatatu	kinyarwanda_3:9065-9074	NIL	DATE	NAM	1.0	
+Andre	annotation-482	CIA	kinyarwanda_3:66103-66105	NIL	ORG	NAM	1.0	
+Andre	annotation-483	Rwanda	kinyarwanda_3:57297-57302	NIL	LOC	NAM	1.0	
+Andre	annotation-484	Prime Life Insurance Ltd	kinyarwanda_3:5356-5379	NIL	ORG	NAM	1.0	
+Andre	annotation-485	Rwanda	kinyarwanda_3:42901-42906	NIL	LOC	NAM	1.0	
+Andre	annotation-486	CMI	kinyarwanda_3:73059-73061	NIL	ORG	NAM	1.0	
+Andre	annotation-487	kuwa 9 Mata	kinyarwanda_3:46374-46384	NIL	DATE	NAM	1.0	
+Andre	annotation-488	Barack Obama	kinyarwanda_3:71330-71341	NIL	PER	NAM	1.0	
+Andre	annotation-489	Uganda	kinyarwanda_3:73494-73499	NIL	LOC	NAM	1.0	
+Andre	annotation-490	Afurika	kinyarwanda_3:62187-62193	NIL	LOC	NAM	1.0	
+Andre	annotation-491	Zoom	kinyarwanda_3:25272-25275	NIL	ORG	NAM	1.0	
+Andre	annotation-492	Rwanda	kinyarwanda_3:22160-22165	NIL	LOC	NAM	1.0	
+Andre	annotation-493	2019	kinyarwanda_3:63879-63882	NIL	DATE	NAM	1.0	
+Andre	annotation-494	Banki y’u Rwanda Itsura Amajyambere	kinyarwanda_3:28968-29002	NIL	ORG	NAM	1.0	
+Andre	annotation-495	kuwa 1 Nyakanga 2019	kinyarwanda_3:50008-50027	NIL	DATE	NAM	1.0	
+Andre	annotation-496	kwa gatatu	kinyarwanda_3:8780-8789	NIL	DATE	NAM	1.0	
+Andre	annotation-497	Iran	kinyarwanda_3:69322-69325	NIL	LOC	NAM	1.0	
+Andre	annotation-498	kwa kane	kinyarwanda_3:8750-8757	NIL	DATE	NAM	1.0	
+Andre	annotation-499	Rwanda	kinyarwanda_3:43623-43628	NIL	LOC	NAM	1.0	
+Andre	annotation-500	u Rwanda	kinyarwanda_3:74216-74223	NIL	LOC	NAM	1.0	
+Andre	annotation-501	RNC	kinyarwanda_3:71826-71828	NIL	ORG	NAM	1.0	
+Andre	annotation-502	Ndagijimana	kinyarwanda_3:47102-47112	NIL	PER	NAM	1.0	
+Andre	annotation-503	Amazon	kinyarwanda_3:60581-60586	NIL	ORG	NAM	1.0	
+Andre	annotation-504	BPR Plc	kinyarwanda_3:31777-31783	NIL	ORG	NAM	1.0	
+Andre	annotation-505	Banki y’Isi	kinyarwanda_3:42876-42886	NIL	ORG	NAM	1.0	
+Andre	annotation-506	munsi y’Ubutayu bwa Sahara	kinyarwanda_3:46428-46453	NIL	LOC	NAM	1.0	
+Andre	annotation-507	Mata 2020	kinyarwanda_3:7572-7580	NIL	DATE	NAM	1.0	
+Andre	annotation-508	Rwanda	kinyarwanda_3:57207-57212	NIL	LOC	NAM	1.0	
+Andre	annotation-509	Afurika yo munsi y’Ubutayu bwa Sahara	kinyarwanda_3:12598-12634	NIL	LOC	NAM	1.0	
+Andre	annotation-510	Banki y’Isi	kinyarwanda_3:41444-41454	NIL	ORG	NAM	1.0	
+Andre	annotation-511	Amazon	kinyarwanda_3:27958-27963	NIL	ORG	NAM	1.0	
+Andre	annotation-512	Spotify	kinyarwanda_3:26822-26828	NIL	ORG	NAM	1.0	
+Andre	annotation-513	BPR	kinyarwanda_3:34567-34569	NIL	ORG	NAM	1.0	
+Andre	annotation-514	Werurwe 2020	kinyarwanda_3:8792-8803	NIL	DATE	NAM	1.0	
+Andre	annotation-515	YouTube	kinyarwanda_3:27431-27437	NIL	ORG	NAM	1.0	
+Andre	annotation-516	n’Ikigo gitsura ubuziranenge	kinyarwanda_3:21766-21793	NIL	ORG	NAM	1.0	
+Andre	annotation-517	Hagati ya Nyakanga na Ugushyingo 2019	kinyarwanda_3:63544-63580	NIL	DATE	NAM	1.0	
+Andre	annotation-518	Yasser El Gammal	kinyarwanda_3:42909-42924	NIL	PER	NAM	1.0	
+Andre	annotation-519	Amerika	kinyarwanda_3:67334-67340	NIL	LOC	NAM	1.0	
+Andre	annotation-520	Parti socialiste	kinyarwanda_3:74553-74568	NIL	ORG	NAM	1.0	
+Andre	annotation-521	Rwanda	kinyarwanda_3:58612-58617	NIL	LOC	NAM	1.0	
+Andre	annotation-522	kwa kane	kinyarwanda_3:7759-7766	NIL	DATE	NAM	1.0	
+Andre	annotation-523	1946	kinyarwanda_3:28323-28326	NIL	DATE	NAM	1.0	
+Andre	annotation-524	Rwanda	kinyarwanda_3:41362-41367	NIL	LOC	NAM	1.0	
+Andre	annotation-525	Mwanza	kinyarwanda_3:49113-49118	NIL	LOC	NAM	1.0	
+Andre	annotation-526	u Rwanda	kinyarwanda_3:42973-42980	NIL	LOC	NAM	1.0	
+Andre	annotation-527	Werurwe 2020	kinyarwanda_3:7344-7355	NIL	DATE	NAM	1.0	
+Andre	annotation-528	Bubiligi	kinyarwanda_3:49298-49305	NIL	LOC	NAM	1.0	
+Andre	annotation-529	Burusiya	kinyarwanda_3:68479-68486	NIL	LOC	NAM	1.0	
+Andre	annotation-530	Yoweri Museveni	kinyarwanda_3:72643-72657	NIL	PER	NAM	1.0	
+Andre	annotation-531	Werurwe 2020	kinyarwanda_3:9077-9088	NIL	DATE	NAM	1.0	
+Andre	annotation-532	Airtel	kinyarwanda_3:58946-58951	NIL	ORG	NAM	1.0	
+Andre	annotation-533	Bharti Airtel	kinyarwanda_3:60763-60775	NIL	ORG	NAM	1.0	
+Andre	annotation-534	Netflix	kinyarwanda_3:25972-25978	NIL	ORG	NAM	1.0	
+Andre	annotation-535	SACCO	kinyarwanda_3:23386-23390	NIL	ORG	NAM	1.0	
+Andre	annotation-536	Iran	kinyarwanda_3:69180-69183	NIL	LOC	NAM	1.0	
+Andre	annotation-537	2017	kinyarwanda_3:56935-56938	NIL	DATE	NAM	1.0	
+Andre	annotation-538	BPR	kinyarwanda_3:34763-34765	NIL	ORG	NAM	1.0	
+Andre	annotation-539	Hezbollah	kinyarwanda_3:69766-69774	NIL	ORG	NAM	1.0	
+Andre	annotation-540	Afurika	kinyarwanda_3:46417-46423	NIL	LOC	NAM	1.0	
+Andre	annotation-541	Mata 2020	kinyarwanda_3:8951-8959	NIL	DATE	NAM	1.0	
+Andre	annotation-542	2015	kinyarwanda_3:71129-71132	NIL	DATE	NAM	1.0	
+Andre	annotation-543	Trump	kinyarwanda_3:67176-67180	NIL	PER	NAM	1.0	
+Andre	annotation-544	kuwa 9 Mata	kinyarwanda_3:12555-12565	NIL	DATE	NAM	1.0	
+Andre	annotation-545	UNCTAD	kinyarwanda_3:47602-47607	NIL	ORG	NAM	1.0	
+Andre	annotation-546	Donald Trump	kinyarwanda_3:71076-71087	NIL	PER	NAM	1.0	
+Andre	annotation-547	kuwa 30 Mata 2020	kinyarwanda_3:23589-23605	NIL	DATE	NAM	1.0	
+Andre	annotation-548	Andrew Yang	kinyarwanda_3:67677-67687	NIL	PER	NAM	1.0	
+Andre	annotation-549	mpera za 2019	kinyarwanda_3:6564-6576	NIL	DATE	NAM	1.0	
+Andre	annotation-550	OMS	kinyarwanda_3:18735-18737	NIL	ORG	NAM	1.0	
+Andre	annotation-551	Burayi	kinyarwanda_3:50073-50078	NIL	LOC	NAM	1.0	
+Andre	annotation-552	2016	kinyarwanda_3:53094-53097	NIL	DATE	NAM	1.0	
+Andre	annotation-553	Iran	kinyarwanda_3:65290-65293	NIL	LOC	NAM	1.0	
+Andre	annotation-554	Kampeta Sayinzoga	kinyarwanda_3:30272-30288	NIL	PER	NAM	1.0	
+Andre	annotation-555	uyu wa Kabiri	kinyarwanda_3:48001-48013	NIL	DATE	NAM	1.0	
+Andre	annotation-556	2016	kinyarwanda_3:56620-56623	NIL	DATE	NAM	1.0	
+Andre	annotation-557	2018	kinyarwanda_3:54223-54226	NIL	DATE	NAM	1.0	
+Andre	annotation-558	BRD	kinyarwanda_3:28608-28610	NIL	ORG	NAM	1.0	
+Andre	annotation-559	Rwanda	kinyarwanda_3:42269-42274	NIL	LOC	NAM	1.0	
+Andre	annotation-560	BNR	kinyarwanda_3:23718-23720	NIL	ORG	NAM	1.0	
+Andre	annotation-561	burasirazuba bwo hagati	kinyarwanda_3:68585-68607	NIL	LOC	NAM	1.0	
+Andre	annotation-562	Ndagijimana	kinyarwanda_3:13272-13282	NIL	PER	NAM	1.0	
+Andre	annotation-563	Iran	kinyarwanda_3:67826-67829	NIL	LOC	NAM	1.0	
+Andre	annotation-564	Bwongereza	kinyarwanda_3:28245-28254	NIL	LOC	NAM	1.0	
+Andre	annotation-565	BPR	kinyarwanda_3:32885-32887	NIL	ORG	NAM	1.0	
+Andre	annotation-566	Lindsey Graham	kinyarwanda_3:68883-68896	NIL	PER	NAM	1.0	
+Andre	annotation-567	Bharti Airtel	kinyarwanda_3:59858-59870	NIL	ORG	NAM	1.0	
+Andre	annotation-568	umwaka ushize	kinyarwanda_3:58708-58720	NIL	DATE	NAM	1.0	
+Andre	annotation-569	Rwanda	kinyarwanda_3:56680-56685	NIL	LOC	NAM	1.0	
+Andre	annotation-570	RwandAir	kinyarwanda_3:49182-49189	NIL	ORG	NAM	1.0	
+Andre	annotation-571	Rwanda	kinyarwanda_3:43749-43754	NIL	LOC	NAM	1.0	
+Andre	annotation-572	Mata 2019	kinyarwanda_3:8635-8643	NIL	DATE	NAM	1.0	
+Andre	annotation-573	Ndagijimana	kinyarwanda_3:17137-17147	NIL	PER	NAM	1.0	
+Andre	annotation-574	IMF	kinyarwanda_3:12787-12789	NIL	ORG	NAM	1.0	
+Andre	annotation-575	Kinazi	kinyarwanda_3:22137-22142	NIL	LOC	NAM	1.0	
+Andre	annotation-576	u Rwanda	kinyarwanda_3:1459-1466	NIL	LOC	NAM	1.0	
+Andre	annotation-577	Banki y’Abaturage y’u Rwanda	kinyarwanda_3:31747-31774	NIL	ORG	NAM	1.0	
+Andre	annotation-578	Aziya	kinyarwanda_3:62198-62202	NIL	LOC	NAM	1.0	
+Andre	annotation-579	2019/2020	kinyarwanda_3:437-445	NIL	DATE	NAM	1.0	
+Andre	annotation-580	Mata 2020	kinyarwanda_3:9366-9374	NIL	DATE	NAM	1.0	
+Andre	annotation-581	Mata 2019	kinyarwanda_3:8212-8220	NIL	DATE	NAM	1.0	
+Andre	annotation-582	Kinazi	kinyarwanda_3:21718-21723	NIL	LOC	NAM	1.0	
+Andre	annotation-583	Amazon	kinyarwanda_3:58880-58885	NIL	ORG	NAM	1.0	
+Andre	annotation-584	uyu wa Kane	kinyarwanda_3:6139-6149	NIL	DATE	NAM	1.0	
+Andre	annotation-585	Nyakanga 2019	kinyarwanda_3:63226-63238	NIL	DATE	NAM	1.0	
+Andre	annotation-586	Bharti Airtel	kinyarwanda_3:60286-60298	NIL	ORG	NAM	1.0	
+Andre	annotation-587	Minecofin	kinyarwanda_3:1605-1613	NIL	ORG	NAM	1.0	
+Andre	annotation-588	Prime Life Insurance	kinyarwanda_3:3543-3562	NIL	ORG	NAM	1.0	
+Andre	annotation-589	Bubiligi	kinyarwanda_3:49160-49167	NIL	LOC	NAM	1.0	
+Andre	annotation-590	2020/21	kinyarwanda_3:1450-1456	NIL	DATE	NAM	1.0	
+Andre	annotation-591	BNR	kinyarwanda_3:23643-23645	NIL	ORG	NAM	1.0	
+Andre	annotation-592	2015	kinyarwanda_3:57436-57439	NIL	DATE	NAM	1.0	
+Andre	annotation-593	BNR	kinyarwanda_3:45472-45474	NIL	ORG	NAM	1.0	
+Andre	annotation-594	RwandAir	kinyarwanda_3:49044-49051	NIL	ORG	NAM	1.0	
+Andre	annotation-595	Ukuboza 2020	kinyarwanda_3:43290-43301	NIL	DATE	NAM	1.0	
+Andre	annotation-596	Amazon	kinyarwanda_3:61370-61375	NIL	ORG	NAM	1.0	
+Andre	annotation-597	Ndagijimana	kinyarwanda_3:39977-39987	NIL	PER	NAM	1.0	
+Andre	annotation-598	Kinazi Cassava Plant	kinyarwanda_3:18252-18271	NIL	ORG	NAM	1.0	
+Andre	annotation-599	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:65499-65526	NIL	LOC	NAM	1.0	
+Andre	annotation-600	Kinazi	kinyarwanda_3:21428-21433	NIL	LOC	NAM	1.0	
+Andre	annotation-601	Amerika	kinyarwanda_3:67592-67598	NIL	LOC	NAM	1.0	
+Andre	annotation-602	2019	kinyarwanda_3:31386-31389	NIL	DATE	NAM	1.0	
+Andre	annotation-603	Tanzania	kinyarwanda_3:49125-49132	NIL	LOC	NAM	1.0	
+Andre	annotation-604	u Rwanda	kinyarwanda_3:62598-62605	NIL	LOC	NAM	1.0	
+Andre	annotation-605	Prime Life Insurance	kinyarwanda_3:4861-4880	NIL	ORG	NAM	1.0	
+Andre	annotation-606	NISR	kinyarwanda_3:7879-7882	NIL	ORG	NAM	1.0	
+Andre	annotation-607	Tigo Rwanda	kinyarwanda_3:62056-62066	NIL	ORG	NAM	1.0	
+Andre	annotation-608	SACCO	kinyarwanda_3:23234-23238	NIL	ORG	NAM	1.0	
+Andre	annotation-609	Buhinde	kinyarwanda_3:61990-61996	NIL	LOC	NAM	1.0	
+Andre	annotation-610	Rwanda	kinyarwanda_3:760-765	NIL	LOC	NAM	1.0	
+Andre	annotation-611	Bharti Airtel	kinyarwanda_3:59440-59452	NIL	ORG	NAM	1.0	
+Andre	annotation-612	2018	kinyarwanda_3:54846-54849	NIL	DATE	NAM	1.0	
+Andre	annotation-613	2008	kinyarwanda_3:48449-48452	NIL	DATE	NAM	1.0	
+Andre	annotation-614	BCG	kinyarwanda_3:5762-5764	NIL	ORG	NAM	1.0	
+Andre	annotation-615	EU	kinyarwanda_3:176-177	NIL	ORG	NAM	1.0	
+Andre	annotation-616	u Rwanda	kinyarwanda_3:43205-43212	NIL	LOC	NAM	1.0	
+Andre	annotation-617	Afurika yo munsi y’Ubutayu bwa Sahara	kinyarwanda_3:46922-46958	NIL	LOC	NAM	1.0	
+Andre	annotation-618	Rwanda	kinyarwanda_3:37351-37356	NIL	LOC	NAM	1.0	
+Andre	annotation-619	Rwanda	kinyarwanda_3:29033-29038	NIL	LOC	NAM	1.0	
+Andre	annotation-620	Amazon	kinyarwanda_3:60227-60232	NIL	ORG	NAM	1.0	
+Andre	annotation-621	2019	kinyarwanda_3:57008-57011	NIL	DATE	NAM	1.0	
+Andre	annotation-622	Werurwe 2020	kinyarwanda_3:22957-22968	NIL	DATE	NAM	1.0	
+Andre	annotation-623	Kigali	kinyarwanda_3:55636-55641	NIL	LOC	NAM	1.0	
+Andre	annotation-624	Nairobi	kinyarwanda_3:50386-50392	NIL	LOC	NAM	1.0	
+Andre	annotation-625	May 12, 2020	kinyarwanda_3:49659-49670	NIL	DATE	NAM	1.0	
+Andre	annotation-626	Robert Bapfakurera	kinyarwanda_3:45759-45776	NIL	PER	NAM	1.0	
+Andre	annotation-627	IGIHE	kinyarwanda_3:19338-19342	NIL	ORG	NAM	1.0	
+Andre	annotation-628	2018	kinyarwanda_3:63815-63818	NIL	DATE	NAM	1.0	
+Andre	annotation-629	Fitch Ratings	kinyarwanda_3:28659-28671	NIL	ORG	NAM	1.0	
+Andre	annotation-630	Bharti Airtel	kinyarwanda_3:60187-60199	NIL	ORG	NAM	1.0	
+Andre	annotation-631	2018	kinyarwanda_3:51743-51746	NIL	DATE	NAM	1.0	
+Andre	annotation-632	Ikigega Mpuzamahanga cy’Imari ku Isi	kinyarwanda_3:46568-46603	NIL	ORG	NAM	1.0	
+Andre	annotation-633	Rwanda	kinyarwanda_3:63738-63743	NIL	LOC	NAM	1.0	
+Andre	annotation-634	Prime Life Insurance	kinyarwanda_3:3187-3206	NIL	ORG	NAM	1.0	
+Andre	annotation-635	Qasem Soleimani	kinyarwanda_3:66839-66853	NIL	PER	NAM	1.0	
+Andre	annotation-636	Rwanda	kinyarwanda_3:52313-52318	NIL	LOC	NAM	1.0	
+Andre	annotation-637	Mwanza	kinyarwanda_3:49943-49948	NIL	LOC	NAM	1.0	
+Andre	annotation-638	Iran	kinyarwanda_3:71210-71213	NIL	LOC	NAM	1.0	
+Andre	annotation-639	2019	kinyarwanda_3:63848-63851	NIL	DATE	NAM	1.0	
+Andre	annotation-640	Amazon	kinyarwanda_3:59316-59321	NIL	ORG	NAM	1.0	
+Andre	annotation-641	Ndagijimana	kinyarwanda_3:15772-15782	NIL	PER	NAM	1.0	
+Andre	annotation-642	Werurwe 2020	kinyarwanda_3:7801-7812	NIL	DATE	NAM	1.0	
+Andre	annotation-643	Iran	kinyarwanda_3:69818-69821	NIL	LOC	NAM	1.0	
+Andre	annotation-644	Uganda	kinyarwanda_3:72083-72088	NIL	LOC	NAM	1.0	
+Andre	annotation-645	Banki Nkuru y’u Rwanda	kinyarwanda_3:10208-10229	NIL	ORG	NAM	1.0	
+Andre	annotation-646	Banki Nkuru y’u Rwanda	kinyarwanda_3:9949-9970	NIL	ORG	NAM	1.0	
+Andre	annotation-647	1999	kinyarwanda_3:6520-6523	NIL	DATE	NAM	1.0	
+Andre	annotation-648	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:59286-59313	NIL	LOC	NAM	1.0	
+Andre	annotation-649	7 Kamena buri mwaka	kinyarwanda_3:18526-18544	NIL	DATE	NAM	1.0	
+Andre	annotation-650	2018	kinyarwanda_3:53433-53436	NIL	DATE	NAM	1.0	
+Andre	annotation-651	y’Inama ya Loni ishinzwe ubucuruzi n’iterambere	kinyarwanda_3:47767-47813	NIL	ORG	NAM	1.0	
+Andre	annotation-652	Amazon	kinyarwanda_3:61081-61086	NIL	ORG	NAM	1.0	
+Andre	annotation-653	Iran	kinyarwanda_3:66545-66548	NIL	LOC	NAM	1.0	
+Andre	annotation-654	Olivier Faure	kinyarwanda_3:74681-74693	NIL	PER	NAM	1.0	
+Andre	annotation-655	2019	kinyarwanda_3:63140-63143	NIL	DATE	NAM	1.0	
+Andre	annotation-656	Rwanda	kinyarwanda_3:64665-64670	NIL	LOC	NAM	1.0	
+Andre	annotation-657	New Delhi	kinyarwanda_3:61977-61985	NIL	LOC	NAM	1.0	
+Andre	annotation-658	Inteko Ishinga Amategeko	kinyarwanda_3:67277-67300	NIL	ORG	NAM	1.0	
+Andre	annotation-659	Rwanda	kinyarwanda_3:40964-40969	NIL	LOC	NAM	1.0	
+Andre	annotation-660	Ikigega Mpuzamahanga cy’Imari ku Isi	kinyarwanda_3:12749-12784	NIL	ORG	NAM	1.0	
+Andre	annotation-661	Banki Nkuru y’u Rwanda	kinyarwanda_3:9713-9734	NIL	ORG	NAM	1.0	
+Andre	annotation-662	Prime Life Insurance	kinyarwanda_3:2414-2433	NIL	ORG	NAM	1.0	
+Andre	annotation-663	Prime Life Insurance	kinyarwanda_3:2936-2955	NIL	ORG	NAM	1.0	
+Andre	annotation-664	Rwanda	kinyarwanda_3:59214-59219	NIL	LOC	NAM	1.0	
+Andre	annotation-665	Afurika	kinyarwanda_3:12426-12432	NIL	LOC	NAM	1.0	
+Andre	annotation-666	Prime Life Insurance	kinyarwanda_3:5166-5185	NIL	ORG	NAM	1.0	
+Andre	annotation-667	Sayyed Hassan Nasrallah	kinyarwanda_3:69920-69942	NIL	PER	NAM	1.0	
+Andre	annotation-668	Ku wa 22	kinyarwanda_3:73901-73908	NIL	DATE	NAM	1.0	
+Andre	annotation-669	Rwanda	kinyarwanda_3:41655-41660	NIL	LOC	NAM	1.0	
+Andre	annotation-670	Rwanda	kinyarwanda_3:55890-55895	NIL	LOC	NAM	1.0	
+Andre	annotation-671	Mata 2020	kinyarwanda_3:8622-8630	NIL	DATE	NAM	1.0	
+Andre	annotation-672	Rwanda	kinyarwanda_3:64807-64812	NIL	LOC	NAM	1.0	
+Andre	annotation-673	2019	kinyarwanda_3:57579-57582	NIL	DATE	NAM	1.0	
+Andre	annotation-674	2018	kinyarwanda_3:31626-31629	NIL	DATE	NAM	1.0	
+Andre	annotation-675	burasirazuba bwo hagati	kinyarwanda_3:68346-68368	NIL	LOC	NAM	1.0	
+Andre	annotation-676	2018/2019	kinyarwanda_3:55448-55456	NIL	DATE	NAM	1.0	
+Andre	annotation-677	Peloton	kinyarwanda_3:27297-27303	NIL	ORG	NAM	1.0	
+Andre	annotation-678	Rwanda	kinyarwanda_3:58052-58057	NIL	LOC	NAM	1.0	
+Andre	annotation-679	Ku wa Mbere w’iki cyumweru	kinyarwanda_3:29631-29656	NIL	DATE	NAM	1.0	
+Andre	annotation-680	Bharti Airtel	kinyarwanda_3:60921-60933	NIL	ORG	NAM	1.0	
+Andre	annotation-681	RNC	kinyarwanda_3:72391-72393	NIL	ORG	NAM	1.0	
+Andre	annotation-682	Gasabo	kinyarwanda_3:56609-56614	NIL	LOC	NAM	1.0	
+Andre	annotation-683	Trump	kinyarwanda_3:67646-67650	NIL	PER	NAM	1.0	
+Andre	annotation-684	Ndagijimana	kinyarwanda_3:53779-53789	NIL	PER	NAM	1.0	
+Andre	annotation-685	Banki y’Isi	kinyarwanda_3:12540-12550	NIL	ORG	NAM	1.0	
+Andre	annotation-686	Reuters	kinyarwanda_3:60082-60088	NIL	ORG	NAM	1.0	
+Andre	annotation-687	2017	kinyarwanda_3:54746-54749	NIL	DATE	NAM	1.0	
+Andre	annotation-688	Rwanda	kinyarwanda_3:53554-53559	NIL	LOC	NAM	1.0	
+Andre	annotation-689	uyu mwaka	kinyarwanda_3:47705-47713	NIL	DATE	NAM	1.0	
+Andre	annotation-690	Banki Nkuru y’u Rwanda	kinyarwanda_3:30790-30811	NIL	ORG	NAM	1.0	
+Andre	annotation-691	Kinazi	kinyarwanda_3:19014-19019	NIL	LOC	NAM	1.0	
+Andre	annotation-692	Burasirazuba	kinyarwanda_3:19507-19518	NIL	LOC	NAM	1.0	
+Andre	annotation-693	NISR	kinyarwanda_3:8112-8115	NIL	ORG	NAM	1.0	
+Andre	annotation-694	Rwanda	kinyarwanda_3:43328-43333	NIL	LOC	NAM	1.0	
+Andre	annotation-695	mezi atanu ya mbere y’uyu mwaka	kinyarwanda_3:63161-63191	NIL	DATE	NAM	1.0	
+Andre	annotation-696	Rwanda	kinyarwanda_3:72073-72078	NIL	LOC	NAM	1.0	
+Andre	annotation-697	Trump	kinyarwanda_3:70854-70858	NIL	PER	NAM	1.0	
+Andre	annotation-698	Iran	kinyarwanda_3:67074-67077	NIL	LOC	NAM	1.0	
+Andre	annotation-699	Amerika	kinyarwanda_3:69200-69206	NIL	LOC	NAM	1.0	
+Andre	annotation-700	Rwanda	kinyarwanda_3:11433-11438	NIL	LOC	NAM	1.0	
+Andre	annotation-701	Burayi	kinyarwanda_3:22186-22191	NIL	LOC	NAM	1.0	
+Andre	annotation-702	Nyungwe	kinyarwanda_3:73624-73630	NIL	LOC	NAM	1.0	
+Andre	annotation-703	Tigo Rwanda	kinyarwanda_3:61881-61891	NIL	ORG	NAM	1.0	
+Andre	annotation-704	Amerika	kinyarwanda_3:69381-69387	NIL	LOC	NAM	1.0	
+Andre	annotation-705	Buhinde	kinyarwanda_3:59109-59115	NIL	LOC	NAM	1.0	
+Andre	annotation-706	Bufaransa	kinyarwanda_3:70463-70471	NIL	LOC	NAM	1.0	
+Andre	annotation-707	2015	kinyarwanda_3:54327-54330	NIL	DATE	NAM	1.0	
+Andre	annotation-708	Kigali	kinyarwanda_3:56558-56563	NIL	LOC	NAM	1.0	
+Andre	annotation-709	Uganda	kinyarwanda_3:72882-72887	NIL	LOC	NAM	1.0	
+Andre	annotation-710	Leta Zunze Ubumwe za Amerika	kinyarwanda_3:66768-66795	NIL	LOC	NAM	1.0	
+Andre	annotation-711	2022	kinyarwanda_3:58874-58877	NIL	DATE	NAM	1.0	
+Andre	annotation-712	u Rwanda	kinyarwanda_3:37738-37745	NIL	LOC	NAM	1.0	
+Andre	annotation-713	Mbabazi	kinyarwanda_3:19949-19955	NIL	PER	NAM	1.0	
+Andre	annotation-714	2020	kinyarwanda_3:62283-62286	NIL	DATE	NAM	1.0	
+Andre	annotation-715	Bharti	kinyarwanda_3:61687-61692	NIL	ORG	NAM	1.0	
+Andre	annotation-716	Soleimani	kinyarwanda_3:70772-70780	NIL	PER	NAM	1.0	
+Andre	annotation-717	ntangiriro za Gicurasi uyu mwaka	kinyarwanda_3:74498-74529	NIL	DATE	NAM	1.0	
+Andre	annotation-718	2018	kinyarwanda_3:53294-53297	NIL	DATE	NAM	1.0	
+Andre	annotation-719	2020/21	kinyarwanda_3:36061-36067	NIL	DATE	NAM	1.0	
+Andre	annotation-720	Ndagijimana Uzziel	kinyarwanda_3:13026-13043	NIL	PER	NAM	1.0	
+Andre	annotation-721	hagati ya Mutarama na Werurwe 2020	kinyarwanda_3:62972-63005	NIL	DATE	NAM	1.0	
+Andre	annotation-722	Kuva muri Nyakanga kugeza mu Ugushyingo 2019	kinyarwanda_3:63357-63400	NIL	DATE	NAM	1.0	
+Andre	annotation-723	Amazon Inc	kinyarwanda_3:59795-59804	NIL	ORG	NAM	1.0	
+Andre	annotation-724	Amerika	kinyarwanda_3:69000-69006	NIL	LOC	NAM	1.0	
+Andre	annotation-725	Boston Consulting Group	kinyarwanda_3:5737-5759	NIL	ORG	NAM	1.0	
+Andre	annotation-726	Guhera muri Nyakanga 2018 kugeza Gashyantare 2019	kinyarwanda_3:55234-55282	NIL	DATE	NAM	1.0	
+Andre	annotation-727	Joe Wicks	kinyarwanda_3:27440-27448	NIL	PER	NAM	1.0	
+Andre	annotation-728	u Rwanda	kinyarwanda_3:31137-31144	NIL	LOC	NAM	1.0	
+Andre	annotation-729	‘uyu mwaka	kinyarwanda_3:58205-58214	NIL	DATE	NAM	1.0	

@@ -1,0 +1,997 @@
+Wambui	annotation-0	Washington, DC	swahili_4:96502-96515	NIL	LOC	NAM	1.0	
+Wambui	annotation-1	Tunisia	swahili_4:85057-85063	NIL	LOC	NAM	1.0	
+Wambui	annotation-2	Washington, DC	swahili_4:40149-40162	NIL	LOC	NAM	1.0	
+Wambui	annotation-3	2013	swahili_4:41739-41742	NIL	DATE	NAM	1.0	
+Wambui	annotation-4	Uingereza	swahili_4:112100-112108	NIL	LOC	NAM	1.0	
+Wambui	annotation-5	Ijumaa	swahili_4:52000-52005	NIL	DATE	NAM	1.0	
+Wambui	annotation-6	China	swahili_4:160819-160823	NIL	LOC	NAM	1.0	
+Wambui	annotation-7	Israel	swahili_4:5755-5760	NIL	LOC	NAM	1.0	
+Wambui	annotation-8	Trump	swahili_4:9868-9872	NIL	PER	NAM	1.0	
+Wambui	annotation-9	Disemba 19	swahili_4:130287-130296	NIL	DATE	NAM	1.0	
+Wambui	annotation-10	Burundi	swahili_4:159345-159351	NIL	LOC	NAM	1.0	
+Wambui	annotation-11	Paul Kadushi	swahili_4:37228-37239	NIL	PER	NAM	1.0	
+Wambui	annotation-12	ulaya	swahili_4:64824-64828	NIL	LOC	NAM	1.0	
+Wambui	annotation-13	Djugu	swahili_4:22419-22423	NIL	LOC	NAM	1.0	
+Wambui	annotation-14	AfCHPR	swahili_4:115888-115893	NIL	ORG	NAM	1.0	
+Wambui	annotation-15	Ethiopia	swahili_4:61439-61446	NIL	LOC	NAM	1.0	
+Wambui	annotation-16	Donald Trump	swahili_4:62981-62992	NIL	PER	NAM	1.0	
+Wambui	annotation-17	Nigeria	swahili_4:33298-33304	NIL	LOC	NAM	1.0	
+Wambui	annotation-18	Mueller	swahili_4:130579-130585	NIL	PER	NAM	1.0	
+Wambui	annotation-19	Donald Trump	swahili_4:61390-61401	NIL	PER	NAM	1.0	
+Wambui	annotation-20	Marekani	swahili_4:1732-1739	NIL	LOC	NAM	1.0	
+Wambui	annotation-21	Australia	swahili_4:162256-162264	NIL	LOC	NAM	1.0	
+Wambui	annotation-22	Rod J	swahili_4:134774-134778	NIL	PER	NAM	1.0	
+Wambui	annotation-23	Uwanja wa Ndege wa Kimataifa wa Allama Iqbal	swahili_4:86344-86387	NIL	ORG	NAM	1.0	
+Wambui	annotation-24	Airbus	swahili_4:64927-64932	NIL	ORG	NAM	1.0	
+Wambui	annotation-25	Oxfam	swahili_4:110118-110122	NIL	ORG	NAM	1.0	
+Wambui	annotation-26	Trump	swahili_4:97324-97328	NIL	PER	NAM	1.0	
+Wambui	annotation-27	Mueller	swahili_4:133954-133960	NIL	PER	NAM	1.0	
+Wambui	annotation-28	miaka 23	swahili_4:85170-85177	NIL	DATE	NAM	1.0	
+Wambui	annotation-29	Alhamisi	swahili_4:92942-92949	NIL	DATE	NAM	1.0	
+Wambui	annotation-30	Trump	swahili_4:6313-6317	NIL	PER	NAM	1.0	
+Wambui	annotation-31	Bar	swahili_4:55024-55026	NIL	PER	NAM	1.0	
+Wambui	annotation-32	Brussels	swahili_4:63993-64000	NIL	LOC	NAM	1.0	
+Wambui	annotation-33	Ituri	swahili_4:23038-23042	NIL	LOC	NAM	1.0	
+Wambui	annotation-34	Salum Mwalimu	swahili_4:37504-37516	NIL	PER	NAM	1.0	
+Wambui	annotation-35	Afrika Kusini	swahili_4:56646-56658	NIL	LOC	NAM	1.0	
+Wambui	annotation-36	Chuck Schumer, M	swahili_4:97234-97249	NIL	PER	NAM	1.0	
+Wambui	annotation-37	Julia	swahili_4:10381-10385	NIL	PER	NAM	1.0	
+Wambui	annotation-38	Dar es Salaam	swahili_4:4326-4338	NIL	LOC	NAM	1.0	
+Wambui	annotation-39	Marekani	swahili_4:95120-95127	NIL	LOC	NAM	1.0	
+Wambui	annotation-40	Addis Ababa	swahili_4:61414-61424	NIL	LOC	NAM	1.0	
+Wambui	annotation-41	Dar-es-salaam	swahili_4:39665-39677	NIL	LOC	NAM	1.0	
+Wambui	annotation-42	wiki mbili	swahili_4:96183-96192	NIL	DATE	NAM	1.0	
+Wambui	annotation-43	Marekani	swahili_4:11638-11645	NIL	LOC	NAM	1.0	
+Wambui	annotation-44	Abdushakur Aboud	swahili_4:43173-43188	NIL	PER	NAM	1.0	
+Wambui	annotation-45	Tarime Vijijini	swahili_4:37728-37742	NIL	LOC	NAM	1.0	
+Wambui	annotation-46	al-Shabab	swahili_4:90687-90695	NIL	ORG	NAM	1.0	
+Wambui	annotation-47	Agha Khan	swahili_4:36167-36175	NIL	ORG	NAM	1.0	
+Wambui	annotation-48	Trump	swahili_4:52903-52907	NIL	PER	NAM	1.0	
+Wambui	annotation-49	Ufaransa	swahili_4:62437-62444	NIL	LOC	NAM	1.0	
+Wambui	annotation-50	Marekani	swahili_4:162083-162090	NIL	LOC	NAM	1.0	
+Wambui	annotation-51	Shirika la msalaba mwekundu	swahili_4:35954-35980	NIL	ORG	NAM	1.0	
+Wambui	annotation-52	2013	swahili_4:117054-117057	NIL	DATE	NAM	1.0	
+Wambui	annotation-53	Jumanne	swahili_4:112375-112381	NIL	DATE	NAM	1.0	
+Wambui	annotation-54	FBI	swahili_4:132293-132295	NIL	ORG	NAM	1.0	
+Wambui	annotation-55	Ijumaa	swahili_4:37200-37205	NIL	DATE	NAM	1.0	
+Wambui	annotation-56	Jumanne	swahili_4:3875-3881	NIL	DATE	NAM	1.0	
+Wambui	annotation-57	Ituri	swahili_4:22794-22798	NIL	LOC	NAM	1.0	
+Wambui	annotation-58	Alhamisi	swahili_4:135671-135678	NIL	DATE	NAM	1.0	
+Wambui	annotation-59	Trump	swahili_4:131524-131528	NIL	PER	NAM	1.0	
+Wambui	annotation-60	Februari	swahili_4:61804-61811	NIL	DATE	NAM	1.0	
+Wambui	annotation-61	CHADEMA	swahili_4:136178-136184	NIL	ORG	NAM	1.0	
+Wambui	annotation-62	Patrick Gathara	swahili_4:52358-52372	NIL	PER	NAM	1.0	
+Wambui	annotation-63	Marekani	swahili_4:113846-113853	NIL	LOC	NAM	1.0	
+Wambui	annotation-64	Modi	swahili_4:6759-6762	NIL	PER	NAM	1.0	
+Wambui	annotation-65	Marekani	swahili_4:97042-97049	NIL	LOC	NAM	1.0	
+Wambui	annotation-66	Millardayo	swahili_4:3737-3746	NIL	ORG	NAM	1.0	
+Wambui	annotation-67	Pakistan	swahili_4:86272-86279	NIL	LOC	NAM	1.0	
+Wambui	annotation-68	Ulaya	swahili_4:64766-64770	NIL	LOC	NAM	1.0	
+Wambui	annotation-69	Marekani	swahili_4:53820-53827	NIL	LOC	NAM	1.0	
+Wambui	annotation-70	EU	swahili_4:94291-94292	NIL	ORG	NAM	1.0	
+Wambui	annotation-71	Idara ya Biashara ya Marekani	swahili_4:1478-1506	NIL	ORG	NAM	1.0	
+Wambui	annotation-72	Jumatano	swahili_4:33511-33518	NIL	DATE	NAM	1.0	
+Wambui	annotation-73	Cervera	swahili_4:74826-74832	NIL	PER	NAM	1.0	
+Wambui	annotation-74	Umoja wa Afrika	swahili_4:332-346	NIL	ORG	NAM	1.0	
+Wambui	annotation-75	2018	swahili_4:572-575	NIL	DATE	NAM	1.0	
+Wambui	annotation-76	Nigeria	swahili_4:33919-33925	NIL	LOC	NAM	1.0	
+Wambui	annotation-77	Bulgaria	swahili_4:8632-8639	NIL	LOC	NAM	1.0	
+Wambui	annotation-78	Machar	swahili_4:42596-42601	NIL	PER	NAM	1.0	
+Wambui	annotation-79	Februari 13, 1946	swahili_4:59598-59614	NIL	DATE	NAM	1.0	
+Wambui	annotation-80	Ben Ali	swahili_4:85137-85143	NIL	PER	NAM	1.0	
+Wambui	annotation-81	CPJ	swahili_4:86583-86585	NIL	ORG	NAM	1.0	
+Wambui	annotation-82	Umoja wa Mataifa	swahili_4:113158-113173	NIL	ORG	NAM	1.0	
+Wambui	annotation-83	Machar	swahili_4:42470-42475	NIL	PER	NAM	1.0	
+Wambui	annotation-84	Russia	swahili_4:131585-131590	NIL	LOC	NAM	1.0	
+Wambui	annotation-85	Xi Jinping	swahili_4:62201-62210	NIL	PER	NAM	1.0	
+Wambui	annotation-86	EFF	swahili_4:56932-56934	NIL	ORG	NAM	1.0	
+Wambui	annotation-87	Riek Machar	swahili_4:41158-41168	NIL	PER	NAM	1.0	
+Wambui	annotation-88	Trump	swahili_4:93154-93158	NIL	PER	NAM	1.0	
+Wambui	annotation-89	Donald Trump	swahili_4:8723-8734	NIL	PER	NAM	1.0	
+Wambui	annotation-90	2015	swahili_4:33994-33997	NIL	DATE	NAM	1.0	
+Wambui	annotation-91	China	swahili_4:160082-160086	NIL	LOC	NAM	1.0	
+Wambui	annotation-92	Pakistan	swahili_4:87124-87131	NIL	LOC	NAM	1.0	
+Wambui	annotation-93	Angela Merkel	swahili_4:64347-64359	NIL	PER	NAM	1.0	
+Wambui	annotation-94	UNICEF	swahili_4:22858-22863	NIL	ORG	NAM	1.0	
+Wambui	annotation-95	White House	swahili_4:134180-134190	NIL	LOC	NAM	1.0	
+Wambui	annotation-96	Jebra Kambole	swahili_4:119009-119021	NIL	PER	NAM	1.0	
+Wambui	annotation-97	Hailemariam Desalegn	swahili_4:620-639	NIL	PER	NAM	1.0	
+Wambui	annotation-98	Africa	swahili_4:147162-147167	NIL	LOC	NAM	1.0	
+Wambui	annotation-99	miaka 15	swahili_4:21987-21994	NIL	DATE	NAM	1.0	
+Wambui	annotation-100	Huawei	swahili_4:751-756	NIL	ORG	NAM	1.0	
+Wambui	annotation-101	Pakistani	swahili_4:86644-86652	NIL	LOC	NAM	1.0	
+Wambui	annotation-102	November 24	swahili_4:135737-135747	NIL	DATE	NAM	1.0	
+Wambui	annotation-103	Taban Deng Gain	swahili_4:43094-43108	NIL	PER	NAM	1.0	
+Wambui	annotation-104	Trump	swahili_4:132020-132024	NIL	PER	NAM	1.0	
+Wambui	annotation-105	Musila	swahili_4:108902-108907	NIL	PER	NAM	1.0	
+Wambui	annotation-106	Marekani	swahili_4:95451-95458	NIL	LOC	NAM	1.0	
+Wambui	annotation-107	Huawei	swahili_4:1186-1191	NIL	ORG	NAM	1.0	
+Wambui	annotation-108	Marekani	swahili_4:54223-54230	NIL	LOC	NAM	1.0	
+Wambui	annotation-109	Muelller	swahili_4:54920-54927	NIL	PER	NAM	1.0	
+Wambui	annotation-110	2016	swahili_4:131374-131377	NIL	DATE	NAM	1.0	
+Wambui	annotation-111	DRC	swahili_4:22073-22075	NIL	LOC	NAM	1.0	
+Wambui	annotation-112	Marekani	swahili_4:94449-94456	NIL	LOC	NAM	1.0	
+Wambui	annotation-113	Tanzania	swahili_4:115041-115048	NIL	LOC	NAM	1.0	
+Wambui	annotation-114	Costa Rica	swahili_4:11036-11045	NIL	LOC	NAM	1.0	
+Wambui	annotation-115	Trump	swahili_4:135579-135583	NIL	PER	NAM	1.0	
+Wambui	annotation-116	Bubanza	swahili_4:111123-111129	NIL	LOC	NAM	1.0	
+Wambui	annotation-117	Xi	swahili_4:64830-64831	NIL	PER	NAM	1.0	
+Wambui	annotation-118	Jean Ciza	swahili_4:158688-158696	NIL	PER	NAM	1.0	
+Wambui	annotation-119	Shirika la Afya Duniani	swahili_4:94639-94661	NIL	ORG	NAM	1.0	
+Wambui	annotation-120	WGDP	swahili_4:61885-61888	NIL	ORG	NAM	1.0	
+Wambui	annotation-121	Magufuli	swahili_4:268-275	NIL	PER	NAM	1.0	
+Wambui	annotation-122	Septemba 11, 2001	swahili_4:36630-36646	NIL	DATE	NAM	1.0	
+Wambui	annotation-123	Marekani	swahili_4:132958-132965	NIL	LOC	NAM	1.0	
+Wambui	annotation-124	Italy	swahili_4:64734-64738	NIL	LOC	NAM	1.0	
+Wambui	annotation-125	2014	swahili_4:42017-42020	NIL	DATE	NAM	1.0	
+Wambui	annotation-126	2020	swahili_4:170-173	NIL	DATE	NAM	1.0	
+Wambui	annotation-127	Zimbabwe	swahili_4:117233-117240	NIL	LOC	NAM	1.0	
+Wambui	annotation-128	Kifaransa	swahili_4:53500-53508	NIL	LOC	NAM	1.0	
+Wambui	annotation-129	Colombia	swahili_4:10852-10859	NIL	LOC	NAM	1.0	
+Wambui	annotation-130	Ituri	swahili_4:22020-22024	NIL	LOC	NAM	1.0	
+Wambui	annotation-131	Marekani	swahili_4:52799-52806	NIL	LOC	NAM	1.0	
+Wambui	annotation-132	AU	swahili_4:115289-115290	NIL	ORG	NAM	1.0	
+Wambui	annotation-133	Huawei	swahili_4:1793-1798	NIL	ORG	NAM	1.0	
+Wambui	annotation-134	Guatemala	swahili_4:11137-11145	NIL	LOC	NAM	1.0	
+Wambui	annotation-135	Mark Mulwambo	swahili_4:89371-89383	NIL	PER	NAM	1.0	
+Wambui	annotation-136	Afrika Kusini	swahili_4:91534-91546	NIL	LOC	NAM	1.0	
+Wambui	annotation-137	William Barr	swahili_4:54767-54778	NIL	PER	NAM	1.0	
+Wambui	annotation-138	Burundi	swahili_4:110906-110912	NIL	LOC	NAM	1.0	
+Wambui	annotation-139	miaka 57	swahili_4:91202-91209	NIL	DATE	NAM	1.0	
+Wambui	annotation-140	Paul kagame	swahili_4:112310-112320	NIL	PER	NAM	1.0	
+Wambui	annotation-141	Sudan Kusini	swahili_4:40850-40861	NIL	LOC	NAM	1.0	
+Wambui	annotation-142	Abdushakur Aboud	swahili_4:92851-92866	NIL	PER	NAM	1.0	
+Wambui	annotation-143	Johannesburg	swahili_4:114639-114650	NIL	LOC	NAM	1.0	
+Wambui	annotation-144	Afrika	swahili_4:92157-92162	NIL	LOC	NAM	1.0	
+Wambui	annotation-145	Francis	swahili_4:42056-42062	NIL	PER	NAM	1.0	
+Wambui	annotation-146	April 9	swahili_4:64007-64013	NIL	DATE	NAM	1.0	
+Wambui	annotation-147	AU	swahili_4:2430-2431	NIL	ORG	NAM	1.0	
+Wambui	annotation-148	Ijumaa usiku	swahili_4:95179-95190	NIL	DATE	NAM	1.0	
+Wambui	annotation-149	Kabendera	swahili_4:4765-4773	NIL	PER	NAM	1.0	
+Wambui	annotation-150	China	swahili_4:3436-3440	NIL	LOC	NAM	1.0	
+Wambui	annotation-151	miaka sita	swahili_4:7451-7460	NIL	DATE	NAM	1.0	
+Wambui	annotation-152	Burundi	swahili_4:111156-111162	NIL	LOC	NAM	1.0	
+Wambui	annotation-153	Ufaransa	swahili_4:63093-63100	NIL	LOC	NAM	1.0	
+Wambui	annotation-154	Austria	swahili_4:6692-6698	NIL	LOC	NAM	1.0	
+Wambui	annotation-155	Alhamisi	swahili_4:161635-161642	NIL	DATE	NAM	1.0	
+Wambui	annotation-156	Nigeria	swahili_4:34690-34696	NIL	LOC	NAM	1.0	
+Wambui	annotation-157	Afrika	swahili_4:91585-91590	NIL	LOC	NAM	1.0	
+Wambui	annotation-158	Machar	swahili_4:42970-42975	NIL	PER	NAM	1.0	
+Wambui	annotation-159	Shearer	swahili_4:110255-110261	NIL	PER	NAM	1.0	
+Wambui	annotation-160	China	swahili_4:64196-64200	NIL	LOC	NAM	1.0	
+Wambui	annotation-161	Afrika	swahili_4:54488-54493	NIL	LOC	NAM	1.0	
+Wambui	annotation-162	Ulaya	swahili_4:63793-63797	NIL	LOC	NAM	1.0	
+Wambui	annotation-163	Ulaya	swahili_4:92904-92908	NIL	LOC	NAM	1.0	
+Wambui	annotation-164	Trump	swahili_4:94378-94382	NIL	PER	NAM	1.0	
+Wambui	annotation-165	Italia	swahili_4:42735-42740	NIL	LOC	NAM	1.0	
+Wambui	annotation-166	Nairobi	swahili_4:35734-35740	NIL	LOC	NAM	1.0	
+Wambui	annotation-167	Chama cha Demokrasia na Maendeleo	swahili_4:36847-36879	NIL	ORG	NAM	1.0	
+Wambui	annotation-168	2016	swahili_4:42698-42701	NIL	DATE	NAM	1.0	
+Wambui	annotation-169	al-Shabab	swahili_4:36493-36501	NIL	ORG	NAM	1.0	
+Wambui	annotation-170	Machi 2019	swahili_4:112042-112051	NIL	DATE	NAM	1.0	
+Wambui	annotation-171	Moussa Faki Mahamat	swahili_4:91593-91611	NIL	PER	NAM	1.0	
+Wambui	annotation-172	Moussa Faki	swahili_4:578-588	NIL	PER	NAM	1.0	
+Wambui	annotation-173	Iran	swahili_4:9409-9412	NIL	LOC	NAM	1.0	
+Wambui	annotation-174	sauti ya Amerika	swahili_4:112153-112168	NIL	ORG	NAM	1.0	
+Wambui	annotation-175	Alhamisi mchana	swahili_4:6157-6171	NIL	DATE	NAM	1.0	
+Wambui	annotation-176	visiwa vya Comoro	swahili_4:116095-116111	NIL	LOC	NAM	1.0	
+Wambui	annotation-177	Salva Kiir	swahili_4:41080-41089	NIL	PER	NAM	1.0	
+Wambui	annotation-178	Afrika	swahili_4:54549-54554	NIL	LOC	NAM	1.0	
+Wambui	annotation-179	Hong Kong	swahili_4:10358-10366	NIL	LOC	NAM	1.0	
+Wambui	annotation-180	Iran	swahili_4:9183-9186	NIL	LOC	NAM	1.0	
+Wambui	annotation-181	Trump	swahili_4:133150-133154	NIL	PER	NAM	1.0	
+Wambui	annotation-182	WHO	swahili_4:147239-147241	NIL	ORG	NAM	1.0	
+Wambui	annotation-183	Marekani	swahili_4:36569-36576	NIL	LOC	NAM	1.0	
+Wambui	annotation-184	Hillary Clinton	swahili_4:131351-131365	NIL	PER	NAM	1.0	
+Wambui	annotation-185	Trump	swahili_4:9644-9648	NIL	PER	NAM	1.0	
+Wambui	annotation-186	Benki ya Dunia	swahili_4:7972-7985	NIL	ORG	NAM	1.0	
+Wambui	annotation-187	Afrika	swahili_4:52918-52923	NIL	LOC	NAM	1.0	
+Wambui	annotation-188	Umoja wa Mataifa	swahili_4:110146-110161	NIL	ORG	NAM	1.0	
+Wambui	annotation-189	Kenyatta	swahili_4:36189-36196	NIL	ORG	NAM	1.0	
+Wambui	annotation-190	Barack Obama	swahili_4:53274-53285	NIL	PER	NAM	1.0	
+Wambui	annotation-191	DRC	swahili_4:22105-22107	NIL	LOC	NAM	1.0	
+Wambui	annotation-192	Pakistan	swahili_4:85797-85804	NIL	LOC	NAM	1.0	
+Wambui	annotation-193	Trump	swahili_4:97513-97517	NIL	PER	NAM	1.0	
+Wambui	annotation-194	AfCHPR	swahili_4:116084-116089	NIL	ORG	NAM	1.0	
+Wambui	annotation-195	Uchina	swahili_4:64028-64033	NIL	LOC	NAM	1.0	
+Wambui	annotation-196	Afrika kusini	swahili_4:114103-114115	NIL	LOC	NAM	1.0	
+Wambui	annotation-197	Kristalina Georgieva	swahili_4:8548-8567	NIL	PER	NAM	1.0	
+Wambui	annotation-198	Jamhuri ya Kidemokrasia ya Congo	swahili_4:10447-10478	NIL	LOC	NAM	1.0	
+Wambui	annotation-199	Trump	swahili_4:133862-133866	NIL	PER	NAM	1.0	
+Wambui	annotation-200	Tumaini Makene	swahili_4:136407-136420	NIL	PER	NAM	1.0	
+Wambui	annotation-201	Ufaransa	swahili_4:65056-65063	NIL	LOC	NAM	1.0	
+Wambui	annotation-202	Congo	swahili_4:53020-53024	NIL	LOC	NAM	1.0	
+Wambui	annotation-203	New York	swahili_4:8948-8955	NIL	LOC	NAM	1.0	
+Wambui	annotation-204	Trump	swahili_4:96840-96844	NIL	PER	NAM	1.0	
+Wambui	annotation-205	Bunda	swahili_4:37666-37670	NIL	LOC	NAM	1.0	
+Wambui	annotation-206	Marekani	swahili_4:52283-52290	NIL	LOC	NAM	1.0	
+Wambui	annotation-207	Shirika la Elimu, Sayansi na Utamaduni la Umoja wa Mataifa	swahili_4:57901-57958	NIL	ORG	NAM	1.0	
+Wambui	annotation-208	Buhari	swahili_4:33288-33293	NIL	PER	NAM	1.0	
+Wambui	annotation-209	Ester Bulaya	swahili_4:37673-37684	NIL	PER	NAM	1.0	
+Wambui	annotation-210	siku tatu	swahili_4:62382-62390	NIL	DATE	NAM	1.0	
+Wambui	annotation-211	Netanyahu	swahili_4:6203-6211	NIL	PER	NAM	1.0	
+Wambui	annotation-212	Marekani	swahili_4:94054-94061	NIL	LOC	NAM	1.0	
+Wambui	annotation-213	India	swahili_4:6811-6815	NIL	LOC	NAM	1.0	
+Wambui	annotation-214	Comoro	swahili_4:116974-116979	NIL	LOC	NAM	1.0	
+Wambui	annotation-215	Macon	swahili_4:62796-62800	NIL	PER	NAM	1.0	
+Wambui	annotation-216	Joseph Otieno Abogo	swahili_4:109153-109171	NIL	PER	NAM	1.0	
+Wambui	annotation-217	Laredo	swahili_4:10541-10546	NIL	LOC	NAM	1.0	
+Wambui	annotation-218	Bulter	swahili_4:86959-86964	NIL	PER	NAM	1.0	
+Wambui	annotation-219	Jamhuri ya Kidemokrasi ya Congo	swahili_4:22040-22070	NIL	LOC	NAM	1.0	
+Wambui	annotation-220	jumuiya ya kimataifa	swahili_4:36394-36413	NIL	ORG	NAM	1.0	
+Wambui	annotation-221	Russia	swahili_4:134939-134944	NIL	LOC	NAM	1.0	
+Wambui	annotation-222	Wiki mbili	swahili_4:129214-129223	NIL	DATE	NAM	1.0	
+Wambui	annotation-223	China	swahili_4:162071-162075	NIL	LOC	NAM	1.0	
+Wambui	annotation-224	WFP	swahili_4:110046-110048	NIL	ORG	NAM	1.0	
+Wambui	annotation-225	Jumatatu	swahili_4:117946-117953	NIL	DATE	NAM	1.0	
+Wambui	annotation-226	FBI	swahili_4:131212-131214	NIL	ORG	NAM	1.0	
+Wambui	annotation-227	Ethiopia	swahili_4:109204-109211	NIL	LOC	NAM	1.0	
+Wambui	annotation-228	Kadushi	swahili_4:38611-38617	NIL	PER	NAM	1.0	
+Wambui	annotation-229	Somalia	swahili_4:90405-90411	NIL	LOC	NAM	1.0	
+Wambui	annotation-230	Jumatano	swahili_4:41382-41389	NIL	DATE	NAM	1.0	
+Wambui	annotation-231	Donald Trump	swahili_4:6231-6242	NIL	PER	NAM	1.0	
+Wambui	annotation-232	Jumatatu	swahili_4:110914-110921	NIL	DATE	NAM	1.0	
+Wambui	annotation-233	siku 30	swahili_4:111675-111681	NIL	DATE	NAM	1.0	
+Wambui	annotation-234	Dusit2	swahili_4:35250-35255	NIL	ORG	NAM	1.0	
+Wambui	annotation-235	European Union	swahili_4:94201-94214	NIL	ORG	NAM	1.0	
+Wambui	annotation-236	Charles Michel	swahili_4:93800-93813	NIL	PER	NAM	1.0	
+Wambui	annotation-237	AfCHPR	swahili_4:117287-117292	NIL	ORG	NAM	1.0	
+Wambui	annotation-238	HSI	swahili_4:160922-160924	NIL	ORG	NAM	1.0	
+Wambui	annotation-239	25 Mei, 1963	swahili_4:92525-92536	NIL	DATE	NAM	1.0	
+Wambui	annotation-240	Erick Kabendera	swahili_4:3666-3680	NIL	PER	NAM	1.0	
+Wambui	annotation-241	Iran	swahili_4:9306-9309	NIL	LOC	NAM	1.0	
+Wambui	annotation-242	Idd Ligongo	swahili_4:113027-113037	NIL	PER	NAM	1.0	
+Wambui	annotation-243	Afrika	swahili_4:116938-116943	NIL	LOC	NAM	1.0	
+Wambui	annotation-244	Kenya	swahili_4:108553-108557	NIL	LOC	NAM	1.0	
+Wambui	annotation-245	Moussa Faki Mahamat	swahili_4:51937-51955	NIL	PER	NAM	1.0	
+Wambui	annotation-246	Julius Malema	swahili_4:57815-57827	NIL	PER	NAM	1.0	
+Wambui	annotation-247	WHO	swahili_4:147080-147082	NIL	ORG	NAM	1.0	
+Wambui	annotation-248	Marekani	swahili_4:148107-148114	NIL	LOC	NAM	1.0	
+Wambui	annotation-249	Asif Ghafoor	swahili_4:88250-88261	NIL	PER	NAM	1.0	
+Wambui	annotation-250	Ikulu	swahili_4:35393-35397	NIL	LOC	NAM	1.0	
+Wambui	annotation-251	Asia	swahili_4:85855-85858	NIL	LOC	NAM	1.0	
+Wambui	annotation-252	Marekani	swahili_4:113236-113243	NIL	LOC	NAM	1.0	
+Wambui	annotation-253	December	swahili_4:110640-110647	NIL	DATE	NAM	1.0	
+Wambui	annotation-254	Umoja wa mataifa	swahili_4:8924-8939	NIL	ORG	NAM	1.0	
+Wambui	annotation-255	Marekani	swahili_4:55003-55010	NIL	LOC	NAM	1.0	
+Wambui	annotation-256	Narendra Modi	swahili_4:6493-6505	NIL	PER	NAM	1.0	
+Wambui	annotation-257	miaka mitano	swahili_4:10410-10421	NIL	DATE	NAM	1.0	
+Wambui	annotation-258	WHO	swahili_4:162320-162322	NIL	ORG	NAM	1.0	
+Wambui	annotation-259	AU	swahili_4:116731-116732	NIL	ORG	NAM	1.0	
+Wambui	annotation-260	Kordofan Kusini	swahili_4:129843-129857	NIL	LOC	NAM	1.0	
+Wambui	annotation-261	Umoja wa Mataifa	swahili_4:112422-112437	NIL	ORG	NAM	1.0	
+Wambui	annotation-262	Mogadishu	swahili_4:90583-90591	NIL	LOC	NAM	1.0	
+Wambui	annotation-263	Ethiopia	swahili_4:2524-2531	NIL	LOC	NAM	1.0	
+Wambui	annotation-264	ANC	swahili_4:55818-55820	NIL	ORG	NAM	1.0	
+Wambui	annotation-265	Guangzhou	swahili_4:54163-54171	NIL	LOC	NAM	1.0	
+Wambui	annotation-266	2011	swahili_4:59535-59538	NIL	DATE	NAM	1.0	
+Wambui	annotation-267	Afrika	swahili_4:62161-62166	NIL	LOC	NAM	1.0	
+Wambui	annotation-268	DusitD2	swahili_4:35651-35657	NIL	ORG	NAM	1.0	
+Wambui	annotation-269	China	swahili_4:162249-162253	NIL	LOC	NAM	1.0	
+Wambui	annotation-270	Tunisia	swahili_4:85701-85707	NIL	LOC	NAM	1.0	
+Wambui	annotation-271	Peter Msigwa	swahili_4:37601-37612	NIL	PER	NAM	1.0	
+Wambui	annotation-272	Afrika kusini	swahili_4:40007-40019	NIL	LOC	NAM	1.0	
+Wambui	annotation-273	Pakistani	swahili_4:88019-88027	NIL	LOC	NAM	1.0	
+Wambui	annotation-274	Ufaransa	swahili_4:64886-64893	NIL	LOC	NAM	1.0	
+Wambui	annotation-275	Tanzania	swahili_4:39078-39085	NIL	LOC	NAM	1.0	
+Wambui	annotation-276	Donald Trump	swahili_4:128806-128817	NIL	PER	NAM	1.0	
+Wambui	annotation-277	Kenyatta	swahili_4:35400-35407	NIL	PER	NAM	1.0	
+Wambui	annotation-278	Uchina	swahili_4:63218-63223	NIL	LOC	NAM	1.0	
+Wambui	annotation-279	Marekani	swahili_4:133482-133489	NIL	LOC	NAM	1.0	
+Wambui	annotation-280	Afrika	swahili_4:108008-108013	NIL	LOC	NAM	1.0	
+Wambui	annotation-281	Kabendera	swahili_4:118968-118976	NIL	PER	NAM	1.0	
+Wambui	annotation-282	Cervera	swahili_4:74131-74137	NIL	PER	NAM	1.0	
+Wambui	annotation-283	CCM	swahili_4:233-235	NIL	ORG	NAM	1.0	
+Wambui	annotation-284	Afrika	swahili_4:56235-56240	NIL	LOC	NAM	1.0	
+Wambui	annotation-285	Marekani	swahili_4:63005-63012	NIL	LOC	NAM	1.0	
+Wambui	annotation-286	Umoja wa Ulaya	swahili_4:64400-64413	NIL	ORG	NAM	1.0	
+Wambui	annotation-287	Uhuru Kenyatta	swahili_4:35145-35158	NIL	PER	NAM	1.0	
+Wambui	annotation-288	Mark Warner	swahili_4:76261-76271	NIL	PER	NAM	1.0	
+Wambui	annotation-289	Russia	swahili_4:132334-132339	NIL	LOC	NAM	1.0	
+Wambui	annotation-290	2025	swahili_4:61954-61957	NIL	DATE	NAM	1.0	
+Wambui	annotation-291	AU	swahili_4:115418-115419	NIL	ORG	NAM	1.0	
+Wambui	annotation-292	CPJ	swahili_4:86857-86859	NIL	ORG	NAM	1.0	
+Wambui	annotation-293	Saudi Arabia	swahili_4:9383-9394	NIL	LOC	NAM	1.0	
+Wambui	annotation-294	Texas	swahili_4:96828-96832	NIL	LOC	NAM	1.0	
+Wambui	annotation-295	Burundi	swahili_4:159923-159929	NIL	LOC	NAM	1.0	
+Wambui	annotation-296	AU	swahili_4:2296-2297	NIL	ORG	NAM	1.0	
+Wambui	annotation-297	Tanzania	swahili_4:89292-89299	NIL	LOC	NAM	1.0	
+Wambui	annotation-298	Carrie Lam	swahili_4:159954-159963	NIL	PER	NAM	1.0	
+Wambui	annotation-299	Omar al-Bashir	swahili_4:129777-129790	NIL	PER	NAM	1.0	
+Wambui	annotation-300	ANC	swahili_4:57613-57615	NIL	ORG	NAM	1.0	
+Wambui	annotation-301	Marekani	swahili_4:96526-96533	NIL	LOC	NAM	1.0	
+Wambui	annotation-302	Ghana	swahili_4:40022-40026	NIL	LOC	NAM	1.0	
+Wambui	annotation-303	Kabendera	swahili_4:4160-4168	NIL	PER	NAM	1.0	
+Wambui	annotation-304	George Floyd	swahili_4:51644-51655	NIL	PER	NAM	1.0	
+Wambui	annotation-305	Act Wazelendo	swahili_4:136749-136761	NIL	ORG	NAM	1.0	
+Wambui	annotation-306	miaka 70	swahili_4:129363-129370	NIL	DATE	NAM	1.0	
+Wambui	annotation-307	shirika la hisani la Uingereza	swahili_4:110087-110116	NIL	ORG	NAM	1.0	
+Wambui	annotation-308	Benin	swahili_4:33888-33892	NIL	LOC	NAM	1.0	
+Wambui	annotation-309	David Aguko	swahili_4:109349-109359	NIL	PER	NAM	1.0	
+Wambui	annotation-310	Trump	swahili_4:133101-133105	NIL	PER	NAM	1.0	
+Wambui	annotation-311	DRC	swahili_4:23182-23184	NIL	LOC	NAM	1.0	
+Wambui	annotation-312	Kenyatta	swahili_4:35776-35783	NIL	PER	NAM	1.0	
+Wambui	annotation-313	Francis	swahili_4:41051-41057	NIL	PER	NAM	1.0	
+Wambui	annotation-314	Umoja wa Ulaya	swahili_4:63620-63633	NIL	ORG	NAM	1.0	
+Wambui	annotation-315	Freeman Mbowe	swahili_4:36892-36904	NIL	PER	NAM	1.0	
+Wambui	annotation-316	Antonio Guterres	swahili_4:58324-58339	NIL	PER	NAM	1.0	
+Wambui	annotation-317	2020	swahili_4:147150-147153	NIL	DATE	NAM	1.0	
+Wambui	annotation-318	Ivanka	swahili_4:61572-61577	NIL	PER	NAM	1.0	
+Wambui	annotation-319	European Union	swahili_4:93830-93843	NIL	ORG	NAM	1.0	
+Wambui	annotation-320	Christian Lindmeier	swahili_4:162324-162342	NIL	PER	NAM	1.0	
+Wambui	annotation-321	Pretoria	swahili_4:114042-114049	NIL	LOC	NAM	1.0	
+Wambui	annotation-322	Mueller	swahili_4:131016-131022	NIL	PER	NAM	1.0	
+Wambui	annotation-323	UN	swahili_4:22333-22334	NIL	ORG	NAM	1.0	
+Wambui	annotation-324	Kenyatta	swahili_4:36355-36362	NIL	PER	NAM	1.0	
+Wambui	annotation-325	Erick	swahili_4:119040-119044	NIL	PER	NAM	1.0	
+Wambui	annotation-326	2020	swahili_4:58367-58370	NIL	DATE	NAM	1.0	
+Wambui	annotation-327	Trump	swahili_4:133504-133508	NIL	PER	NAM	1.0	
+Wambui	annotation-328	jumuiya ya kimataifa	swahili_4:23146-23165	NIL	ORG	NAM	1.0	
+Wambui	annotation-329	Kim	swahili_4:7561-7563	NIL	PER	NAM	1.0	
+Wambui	annotation-330	Ulaya	swahili_4:95106-95110	NIL	LOC	NAM	1.0	
+Wambui	annotation-331	Westlands	swahili_4:35681-35689	NIL	LOC	NAM	1.0	
+Wambui	annotation-332	Sarah Sanders	swahili_4:134216-134228	NIL	PER	NAM	1.0	
+Wambui	annotation-333	Machi 2019	swahili_4:2936-2945	NIL	DATE	NAM	1.0	
+Wambui	annotation-334	Afrika	swahili_4:85605-85610	NIL	LOC	NAM	1.0	
+Wambui	annotation-335	Arusha	swahili_4:115719-115724	NIL	LOC	NAM	1.0	
+Wambui	annotation-336	Jumatano	swahili_4:35169-35176	NIL	DATE	NAM	1.0	
+Wambui	annotation-337	WHO	swahili_4:161142-161144	NIL	ORG	NAM	1.0	
+Wambui	annotation-338	Marekani	swahili_4:52954-52961	NIL	LOC	NAM	1.0	
+Wambui	annotation-339	China	swahili_4:161524-161528	NIL	LOC	NAM	1.0	
+Wambui	annotation-340	Russia	swahili_4:133668-133673	NIL	LOC	NAM	1.0	
+Wambui	annotation-341	Donald Trump	swahili_4:94831-94842	NIL	PER	NAM	1.0	
+Wambui	annotation-342	Panama	swahili_4:10982-10987	NIL	LOC	NAM	1.0	
+Wambui	annotation-343	Marekani	swahili_4:61987-61994	NIL	LOC	NAM	1.0	
+Wambui	annotation-344	Mueller	swahili_4:135340-135346	NIL	PER	NAM	1.0	
+Wambui	annotation-345	Russia	swahili_4:135181-135186	NIL	LOC	NAM	1.0	
+Wambui	annotation-346	Jumatano	swahili_4:54818-54825	NIL	DATE	NAM	1.0	
+Wambui	annotation-347	Julia	swahili_4:11054-11058	NIL	PER	NAM	1.0	
+Wambui	annotation-348	Pakistani	swahili_4:86825-86833	NIL	LOC	NAM	1.0	
+Wambui	annotation-349	Israel	swahili_4:7298-7303	NIL	LOC	NAM	1.0	
+Wambui	annotation-350	Democratic Alliance	swahili_4:57681-57699	NIL	ORG	NAM	1.0	
+Wambui	annotation-351	Barr	swahili_4:134315-134318	NIL	PER	NAM	1.0	
+Wambui	annotation-352	Robert Mueller	swahili_4:130499-130512	NIL	PER	NAM	1.0	
+Wambui	annotation-353	Gathara	swahili_4:52543-52549	NIL	PER	NAM	1.0	
+Wambui	annotation-354	Mei	swahili_4:41317-41319	NIL	DATE	NAM	1.0	
+Wambui	annotation-355	Sudan	swahili_4:129770-129774	NIL	LOC	NAM	1.0	
+Wambui	annotation-356	Kenya	swahili_4:53882-53886	NIL	LOC	NAM	1.0	
+Wambui	annotation-357	Jumatano	swahili_4:95919-95926	NIL	DATE	NAM	1.0	
+Wambui	annotation-358	Ethiopia	swahili_4:61233-61240	NIL	LOC	NAM	1.0	
+Wambui	annotation-359	Bunia	swahili_4:22459-22463	NIL	LOC	NAM	1.0	
+Wambui	annotation-360	Trump	swahili_4:134930-134934	NIL	PER	NAM	1.0	
+Wambui	annotation-361	Floyd	swahili_4:51984-51988	NIL	PER	NAM	1.0	
+Wambui	annotation-362	Oysterbay	swahili_4:4795-4803	NIL	LOC	NAM	1.0	
+Wambui	annotation-363	Bobby Dyer	swahili_4:75671-75680	NIL	PER	NAM	1.0	
+Wambui	annotation-364	AU	swahili_4:115954-115955	NIL	ORG	NAM	1.0	
+Wambui	annotation-365	wiki tatu	swahili_4:11015-11023	NIL	DATE	NAM	1.0	
+Wambui	annotation-366	Trump	swahili_4:97052-97056	NIL	PER	NAM	1.0	
+Wambui	annotation-367	Marekani	swahili_4:113708-113715	NIL	LOC	NAM	1.0	
+Wambui	annotation-368	Russia	swahili_4:131948-131953	NIL	LOC	NAM	1.0	
+Wambui	annotation-369	Julia	swahili_4:11430-11434	NIL	PER	NAM	1.0	
+Wambui	annotation-370	Ulaya	swahili_4:94435-94439	NIL	LOC	NAM	1.0	
+Wambui	annotation-371	Trump	swahili_4:131252-131256	NIL	PER	NAM	1.0	
+Wambui	annotation-372	Marekani	swahili_4:8714-8721	NIL	LOC	NAM	1.0	
+Wambui	annotation-373	Jumatano	swahili_4:5883-5890	NIL	DATE	NAM	1.0	
+Wambui	annotation-374	Marekani	swahili_4:162299-162306	NIL	LOC	NAM	1.0	
+Wambui	annotation-375	Mali	swahili_4:40032-40035	NIL	LOC	NAM	1.0	
+Wambui	annotation-376	Umoja wa Mataifa la kuhudumia wakimbizi	swahili_4:112768-112806	NIL	ORG	NAM	1.0	
+Wambui	annotation-377	Shirika la kutetea haki za binadamu Amnesty International	swahili_4:87249-87305	NIL	ORG	NAM	1.0	
+Wambui	annotation-378	UNESCO	swahili_4:59489-59494	NIL	ORG	NAM	1.0	
+Wambui	annotation-379	UNICEF	swahili_4:22093-22098	NIL	ORG	NAM	1.0	
+Wambui	annotation-380	Iran	swahili_4:113455-113458	NIL	LOC	NAM	1.0	
+Wambui	annotation-381	Nicaragua	swahili_4:11116-11124	NIL	LOC	NAM	1.0	
+Wambui	annotation-382	Mueller	swahili_4:55266-55272	NIL	PER	NAM	1.0	
+Wambui	annotation-383	Khadija Riyami	swahili_4:23658-23671	NIL	PER	NAM	1.0	
+Wambui	annotation-384	Chama cha Demokrasia na Maendeleo	swahili_4:136467-136499	NIL	ORG	NAM	1.0	
+Wambui	annotation-385	Jumanne	swahili_4:55245-55251	NIL	DATE	NAM	1.0	
+Wambui	annotation-386	Afrika	swahili_4:92605-92610	NIL	LOC	NAM	1.0	
+Wambui	annotation-387	AU	swahili_4:613-614	NIL	ORG	NAM	1.0	
+Wambui	annotation-388	Zine el-Abidine Ben Ali	swahili_4:85065-85087	NIL	PER	NAM	1.0	
+Wambui	annotation-389	China	swahili_4:62907-62911	NIL	LOC	NAM	1.0	
+Wambui	annotation-390	Virginia Beach	swahili_4:75641-75654	NIL	LOC	NAM	1.0	
+Wambui	annotation-391	Alhamisi	swahili_4:40275-40282	NIL	DATE	NAM	1.0	
+Wambui	annotation-392	Trump	swahili_4:10209-10213	NIL	PER	NAM	1.0	
+Wambui	annotation-393	Muhammadu Buhari	swahili_4:33927-33942	NIL	PER	NAM	1.0	
+Wambui	annotation-394	Sebastian Kurz	swahili_4:6453-6466	NIL	PER	NAM	1.0	
+Wambui	annotation-395	Texas	swahili_4:10549-10553	NIL	LOC	NAM	1.0	
+Wambui	annotation-396	FBI	swahili_4:134885-134887	NIL	ORG	NAM	1.0	
+Wambui	annotation-397	WHO	swahili_4:161731-161733	NIL	ORG	NAM	1.0	
+Wambui	annotation-398	Marekani	swahili_4:87340-87347	NIL	LOC	NAM	1.0	
+Wambui	annotation-399	Barr	swahili_4:55423-55426	NIL	PER	NAM	1.0	
+Wambui	annotation-400	Julia	swahili_4:11774-11778	NIL	PER	NAM	1.0	
+Wambui	annotation-401	Bunia	swahili_4:23618-23622	NIL	LOC	NAM	1.0	
+Wambui	annotation-402	Ethiopua	swahili_4:109369-109376	NIL	LOC	NAM	1.0	
+Wambui	annotation-403	UN	swahili_4:59617-59618	NIL	ORG	NAM	1.0	
+Wambui	annotation-404	Ramaphosa	swahili_4:114349-114357	NIL	PER	NAM	1.0	
+Wambui	annotation-405	Ijumaa	swahili_4:158524-158529	NIL	DATE	NAM	1.0	
+Wambui	annotation-406	Bashir	swahili_4:130323-130328	NIL	PER	NAM	1.0	
+Wambui	annotation-407	WHO	swahili_4:5339-5341	NIL	ORG	NAM	1.0	
+Wambui	annotation-408	Umoja wa Mataifa	swahili_4:109633-109648	NIL	ORG	NAM	1.0	
+Wambui	annotation-409	Marekani	swahili_4:11225-11232	NIL	LOC	NAM	1.0	
+Wambui	annotation-410	Safari	swahili_4:38434-38439	NIL	PER	NAM	1.0	
+Wambui	annotation-411	Oktoba	swahili_4:111296-111301	NIL	DATE	NAM	1.0	
+Wambui	annotation-412	Netanyahu	swahili_4:5972-5980	NIL	PER	NAM	1.0	
+Wambui	annotation-413	Ethiopia	swahili_4:109905-109912	NIL	LOC	NAM	1.0	
+Wambui	annotation-414	Mueller	swahili_4:132770-132776	NIL	PER	NAM	1.0	
+Wambui	annotation-415	Juba	swahili_4:42621-42624	NIL	LOC	NAM	1.0	
+Wambui	annotation-416	Marekani	swahili_4:2650-2657	NIL	LOC	NAM	1.0	
+Wambui	annotation-417	Geita	swahili_4:39919-39923	NIL	LOC	NAM	1.0	
+Wambui	annotation-418	ulaya	swahili_4:64623-64627	NIL	LOC	NAM	1.0	
+Wambui	annotation-419	Ulaya	swahili_4:94180-94184	NIL	LOC	NAM	1.0	
+Wambui	annotation-420	Huawei	swahili_4:2601-2606	NIL	ORG	NAM	1.0	
+Wambui	annotation-421	Afrika	swahili_4:54002-54007	NIL	LOC	NAM	1.0	
+Wambui	annotation-422	Januari 17	swahili_4:39042-39051	NIL	DATE	NAM	1.0	
+Wambui	annotation-423	Jumanne alasiri	swahili_4:35521-35535	NIL	DATE	NAM	1.0	
+Wambui	annotation-424	mchana	swahili_4:161060-161065	NIL	DATE	NAM	1.0	
+Wambui	annotation-425	Kawe	swahili_4:37697-37700	NIL	LOC	NAM	1.0	
+Wambui	annotation-426	Pakistan	swahili_4:87503-87510	NIL	LOC	NAM	1.0	
+Wambui	annotation-427	Marekani	swahili_4:113797-113804	NIL	LOC	NAM	1.0	
+Wambui	annotation-428	miaka minne	swahili_4:10639-10649	NIL	DATE	NAM	1.0	
+Wambui	annotation-429	Kibamba	swahili_4:37555-37561	NIL	LOC	NAM	1.0	
+Wambui	annotation-430	Julai 31, 2016	swahili_4:135462-135475	NIL	DATE	NAM	1.0	
+Wambui	annotation-431	Marekani	swahili_4:9537-9544	NIL	LOC	NAM	1.0	
+Wambui	annotation-432	Ijumaa	swahili_4:147085-147090	NIL	DATE	NAM	1.0	
+Wambui	annotation-433	Ufaransa	swahili_4:63742-63749	NIL	LOC	NAM	1.0	
+Wambui	annotation-434	Casa Santa Marta	swahili_4:41578-41593	NIL	LOC	NAM	1.0	
+Wambui	annotation-435	Libya	swahili_4:112693-112697	NIL	LOC	NAM	1.0	
+Wambui	annotation-436	Agosti 2019	swahili_4:10592-10602	NIL	DATE	NAM	1.0	
+Wambui	annotation-437	Tanzania	swahili_4:36955-36962	NIL	LOC	NAM	1.0	
+Wambui	annotation-438	Washington, DC	swahili_4:161101-161114	NIL	LOC	NAM	1.0	
+Wambui	annotation-439	Francis	swahili_4:41366-41372	NIL	PER	NAM	1.0	
+Wambui	annotation-440	Washington, DC	swahili_4:91031-91044	NIL	LOC	NAM	1.0	
+Wambui	annotation-441	Nigeria	swahili_4:34965-34971	NIL	LOC	NAM	1.0	
+Wambui	annotation-442	Rwanda	swahili_4:112325-112330	NIL	LOC	NAM	1.0	
+Wambui	annotation-443	China	swahili_4:63333-63337	NIL	LOC	NAM	1.0	
+Wambui	annotation-444	AU	swahili_4:349-350	NIL	ORG	NAM	1.0	
+Wambui	annotation-445	siku 30	swahili_4:94470-94476	NIL	DATE	NAM	1.0	
+Wambui	annotation-446	James Wani Igga	swahili_4:43077-43091	NIL	PER	NAM	1.0	
+Wambui	annotation-447	George Floyd	swahili_4:53549-53560	NIL	PER	NAM	1.0	
+Wambui	annotation-448	Januari 2015	swahili_4:118213-118224	NIL	DATE	NAM	1.0	
+Wambui	annotation-449	UNHCR	swahili_4:112808-112812	NIL	ORG	NAM	1.0	
+Wambui	annotation-450	15 ya mwezi huu wa Februari	swahili_4:159316-159342	NIL	DATE	NAM	1.0	
+Wambui	annotation-451	soko la fedha la Hong Kong	swahili_4:160894-160919	NIL	ORG	NAM	1.0	
+Wambui	annotation-452	Virginia	swahili_4:76020-76027	NIL	LOC	NAM	1.0	
+Wambui	annotation-453	Washington, DC	swahili_4:55610-55623	NIL	LOC	NAM	1.0	
+Wambui	annotation-454	juhudi za maendeleo na mafanikio ya wanawake ulimwenguni	swahili_4:61822-61877	NIL	ORG	NAM	1.0	
+Wambui	annotation-455	Mueller	swahili_4:134824-134830	NIL	PER	NAM	1.0	
+Wambui	annotation-456	Beijing	swahili_4:54285-54291	NIL	LOC	NAM	1.0	
+Wambui	annotation-457	Huawei	swahili_4:2335-2340	NIL	ORG	NAM	1.0	
+Wambui	annotation-458	Marekani	swahili_4:1606-1613	NIL	LOC	NAM	1.0	
+Wambui	annotation-459	Vatican	swahili_4:42847-42853	NIL	LOC	NAM	1.0	
+Wambui	annotation-460	Afrika	swahili_4:51698-51703	NIL	LOC	NAM	1.0	
+Wambui	annotation-461	Marekani	swahili_4:75897-75904	NIL	LOC	NAM	1.0	
+Wambui	annotation-462	Ulaya	swahili_4:64937-64941	NIL	LOC	NAM	1.0	
+Wambui	annotation-463	Xi Jinping	swahili_4:63719-63728	NIL	PER	NAM	1.0	
+Wambui	annotation-464	Afrika	swahili_4:110604-110609	NIL	LOC	NAM	1.0	
+Wambui	annotation-465	Kassai	swahili_4:10439-10444	NIL	LOC	NAM	1.0	
+Wambui	annotation-466	siku 14	swahili_4:10875-10881	NIL	DATE	NAM	1.0	
+Wambui	annotation-467	Cervera	swahili_4:74325-74331	NIL	PER	NAM	1.0	
+Wambui	annotation-468	Angela Merkel	swahili_4:62679-62691	NIL	PER	NAM	1.0	
+Wambui	annotation-469	Jumatatu, Julai 29	swahili_4:118632-118649	NIL	DATE	NAM	1.0	
+Wambui	annotation-470	Butler	swahili_4:87488-87493	NIL	PER	NAM	1.0	
+Wambui	annotation-471	Xi Jinping	swahili_4:10302-10311	NIL	PER	NAM	1.0	
+Wambui	annotation-472	Washington, DC	swahili_4:92869-92882	NIL	LOC	NAM	1.0	
+Wambui	annotation-473	WHO	swahili_4:5497-5499	NIL	ORG	NAM	1.0	
+Wambui	annotation-474	Jean Claude Juncker	swahili_4:62732-62750	NIL	PER	NAM	1.0	
+Wambui	annotation-475	2020	swahili_4:57975-57978	NIL	DATE	NAM	1.0	
+Wambui	annotation-476	Vincent Musila	swahili_4:108573-108586	NIL	PER	NAM	1.0	
+Wambui	annotation-477	2012	swahili_4:1113-1116	NIL	DATE	NAM	1.0	
+Wambui	annotation-478	Tanzania	swahili_4:39926-39933	NIL	LOC	NAM	1.0	
+Wambui	annotation-479	Bashir	swahili_4:130062-130067	NIL	PER	NAM	1.0	
+Wambui	annotation-480	Kabendera	swahili_4:4844-4852	NIL	PER	NAM	1.0	
+Wambui	annotation-481	Francis	swahili_4:41680-41686	NIL	PER	NAM	1.0	
+Wambui	annotation-482	Mueller	swahili_4:55483-55489	NIL	PER	NAM	1.0	
+Wambui	annotation-483	Uingereza	swahili_4:93276-93284	NIL	LOC	NAM	1.0	
+Wambui	annotation-484	Harvard Harris	swahili_4:129428-129441	NIL	LOC	NAM	1.0	
+Wambui	annotation-485	Ujerumani	swahili_4:62669-62677	NIL	LOC	NAM	1.0	
+Wambui	annotation-486	Jim Yong Kim	swahili_4:7359-7370	NIL	PER	NAM	1.0	
+Wambui	annotation-487	Trump	swahili_4:129271-129275	NIL	PER	NAM	1.0	
+Wambui	annotation-488	AU	swahili_4:91420-91421	NIL	ORG	NAM	1.0	
+Wambui	annotation-489	Thomas Kwesi Quartey	swahili_4:2246-2265	NIL	PER	NAM	1.0	
+Wambui	annotation-490	Machi	swahili_4:92104-92108	NIL	DATE	NAM	1.0	
+Wambui	annotation-491	Umoja wa Ulaya	swahili_4:93397-93410	NIL	ORG	NAM	1.0	
+Wambui	annotation-492	Ulaya	swahili_4:95322-95326	NIL	LOC	NAM	1.0	
+Wambui	annotation-493	Donald Trump	swahili_4:92977-92988	NIL	PER	NAM	1.0	
+Wambui	annotation-494	Marekani	swahili_4:62063-62070	NIL	LOC	NAM	1.0	
+Wambui	annotation-495	Iran	swahili_4:9595-9598	NIL	LOC	NAM	1.0	
+Wambui	annotation-496	Bar	swahili_4:55167-55169	NIL	PER	NAM	1.0	
+Wambui	annotation-497	FBI	swahili_4:135487-135489	NIL	ORG	NAM	1.0	
+Wambui	annotation-498	Jumanne	swahili_4:114405-114411	NIL	DATE	NAM	1.0	
+Wambui	annotation-499	Unesco	swahili_4:58172-58177	NIL	ORG	NAM	1.0	
+Wambui	annotation-500	Iran	swahili_4:8789-8792	NIL	LOC	NAM	1.0	
+Wambui	annotation-501	Donald Trump	swahili_4:75906-75917	NIL	PER	NAM	1.0	
+Wambui	annotation-502	Huawei	swahili_4:2766-2771	NIL	ORG	NAM	1.0	
+Wambui	annotation-503	Mei	swahili_4:42945-42947	NIL	DATE	NAM	1.0	
+Wambui	annotation-504	Uingereza	swahili_4:94764-94772	NIL	LOC	NAM	1.0	
+Wambui	annotation-505	Afrika	swahili_4:91408-91413	NIL	LOC	NAM	1.0	
+Wambui	annotation-506	Ivanka Tramp	swahili_4:61361-61372	NIL	PER	NAM	1.0	
+Wambui	annotation-507	Mei 17, 2017	swahili_4:134728-134739	NIL	DATE	NAM	1.0	
+Wambui	annotation-508	Marekani	swahili_4:9003-9010	NIL	LOC	NAM	1.0	
+Wambui	annotation-509	EU	swahili_4:94033-94034	NIL	ORG	NAM	1.0	
+Wambui	annotation-510	Muungano wa Watetezi wa Haki za Binadamu Tanzania	swahili_4:117783-117831	NIL	ORG	NAM	1.0	
+Wambui	annotation-511	Pakistani	swahili_4:88208-88216	NIL	LOC	NAM	1.0	
+Wambui	annotation-512	Jumatatu Mei 25	swahili_4:91234-91248	NIL	DATE	NAM	1.0	
+Wambui	annotation-513	Zitto	swahili_4:89534-89538	NIL	PER	NAM	1.0	
+Wambui	annotation-514	Afrika	swahili_4:147711-147716	NIL	LOC	NAM	1.0	
+Wambui	annotation-515	Kenya	swahili_4:52487-52491	NIL	LOC	NAM	1.0	
+Wambui	annotation-516	Umoja wa Mataifa	swahili_4:22315-22330	NIL	ORG	NAM	1.0	
+Wambui	annotation-517	miaka 15	swahili_4:110967-110974	NIL	DATE	NAM	1.0	
+Wambui	annotation-518	AfCHPR	swahili_4:115350-115355	NIL	ORG	NAM	1.0	
+Wambui	annotation-519	Umoja wa Mataifa la kuhudumia watoto	swahili_4:21838-21873	NIL	ORG	NAM	1.0	
+Wambui	annotation-520	EU	swahili_4:94164-94165	NIL	ORG	NAM	1.0	
+Wambui	annotation-521	Honduras	swahili_4:11127-11134	NIL	LOC	NAM	1.0	
+Wambui	annotation-522	CPJ	swahili_4:86282-86284	NIL	ORG	NAM	1.0	
+Wambui	annotation-523	New York	swahili_4:112445-112452	NIL	LOC	NAM	1.0	
+Wambui	annotation-524	White House	swahili_4:134204-134214	NIL	LOC	NAM	1.0	
+Wambui	annotation-525	UNICEF	swahili_4:21876-21881	NIL	ORG	NAM	1.0	
+Wambui	annotation-526	Addis Ababa	swahili_4:92506-92516	NIL	LOC	NAM	1.0	
+Wambui	annotation-527	bahari ya Hindi	swahili_4:110779-110793	NIL	LOC	NAM	1.0	
+Wambui	annotation-528	Benhajj Masoud	swahili_4:88712-88725	NIL	PER	NAM	1.0	
+Wambui	annotation-529	Christine Kamikazi	swahili_4:111702-111719	NIL	PER	NAM	1.0	
+Wambui	annotation-530	AfCHPR	swahili_4:117035-117040	NIL	ORG	NAM	1.0	
+Wambui	annotation-531	siku tisa	swahili_4:5217-5225	NIL	DATE	NAM	1.0	
+Wambui	annotation-532	Tanzania	swahili_4:117371-117378	NIL	LOC	NAM	1.0	
+Wambui	annotation-533	UNICEF	swahili_4:23060-23065	NIL	ORG	NAM	1.0	
+Wambui	annotation-534	Trump	swahili_4:113425-113429	NIL	PER	NAM	1.0	
+Wambui	annotation-535	Pwani ya Virginia	swahili_4:76064-76080	NIL	LOC	NAM	1.0	
+Wambui	annotation-536	AngloGold	swahili_4:39829-39837	NIL	ORG	NAM	1.0	
+Wambui	annotation-537	2019	swahili_4:5121-5124	NIL	DATE	NAM	1.0	
+Wambui	annotation-538	Benki ya Dunia	swahili_4:7344-7357	NIL	ORG	NAM	1.0	
+Wambui	annotation-539	Jumatano	swahili_4:8736-8743	NIL	DATE	NAM	1.0	
+Wambui	annotation-540	India	swahili_4:6486-6490	NIL	LOC	NAM	1.0	
+Wambui	annotation-541	Marekani	swahili_4:112958-112965	NIL	LOC	NAM	1.0	
+Wambui	annotation-542	Sudan Kusini	swahili_4:109523-109534	NIL	LOC	NAM	1.0	
+Wambui	annotation-543	Ujerumani	swahili_4:9254-9262	NIL	LOC	NAM	1.0	
+Wambui	annotation-544	Guangzhou	swahili_4:54382-54390	NIL	LOC	NAM	1.0	
+Wambui	annotation-545	Jumatano	swahili_4:160885-160892	NIL	DATE	NAM	1.0	
+Wambui	annotation-546	Ijumaa	swahili_4:134256-134261	NIL	DATE	NAM	1.0	
+Wambui	annotation-547	Mexico	swahili_4:11237-11242	NIL	LOC	NAM	1.0	
+Wambui	annotation-548	Angola	swahili_4:10628-10633	NIL	LOC	NAM	1.0	
+Wambui	annotation-549	Afrika	swahili_4:2497-2502	NIL	LOC	NAM	1.0	
+Wambui	annotation-550	Addis Ababa	swahili_4:2511-2521	NIL	LOC	NAM	1.0	
+Wambui	annotation-551	Israel	swahili_4:7147-7152	NIL	LOC	NAM	1.0	
+Wambui	annotation-552	John Mnyika	swahili_4:37564-37574	NIL	PER	NAM	1.0	
+Wambui	annotation-553	Loy Kabendera	swahili_4:4879-4891	NIL	PER	NAM	1.0	
+Wambui	annotation-554	Rosenstein	swahili_4:134983-134992	NIL	PER	NAM	1.0	
+Wambui	annotation-555	Marekani	swahili_4:113410-113417	NIL	LOC	NAM	1.0	
+Wambui	annotation-556	Shirika la Afya Duniani	swahili_4:147055-147077	NIL	ORG	NAM	1.0	
+Wambui	annotation-557	African National Congress- ANC	swahili_4:56544-56573	NIL	ORG	NAM	1.0	
+Wambui	annotation-558	Dar es Salaam	swahili_4:4063-4075	NIL	LOC	NAM	1.0	
+Wambui	annotation-559	Shirika la Afya Duniani	swahili_4:4994-5016	NIL	ORG	NAM	1.0	
+Wambui	annotation-560	Terence Mpozenzi	swahili_4:111757-111772	NIL	PER	NAM	1.0	
+Wambui	annotation-561	Ijumaa mchana	swahili_4:130642-130654	NIL	DATE	NAM	1.0	
+Wambui	annotation-562	Ursula von der Leyen	swahili_4:93776-93795	NIL	PER	NAM	1.0	
+Wambui	annotation-563	Otieno	swahili_4:57208-57213	NIL	PER	NAM	1.0	
+Wambui	annotation-564	Brazzaville	swahili_4:147380-147390	NIL	LOC	NAM	1.0	
+Wambui	annotation-565	Tanzania	swahili_4:37427-37434	NIL	LOC	NAM	1.0	
+Wambui	annotation-566	Uswizi	swahili_4:4973-4978	NIL	LOC	NAM	1.0	
+Wambui	annotation-567	Zimbabwe	swahili_4:116137-116144	NIL	LOC	NAM	1.0	
+Wambui	annotation-568	Robert Mueller	swahili_4:54886-54899	NIL	PER	NAM	1.0	
+Wambui	annotation-569	WHO	swahili_4:148389-148391	NIL	ORG	NAM	1.0	
+Wambui	annotation-570	Kadushi	swahili_4:38215-38221	NIL	PER	NAM	1.0	
+Wambui	annotation-571	Donald Trump	swahili_4:130881-130892	NIL	PER	NAM	1.0	
+Wambui	annotation-572	Sylvain Ore’	swahili_4:116434-116445	NIL	PER	NAM	1.0	
+Wambui	annotation-573	Afrika	swahili_4:2640-2645	NIL	LOC	NAM	1.0	
+Wambui	annotation-574	Al-Shabab	swahili_4:90823-90831	NIL	ORG	NAM	1.0	
+Wambui	annotation-575	Emmanuel Macron	swahili_4:62485-62499	NIL	PER	NAM	1.0	
+Wambui	annotation-576	Afrika	swahili_4:108191-108196	NIL	LOC	NAM	1.0	
+Wambui	annotation-577	Rwanda	swahili_4:112601-112606	NIL	LOC	NAM	1.0	
+Wambui	annotation-578	Ufaransa	swahili_4:62399-62406	NIL	LOC	NAM	1.0	
+Wambui	annotation-579	Butler	swahili_4:87712-87717	NIL	PER	NAM	1.0	
+Wambui	annotation-580	Umoja wa Afrika	swahili_4:51920-51934	NIL	ORG	NAM	1.0	
+Wambui	annotation-581	Tume Huru ya Haki za Binadamu	swahili_4:86862-86890	NIL	ORG	NAM	1.0	
+Wambui	annotation-582	Mbowe	swahili_4:37077-37081	NIL	PER	NAM	1.0	
+Wambui	annotation-583	Nigeria	swahili_4:33902-33908	NIL	LOC	NAM	1.0	
+Wambui	annotation-584	Zanzibar	swahili_4:37494-37501	NIL	LOC	NAM	1.0	
+Wambui	annotation-585	Iringa Mjini	swahili_4:37587-37598	NIL	LOC	NAM	1.0	
+Wambui	annotation-586	ANC	swahili_4:55959-55961	NIL	ORG	NAM	1.0	
+Wambui	annotation-587	Ore’	swahili_4:116958-116961	NIL	PER	NAM	1.0	
+Wambui	annotation-588	Tanzania	swahili_4:4259-4266	NIL	LOC	NAM	1.0	
+Wambui	annotation-589	Umoja wa Mataifa	swahili_4:112919-112934	NIL	ORG	NAM	1.0	
+Wambui	annotation-590	Moussa	swahili_4:22375-22380	NIL	LOC	NAM	1.0	
+Wambui	annotation-591	Umoja wa Ulaya	swahili_4:62717-62730	NIL	ORG	NAM	1.0	
+Wambui	annotation-592	Marekani	swahili_4:9683-9690	NIL	LOC	NAM	1.0	
+Wambui	annotation-593	2018	swahili_4:88477-88480	NIL	DATE	NAM	1.0	
+Wambui	annotation-594	Jumatano	swahili_4:42820-42827	NIL	DATE	NAM	1.0	
+Wambui	annotation-595	Erick Kabendera	swahili_4:117380-117394	NIL	PER	NAM	1.0	
+Wambui	annotation-596	2016	swahili_4:89612-89615	NIL	DATE	NAM	1.0	
+Wambui	annotation-597	Shirika la Afya Duniani	swahili_4:161117-161139	NIL	ORG	NAM	1.0	
+Wambui	annotation-598	Marekani	swahili_4:85953-85960	NIL	LOC	NAM	1.0	
+Wambui	annotation-599	One Belt one Road	swahili_4:64449-64465	NIL	ORG	NAM	1.0	
+Wambui	annotation-600	Sauti ya Amerika	swahili_4:112968-112983	NIL	ORG	NAM	1.0	
+Wambui	annotation-601	Abdushakur Aboud	swahili_4:65099-65114	NIL	PER	NAM	1.0	
+Wambui	annotation-602	Rebecca Nyandeng De Mabior	swahili_4:43112-43137	NIL	PER	NAM	1.0	
+Wambui	annotation-603	China	swahili_4:63963-63967	NIL	LOC	NAM	1.0	
+Wambui	annotation-604	Dar es Salaam	swahili_4:4238-4250	NIL	LOC	NAM	1.0	
+Wambui	annotation-605	Sudan Kusini	swahili_4:40331-40342	NIL	LOC	NAM	1.0	
+Wambui	annotation-606	Dar	swahili_4:118798-118800	NIL	LOC	NAM	1.0	
+Wambui	annotation-607	Afrika	swahili_4:2994-2999	NIL	LOC	NAM	1.0	
+Wambui	annotation-608	Marekani	swahili_4:113333-113340	NIL	LOC	NAM	1.0	
+Wambui	annotation-609	Marekani	swahili_4:36697-36704	NIL	LOC	NAM	1.0	
+Wambui	annotation-610	Pretoria	swahili_4:114293-114300	NIL	LOC	NAM	1.0	
+Wambui	annotation-611	Marekani	swahili_4:9279-9286	NIL	LOC	NAM	1.0	
+Wambui	annotation-612	Benki ya Taifa	swahili_4:158672-158685	NIL	ORG	NAM	1.0	
+Wambui	annotation-613	Marekani	swahili_4:97587-97594	NIL	LOC	NAM	1.0	
+Wambui	annotation-614	Ituri	swahili_4:23103-23107	NIL	LOC	NAM	1.0	
+Wambui	annotation-615	Moussa	swahili_4:22644-22649	NIL	LOC	NAM	1.0	
+Wambui	annotation-616	VOA	swahili_4:112985-112987	NIL	ORG	NAM	1.0	
+Wambui	annotation-617	DRC	swahili_4:10481-10483	NIL	LOC	NAM	1.0	
+Wambui	annotation-618	Tedros Adhanom Ghebreyesus	swahili_4:5348-5373	NIL	PER	NAM	1.0	
+Wambui	annotation-619	Marekani	swahili_4:97664-97671	NIL	LOC	NAM	1.0	
+Wambui	annotation-620	Marekani	swahili_4:51726-51733	NIL	LOC	NAM	1.0	
+Wambui	annotation-621	Kabendera	swahili_4:4481-4489	NIL	PER	NAM	1.0	
+Wambui	annotation-622	US	swahili_4:93878-93879	NIL	LOC	NAM	1.0	
+Wambui	annotation-623	Dar es Salaam	swahili_4:118254-118266	NIL	LOC	NAM	1.0	
+Wambui	annotation-624	Shimon Peres	swahili_4:41962-41973	NIL	PER	NAM	1.0	
+Wambui	annotation-625	bahari ya Atlantic	swahili_4:93030-93047	NIL	LOC	NAM	1.0	
+Wambui	annotation-626	Ireland	swahili_4:95336-95342	NIL	LOC	NAM	1.0	
+Wambui	annotation-627	Marekani	swahili_4:94385-94392	NIL	LOC	NAM	1.0	
+Wambui	annotation-628	Ulaya	swahili_4:62849-62853	NIL	LOC	NAM	1.0	
+Wambui	annotation-629	Marekani	swahili_4:65033-65040	NIL	LOC	NAM	1.0	
+Wambui	annotation-630	Emmanuel Macron	swahili_4:63068-63082	NIL	PER	NAM	1.0	
+Wambui	annotation-631	Umoja wa Ulaya	swahili_4:63374-63387	NIL	ORG	NAM	1.0	
+Wambui	annotation-632	Sudan	swahili_4:130097-130101	NIL	LOC	NAM	1.0	
+Wambui	annotation-633	Xi	swahili_4:63551-63552	NIL	PER	NAM	1.0	
+Wambui	annotation-634	Rio Grande	swahili_4:11309-11318	NIL	LOC	NAM	1.0	
+Wambui	annotation-635	New York	swahili_4:133014-133021	NIL	LOC	NAM	1.0	
+Wambui	annotation-636	Mahagi	swahili_4:23399-23404	NIL	LOC	NAM	1.0	
+Wambui	annotation-637	bahari ya Hindi	swahili_4:108435-108449	NIL	LOC	NAM	1.0	
+Wambui	annotation-638	mwaka mmoja	swahili_4:135443-135453	NIL	DATE	NAM	1.0	
+Wambui	annotation-639	Johannesburg	swahili_4:114261-114272	NIL	LOC	NAM	1.0	
+Wambui	annotation-640	Marekani	swahili_4:96716-96723	NIL	LOC	NAM	1.0	
+Wambui	annotation-641	OAU	swahili_4:92482-92484	NIL	ORG	NAM	1.0	
+Wambui	annotation-642	Cyril Ramaphosa	swahili_4:57461-57475	NIL	PER	NAM	1.0	
+Wambui	annotation-643	ANC	swahili_4:57310-57312	NIL	ORG	NAM	1.0	
+Wambui	annotation-644	Julai 2019	swahili_4:115507-115516	NIL	DATE	NAM	1.0	
+Wambui	annotation-645	Iran	swahili_4:9146-9149	NIL	LOC	NAM	1.0	
+Wambui	annotation-646	BBC	swahili_4:112110-112112	NIL	ORG	NAM	1.0	
+Wambui	annotation-647	Palestina	swahili_4:41986-41994	NIL	LOC	NAM	1.0	
+Wambui	annotation-648	One Belt and One road	swahili_4:63897-63917	NIL	ORG	NAM	1.0	
+Wambui	annotation-649	New York	swahili_4:95681-95688	NIL	LOC	NAM	1.0	
+Wambui	annotation-650	Minneapolis	swahili_4:54612-54622	NIL	LOC	NAM	1.0	
+Wambui	annotation-651	Washington, DC	swahili_4:5640-5653	NIL	LOC	NAM	1.0	
+Wambui	annotation-652	Afrika	swahili_4:91327-91332	NIL	LOC	NAM	1.0	
+Wambui	annotation-653	Lindmeier	swahili_4:162906-162914	NIL	PER	NAM	1.0	
+Wambui	annotation-654	Mambossasa	swahili_4:119657-119666	NIL	PER	NAM	1.0	
+Wambui	annotation-655	Cyril Ramaphosa	swahili_4:114118-114132	NIL	PER	NAM	1.0	
+Wambui	annotation-656	Paul Kagame	swahili_4:112609-112619	NIL	PER	NAM	1.0	
+Wambui	annotation-657	Donald Trump	swahili_4:94850-94861	NIL	PER	NAM	1.0	
+Wambui	annotation-658	Irumu	swahili_4:23409-23413	NIL	LOC	NAM	1.0	
+Wambui	annotation-659	India	swahili_4:6832-6836	NIL	LOC	NAM	1.0	
+Wambui	annotation-660	Alhamisi	swahili_4:128827-128834	NIL	DATE	NAM	1.0	
+Wambui	annotation-661	UN	swahili_4:58319-58320	NIL	ORG	NAM	1.0	
+Wambui	annotation-662	WGDP	swahili_4:61879-61882	NIL	ORG	NAM	1.0	
+Wambui	annotation-663	Jumanne	swahili_4:94394-94400	NIL	DATE	NAM	1.0	
+Wambui	annotation-664	Ijumaa	swahili_4:108719-108724	NIL	DATE	NAM	1.0	
+Wambui	annotation-665	ANC	swahili_4:57024-57026	NIL	ORG	NAM	1.0	
+Wambui	annotation-666	siku tatu	swahili_4:108657-108665	NIL	DATE	NAM	1.0	
+Wambui	annotation-667	CCM	swahili_4:59-61	NIL	ORG	NAM	1.0	
+Wambui	annotation-668	New York	swahili_4:112942-112949	NIL	LOC	NAM	1.0	
+Wambui	annotation-669	Trump	swahili_4:135161-135165	NIL	PER	NAM	1.0	
+Wambui	annotation-670	Machar	swahili_4:41330-41335	NIL	PER	NAM	1.0	
+Wambui	annotation-671	Xi Jinping	swahili_4:64202-64211	NIL	PER	NAM	1.0	
+Wambui	annotation-672	China	swahili_4:532-536	NIL	LOC	NAM	1.0	
+Wambui	annotation-673	China	swahili_4:52845-52849	NIL	LOC	NAM	1.0	
+Wambui	annotation-674	Afrika	swahili_4:147276-147281	NIL	LOC	NAM	1.0	
+Wambui	annotation-675	Nigeria	swahili_4:33494-33500	NIL	LOC	NAM	1.0	
+Wambui	annotation-676	Kiir	swahili_4:42757-42760	NIL	PER	NAM	1.0	
+Wambui	annotation-677	ANC	swahili_4:56727-56729	NIL	ORG	NAM	1.0	
+Wambui	annotation-678	Afrika	swahili_4:3206-3211	NIL	LOC	NAM	1.0	
+Wambui	annotation-679	Pretoria	swahili_4:114655-114662	NIL	LOC	NAM	1.0	
+Wambui	annotation-680	Kamati ya kuwatetea waandishi wa habari	swahili_4:85863-85901	NIL	ORG	NAM	1.0	
+Wambui	annotation-681	Kiir	swahili_4:42462-42465	NIL	PER	NAM	1.0	
+Wambui	annotation-682	China	swahili_4:2478-2482	NIL	LOC	NAM	1.0	
+Wambui	annotation-683	Minneapolis	swahili_4:53567-53577	NIL	LOC	NAM	1.0	
+Wambui	annotation-684	Juni 3	swahili_4:21997-22002	NIL	DATE	NAM	1.0	
+Wambui	annotation-685	Kabendera	swahili_4:118563-118571	NIL	PER	NAM	1.0	
+Wambui	annotation-686	WHO	swahili_4:161563-161565	NIL	ORG	NAM	1.0	
+Wambui	annotation-687	Bubanza	swahili_4:111843-111849	NIL	LOC	NAM	1.0	
+Wambui	annotation-688	William Barr	swahili_4:130707-130718	NIL	PER	NAM	1.0	
+Wambui	annotation-689	Marekani	swahili_4:9397-9404	NIL	LOC	NAM	1.0	
+Wambui	annotation-690	Afrika	swahili_4:117181-117186	NIL	LOC	NAM	1.0	
+Wambui	annotation-691	Kim	swahili_4:8145-8147	NIL	PER	NAM	1.0	
+Wambui	annotation-692	Kiir	swahili_4:41322-41325	NIL	PER	NAM	1.0	
+Wambui	annotation-693	Edouard Beigbeder	swahili_4:22110-22126	NIL	PER	NAM	1.0	
+Wambui	annotation-694	Jumatatu	swahili_4:88698-88705	NIL	DATE	NAM	1.0	
+Wambui	annotation-695	Emmanuel Macron	swahili_4:63051-63065	NIL	PER	NAM	1.0	
+Wambui	annotation-696	Kim	swahili_4:7463-7465	NIL	PER	NAM	1.0	
+Wambui	annotation-697	Twitter	swahili_4:52663-52669	NIL	ORG	NAM	1.0	
+Wambui	annotation-698	Afrika	swahili_4:115576-115581	NIL	LOC	NAM	1.0	
+Wambui	annotation-699	Umoja wa Mataifa	swahili_4:109793-109808	NIL	ORG	NAM	1.0	
+Wambui	annotation-700	Jumatatu	swahili_4:3892-3899	NIL	DATE	NAM	1.0	
+Wambui	annotation-701	Geneva	swahili_4:4965-4970	NIL	LOC	NAM	1.0	
+Wambui	annotation-702	Ituri	swahili_4:23431-23435	NIL	LOC	NAM	1.0	
+Wambui	annotation-703	Russia	swahili_4:135588-135593	NIL	LOC	NAM	1.0	
+Wambui	annotation-704	Ramaphosa	swahili_4:113861-113869	NIL	PER	NAM	1.0	
+Wambui	annotation-705	Afrika Kusini	swahili_4:55704-55716	NIL	LOC	NAM	1.0	
+Wambui	annotation-706	Vincent Mashinji	swahili_4:37638-37653	NIL	PER	NAM	1.0	
+Wambui	annotation-707	Trump	swahili_4:9522-9526	NIL	PER	NAM	1.0	
+Wambui	annotation-708	Djugu	swahili_4:23392-23396	NIL	LOC	NAM	1.0	
+Wambui	annotation-709	Ujerumani	swahili_4:6961-6969	NIL	LOC	NAM	1.0	
+Wambui	annotation-710	Umoja wa Kitaifa	swahili_4:40536-40551	NIL	ORG	NAM	1.0	
+Wambui	annotation-711	Ijumaa	swahili_4:74045-74050	NIL	DATE	NAM	1.0	
+Wambui	annotation-712	China	swahili_4:54075-54079	NIL	LOC	NAM	1.0	
+Wambui	annotation-713	Steffan Seibert	swahili_4:6972-6986	NIL	PER	NAM	1.0	
+Wambui	annotation-714	Washington, DC	swahili_4:112289-112302	NIL	LOC	NAM	1.0	
+Wambui	annotation-715	Washington, DC	swahili_4:148523-148536	NIL	LOC	NAM	1.0	
+Wambui	annotation-716	Afrika kusini	swahili_4:55941-55953	NIL	LOC	NAM	1.0	
+Wambui	annotation-717	Austria	swahili_4:6445-6451	NIL	LOC	NAM	1.0	
+Wambui	annotation-718	Afrika	swahili_4:62116-62121	NIL	LOC	NAM	1.0	
+Wambui	annotation-719	Jumatatu	swahili_4:61477-61484	NIL	DATE	NAM	1.0	
+Wambui	annotation-720	Hong Kong	swahili_4:160235-160243	NIL	LOC	NAM	1.0	
+Wambui	annotation-721	Erick	swahili_4:4910-4914	NIL	PER	NAM	1.0	
+Wambui	annotation-722	WHO	swahili_4:5018-5020	NIL	ORG	NAM	1.0	
+Wambui	annotation-723	Egide Harerimana	swahili_4:111739-111754	NIL	PER	NAM	1.0	
+Wambui	annotation-724	Marekani	swahili_4:54758-54765	NIL	LOC	NAM	1.0	
+Wambui	annotation-725	umoja wa kitaifa	swahili_4:41294-41309	NIL	ORG	NAM	1.0	
+Wambui	annotation-726	Kagame	swahili_4:112815-112820	NIL	PER	NAM	1.0	
+Wambui	annotation-727	2019	swahili_4:108313-108316	NIL	DATE	NAM	1.0	
+Wambui	annotation-728	Steven Butler	swahili_4:86167-86179	NIL	PER	NAM	1.0	
+Wambui	annotation-729	Mueller	swahili_4:131151-131157	NIL	PER	NAM	1.0	
+Wambui	annotation-730	Sudan Kusini	swahili_4:109657-109668	NIL	LOC	NAM	1.0	
+Wambui	annotation-731	Afrika	swahili_4:114973-114978	NIL	LOC	NAM	1.0	
+Wambui	annotation-732	Trump	swahili_4:129521-129525	NIL	PER	NAM	1.0	
+Wambui	annotation-733	Kakola Ombaka	swahili_4:109182-109194	NIL	LOC	NAM	1.0	
+Wambui	annotation-734	Februari 1 na 16, 2018	swahili_4:37987-38008	NIL	DATE	NAM	1.0	
+Wambui	annotation-735	ANC	swahili_4:57082-57084	NIL	ORG	NAM	1.0	
+Wambui	annotation-736	new York City	swahili_4:97393-97405	NIL	LOC	NAM	1.0	
+Wambui	annotation-737	Marekani	swahili_4:73650-73657	NIL	LOC	NAM	1.0	
+Wambui	annotation-738	Chadema	swahili_4:37625-37631	NIL	ORG	NAM	1.0	
+Wambui	annotation-739	Netanyahu	swahili_4:6628-6636	NIL	PER	NAM	1.0	
+Wambui	annotation-740	Mike Hammer	swahili_4:53027-53037	NIL	PER	NAM	1.0	
+Wambui	annotation-741	Sudan Kusini	swahili_4:110167-110178	NIL	LOC	NAM	1.0	
+Wambui	annotation-742	alhamisi	swahili_4:161005-161012	NIL	DATE	NAM	1.0	
+Wambui	annotation-743	Virginia	swahili_4:76252-76259	NIL	LOC	NAM	1.0	
+Wambui	annotation-744	Tanzania	swahili_4:53870-53877	NIL	LOC	NAM	1.0	
+Wambui	annotation-745	Julia	swahili_4:11508-11512	NIL	PER	NAM	1.0	
+Wambui	annotation-746	Umoja wa Nchi Huru za Afrika	swahili_4:92452-92479	NIL	ORG	NAM	1.0	
+Wambui	annotation-747	Washington	swahili_4:6345-6354	NIL	LOC	NAM	1.0	
+Wambui	annotation-748	Lam	swahili_4:160572-160574	NIL	PER	NAM	1.0	
+Wambui	annotation-749	Donald Trump	swahili_4:113246-113257	NIL	PER	NAM	1.0	
+Wambui	annotation-750	Umoja wa Afrika	swahili_4:91049-91063	NIL	ORG	NAM	1.0	
+Wambui	annotation-751	Ulaya	swahili_4:63402-63406	NIL	LOC	NAM	1.0	
+Wambui	annotation-752	Safari	swahili_4:38072-38077	NIL	PER	NAM	1.0	
+Wambui	annotation-753	April 2015	swahili_4:159782-159791	NIL	DATE	NAM	1.0	
+Wambui	annotation-754	Ijumaa	swahili_4:86125-86130	NIL	DATE	NAM	1.0	
+Wambui	annotation-755	mwezi mmoja	swahili_4:160972-160982	NIL	DATE	NAM	1.0	
+Wambui	annotation-756	Februari 1	swahili_4:7505-7514	NIL	DATE	NAM	1.0	
+Wambui	annotation-757	Tanzania	swahili_4:135632-135639	NIL	LOC	NAM	1.0	
+Wambui	annotation-758	Angela Merkel	swahili_4:64548-64560	NIL	PER	NAM	1.0	
+Wambui	annotation-759	John Heche	swahili_4:37745-37754	NIL	PER	NAM	1.0	
+Wambui	annotation-760	miaka mitano	swahili_4:57477-57488	NIL	DATE	NAM	1.0	
+Wambui	annotation-761	EU	swahili_4:93773-93774	NIL	ORG	NAM	1.0	
+Wambui	annotation-762	Acuña	swahili_4:11206-11210	NIL	LOC	NAM	1.0	
+Wambui	annotation-763	ANC	swahili_4:57401-57403	NIL	ORG	NAM	1.0	
+Wambui	annotation-764	Kagame	swahili_4:113111-113116	NIL	PER	NAM	1.0	
+Wambui	annotation-765	Donald Trump	swahili_4:1630-1641	NIL	PER	NAM	1.0	
+Wambui	annotation-766	Uganda	swahili_4:53845-53850	NIL	LOC	NAM	1.0	
+Wambui	annotation-767	Mbweni	swahili_4:4085-4090	NIL	LOC	NAM	1.0	
+Wambui	annotation-768	Julai mwaka 2019	swahili_4:118230-118245	NIL	DATE	NAM	1.0	
+Wambui	annotation-769	Akobo	swahili_4:109685-109689	NIL	LOC	NAM	1.0	
+Wambui	annotation-770	Uingereza	swahili_4:36728-36736	NIL	LOC	NAM	1.0	
+Wambui	annotation-771	1989	swahili_4:130438-130441	NIL	DATE	NAM	1.0	
+Wambui	annotation-772	Ireland	swahili_4:93289-93295	NIL	LOC	NAM	1.0	
+Wambui	annotation-773	China	swahili_4:733-737	NIL	LOC	NAM	1.0	
+Wambui	annotation-774	Kurz	swahili_4:6582-6585	NIL	PER	NAM	1.0	
+Wambui	annotation-775	Kiir	swahili_4:42704-42707	NIL	PER	NAM	1.0	
+Wambui	annotation-776	Marekani	swahili_4:52098-52105	NIL	LOC	NAM	1.0	
+Wambui	annotation-777	WHO	swahili_4:94664-94666	NIL	ORG	NAM	1.0	
+Wambui	annotation-778	CHADEMA	swahili_4:135645-135651	NIL	ORG	NAM	1.0	
+Wambui	annotation-779	Russia	swahili_4:54964-54969	NIL	LOC	NAM	1.0	
+Wambui	annotation-780	Uingereza	swahili_4:9231-9239	NIL	LOC	NAM	1.0	
+Wambui	annotation-781	Cyril Ramaphosa	swahili_4:91495-91509	NIL	PER	NAM	1.0	
+Wambui	annotation-782	Mueller	swahili_4:133198-133204	NIL	PER	NAM	1.0	
+Wambui	annotation-783	2011	swahili_4:130185-130188	NIL	DATE	NAM	1.0	
+Wambui	annotation-784	Washington, DC	swahili_4:65117-65130	NIL	LOC	NAM	1.0	
+Wambui	annotation-785	THRDC	swahili_4:117834-117838	NIL	ORG	NAM	1.0	
+Wambui	annotation-786	1990	swahili_4:3017-3020	NIL	DATE	NAM	1.0	
+Wambui	annotation-787	Simon	swahili_4:86806-86810	NIL	PER	NAM	1.0	
+Wambui	annotation-788	Marekani	swahili_4:134495-134502	NIL	LOC	NAM	1.0	
+Wambui	annotation-789	Israeli	swahili_4:41953-41959	NIL	LOC	NAM	1.0	
+Wambui	annotation-790	Philippe Wang	swahili_4:2302-2314	NIL	PER	NAM	1.0	
+Wambui	annotation-791	Umoja wa Afrika	swahili_4:1869-1883	NIL	ORG	NAM	1.0	
+Wambui	annotation-792	China	swahili_4:161253-161257	NIL	LOC	NAM	1.0	
+Wambui	annotation-793	Afrika	swahili_4:39990-39995	NIL	LOC	NAM	1.0	
+Wambui	annotation-794	Lahore	swahili_4:86396-86401	NIL	LOC	NAM	1.0	
+Wambui	annotation-795	Washington, DC	swahili_4:97729-97742	NIL	LOC	NAM	1.0	
+Wambui	annotation-796	Huawei	swahili_4:3141-3146	NIL	ORG	NAM	1.0	
+Wambui	annotation-797	Kenya	swahili_4:35138-35142	NIL	LOC	NAM	1.0	
+Wambui	annotation-798	Ujerumani	swahili_4:64374-64382	NIL	LOC	NAM	1.0	
+Wambui	annotation-799	Marekani	swahili_4:128797-128804	NIL	LOC	NAM	1.0	
+Wambui	annotation-800	Afrika	swahili_4:52023-52028	NIL	LOC	NAM	1.0	
+Wambui	annotation-801	African National Congress	swahili_4:55791-55815	NIL	ORG	NAM	1.0	
+Wambui	annotation-802	Jumatatu	swahili_4:3753-3760	NIL	DATE	NAM	1.0	
+Wambui	annotation-803	Afrika	swahili_4:2342-2347	NIL	LOC	NAM	1.0	
+Wambui	annotation-804	2019	swahili_4:39060-39063	NIL	DATE	NAM	1.0	
+Wambui	annotation-805	22 Oktoba, 2019	swahili_4:111807-111821	NIL	DATE	NAM	1.0	
+Wambui	annotation-806	Afrika	swahili_4:159761-159766	NIL	LOC	NAM	1.0	
+Wambui	annotation-807	Machi	swahili_4:95541-95545	NIL	DATE	NAM	1.0	
+Wambui	annotation-808	Netanyahu	swahili_4:6571-6579	NIL	PER	NAM	1.0	
+Wambui	annotation-809	Mueller	swahili_4:131819-131825	NIL	PER	NAM	1.0	
+Wambui	annotation-810	Kabendera	swahili_4:118164-118172	NIL	PER	NAM	1.0	
+Wambui	annotation-811	Israel	swahili_4:6052-6057	NIL	LOC	NAM	1.0	
+Wambui	annotation-812	Johannesburg	swahili_4:56041-56052	NIL	LOC	NAM	1.0	
+Wambui	annotation-813	Jumatano	swahili_4:62416-62423	NIL	DATE	NAM	1.0	
+Wambui	annotation-814	WHO	swahili_4:96263-96265	NIL	ORG	NAM	1.0	
+Wambui	annotation-815	Pakistan	swahili_4:86895-86902	NIL	LOC	NAM	1.0	
+Wambui	annotation-816	Marekani	swahili_4:113646-113653	NIL	LOC	NAM	1.0	
+Wambui	annotation-817	Marekani	swahili_4:53004-53011	NIL	LOC	NAM	1.0	
+Wambui	annotation-818	Darien Gap Panama	swahili_4:10905-10921	NIL	LOC	NAM	1.0	
+Wambui	annotation-819	Clinton	swahili_4:131506-131512	NIL	PER	NAM	1.0	
+Wambui	annotation-820	CHADEMA	swahili_4:136501-136507	NIL	ORG	NAM	1.0	
+Wambui	annotation-821	Agosti 19	swahili_4:119495-119503	NIL	DATE	NAM	1.0	
+Wambui	annotation-822	Donald Trump	swahili_4:52617-52628	NIL	PER	NAM	1.0	
+Wambui	annotation-823	VOA	swahili_4:112170-112172	NIL	ORG	NAM	1.0	
+Wambui	annotation-824	2015	swahili_4:9582-9585	NIL	DATE	NAM	1.0	
+Wambui	annotation-825	Hussein Elabe Fahiye	swahili_4:90450-90469	NIL	PER	NAM	1.0	
+Wambui	annotation-826	Niger	swahili_4:33391-33395	NIL	LOC	NAM	1.0	
+Wambui	annotation-827	Jumatatu	swahili_4:117396-117403	NIL	DATE	NAM	1.0	
+Wambui	annotation-828	Donald Trump	swahili_4:61737-61748	NIL	PER	NAM	1.0	
+Wambui	annotation-829	WHO	swahili_4:96058-96060	NIL	ORG	NAM	1.0	
+Wambui	annotation-830	Zimbabwe	swahili_4:116480-116487	NIL	LOC	NAM	1.0	
+Wambui	annotation-831	Afrika Kusini	swahili_4:57176-57188	NIL	LOC	NAM	1.0	
+Wambui	annotation-832	China	swahili_4:10231-10235	NIL	LOC	NAM	1.0	
+Wambui	annotation-833	Alhamisi	swahili_4:85806-85813	NIL	DATE	NAM	1.0	
+Wambui	annotation-834	Mahmoud Abbas	swahili_4:41997-42009	NIL	PER	NAM	1.0	
+Wambui	annotation-835	China	swahili_4:951-955	NIL	LOC	NAM	1.0	
+Wambui	annotation-836	EU	swahili_4:93432-93433	NIL	ORG	NAM	1.0	
+Wambui	annotation-837	Mei	swahili_4:40567-40569	NIL	DATE	NAM	1.0	
+Wambui	annotation-838	Rosenstein	swahili_4:134781-134790	NIL	PER	NAM	1.0	
+Wambui	annotation-839	Sudan Kusini	swahili_4:42380-42391	NIL	LOC	NAM	1.0	
+Wambui	annotation-840	zaVirginia Beach	swahili_4:74740-74755	NIL	LOC	NAM	1.0	
+Wambui	annotation-841	China	swahili_4:161847-161851	NIL	LOC	NAM	1.0	
+Wambui	annotation-842	Tanzania	swahili_4:88339-88346	NIL	LOC	NAM	1.0	
+Wambui	annotation-843	Nairobi	swahili_4:35263-35269	NIL	LOC	NAM	1.0	
+Wambui	annotation-844	Virginia	swahili_4:73634-73641	NIL	LOC	NAM	1.0	
+Wambui	annotation-845	Israel	swahili_4:6682-6687	NIL	LOC	NAM	1.0	
+Wambui	annotation-846	White House	swahili_4:133812-133822	NIL	LOC	NAM	1.0	
+Wambui	annotation-847	China	swahili_4:62195-62199	NIL	LOC	NAM	1.0	
+Wambui	annotation-848	Marekani	swahili_4:10556-10563	NIL	LOC	NAM	1.0	
+Wambui	annotation-849	Mahamat	swahili_4:92064-92070	NIL	PER	NAM	1.0	
+Wambui	annotation-850	Schumer	swahili_4:97487-97493	NIL	PER	NAM	1.0	
+Wambui	annotation-851	Mei	swahili_4:22847-22849	NIL	DATE	NAM	1.0	
+Wambui	annotation-852	chama cha Demokrat	swahili_4:131459-131476	NIL	ORG	NAM	1.0	
+Wambui	annotation-853	Huawei	swahili_4:2948-2953	NIL	ORG	NAM	1.0	
+Wambui	annotation-854	Buhari	swahili_4:34276-34281	NIL	PER	NAM	1.0	
+Wambui	annotation-855	Umoja wa Mataifa	swahili_4:113287-113302	NIL	ORG	NAM	1.0	
+Wambui	annotation-856	Pakistan	swahili_4:87808-87815	NIL	LOC	NAM	1.0	
+Wambui	annotation-857	Francis	swahili_4:40889-40895	NIL	PER	NAM	1.0	
+Wambui	annotation-858	Ecuador	swahili_4:10800-10806	NIL	LOC	NAM	1.0	
+Wambui	annotation-859	Xi Jinping	swahili_4:64175-64184	NIL	PER	NAM	1.0	
+Wambui	annotation-860	Sudan Kusini	swahili_4:109810-109821	NIL	LOC	NAM	1.0	
+Wambui	annotation-861	Itali	swahili_4:64877-64881	NIL	LOC	NAM	1.0	
+Wambui	annotation-862	Benki Kuu ya Burundi	swahili_4:158503-158522	NIL	ORG	NAM	1.0	
+Wambui	annotation-863	Agnes Ndirubusa	swahili_4:111722-111736	NIL	PER	NAM	1.0	
+Wambui	annotation-864	Marekani	swahili_4:95723-95730	NIL	LOC	NAM	1.0	
+Wambui	annotation-865	benki ya taifa	swahili_4:159111-159124	NIL	ORG	NAM	1.0	
+Wambui	annotation-866	Jumatatu	swahili_4:129793-129800	NIL	DATE	NAM	1.0	
+Wambui	annotation-867	Juni	swahili_4:129462-129465	NIL	DATE	NAM	1.0	
+Wambui	annotation-868	Umoja wa Mataifa	swahili_4:58301-58316	NIL	ORG	NAM	1.0	
+Wambui	annotation-869	Mueller	swahili_4:132877-132883	NIL	PER	NAM	1.0	
+Wambui	annotation-870	siku 30	swahili_4:95141-95147	NIL	DATE	NAM	1.0	
+Wambui	annotation-871	Ralph Northam	swahili_4:76030-76042	NIL	PER	NAM	1.0	
+Wambui	annotation-872	Joel Simon	swahili_4:86587-86596	NIL	PER	NAM	1.0	
+Wambui	annotation-873	Marekani	swahili_4:52184-52191	NIL	LOC	NAM	1.0	
+Wambui	annotation-874	miaka 25	swahili_4:56760-56767	NIL	DATE	NAM	1.0	
+Wambui	annotation-875	Marekani	swahili_4:92968-92975	NIL	LOC	NAM	1.0	
+Wambui	annotation-876	Ujerumani	swahili_4:64538-64546	NIL	LOC	NAM	1.0	
+Wambui	annotation-877	Amerika	swahili_4:53186-53192	NIL	LOC	NAM	1.0	
+Wambui	annotation-878	China	swahili_4:96132-96136	NIL	LOC	NAM	1.0	
+Wambui	annotation-879	AU	swahili_4:91066-91067	NIL	ORG	NAM	1.0	
+Wambui	annotation-880	Virginia Beach	swahili_4:76359-76372	NIL	LOC	NAM	1.0	
+Wambui	annotation-881	Kenya	swahili_4:52352-52356	NIL	LOC	NAM	1.0	
+Wambui	annotation-882	Hong Kong	swahili_4:159944-159952	NIL	LOC	NAM	1.0	
+Wambui	annotation-883	Aprili 2019	swahili_4:54907-54917	NIL	DATE	NAM	1.0	
+Wambui	annotation-884	Mussa Taibu	swahili_4:4269-4279	NIL	PER	NAM	1.0	
+Wambui	annotation-885	Ramaphosa	swahili_4:91734-91742	NIL	PER	NAM	1.0	
+Wambui	annotation-886	miaka 10	swahili_4:129020-129027	NIL	DATE	NAM	1.0	
+Wambui	annotation-887	Benjamin Netanyahu	swahili_4:5763-5780	NIL	PER	NAM	1.0	
+Wambui	annotation-888	Halima Mdee	swahili_4:37703-37713	NIL	PER	NAM	1.0	
+Wambui	annotation-889	Trump	swahili_4:129042-129046	NIL	PER	NAM	1.0	
+Wambui	annotation-890	Oktoba 2019	swahili_4:42521-42531	NIL	DATE	NAM	1.0	
+Wambui	annotation-891	Marekani	swahili_4:6221-6228	NIL	LOC	NAM	1.0	
+Wambui	annotation-892	Lindmeier	swahili_4:162655-162663	NIL	PER	NAM	1.0	
+Wambui	annotation-893	2016	swahili_4:159608-159611	NIL	DATE	NAM	1.0	
+Wambui	annotation-894	Marekani	swahili_4:129204-129211	NIL	LOC	NAM	1.0	
+Wambui	annotation-895	Minnesota	swahili_4:53950-53958	NIL	LOC	NAM	1.0	
+Wambui	annotation-896	Francis	swahili_4:40204-40210	NIL	PER	NAM	1.0	
+Wambui	annotation-897	Lazaro Mambosasa	swahili_4:4341-4356	NIL	PER	NAM	1.0	
+Wambui	annotation-898	Umoja wa Ulaya	swahili_4:63972-63985	NIL	ORG	NAM	1.0	
+Wambui	annotation-899	Burundi	swahili_4:112066-112072	NIL	LOC	NAM	1.0	
+Wambui	annotation-900	Italia	swahili_4:42790-42795	NIL	LOC	NAM	1.0	
+Wambui	annotation-901	Jumatatu	swahili_4:7390-7397	NIL	DATE	NAM	1.0	
+Wambui	annotation-902	Bernard Membe	swahili_4:246-258	NIL	PER	NAM	1.0	
+Wambui	annotation-903	WHO	swahili_4:95928-95930	NIL	ORG	NAM	1.0	
+Wambui	annotation-904	Ulaya	swahili_4:148100-148104	NIL	LOC	NAM	1.0	
+Wambui	annotation-905	World Bank	swahili_4:8537-8546	NIL	ORG	NAM	1.0	
+Wambui	annotation-906	Donald Trump	swahili_4:96535-96546	NIL	PER	NAM	1.0	
+Wambui	annotation-907	Ester Matiko	swahili_4:37110-37121	NIL	PER	NAM	1.0	
+Wambui	annotation-908	Dar es Salaam	swahili_4:38011-38023	NIL	LOC	NAM	1.0	
+Wambui	annotation-909	Comoro	swahili_4:116470-116475	NIL	LOC	NAM	1.0	
+Wambui	annotation-910	Butler	swahili_4:86415-86420	NIL	PER	NAM	1.0	
+Wambui	annotation-911	2020	swahili_4:22825-22828	NIL	DATE	NAM	1.0	
+Wambui	annotation-912	Afrika	swahili_4:52112-52117	NIL	LOC	NAM	1.0	
+Wambui	annotation-913	Kinondoni	swahili_4:4227-4235	NIL	PER	NAM	1.0	
+Wambui	annotation-914	Ufaransa	swahili_4:9242-9249	NIL	LOC	NAM	1.0	
+Wambui	annotation-915	Trump	swahili_4:8958-8962	NIL	PER	NAM	1.0	
+Wambui	annotation-916	Afrika Kusini	swahili_4:56457-56469	NIL	LOC	NAM	1.0	
+Wambui	annotation-917	Tanzania	swahili_4:118611-118618	NIL	LOC	NAM	1.0	
+Wambui	annotation-918	Hassan Rouhani	swahili_4:9188-9201	NIL	PER	NAM	1.0	
+Wambui	annotation-919	dakika mbili	swahili_4:108831-108842	NIL	DATE	NAM	1.0	
+Wambui	annotation-920	Virginia Beach	swahili_4:73772-73785	NIL	LOC	NAM	1.0	
+Wambui	annotation-921	Italy	swahili_4:63754-63758	NIL	LOC	NAM	1.0	
+Wambui	annotation-922	WHO	swahili_4:147645-147647	NIL	ORG	NAM	1.0	
+Wambui	annotation-923	chama cha Demokrat	swahili_4:131332-131349	NIL	ORG	NAM	1.0	
+Wambui	annotation-924	Kisutu	swahili_4:38306-38311	NIL	LOC	NAM	1.0	
+Wambui	annotation-925	Pakistan	swahili_4:87434-87441	NIL	LOC	NAM	1.0	
+Wambui	annotation-926	Chadema	swahili_4:36882-36888	NIL	ORG	NAM	1.0	
+Wambui	annotation-927	Netanyahu	swahili_4:6776-6784	NIL	PER	NAM	1.0	
+Wambui	annotation-928	Pakistan	swahili_4:87583-87590	NIL	LOC	NAM	1.0	
+Wambui	annotation-929	White House	swahili_4:134369-134379	NIL	LOC	NAM	1.0	
+Wambui	annotation-930	White House	swahili_4:75869-75879	NIL	LOC	NAM	1.0	
+Wambui	annotation-931	Umoja wa Afrika	swahili_4:115272-115286	NIL	ORG	NAM	1.0	
+Wambui	annotation-932	Mueller	swahili_4:134144-134150	NIL	PER	NAM	1.0	
+Wambui	annotation-933	Zambia	swahili_4:92359-92364	NIL	LOC	NAM	1.0	
+Wambui	annotation-934	EFF	swahili_4:57793-57795	NIL	ORG	NAM	1.0	
+Wambui	annotation-935	CPJ	swahili_4:85904-85906	NIL	ORG	NAM	1.0	
+Wambui	annotation-936	Afrika	swahili_4:51750-51755	NIL	LOC	NAM	1.0	
+Wambui	annotation-937	Act Wazalendo	swahili_4:136189-136201	NIL	ORG	NAM	1.0	
+Wambui	annotation-938	October	swahili_4:110629-110635	NIL	DATE	NAM	1.0	
+Wambui	annotation-939	Washington, CD	swahili_4:43191-43204	NIL	LOC	NAM	1.0	
+Wambui	annotation-940	Huawei	swahili_4:1099-1104	NIL	ORG	NAM	1.0	
+Wambui	annotation-941	Vatican	swahili_4:41606-41612	NIL	LOC	NAM	1.0	
+Wambui	annotation-942	Unesco	swahili_4:57961-57966	NIL	ORG	NAM	1.0	
+Wambui	annotation-943	China	swahili_4:421-425	NIL	LOC	NAM	1.0	
+Wambui	annotation-944	2015	swahili_4:98-101	NIL	DATE	NAM	1.0	
+Wambui	annotation-945	1998	swahili_4:115014-115017	NIL	DATE	NAM	1.0	
+Wambui	annotation-946	Michael Flynn	swahili_4:132203-132215	NIL	PER	NAM	1.0	
+Wambui	annotation-947	Benin	swahili_4:33566-33570	NIL	LOC	NAM	1.0	
+Wambui	annotation-948	Jumapili	swahili_4:10574-10581	NIL	DATE	NAM	1.0	
+Wambui	annotation-949	Nairobi	swahili_4:36178-36184	NIL	ORG	NAM	1.0	
+Wambui	annotation-950	Nairobi	swahili_4:36149-36155	NIL	LOC	NAM	1.0	
+Wambui	annotation-951	china	swahili_4:63411-63415	NIL	LOC	NAM	1.0	
+Wambui	annotation-952	2015	swahili_4:219-222	NIL	DATE	NAM	1.0	
+Wambui	annotation-953	Russia	swahili_4:130634-130639	NIL	LOC	NAM	1.0	
+Wambui	annotation-954	Jumanne	swahili_4:115209-115215	NIL	DATE	NAM	1.0	
+Wambui	annotation-955	Jean Ciza	swahili_4:159245-159253	NIL	PER	NAM	1.0	
+Wambui	annotation-956	Washington, DC	swahili_4:23674-23687	NIL	LOC	NAM	1.0	
+Wambui	annotation-957	Barr	swahili_4:133405-133408	NIL	PER	NAM	1.0	
+Wambui	annotation-958	Mueller	swahili_4:135268-135274	NIL	PER	NAM	1.0	
+Wambui	annotation-959	Umoja wa Ulaya	swahili_4:159472-159485	NIL	ORG	NAM	1.0	
+Wambui	annotation-960	Aprili	swahili_4:22837-22842	NIL	DATE	NAM	1.0	
+Wambui	annotation-961	Minneapolis	swahili_4:51586-51596	NIL	LOC	NAM	1.0	
+Wambui	annotation-962	AU	swahili_4:91492-91493	NIL	ORG	NAM	1.0	
+Wambui	annotation-963	Benin	swahili_4:33382-33386	NIL	LOC	NAM	1.0	
+Wambui	annotation-964	Tarime Mjini	swahili_4:37096-37107	NIL	LOC	NAM	1.0	
+Wambui	annotation-965	Paul Manafort	swahili_4:132345-132357	NIL	PER	NAM	1.0	
+Wambui	annotation-966	Lazaro Mambossasa	swahili_4:118803-118819	NIL	PER	NAM	1.0	
+Wambui	annotation-967	Tanzania	swahili_4:3657-3664	NIL	LOC	NAM	1.0	
+Wambui	annotation-968	Mueller	swahili_4:131179-131185	NIL	PER	NAM	1.0	
+Wambui	annotation-969	Tedros Adhanom Ghebreyesus	swahili_4:96066-96091	NIL	PER	NAM	1.0	
+Wambui	annotation-970	Shirika la Mpango wa Chakula Duniani	swahili_4:110008-110043	NIL	ORG	NAM	1.0	
+Wambui	annotation-971	Burundi	swahili_4:111893-111899	NIL	LOC	NAM	1.0	
+Wambui	annotation-972	Butler	swahili_4:87353-87358	NIL	PER	NAM	1.0	
+Wambui	annotation-973	Giuseppe Conte	swahili_4:42798-42811	NIL	PER	NAM	1.0	
+Wambui	annotation-974	Johannesburg	swahili_4:114026-114037	NIL	LOC	NAM	1.0	
+Wambui	annotation-975	Ethiopia	swahili_4:667-674	NIL	LOC	NAM	1.0	
+Wambui	annotation-976	Kenya	swahili_4:53836-53840	NIL	LOC	NAM	1.0	
+Wambui	annotation-977	Afrika	swahili_4:115848-115853	NIL	LOC	NAM	1.0	
+Wambui	annotation-978	Kamati ya Usalama ya Baraza la Wawakilishi la Marekani	swahili_4:1119-1172	NIL	ORG	NAM	1.0	
+Wambui	annotation-979	Ufaransa	swahili_4:62275-62282	NIL	LOC	NAM	1.0	
+Wambui	annotation-980	benki ya taifa	swahili_4:158775-158788	NIL	ORG	NAM	1.0	
+Wambui	annotation-981	Huawei	swahili_4:1519-1524	NIL	ORG	NAM	1.0	
+Wambui	annotation-982	James Cervera	swahili_4:73844-73856	NIL	PER	NAM	1.0	
+Wambui	annotation-983	Huawei	swahili_4:3383-3388	NIL	ORG	NAM	1.0	
+Wambui	annotation-984	chama cha Likud	swahili_4:5952-5966	NIL	ORG	NAM	1.0	
+Wambui	annotation-985	2011	swahili_4:85356-85359	NIL	DATE	NAM	1.0	
+Wambui	annotation-986	David Shearer	swahili_4:109824-109836	NIL	PER	NAM	1.0	
+Wambui	annotation-987	Afrika Kusini	swahili_4:39846-39858	NIL	LOC	NAM	1.0	
+Wambui	annotation-988	Sudan	swahili_4:130236-130240	NIL	LOC	NAM	1.0	
+Wambui	annotation-989	Jumanne	swahili_4:7063-7069	NIL	DATE	NAM	1.0	
+Wambui	annotation-990	Jumatano	swahili_4:90594-90601	NIL	DATE	NAM	1.0	
+Wambui	annotation-991	Umoja wa Mataifa	swahili_4:8369-8384	NIL	ORG	NAM	1.0	
+Wambui	annotation-992	Barr	swahili_4:130895-130898	NIL	PER	NAM	1.0	
+Wambui	annotation-993	Unesco	swahili_4:59568-59573	NIL	ORG	NAM	1.0	
+Wambui	annotation-994	Kenneth Kaunda	swahili_4:92366-92379	NIL	PER	NAM	1.0	
+Wambui	annotation-995	2016	swahili_4:55018-55021	NIL	DATE	NAM	1.0	
+Wambui	annotation-996	Vatican	swahili_4:40971-40977	NIL	LOC	NAM	1.0	

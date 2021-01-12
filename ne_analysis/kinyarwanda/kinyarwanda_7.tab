@@ -1,0 +1,826 @@
+Andre	annotation-0	Uganda	kinyarwanda_7:5270-5275	NIL	LOC	NAM	1.0	
+Andre	annotation-1	Rwanda	kinyarwanda_7:54343-54348	NIL	LOC	NAM	1.0	
+Andre	annotation-2	Rubaduka Frank	kinyarwanda_7:11301-11314	NIL	PER	NAM	1.0	
+Andre	annotation-3	700-1091	kinyarwanda_7:50862-50869	NIL	DATE	NAM	1.0	
+Andre	annotation-4	Kimihurura	kinyarwanda_7:41269-41278	NIL	LOC	NAM	1.0	
+Andre	annotation-5	Rwanda	kinyarwanda_7:54129-54134	NIL	LOC	NAM	1.0	
+Andre	annotation-6	Nsanzabera Jean de Dieu	kinyarwanda_7:24478-24500	NIL	PER	NAM	1.0	
+Andre	annotation-7	Afurika	kinyarwanda_7:31166-31172	NIL	LOC	NAM	1.0	
+Andre	annotation-8	Village Urugwiro	kinyarwanda_7:14491-14506	NIL	LOC	NAM	1.0	
+Andre	annotation-9	Gicanda	kinyarwanda_7:43202-43208	NIL	PER	NAM	1.0	
+Andre	annotation-10	Afurika	kinyarwanda_7:71504-71510	NIL	LOC	NAM	1.0	
+Andre	annotation-11	Akinwumi	kinyarwanda_7:34005-34012	NIL	PER	NAM	1.0	
+Andre	annotation-12	Rwabugili	kinyarwanda_7:28179-28187	NIL	PER	NAM	1.0	
+Andre	annotation-13	Congo	kinyarwanda_7:33105-33109	NIL	LOC	NAM	1.0	
+Andre	annotation-14	1960	kinyarwanda_7:34313-34316	NIL	DATE	NAM	1.0	
+Andre	annotation-15	1981	kinyarwanda_7:14118-14121	NIL	DATE	NAM	1.0	
+Andre	annotation-16	Cyilima Rujugira rwa Yuhi Mazimpaka	kinyarwanda_7:60204-60238	NIL	PER	NAM	1.0	
+Andre	annotation-17	Rwanda	kinyarwanda_7:27638-27643	NIL	LOC	NAM	1.0	
+Andre	annotation-18	Rwanda	kinyarwanda_7:17983-17988	NIL	LOC	NAM	1.0	
+Andre	annotation-19	Nyirabwana	kinyarwanda_7:41948-41957	NIL	LOC	NAM	1.0	
+Andre	annotation-20	Rwanda	kinyarwanda_7:39946-39951	NIL	LOC	NAM	1.0	
+Andre	annotation-21	Rwanda	kinyarwanda_7:54180-54185	NIL	LOC	NAM	1.0	
+Andre	annotation-22	Kaminuza ya Harvard	kinyarwanda_7:73017-73035	NIL	ORG	NAM	1.0	
+Andre	annotation-23	Insarikanamakuza	kinyarwanda_7:58445-58460	NIL	PER	NAM	1.0	
+Andre	annotation-24	ICOM	kinyarwanda_7:63181-63184	NIL	ORG	NAM	1.0	
+Andre	annotation-25	Cyilima Rujugira	kinyarwanda_7:61260-61275	NIL	PER	NAM	1.0	
+Andre	annotation-26	2010	kinyarwanda_7:798-801	NIL	DATE	NAM	1.0	
+Andre	annotation-27	Inteko Ishinga Amategeko	kinyarwanda_7:14068-14091	NIL	ORG	NAM	1.0	
+Andre	annotation-28	2012	kinyarwanda_7:45838-45841	NIL	DATE	NAM	1.0	
+Andre	annotation-29	Huye	kinyarwanda_7:44093-44096	NIL	LOC	NAM	1.0	
+Andre	annotation-30	Nirere Shanel	kinyarwanda_7:1127-1139	NIL	PER	NAM	1.0	
+Andre	annotation-31	Leta Zunze Ubumwe za Amerika	kinyarwanda_7:30120-30147	NIL	LOC	NAM	1.0	
+Andre	annotation-32	Mutabazi	kinyarwanda_7:69866-69873	NIL	PER	NAM	1.0	
+Andre	annotation-33	Rwanda	kinyarwanda_7:68863-68868	NIL	LOC	NAM	1.0	
+Andre	annotation-34	Gihango	kinyarwanda_7:4918-4924	NIL	LOC	NAM	1.0	
+Andre	annotation-35	Rwanda	kinyarwanda_7:54423-54428	NIL	LOC	NAM	1.0	
+Andre	annotation-36	Pierre Bizimana	kinyarwanda_7:44777-44791	NIL	PER	NAM	1.0	
+Andre	annotation-37	Kicukiro	kinyarwanda_7:41196-41203	NIL	LOC	NAM	1.0	
+Andre	annotation-38	Nyanza	kinyarwanda_7:47319-47324	NIL	LOC	NAM	1.0	
+Andre	annotation-39	Rwamagana	kinyarwanda_7:47779-47787	NIL	LOC	NAM	1.0	
+Andre	annotation-40	PaulKagame	kinyarwanda_7:2144-2153	NIL	PER	NAM	1.0	
+Andre	annotation-41	Rwanda	kinyarwanda_7:58042-58047	NIL	LOC	NAM	1.0	
+Andre	annotation-42	Gihanga	kinyarwanda_7:7073-7079	NIL	PER	NAM	1.0	
+Andre	annotation-43	Amerika	kinyarwanda_7:29469-29475	NIL	LOC	NAM	1.0	
+Andre	annotation-44	1982	kinyarwanda_7:14181-14184	NIL	DATE	NAM	1.0	
+Andre	annotation-45	Gicanda	kinyarwanda_7:46575-46581	NIL	PER	NAM	1.0	
+Andre	annotation-46	Berlin	kinyarwanda_7:34428-34433	NIL	LOC	NAM	1.0	
+Andre	annotation-47	Gasabo	kinyarwanda_7:48392-48397	NIL	LOC	NAM	1.0	
+Andre	annotation-48	Afurika	kinyarwanda_7:69806-69812	NIL	LOC	NAM	1.0	
+Andre	annotation-49	Gasabo	kinyarwanda_7:23671-23676	NIL	LOC	NAM	1.0	
+Andre	annotation-50	Rwanda	kinyarwanda_7:4698-4703	NIL	LOC	NAM	1.0	
+Andre	annotation-51	Kicukiro	kinyarwanda_7:22539-22546	NIL	LOC	NAM	1.0	
+Andre	annotation-52	Valéry Marie René Georges Giscard d’Estaing	kinyarwanda_7:13346-13388	NIL	PER	NAM	1.0	
+Andre	annotation-53	Mutara	kinyarwanda_7:47696-47701	NIL	LOC	NAM	1.0	
+Andre	annotation-54	Kigali	kinyarwanda_7:12119-12124	NIL	LOC	NAM	1.0	
+Andre	annotation-55	Kigali	kinyarwanda_7:14698-14703	NIL	LOC	NAM	1.0	
+Andre	annotation-56	Kagame	kinyarwanda_7:37130-37135	NIL	PER	NAM	1.0	
+Andre	annotation-57	Rwanda	kinyarwanda_7:50237-50242	NIL	LOC	NAM	1.0	
+Andre	annotation-58	2017	kinyarwanda_7:46459-46462	NIL	DATE	NAM	1.0	
+Andre	annotation-59	Afurika	kinyarwanda_7:69986-69992	NIL	LOC	NAM	1.0	
+Andre	annotation-60	Alpha Condé	kinyarwanda_7:46853-46863	NIL	PER	NAM	1.0	
+Andre	annotation-61	Mwili	kinyarwanda_7:5815-5819	NIL	LOC	NAM	1.0	
+Andre	annotation-62	Akinwumi	kinyarwanda_7:31397-31404	NIL	PER	NAM	1.0	
+Andre	annotation-63	Kagame	kinyarwanda_7:36472-36477	NIL	PER	NAM	1.0	
+Andre	annotation-64	Mazimpaka	kinyarwanda_7:60315-60323	NIL	PER	NAM	1.0	
+Andre	annotation-65	Leta Zunze Ubumwe za Amerika	kinyarwanda_7:971-998	NIL	LOC	NAM	1.0	
+Andre	annotation-66	Gasabo	kinyarwanda_7:7851-7856	NIL	LOC	NAM	1.0	
+Andre	annotation-67	Rwanda	kinyarwanda_7:11362-11367	NIL	LOC	NAM	1.0	
+Andre	annotation-68	Gasabo	kinyarwanda_7:40165-40170	NIL	LOC	NAM	1.0	
+Andre	annotation-69	Gitoki	kinyarwanda_7:51660-51665	NIL	LOC	NAM	1.0	
+Andre	annotation-70	Rwanda Inspiration Back Up	kinyarwanda_7:17486-17511	NIL	ORG	NAM	1.0	
+Andre	annotation-71	Rosalie Gicanda	kinyarwanda_7:43119-43133	NIL	PER	NAM	1.0	
+Andre	annotation-72	20 Mata 1994	kinyarwanda_7:43041-43052	NIL	DATE	NAM	1.0	
+Andre	annotation-73	Gasabo	kinyarwanda_7:7633-7638	NIL	LOC	NAM	1.0	
+Andre	annotation-74	Village Urugwiro	kinyarwanda_7:11511-11526	NIL	LOC	NAM	1.0	
+Andre	annotation-75	17 Mata	kinyarwanda_7:44354-44360	NIL	DATE	NAM	1.0	
+Andre	annotation-76	Uganda	kinyarwanda_7:47752-47757	NIL	LOC	NAM	1.0	
+Andre	annotation-77	Afurika	kinyarwanda_7:31651-31657	NIL	LOC	NAM	1.0	
+Andre	annotation-78	ICOM	kinyarwanda_7:62706-62709	NIL	ORG	NAM	1.0	
+Andre	annotation-79	Gatsibo	kinyarwanda_7:6802-6808	NIL	LOC	NAM	1.0	
+Andre	annotation-80	Rwanda	kinyarwanda_7:7101-7106	NIL	LOC	NAM	1.0	
+Andre	annotation-81	Afurika	kinyarwanda_7:28938-28944	NIL	LOC	NAM	1.0	
+Andre	annotation-82	Muhura	kinyarwanda_7:51778-51783	NIL	LOC	NAM	1.0	
+Andre	annotation-83	Rwanda	kinyarwanda_7:23292-23297	NIL	LOC	NAM	1.0	
+Andre	annotation-84	Gicanda	kinyarwanda_7:45711-45717	NIL	PER	NAM	1.0	
+Andre	annotation-85	Remera	kinyarwanda_7:42333-42338	NIL	LOC	NAM	1.0	
+Andre	annotation-86	Kinyejana cya Munani nyuma ya Yezu	kinyarwanda_7:50138-50171	NIL	DATE	NAM	1.0	
+Andre	annotation-87	Afurika	kinyarwanda_7:72328-72334	NIL	LOC	NAM	1.0	
+Andre	annotation-88	Bamporiki Edouard	kinyarwanda_7:1965-1981	NIL	PER	NAM	1.0	
+Andre	annotation-89	Nsigaye ya Gakombe ka Yuhi Mazimpaka	kinyarwanda_7:60601-60636	NIL	PER	NAM	1.0	
+Andre	annotation-90	Rwanda	kinyarwanda_7:46215-46220	NIL	LOC	NAM	1.0	
+Andre	annotation-91	Rwanda	kinyarwanda_7:54650-54655	NIL	LOC	NAM	1.0	
+Andre	annotation-92	Nsanzabera Jean de Dieu	kinyarwanda_7:57977-57999	NIL	PER	NAM	1.0	
+Andre	annotation-93	Leopold II	kinyarwanda_7:33366-33375	NIL	PER	NAM	1.0	
+Andre	annotation-94	Mukuku wa Yuhi Mazimpaka	kinyarwanda_7:61083-61106	NIL	PER	NAM	1.0	
+Andre	annotation-95	Kivumu cya Mpushi	kinyarwanda_7:23384-23400	NIL	LOC	NAM	1.0	
+Andre	annotation-96	Afurika	kinyarwanda_7:30903-30909	NIL	LOC	NAM	1.0	
+Andre	annotation-97	Rusororo	kinyarwanda_7:8345-8352	NIL	LOC	NAM	1.0	
+Andre	annotation-98	Gicanda	kinyarwanda_7:43901-43907	NIL	PER	NAM	1.0	
+Andre	annotation-99	Bihabanyi bya Gashikazi ka Cyilima Rujugira	kinyarwanda_7:61566-61608	NIL	PER	NAM	1.0	
+Andre	annotation-100	Bufaransa	kinyarwanda_7:13419-13427	NIL	LOC	NAM	1.0	
+Andre	annotation-101	Bwanacyambwe	kinyarwanda_7:41645-41656	NIL	LOC	NAM	1.0	
+Andre	annotation-102	Amerika	kinyarwanda_7:65166-65172	NIL	LOC	NAM	1.0	
+Andre	annotation-103	Ikigo cy’Ingoro z’Igihugu z’Umurage w’u Rwanda	kinyarwanda_7:21681-21726	NIL	ORG	NAM	1.0	
+Andre	annotation-104	Bubiligi	kinyarwanda_7:30462-30469	NIL	LOC	NAM	1.0	
+Andre	annotation-105	Tambwe	kinyarwanda_7:47009-47014	NIL	LOC	NAM	1.0	
+Andre	annotation-106	Rweya	kinyarwanda_7:7126-7130	NIL	LOC	NAM	1.0	
+Andre	annotation-107	Kivumu	kinyarwanda_7:4927-4932	NIL	LOC	NAM	1.0	
+Andre	annotation-108	Afurika	kinyarwanda_7:28780-28786	NIL	LOC	NAM	1.0	
+Andre	annotation-109	Mibambwe Sekarongoro Mutabazi	kinyarwanda_7:22777-22805	NIL	PER	NAM	1.0	
+Andre	annotation-110	ULK	kinyarwanda_7:1874-1876	NIL	ORG	NAM	1.0	
+Andre	annotation-111	Rwanda	kinyarwanda_7:3173-3178	NIL	LOC	NAM	1.0	
+Andre	annotation-112	Webex	kinyarwanda_7:65603-65607	NIL	ORG	NAM	1.0	
+Andre	annotation-113	Rwanda	kinyarwanda_7:48506-48511	NIL	LOC	NAM	1.0	
+Andre	annotation-114	2000	kinyarwanda_7:35670-35673	NIL	DATE	NAM	1.0	
+Andre	annotation-115	Nzige	kinyarwanda_7:41383-41387	NIL	LOC	NAM	1.0	
+Andre	annotation-116	Rwanda	kinyarwanda_7:18372-18377	NIL	LOC	NAM	1.0	
+Andre	annotation-117	Mudenge wa Cyilima Rujugira	kinyarwanda_7:61409-61435	NIL	PER	NAM	1.0	
+Andre	annotation-118	Murundi	kinyarwanda_7:5824-5830	NIL	LOC	NAM	1.0	
+Andre	annotation-119	Rushara	kinyarwanda_7:58822-58828	NIL	PER	NAM	1.0	
+Andre	annotation-120	26 Gashyantare 1885	kinyarwanda_7:30287-30305	NIL	DATE	NAM	1.0	
+Andre	annotation-121	Afurika	kinyarwanda_7:73520-73526	NIL	LOC	NAM	1.0	
+Andre	annotation-122	Gatsibo	kinyarwanda_7:5897-5903	NIL	LOC	NAM	1.0	
+Andre	annotation-123	Kimenyi II Shumbusho	kinyarwanda_7:26585-26604	NIL	PER	NAM	1.0	
+Andre	annotation-124	1973	kinyarwanda_7:14049-14052	NIL	DATE	NAM	1.0	
+Andre	annotation-125	AngeKagame	kinyarwanda_7:20453-20462	NIL	PER	NAM	1.0	
+Andre	annotation-126	Remera	kinyarwanda_7:41281-41286	NIL	LOC	NAM	1.0	
+Andre	annotation-127	Nsanzabera Jean de Dieu	kinyarwanda_7:3108-3130	NIL	PER	NAM	1.0	
+Andre	annotation-128	Kazi	kinyarwanda_7:7060-7063	NIL	PER	NAM	1.0	
+Andre	annotation-129	Mutabazi	kinyarwanda_7:71250-71257	NIL	PER	NAM	1.0	
+Andre	annotation-130	Burasirazuba bw’u Rwanda	kinyarwanda_7:6739-6762	NIL	LOC	NAM	1.0	
+Andre	annotation-131	Ngarama	kinyarwanda_7:51641-51647	NIL	LOC	NAM	1.0	
+Andre	annotation-132	Afurika	kinyarwanda_7:70178-70184	NIL	LOC	NAM	1.0	
+Andre	annotation-133	Gihanga	kinyarwanda_7:53608-53614	NIL	PER	NAM	1.0	
+Andre	annotation-134	Gisaka	kinyarwanda_7:40718-40723	NIL	LOC	NAM	1.0	
+Andre	annotation-135	Ngoma	kinyarwanda_7:44664-44668	NIL	LOC	NAM	1.0	
+Andre	annotation-136	Nyakariro	kinyarwanda_7:41372-41380	NIL	LOC	NAM	1.0	
+Andre	annotation-137	Mwili	kinyarwanda_7:50536-50540	NIL	LOC	NAM	1.0	
+Andre	annotation-138	Rotterdam	kinyarwanda_7:825-833	NIL	LOC	NAM	1.0	
+Andre	annotation-139	2009	kinyarwanda_7:46057-46060	NIL	DATE	NAM	1.0	
+Andre	annotation-140	Rwanda	kinyarwanda_7:39396-39401	NIL	LOC	NAM	1.0	
+Andre	annotation-141	Jimmy Gatete	kinyarwanda_7:1166-1177	NIL	PER	NAM	1.0	
+Andre	annotation-142	Rwanda	kinyarwanda_7:17415-17420	NIL	LOC	NAM	1.0	
+Andre	annotation-143	Kigali	kinyarwanda_7:65334-65339	NIL	LOC	NAM	1.0	
+Andre	annotation-144	Rucagu	kinyarwanda_7:13795-13800	NIL	PER	NAM	1.0	
+Andre	annotation-145	Buyapani	kinyarwanda_7:73443-73450	NIL	LOC	NAM	1.0	
+Andre	annotation-146	Leopold II	kinyarwanda_7:33203-33212	NIL	PER	NAM	1.0	
+Andre	annotation-147	Rubaduka Frank	kinyarwanda_7:8664-8677	NIL	PER	NAM	1.0	
+Andre	annotation-148	Burasirazuba	kinyarwanda_7:40757-40768	NIL	LOC	NAM	1.0	
+Andre	annotation-149	Mutabazi	kinyarwanda_7:70517-70524	NIL	PER	NAM	1.0	
+Andre	annotation-150	Mureganshuro ya Yuhi Mazimpaka	kinyarwanda_7:59435-59464	NIL	PER	NAM	1.0	
+Andre	annotation-151	IGIHE	kinyarwanda_7:37447-37451	NIL	ORG	NAM	1.0	
+Andre	annotation-152	Rwanda	kinyarwanda_7:37556-37561	NIL	LOC	NAM	1.0	
+Andre	annotation-153	Yuhi III Mazimpaka	kinyarwanda_7:58050-58067	NIL	PER	NAM	1.0	
+Andre	annotation-154	Rujugira	kinyarwanda_7:58753-58760	NIL	PER	NAM	1.0	
+Andre	annotation-155	Mata 1994	kinyarwanda_7:37070-37078	NIL	DATE	NAM	1.0	
+Andre	annotation-156	Nyarwaya rwa Yuhi Mazimpaka	kinyarwanda_7:60534-60560	NIL	PER	NAM	1.0	
+Andre	annotation-157	Ali Bongo Ondimba	kinyarwanda_7:46803-46819	NIL	PER	NAM	1.0	
+Andre	annotation-158	1884	kinyarwanda_7:28870-28873	NIL	DATE	NAM	1.0	
+Andre	annotation-159	New York	kinyarwanda_7:957-964	NIL	LOC	NAM	1.0	
+Andre	annotation-160	Kagame	kinyarwanda_7:36988-36993	NIL	PER	NAM	1.0	
+Andre	annotation-161	Boneza	kinyarwanda_7:4937-4942	NIL	LOC	NAM	1.0	
+Andre	annotation-162	Unity Club	kinyarwanda_7:36561-36570	NIL	ORG	NAM	1.0	
+Andre	annotation-163	Kinyinya	kinyarwanda_7:41259-41266	NIL	LOC	NAM	1.0	
+Andre	annotation-164	Rwanda	kinyarwanda_7:42459-42464	NIL	LOC	NAM	1.0	
+Andre	annotation-165	Berlin	kinyarwanda_7:35641-35646	NIL	LOC	NAM	1.0	
+Andre	annotation-166	Kagame	kinyarwanda_7:47254-47259	NIL	PER	NAM	1.0	
+Andre	annotation-167	Kagame	kinyarwanda_7:38568-38573	NIL	PER	NAM	1.0	
+Andre	annotation-168	INMR	kinyarwanda_7:20909-20912	NIL	ORG	NAM	1.0	
+Andre	annotation-169	Noheli	kinyarwanda_7:30736-30741	NIL	DATE	NAM	1.0	
+Andre	annotation-170	11 Kamena 2017	kinyarwanda_7:46697-46710	NIL	DATE	NAM	1.0	
+Andre	annotation-171	Organization Commune Africaine et Malgache	kinyarwanda_7:12270-12311	NIL	ORG	NAM	1.0	
+Andre	annotation-172	Kanombe	kinyarwanda_7:63395-63401	NIL	LOC	NAM	1.0	
+Andre	annotation-173	Ambasade ya Amerika	kinyarwanda_7:13593-13611	NIL	ORG	NAM	1.0	
+Andre	annotation-174	1965	kinyarwanda_7:12377-12380	NIL	DATE	NAM	1.0	
+Andre	annotation-175	Diplomate	kinyarwanda_7:12589-12597	NIL	ORG	NAM	1.0	
+Andre	annotation-176	Gicanda	kinyarwanda_7:47900-47906	NIL	PER	NAM	1.0	
+Andre	annotation-177	Rwabutabura	kinyarwanda_7:21940-21950	NIL	PER	NAM	1.0	
+Andre	annotation-178	Bubiligi	kinyarwanda_7:33148-33155	NIL	LOC	NAM	1.0	
+Andre	annotation-179	2020	kinyarwanda_7:16885-16888	NIL	DATE	NAM	1.0	
+Andre	annotation-180	Bufaransa	kinyarwanda_7:13264-13272	NIL	LOC	NAM	1.0	
+Andre	annotation-181	Rwanda	kinyarwanda_7:45868-45873	NIL	LOC	NAM	1.0	
+Andre	annotation-182	Majyaruguru y’u Rwanda	kinyarwanda_7:4258-4279	NIL	LOC	NAM	1.0	
+Andre	annotation-183	Gihanga	kinyarwanda_7:52156-52162	NIL	PER	NAM	1.0	
+Andre	annotation-184	Nsanzabera Jean de Dieu	kinyarwanda_7:67016-67038	NIL	PER	NAM	1.0	
+Andre	annotation-185	Nteko Ishinga Amategeko y’u Rwanda	kinyarwanda_7:1381-1414	NIL	ORG	NAM	1.0	
+Andre	annotation-186	Mitunga ya Cyilima Rujugira n’umugabo we Seruhuga	kinyarwanda_7:59903-59951	NIL	PER	NAM	1.0	
+Andre	annotation-187	Mutabazi	kinyarwanda_7:72099-72106	NIL	PER	NAM	1.0	
+Andre	annotation-188	Rweya	kinyarwanda_7:51957-51961	NIL	LOC	NAM	1.0	
+Andre	annotation-189	Nyirabwanacyambwe	kinyarwanda_7:41898-41914	NIL	PER	NAM	1.0	
+Andre	annotation-190	Rwanda	kinyarwanda_7:18145-18150	NIL	LOC	NAM	1.0	
+Andre	annotation-191	Bamporiki	kinyarwanda_7:1518-1526	NIL	PER	NAM	1.0	
+Andre	annotation-192	Burayi	kinyarwanda_7:1696-1701	NIL	LOC	NAM	1.0	
+Andre	annotation-193	Bwongereza	kinyarwanda_7:30435-30444	NIL	LOC	NAM	1.0	
+Andre	annotation-194	2016	kinyarwanda_7:55847-55850	NIL	DATE	NAM	1.0	
+Andre	annotation-195	Butare	kinyarwanda_7:44672-44677	NIL	LOC	NAM	1.0	
+Andre	annotation-196	Kuva mu 1885 kugeza mu 1908	kinyarwanda_7:33432-33458	NIL	DATE	NAM	1.0	
+Andre	annotation-197	1984	kinyarwanda_7:14461-14464	NIL	DATE	NAM	1.0	
+Andre	annotation-198	Afurika	kinyarwanda_7:32809-32815	NIL	LOC	NAM	1.0	
+Andre	annotation-199	Serbia	kinyarwanda_7:65200-65205	NIL	LOC	NAM	1.0	
+Andre	annotation-200	Ildephonse Nizeyimana	kinyarwanda_7:44866-44886	NIL	PER	NAM	1.0	
+Andre	annotation-201	Muyumbu	kinyarwanda_7:41390-41396	NIL	LOC	NAM	1.0	
+Andre	annotation-202	Rwanda	kinyarwanda_7:39066-39071	NIL	LOC	NAM	1.0	
+Andre	annotation-203	1928	kinyarwanda_7:47792-47795	NIL	DATE	NAM	1.0	
+Andre	annotation-204	Rwanda Inspiration Back Up	kinyarwanda_7:18666-18691	NIL	ORG	NAM	1.0	
+Andre	annotation-205	Rwanda	kinyarwanda_7:57039-57044	NIL	LOC	NAM	1.0	
+Andre	annotation-206	Uganda	kinyarwanda_7:46047-46052	NIL	LOC	NAM	1.0	
+Andre	annotation-207	Kagame	kinyarwanda_7:38065-38070	NIL	PER	NAM	1.0	
+Andre	annotation-208	Gasabo	kinyarwanda_7:42356-42361	NIL	LOC	NAM	1.0	
+Andre	annotation-209	Mwongera wa Rurenge	kinyarwanda_7:41066-41084	NIL	PER	NAM	1.0	
+Andre	annotation-210	Kigali	kinyarwanda_7:46137-46142	NIL	LOC	NAM	1.0	
+Andre	annotation-211	Gikomero	kinyarwanda_7:8326-8333	NIL	LOC	NAM	1.0	
+Andre	annotation-212	Kacyiru	kinyarwanda_7:20547-20553	NIL	LOC	NAM	1.0	
+Andre	annotation-213	Mushonyi	kinyarwanda_7:4891-4898	NIL	LOC	NAM	1.0	
+Andre	annotation-214	Afurika	kinyarwanda_7:35370-35376	NIL	LOC	NAM	1.0	
+Andre	annotation-215	gicamunsi	kinyarwanda_7:45329-45337	NIL	DATE	NAM	1.0	
+Andre	annotation-216	Mutara III Rudahigwa	kinyarwanda_7:47956-47975	NIL	PER	NAM	1.0	
+Andre	annotation-217	Butare	kinyarwanda_7:43682-43687	NIL	LOC	NAM	1.0	
+Andre	annotation-218	Berlin	kinyarwanda_7:31583-31588	NIL	LOC	NAM	1.0	
+Andre	annotation-219	Gicanda	kinyarwanda_7:45749-45755	NIL	PER	NAM	1.0	
+Andre	annotation-220	Rwanda	kinyarwanda_7:49274-49279	NIL	LOC	NAM	1.0	
+Andre	annotation-221	Nyabugogo	kinyarwanda_7:40597-40605	NIL	LOC	NAM	1.0	
+Andre	annotation-222	Nyamirambo	kinyarwanda_7:23080-23089	NIL	LOC	NAM	1.0	
+Andre	annotation-223	Gasabo	kinyarwanda_7:62641-62646	NIL	LOC	NAM	1.0	
+Andre	annotation-224	Village Urugwiro	kinyarwanda_7:13828-13843	NIL	LOC	NAM	1.0	
+Andre	annotation-225	Rucagu	kinyarwanda_7:15667-15672	NIL	PER	NAM	1.0	
+Andre	annotation-226	Bamporiki	kinyarwanda_7:1629-1637	NIL	PER	NAM	1.0	
+Andre	annotation-227	Kigali	kinyarwanda_7:14217-14222	NIL	LOC	NAM	1.0	
+Andre	annotation-228	15 Ugushyingo 1884	kinyarwanda_7:29590-29607	NIL	DATE	NAM	1.0	
+Andre	annotation-229	Buholandi	kinyarwanda_7:30449-30457	NIL	LOC	NAM	1.0	
+Andre	annotation-230	5 Ugushyingo 2016	kinyarwanda_7:36494-36510	NIL	DATE	NAM	1.0	
+Andre	annotation-231	Kibagabaga	kinyarwanda_7:40114-40123	NIL	LOC	NAM	1.0	
+Andre	annotation-232	Cyilima Rujugira	kinyarwanda_7:59650-59665	NIL	PER	NAM	1.0	
+Andre	annotation-233	Majyaruguru	kinyarwanda_7:40795-40805	NIL	LOC	NAM	1.0	
+Andre	annotation-234	Habyarimana	kinyarwanda_7:43744-43754	NIL	PER	NAM	1.0	
+Andre	annotation-235	Mureganshuro ya Yuhi Mazimpaka	kinyarwanda_7:60833-60862	NIL	PER	NAM	1.0	
+Andre	annotation-236	Gasabo	kinyarwanda_7:52509-52514	NIL	LOC	NAM	1.0	
+Andre	annotation-237	Ghana	kinyarwanda_7:35545-35549	NIL	LOC	NAM	1.0	
+Andre	annotation-238	Gasabo	kinyarwanda_7:40771-40776	NIL	LOC	NAM	1.0	
+Andre	annotation-239	20 Mata	kinyarwanda_7:48020-48026	NIL	DATE	NAM	1.0	
+Andre	annotation-240	Rwanda	kinyarwanda_7:66452-66457	NIL	LOC	NAM	1.0	
+Andre	annotation-241	Isaac Chung	kinyarwanda_7:487-497	NIL	PER	NAM	1.0	
+Andre	annotation-242	Bufaransa	kinyarwanda_7:784-792	NIL	LOC	NAM	1.0	
+Andre	annotation-243	Nyarugenge	kinyarwanda_7:41173-41182	NIL	LOC	NAM	1.0	
+Andre	annotation-244	INMR	kinyarwanda_7:20612-20615	NIL	ORG	NAM	1.0	
+Andre	annotation-245	Rwanda	kinyarwanda_7:20132-20137	NIL	LOC	NAM	1.0	
+Andre	annotation-246	Rwanda	kinyarwanda_7:48239-48244	NIL	LOC	NAM	1.0	
+Andre	annotation-247	Rwanda	kinyarwanda_7:53219-53224	NIL	LOC	NAM	1.0	
+Andre	annotation-248	Ikigo cy’Ingoro z’Igihugu z’Umurage w’u Rwanda	kinyarwanda_7:63236-63281	NIL	ORG	NAM	1.0	
+Andre	annotation-249	Brain	kinyarwanda_7:69901-69905	NIL	PER	NAM	1.0	
+Andre	annotation-250	Portugal	kinyarwanda_7:30472-30479	NIL	LOC	NAM	1.0	
+Andre	annotation-251	INMR	kinyarwanda_7:63284-63287	NIL	ORG	NAM	1.0	
+Andre	annotation-252	Afurika	kinyarwanda_7:28707-28713	NIL	LOC	NAM	1.0	
+Andre	annotation-253	Ishimwe Dieudonne	kinyarwanda_7:18694-18710	NIL	PER	NAM	1.0	
+Andre	annotation-254	1975	kinyarwanda_7:12386-12389	NIL	DATE	NAM	1.0	
+Andre	annotation-255	Uganda	kinyarwanda_7:3838-3843	NIL	LOC	NAM	1.0	
+Andre	annotation-256	Afurika y’Iburasirazuba	kinyarwanda_7:6330-6352	NIL	LOC	NAM	1.0	
+Andre	annotation-257	Rwanda	kinyarwanda_7:48946-48951	NIL	LOC	NAM	1.0	
+Andre	annotation-258	Gisaka	kinyarwanda_7:27398-27403	NIL	LOC	NAM	1.0	
+Andre	annotation-259	Rwanda	kinyarwanda_7:17841-17846	NIL	LOC	NAM	1.0	
+Andre	annotation-260	‘Kimironko’	kinyarwanda_7:21420-21430	NIL	LOC	NAM	1.0	
+Andre	annotation-261	Ikigo cy’Ingoro z’Igihugu z’Umurage w’u Rwanda	kinyarwanda_7:20861-20906	NIL	ORG	NAM	1.0	
+Andre	annotation-262	Mukungu	kinyarwanda_7:58805-58811	NIL	PER	NAM	1.0	
+Andre	annotation-263	Rwanda	kinyarwanda_7:13616-13621	NIL	LOC	NAM	1.0	
+Andre	annotation-264	1312	kinyarwanda_7:26637-26640	NIL	DATE	NAM	1.0	
+Andre	annotation-265	Muryango Mpuzamahanga w’Ingoro Ndangamurage	kinyarwanda_7:62661-62703	NIL	ORG	NAM	1.0	
+Andre	annotation-266	Rwanda	kinyarwanda_7:3769-3774	NIL	LOC	NAM	1.0	
+Andre	annotation-267	Rushara rwa Yuhi Mazimpaka	kinyarwanda_7:61146-61171	NIL	PER	NAM	1.0	
+Andre	annotation-268	Rwanda	kinyarwanda_7:7728-7733	NIL	LOC	NAM	1.0	
+Andre	annotation-269	Village Urugwiro	kinyarwanda_7:16535-16550	NIL	LOC	NAM	1.0	
+Andre	annotation-270	Yezu Kirisitu	kinyarwanda_7:41603-41615	NIL	PER	NAM	1.0	
+Andre	annotation-271	700	kinyarwanda_7:6381-6383	NIL	DATE	NAM	1.0	
+Andre	annotation-272	Bwanacyambwe	kinyarwanda_7:40977-40988	NIL	LOC	NAM	1.0	
+Andre	annotation-273	Bamporikie	kinyarwanda_7:2314-2323	NIL	PER	NAM	1.0	
+Andre	annotation-274	Kagame	kinyarwanda_7:36709-36714	NIL	PER	NAM	1.0	
+Andre	annotation-275	2006	kinyarwanda_7:727-730	NIL	DATE	NAM	1.0	
+Andre	annotation-276	1998	kinyarwanda_7:46066-46069	NIL	DATE	NAM	1.0	
+Andre	annotation-277	Afurika	kinyarwanda_7:72257-72263	NIL	LOC	NAM	1.0	
+Andre	annotation-278	Gasabo y’Amajyepfo	kinyarwanda_7:41217-41234	NIL	LOC	NAM	1.0	
+Andre	annotation-279	1994	kinyarwanda_7:16583-16586	NIL	DATE	NAM	1.0	
+Andre	annotation-280	Rwanda	kinyarwanda_7:16983-16988	NIL	LOC	NAM	1.0	
+Andre	annotation-281	Afurika y’Amajyaruguru y’Iburasirazuba n’iy’Amajyepfo	kinyarwanda_7:6577-6629	NIL	LOC	NAM	1.0	
+Andre	annotation-282	2020	kinyarwanda_7:18379-18382	NIL	DATE	NAM	1.0	
+Andre	annotation-283	Rwanda	kinyarwanda_7:48445-48450	NIL	LOC	NAM	1.0	
+Andre	annotation-284	Kayonza	kinyarwanda_7:5848-5854	NIL	LOC	NAM	1.0	
+Andre	annotation-285	uyu mwaka	kinyarwanda_7:62810-62818	NIL	DATE	NAM	1.0	
+Andre	annotation-286	‘Gacuriro’	kinyarwanda_7:22352-22361	NIL	LOC	NAM	1.0	
+Andre	annotation-287	Rwanda	kinyarwanda_7:3001-3006	NIL	LOC	NAM	1.0	
+Andre	annotation-288	Gisaka	kinyarwanda_7:26666-26671	NIL	LOC	NAM	1.0	
+Andre	annotation-289	kwezi gsuhize	kinyarwanda_7:35939-35951	NIL	DATE	NAM	1.0	
+Andre	annotation-290	Mutara III Rudahigwa	kinyarwanda_7:47867-47886	NIL	PER	NAM	1.0	
+Andre	annotation-291	2010	kinyarwanda_7:34940-34943	NIL	DATE	NAM	1.0	
+Andre	annotation-292	Afurika	kinyarwanda_7:34343-34349	NIL	LOC	NAM	1.0	
+Andre	annotation-293	Kacyiru	kinyarwanda_7:21813-21819	NIL	LOC	NAM	1.0	
+Andre	annotation-294	Majyaruguru y’u Burengerazuba	kinyarwanda_7:40880-40908	NIL	LOC	NAM	1.0	
+Andre	annotation-295	Gihanga	kinyarwanda_7:49490-49496	NIL	PER	NAM	1.0	
+Andre	annotation-296	Burayi	kinyarwanda_7:31716-31721	NIL	LOC	NAM	1.0	
+Andre	annotation-297	Banki Nkuru y’u Bufaransa	kinyarwanda_7:36226-36250	NIL	ORG	NAM	1.0	
+Andre	annotation-298	18 Gicurasi 2020	kinyarwanda_7:63410-63425	NIL	DATE	NAM	1.0	
+Andre	annotation-299	2020	kinyarwanda_7:16990-16993	NIL	DATE	NAM	1.0	
+Andre	annotation-300	Kibali	kinyarwanda_7:8079-8084	NIL	LOC	NAM	1.0	
+Andre	annotation-301	Kagame	kinyarwanda_7:47460-47465	NIL	PER	NAM	1.0	
+Andre	annotation-302	Mutabazi	kinyarwanda_7:73131-73138	NIL	PER	NAM	1.0	
+Andre	annotation-303	Gicanda	kinyarwanda_7:44823-44829	NIL	PER	NAM	1.0	
+Andre	annotation-304	Rwanda	kinyarwanda_7:22419-22424	NIL	LOC	NAM	1.0	
+Andre	annotation-305	Rwanda	kinyarwanda_7:54807-54812	NIL	LOC	NAM	1.0	
+Andre	annotation-306	IGIHE	kinyarwanda_7:18721-18725	NIL	ORG	NAM	1.0	
+Andre	annotation-307	Kigeli V Ndahindurwa	kinyarwanda_7:47980-47999	NIL	PER	NAM	1.0	
+Andre	annotation-308	Afurika	kinyarwanda_7:70945-70951	NIL	LOC	NAM	1.0	
+Andre	annotation-309	Rosalie Gicanda	kinyarwanda_7:42951-42965	NIL	PER	NAM	1.0	
+Andre	annotation-310	2020	kinyarwanda_7:17422-17425	NIL	DATE	NAM	1.0	
+Andre	annotation-311	Congo	kinyarwanda_7:32985-32989	NIL	LOC	NAM	1.0	
+Andre	annotation-312	Kageyo	kinyarwanda_7:41979-41984	NIL	LOC	NAM	1.0	
+Andre	annotation-313	Kigeyo	kinyarwanda_7:4883-4888	NIL	LOC	NAM	1.0	
+Andre	annotation-314	Rwanda	kinyarwanda_7:67120-67125	NIL	LOC	NAM	1.0	
+Andre	annotation-315	Gakomba	kinyarwanda_7:58773-58779	NIL	PER	NAM	1.0	
+Andre	annotation-316	Ruhango	kinyarwanda_7:4909-4915	NIL	LOC	NAM	1.0	
+Andre	annotation-317	Berlin	kinyarwanda_7:29612-29617	NIL	LOC	NAM	1.0	
+Andre	annotation-318	Village Urugwiro	kinyarwanda_7:11456-11471	NIL	LOC	NAM	1.0	
+Andre	annotation-319	Mutabazi	kinyarwanda_7:71868-71875	NIL	PER	NAM	1.0	
+Andre	annotation-320	Gisaka	kinyarwanda_7:26616-26621	NIL	LOC	NAM	1.0	
+Andre	annotation-321	Bwanacyambwe	kinyarwanda_7:40676-40687	NIL	LOC	NAM	1.0	
+Andre	annotation-322	Repubulika Iharanira Demokarasi ya Congo	kinyarwanda_7:65210-65249	NIL	LOC	NAM	1.0	
+Andre	annotation-323	Rutunga	kinyarwanda_7:23692-23698	NIL	LOC	NAM	1.0	
+Andre	annotation-324	Bubiligi	kinyarwanda_7:32577-32584	NIL	LOC	NAM	1.0	
+Andre	annotation-325	Congo	kinyarwanda_7:32946-32950	NIL	LOC	NAM	1.0	
+Andre	annotation-326	Yuhi Mazimpaka	kinyarwanda_7:58861-58874	NIL	PER	NAM	1.0	
+Andre	annotation-327	Burayi	kinyarwanda_7:30112-30117	NIL	LOC	NAM	1.0	
+Andre	annotation-328	Amerika	kinyarwanda_7:72883-72889	NIL	LOC	NAM	1.0	
+Andre	annotation-329	1961	kinyarwanda_7:46899-46902	NIL	DATE	NAM	1.0	
+Andre	annotation-330	Rwanda rw’i Burasirazuba	kinyarwanda_7:4782-4805	NIL	LOC	NAM	1.0	
+Andre	annotation-331	Nyarwaya Karuretwa wa Yuhi Mazimpaka	kinyarwanda_7:59260-59295	NIL	PER	NAM	1.0	
+Andre	annotation-332	Rwanda	kinyarwanda_7:49094-49099	NIL	LOC	NAM	1.0	
+Andre	annotation-333	Pierre Bizimana	kinyarwanda_7:46074-46088	NIL	PER	NAM	1.0	
+Andre	annotation-334	Nsanzabera Jean de Dieu	kinyarwanda_7:48997-49019	NIL	PER	NAM	1.0	
+Andre	annotation-335	Rwanda	kinyarwanda_7:53148-53153	NIL	LOC	NAM	1.0	
+Andre	annotation-336	Berlin	kinyarwanda_7:34990-34995	NIL	LOC	NAM	1.0	
+Andre	annotation-337	Afurika	kinyarwanda_7:35299-35305	NIL	LOC	NAM	1.0	
+Andre	annotation-338	Majyepfo	kinyarwanda_7:4319-4326	NIL	LOC	NAM	1.0	
+Andre	annotation-339	Rwanda	kinyarwanda_7:54561-54566	NIL	LOC	NAM	1.0	
+Andre	annotation-340	Afurika	kinyarwanda_7:57049-57055	NIL	LOC	NAM	1.0	
+Andre	annotation-341	Gicanda	kinyarwanda_7:43999-44005	NIL	PER	NAM	1.0	
+Andre	annotation-342	Afurika	kinyarwanda_7:35568-35574	NIL	LOC	NAM	1.0	
+Andre	annotation-343	Kageyo	kinyarwanda_7:51679-51684	NIL	LOC	NAM	1.0	
+Andre	annotation-344	‘Kacyiru	kinyarwanda_7:22093-22100	NIL	LOC	NAM	1.0	
+Andre	annotation-345	Nyakanga	kinyarwanda_7:16654-16661	NIL	DATE	NAM	1.0	
+Andre	annotation-346	Rudahigwa	kinyarwanda_7:28192-28200	NIL	PER	NAM	1.0	
+Andre	annotation-347	Rwanda	kinyarwanda_7:57111-57116	NIL	LOC	NAM	1.0	
+Andre	annotation-348	Remera	kinyarwanda_7:51768-51773	NIL	LOC	NAM	1.0	
+Andre	annotation-349	Kenya	kinyarwanda_7:6663-6667	NIL	LOC	NAM	1.0	
+Andre	annotation-350	Kagame	kinyarwanda_7:36324-36329	NIL	PER	NAM	1.0	
+Andre	annotation-351	Gisozi	kinyarwanda_7:41251-41256	NIL	LOC	NAM	1.0	
+Andre	annotation-352	Rwanda	kinyarwanda_7:53113-53118	NIL	LOC	NAM	1.0	
+Andre	annotation-353	Afurika	kinyarwanda_7:30787-30793	NIL	LOC	NAM	1.0	
+Andre	annotation-354	Rwanda	kinyarwanda_7:6360-6365	NIL	LOC	NAM	1.0	
+Andre	annotation-355	Kagame	kinyarwanda_7:46795-46800	NIL	PER	NAM	1.0	
+Andre	annotation-356	Ndabarasa ba Cyilima Rujugira	kinyarwanda_7:60090-60118	NIL	PER	NAM	1.0	
+Andre	annotation-357	Marasa Umubano Hotel	kinyarwanda_7:13721-13740	NIL	ORG	NAM	1.0	
+Andre	annotation-358	Rwanda	kinyarwanda_7:54490-54495	NIL	LOC	NAM	1.0	
+Andre	annotation-359	Kigeli Nyamuheshera	kinyarwanda_7:58103-58121	NIL	PER	NAM	1.0	
+Andre	annotation-360	Paul Kagame	kinyarwanda_7:46436-46446	NIL	PER	NAM	1.0	
+Andre	annotation-361	Gapfizi ka Yuhi Mazimpaka	kinyarwanda_7:60764-60788	NIL	PER	NAM	1.0	
+Andre	annotation-362	Afurika	kinyarwanda_7:35090-35096	NIL	LOC	NAM	1.0	
+Andre	annotation-363	‘Kabusunzu’	kinyarwanda_7:23043-23053	NIL	LOC	NAM	1.0	
+Andre	annotation-364	gicamunsi cyo kuwa Gatandatu	kinyarwanda_7:29554-29581	NIL	DATE	NAM	1.0	
+Andre	annotation-365	25 Nyakanga 1959	kinyarwanda_7:43416-43431	NIL	DATE	NAM	1.0	
+Andre	annotation-366	Bufaransa	kinyarwanda_7:65177-65185	NIL	LOC	NAM	1.0	
+Andre	annotation-367	Amerika	kinyarwanda_7:566-572	NIL	LOC	NAM	1.0	
+Andre	annotation-368	Amerika	kinyarwanda_7:512-518	NIL	LOC	NAM	1.0	
+Andre	annotation-369	Mutaganzwa	kinyarwanda_7:36253-36262	NIL	PER	NAM	1.0	
+Andre	annotation-370	Cyilima Rujugira	kinyarwanda_7:21504-21519	NIL	PER	NAM	1.0	
+Andre	annotation-371	Murundi	kinyarwanda_7:50525-50531	NIL	LOC	NAM	1.0	
+Andre	annotation-372	Rwanda	kinyarwanda_7:12354-12359	NIL	LOC	NAM	1.0	
+Andre	annotation-373	18 Ukuboza 2010	kinyarwanda_7:1612-1626	NIL	DATE	NAM	1.0	
+Andre	annotation-374	Village Urugwiro	kinyarwanda_7:13466-13481	NIL	LOC	NAM	1.0	
+Andre	annotation-375	Mohammed VI	kinyarwanda_7:46829-46839	NIL	PER	NAM	1.0	
+Andre	annotation-376	Mukobanya	kinyarwanda_7:22243-22251	NIL	PER	NAM	1.0	
+Andre	annotation-377	1378	kinyarwanda_7:22290-22293	NIL	DATE	NAM	1.0	
+Andre	annotation-378	Nsanzabera Jean De Dieu	kinyarwanda_7:22060-22082	NIL	PER	NAM	1.0	
+Andre	annotation-379	Nyamyumba	kinyarwanda_7:4982-4990	NIL	LOC	NAM	1.0	
+Andre	annotation-380	Nyarugenge	kinyarwanda_7:20535-20544	NIL	LOC	NAM	1.0	
+Andre	annotation-381	Kabarore	kinyarwanda_7:51650-51657	NIL	LOC	NAM	1.0	
+Andre	annotation-382	Village Urugwiro	kinyarwanda_7:12929-12944	NIL	LOC	NAM	1.0	
+Andre	annotation-383	Kigali	kinyarwanda_7:11031-11036	NIL	LOC	NAM	1.0	
+Andre	annotation-384	Rwanda	kinyarwanda_7:68610-68615	NIL	LOC	NAM	1.0	
+Andre	annotation-385	Rucagu	kinyarwanda_7:14755-14760	NIL	PER	NAM	1.0	
+Andre	annotation-386	Gicanda	kinyarwanda_7:43649-43655	NIL	PER	NAM	1.0	
+Andre	annotation-387	Rucagu	kinyarwanda_7:16368-16373	NIL	PER	NAM	1.0	
+Andre	annotation-388	Tadeyo	kinyarwanda_7:27-32	NIL	PER	NAM	1.0	
+Andre	annotation-389	20 Mata	kinyarwanda_7:44713-44719	NIL	DATE	NAM	1.0	
+Andre	annotation-390	Kigali	kinyarwanda_7:42378-42383	NIL	LOC	NAM	1.0	
+Andre	annotation-391	Afurika	kinyarwanda_7:31793-31799	NIL	LOC	NAM	1.0	
+Andre	annotation-392	Bamporiki Edouard	kinyarwanda_7:2294-2310	NIL	PER	NAM	1.0	
+Andre	annotation-393	Ange Kagame	kinyarwanda_7:19964-19974	NIL	PER	NAM	1.0	
+Andre	annotation-394	700	kinyarwanda_7:50199-50201	NIL	DATE	NAM	1.0	
+Andre	annotation-395	Rwanda	kinyarwanda_7:3701-3706	NIL	LOC	NAM	1.0	
+Andre	annotation-396	’’Nyirabwanacyambwe	kinyarwanda_7:42198-42216	NIL	PER	NAM	1.0	
+Andre	annotation-397	Gasabo	kinyarwanda_7:52542-52547	NIL	LOC	NAM	1.0	
+Andre	annotation-398	Gihanga	kinyarwanda_7:52362-52368	NIL	PER	NAM	1.0	
+Andre	annotation-399	Nizeyimana	kinyarwanda_7:46017-46026	NIL	PER	NAM	1.0	
+Andre	annotation-400	Rutunga	kinyarwanda_7:8317-8323	NIL	LOC	NAM	1.0	
+Andre	annotation-401	Rwabutabura	kinyarwanda_7:21896-21906	NIL	LOC	NAM	1.0	
+Andre	annotation-402	Gihanga	kinyarwanda_7:8031-8037	NIL	PER	NAM	1.0	
+Andre	annotation-403	Mutabazi Kabarira	kinyarwanda_7:70074-70090	NIL	PER	NAM	1.0	
+Andre	annotation-404	Burengerazuba bw’Amajyepfo	kinyarwanda_7:40828-40853	NIL	LOC	NAM	1.0	
+Andre	annotation-405	Nyirabwana	kinyarwanda_7:38961-38970	NIL	LOC	NAM	1.0	
+Andre	annotation-406	Rwamo rwa Gihana cya Cyilima Rujugira	kinyarwanda_7:61645-61681	NIL	PER	NAM	1.0	
+Andre	annotation-407	1994	kinyarwanda_7:63974-63977	NIL	DATE	NAM	1.0	
+Andre	annotation-408	Pesek	kinyarwanda_7:35256-35260	NIL	PER	NAM	1.0	
+Andre	annotation-409	1884	kinyarwanda_7:29074-29077	NIL	DATE	NAM	1.0	
+Andre	annotation-410	1378	kinyarwanda_7:42519-42522	NIL	DATE	NAM	1.0	
+Andre	annotation-411	Rwanda	kinyarwanda_7:27668-27673	NIL	LOC	NAM	1.0	
+Andre	annotation-412	Rubaduka	kinyarwanda_7:9952-9959	NIL	PER	NAM	1.0	
+Andre	annotation-413	Rweya	kinyarwanda_7:52627-52631	NIL	LOC	NAM	1.0	
+Andre	annotation-414	Rwanda	kinyarwanda_7:21611-21616	NIL	LOC	NAM	1.0	
+Andre	annotation-415	Muciye ya Serutaro rwa Mukuku wa Mazimpaka	kinyarwanda_7:59836-59877	NIL	PER	NAM	1.0	
+Andre	annotation-416	Prince Kid	kinyarwanda_7:19129-19138	NIL	PER	NAM	1.0	
+Andre	annotation-417	Mureganshuro	kinyarwanda_7:58782-58793	NIL	PER	NAM	1.0	
+Andre	annotation-418	Kugeza mu 1914	kinyarwanda_7:33627-33640	NIL	DATE	NAM	1.0	
+Andre	annotation-419	Bufaransa	kinyarwanda_7:30422-30430	NIL	LOC	NAM	1.0	
+Andre	annotation-420	Rwanda	kinyarwanda_7:69019-69024	NIL	LOC	NAM	1.0	
+Andre	annotation-421	Rwanda	kinyarwanda_7:58505-58510	NIL	LOC	NAM	1.0	
+Andre	annotation-422	Rwanda	kinyarwanda_7:62121-62126	NIL	LOC	NAM	1.0	
+Andre	annotation-423	Nyanza	kinyarwanda_7:47648-47653	NIL	LOC	NAM	1.0	
+Andre	annotation-424	Kimironko	kinyarwanda_7:40139-40147	NIL	LOC	NAM	1.0	
+Andre	annotation-425	Rwanda	kinyarwanda_7:63836-63841	NIL	LOC	NAM	1.0	
+Andre	annotation-426	Kazi ka Kizira	kinyarwanda_7:52128-52141	NIL	PER	NAM	1.0	
+Andre	annotation-427	w’Urugaga rw’Abanditsi mu Rwanda	kinyarwanda_7:57242-57273	NIL	ORG	NAM	1.0	
+Andre	annotation-428	1378	kinyarwanda_7:23600-23603	NIL	DATE	NAM	1.0	
+Andre	annotation-429	Fumbwe	kinyarwanda_7:8403-8408	NIL	LOC	NAM	1.0	
+Andre	annotation-430	1960	kinyarwanda_7:34645-34648	NIL	DATE	NAM	1.0	
+Andre	annotation-431	1884	kinyarwanda_7:29355-29358	NIL	DATE	NAM	1.0	
+Andre	annotation-432	Rwanda	kinyarwanda_7:58373-58378	NIL	LOC	NAM	1.0	
+Andre	annotation-433	Nyirabwana	kinyarwanda_7:40087-40096	NIL	LOC	NAM	1.0	
+Andre	annotation-434	Brain	kinyarwanda_7:70093-70097	NIL	PER	NAM	1.0	
+Andre	annotation-435	Karemera Rwaka rwa Yuhi Mazimpaka	kinyarwanda_7:60466-60498	NIL	PER	NAM	1.0	
+Andre	annotation-436	Rwanda	kinyarwanda_7:62468-62473	NIL	LOC	NAM	1.0	
+Andre	annotation-437	Amerika	kinyarwanda_7:28858-28864	NIL	LOC	NAM	1.0	
+Andre	annotation-438	Somaliya	kinyarwanda_7:6653-6660	NIL	LOC	NAM	1.0	
+Andre	annotation-439	Mille Collines	kinyarwanda_7:12571-12584	NIL	ORG	NAM	1.0	
+Andre	annotation-440	1884-1885	kinyarwanda_7:28678-28686	NIL	DATE	NAM	1.0	
+Andre	annotation-441	Zanzibar	kinyarwanda_7:31007-31014	NIL	LOC	NAM	1.0	
+Andre	annotation-442	Afurika	kinyarwanda_7:35801-35807	NIL	LOC	NAM	1.0	
+Andre	annotation-443	Sekarongoro Gisanura	kinyarwanda_7:58078-58097	NIL	PER	NAM	1.0	
+Andre	annotation-444	Gihanga Ngomijana	kinyarwanda_7:7776-7792	NIL	PER	NAM	1.0	
+Andre	annotation-445	Human Rights Watch	kinyarwanda_7:44518-44535	NIL	ORG	NAM	1.0	
+Andre	annotation-446	Gatsibo	kinyarwanda_7:51668-51674	NIL	LOC	NAM	1.0	
+Andre	annotation-447	Rosalie Gicanda	kinyarwanda_7:42843-42857	NIL	PER	NAM	1.0	
+Andre	annotation-448	Yuhi Mazimpaka	kinyarwanda_7:57865-57878	NIL	PER	NAM	1.0	
+Andre	annotation-449	2020	kinyarwanda_7:17210-17213	NIL	DATE	NAM	1.0	
+Andre	annotation-450	Bamporiki	kinyarwanda_7:1312-1320	NIL	PER	NAM	1.0	
+Andre	annotation-451	Village Urugwiro	kinyarwanda_7:13035-13050	NIL	LOC	NAM	1.0	
+Andre	annotation-452	Rwanda	kinyarwanda_7:65990-65995	NIL	LOC	NAM	1.0	
+Andre	annotation-453	Huye	kinyarwanda_7:43702-43705	NIL	LOC	NAM	1.0	
+Andre	annotation-454	Shamakokera ya Ndabaramiye wa Bukombe bwa Yuhi Mazimpaka	kinyarwanda_7:60908-60963	NIL	PER	NAM	1.0	
+Andre	annotation-455	1975	kinyarwanda_7:12159-12162	NIL	DATE	NAM	1.0	
+Andre	annotation-456	Repubulika Iharanira Demokarasi ya Congo	kinyarwanda_7:32679-32718	NIL	LOC	NAM	1.0	
+Andre	annotation-457	Majyaruguru y’Akarere ka Kayonza	kinyarwanda_7:6957-6988	NIL	LOC	NAM	1.0	
+Andre	annotation-458	Bufaransa	kinyarwanda_7:12235-12243	NIL	LOC	NAM	1.0	
+Andre	annotation-459	Mutaganzwa Charles	kinyarwanda_7:36896-36913	NIL	PER	NAM	1.0	
+Andre	annotation-460	Village Urugwiro	kinyarwanda_7:16304-16319	NIL	LOC	NAM	1.0	
+Andre	annotation-461	Leta y’u Rwanda	kinyarwanda_7:12955-12969	NIL	ORG	NAM	1.0	
+Andre	annotation-462	‘Kagasunzu’	kinyarwanda_7:22941-22951	NIL	LOC	NAM	1.0	
+Andre	annotation-463	Musasa	kinyarwanda_7:4901-4906	NIL	LOC	NAM	1.0	
+Andre	annotation-464	Majyepfo	kinyarwanda_7:40954-40961	NIL	LOC	NAM	1.0	
+Andre	annotation-465	INMR	kinyarwanda_7:65252-65255	NIL	ORG	NAM	1.0	
+Andre	annotation-466	Rwanda	kinyarwanda_7:27409-27414	NIL	LOC	NAM	1.0	
+Andre	annotation-467	Jean Baptiste Habyarimana	kinyarwanda_7:44250-44274	NIL	PER	NAM	1.0	
+Andre	annotation-468	Turikiya	kinyarwanda_7:882-889	NIL	LOC	NAM	1.0	
+Andre	annotation-469	WikiLeaks	kinyarwanda_7:13658-13666	NIL	ORG	NAM	1.0	
+Andre	annotation-470	Leta Zunze Ubumwe za Amerika	kinyarwanda_7:1736-1763	NIL	LOC	NAM	1.0	
+Andre	annotation-471	20 Mata 1994	kinyarwanda_7:42873-42884	NIL	DATE	NAM	1.0	
+Andre	annotation-472	Mwima ya Nyanza	kinyarwanda_7:47920-47934	NIL	LOC	NAM	1.0	
+Andre	annotation-473	Nyarugenge	kinyarwanda_7:21272-21281	NIL	LOC	NAM	1.0	
+Andre	annotation-474	Gatsibo	kinyarwanda_7:51555-51561	NIL	LOC	NAM	1.0	
+Andre	annotation-475	New York	kinyarwanda_7:55927-55934	NIL	LOC	NAM	1.0	
+Andre	annotation-476	Rwanda	kinyarwanda_7:48291-48296	NIL	LOC	NAM	1.0	
+Andre	annotation-477	Afurika	kinyarwanda_7:29142-29148	NIL	LOC	NAM	1.0	
+Andre	annotation-478	Majyepfo y’Iburasirazuba	kinyarwanda_7:5710-5733	NIL	LOC	NAM	1.0	
+Andre	annotation-479	Rwanda	kinyarwanda_7:11911-11916	NIL	LOC	NAM	1.0	
+Andre	annotation-480	Rwanda	kinyarwanda_7:5170-5175	NIL	LOC	NAM	1.0	
+Andre	annotation-481	Kimihurura	kinyarwanda_7:21619-21628	NIL	LOC	NAM	1.0	
+Andre	annotation-482	Rwanda	kinyarwanda_7:6717-6722	NIL	LOC	NAM	1.0	
+Andre	annotation-483	Yuhi Mazimpaka za Gisanura	kinyarwanda_7:59491-59516	NIL	PER	NAM	1.0	
+Andre	annotation-484	Unity Club	kinyarwanda_7:36798-36807	NIL	ORG	NAM	1.0	
+Andre	annotation-485	Yuhi Mazimpaka ya Gisanura	kinyarwanda_7:58667-58692	NIL	PER	NAM	1.0	
+Andre	annotation-486	Cyilima Rujugira	kinyarwanda_7:58934-58949	NIL	PER	NAM	1.0	
+Andre	annotation-487	Rwanda	kinyarwanda_7:8179-8184	NIL	LOC	NAM	1.0	
+Andre	annotation-488	Yuhi Mazimpaka	kinyarwanda_7:57375-57388	NIL	PER	NAM	1.0	
+Andre	annotation-489	November 4, 2019	kinyarwanda_7:2326-2341	NIL	DATE	NAM	1.0	
+Andre	annotation-490	Gatsibo	kinyarwanda_7:51801-51807	NIL	LOC	NAM	1.0	
+Andre	annotation-491	Radiyo Rwanda	kinyarwanda_7:22980-22992	NIL	ORG	NAM	1.0	
+Andre	annotation-492	Richard Kandt	kinyarwanda_7:23229-23241	NIL	PER	NAM	1.0	
+Andre	annotation-493	Semakamba	kinyarwanda_7:23472-23480	NIL	PER	NAM	1.0	
+Andre	annotation-494	Gihana cya Cyilima Rujugira	kinyarwanda_7:59981-60007	NIL	PER	NAM	1.0	
+Andre	annotation-495	Rwimbogo	kinyarwanda_7:50569-50576	NIL	LOC	NAM	1.0	
+Andre	annotation-496	Sharangabo ya Cyilima Rujugira	kinyarwanda_7:59714-59743	NIL	PER	NAM	1.0	
+Andre	annotation-497	Rwanda	kinyarwanda_7:43111-43116	NIL	LOC	NAM	1.0	
+Andre	annotation-498	Berlin	kinyarwanda_7:35073-35078	NIL	LOC	NAM	1.0	
+Andre	annotation-499	Rweya rw’u Mubali	kinyarwanda_7:6859-6875	NIL	LOC	NAM	1.0	
+Andre	annotation-500	5 Gicurasi 2020	kinyarwanda_7:66336-66350	NIL	DATE	NAM	1.0	
+Andre	annotation-501	Afurika	kinyarwanda_7:6444-6450	NIL	LOC	NAM	1.0	
+Andre	annotation-502	Joseph Kanyabashi	kinyarwanda_7:44613-44629	NIL	PER	NAM	1.0	
+Andre	annotation-503	Rwanda	kinyarwanda_7:20248-20253	NIL	LOC	NAM	1.0	
+Andre	annotation-504	RPA	kinyarwanda_7:11397-11399	NIL	ORG	NAM	1.0	
+Andre	annotation-505	Rwanda rwo hagati	kinyarwanda_7:5686-5702	NIL	LOC	NAM	1.0	
+Andre	annotation-506	Olyaemi Akinwumi	kinyarwanda_7:31129-31144	NIL	PER	NAM	1.0	
+Andre	annotation-507	Mukuku	kinyarwanda_7:58814-58819	NIL	PER	NAM	1.0	
+Andre	annotation-508	Congo	kinyarwanda_7:33392-33396	NIL	LOC	NAM	1.0	
+Andre	annotation-509	Budage	kinyarwanda_7:29642-29647	NIL	LOC	NAM	1.0	
+Andre	annotation-510	Gatsibo	kinyarwanda_7:6778-6784	NIL	LOC	NAM	1.0	
+Andre	annotation-511	Kibagabaga	kinyarwanda_7:42002-42011	NIL	LOC	NAM	1.0	
+Andre	annotation-512	30 Kanama 2017	kinyarwanda_7:1431-1444	NIL	DATE	NAM	1.0	
+Andre	annotation-513	Afurika	kinyarwanda_7:30228-30234	NIL	LOC	NAM	1.0	
+Andre	annotation-514	Mutabazi	kinyarwanda_7:72621-72628	NIL	PER	NAM	1.0	
+Andre	annotation-515	Mureganshuro ya Yuhi Mazimpaka	kinyarwanda_7:59380-59409	NIL	PER	NAM	1.0	
+Andre	annotation-516	ICOM	kinyarwanda_7:63740-63743	NIL	ORG	NAM	1.0	
+Andre	annotation-517	Bushinwa	kinyarwanda_7:71120-71127	NIL	LOC	NAM	1.0	
+Andre	annotation-518	Rubaduka	kinyarwanda_7:10988-10995	NIL	PER	NAM	1.0	
+Andre	annotation-519	Bugara	kinyarwanda_7:8097-8102	NIL	LOC	NAM	1.0	
+Andre	annotation-520	Yuhi Mazimpaka	kinyarwanda_7:60398-60411	NIL	PER	NAM	1.0	
+Andre	annotation-521	Burayi	kinyarwanda_7:32558-32563	NIL	LOC	NAM	1.0	
+Andre	annotation-522	Leopold II	kinyarwanda_7:32959-32968	NIL	PER	NAM	1.0	
+Andre	annotation-523	Amahoro	kinyarwanda_7:42288-42294	NIL	LOC	NAM	1.0	
+Andre	annotation-524	Nduga	kinyarwanda_7:40808-40812	NIL	LOC	NAM	1.0	
+Andre	annotation-525	Gisaka	kinyarwanda_7:26541-26546	NIL	LOC	NAM	1.0	
+Andre	annotation-526	Afurika	kinyarwanda_7:72598-72604	NIL	LOC	NAM	1.0	
+Andre	annotation-527	Rwanda	kinyarwanda_7:48660-48665	NIL	LOC	NAM	1.0	
+Andre	annotation-528	Gicanda	kinyarwanda_7:45959-45965	NIL	PER	NAM	1.0	
+Andre	annotation-529	Afurika	kinyarwanda_7:34539-34545	NIL	LOC	NAM	1.0	
+Andre	annotation-530	Rwanda	kinyarwanda_7:11504-11509	NIL	LOC	NAM	1.0	
+Andre	annotation-531	Bumbogo	kinyarwanda_7:8308-8314	NIL	LOC	NAM	1.0	
+Andre	annotation-532	Rwanda	kinyarwanda_7:61207-61212	NIL	LOC	NAM	1.0	
+Andre	annotation-533	Karenge	kinyarwanda_7:41363-41369	NIL	LOC	NAM	1.0	
+Andre	annotation-534	Afurika	kinyarwanda_7:35719-35725	NIL	LOC	NAM	1.0	
+Andre	annotation-535	Bugesera	kinyarwanda_7:40923-40930	NIL	LOC	NAM	1.0	
+Andre	annotation-536	Yuhi Mazimpaka ya Gisanura	kinyarwanda_7:59543-59568	NIL	PER	NAM	1.0	
+Andre	annotation-537	Kigali	kinyarwanda_7:15271-15276	NIL	LOC	NAM	1.0	
+Andre	annotation-538	Bufaransa	kinyarwanda_7:13784-13792	NIL	LOC	NAM	1.0	
+Andre	annotation-539	Rwanda	kinyarwanda_7:45298-45303	NIL	LOC	NAM	1.0	
+Andre	annotation-540	Gasabo	kinyarwanda_7:12100-12105	NIL	LOC	NAM	1.0	
+Andre	annotation-541	Burasirazuba bw’u Rwanda	kinyarwanda_7:5363-5386	NIL	LOC	NAM	1.0	
+Andre	annotation-542	Rugarama	kinyarwanda_7:51631-51638	NIL	LOC	NAM	1.0	
+Andre	annotation-543	Kagame	kinyarwanda_7:20444-20449	NIL	PER	NAM	1.0	
+Andre	annotation-544	Rwanda	kinyarwanda_7:48182-48187	NIL	LOC	NAM	1.0	
+Andre	annotation-545	Kigali	kinyarwanda_7:20981-20986	NIL	LOC	NAM	1.0	
+Andre	annotation-546	Rosalie Gicanda	kinyarwanda_7:48068-48082	NIL	PER	NAM	1.0	
+Andre	annotation-547	Kayonza	kinyarwanda_7:50558-50564	NIL	LOC	NAM	1.0	
+Andre	annotation-548	Kaminuza ya Erfurt	kinyarwanda_7:34570-34587	NIL	ORG	NAM	1.0	
+Andre	annotation-549	Huma Rihgts Watch	kinyarwanda_7:45451-45467	NIL	ORG	NAM	1.0	
+Andre	annotation-550	Liberia	kinyarwanda_7:30804-30810	NIL	LOC	NAM	1.0	
+Andre	annotation-551	Rucagu Boniface	kinyarwanda_7:12809-12823	NIL	PER	NAM	1.0	
+Andre	annotation-552	Afurika	kinyarwanda_7:33726-33732	NIL	LOC	NAM	1.0	
+Andre	annotation-553	Ndabarasa ba Cyilima Rujugira	kinyarwanda_7:60036-60064	NIL	PER	NAM	1.0	
+Andre	annotation-554	Gicanda	kinyarwanda_7:47298-47304	NIL	PER	NAM	1.0	
+Andre	annotation-555	MIT	kinyarwanda_7:73045-73047	NIL	ORG	NAM	1.0	
+Andre	annotation-556	Cyilima Rujugira rwa Yuhi Mazimpaka	kinyarwanda_7:60143-60177	NIL	PER	NAM	1.0	
+Andre	annotation-557	Nyirabwana	kinyarwanda_7:42620-42629	NIL	LOC	NAM	1.0	
+Andre	annotation-558	IGIHE	kinyarwanda_7:12886-12890	NIL	ORG	NAM	1.0	
+Andre	annotation-559	ESO	kinyarwanda_7:44964-44966	NIL	ORG	NAM	1.0	
+Andre	annotation-560	Rweya rw’Abazigaba	kinyarwanda_7:50937-50954	NIL	LOC	NAM	1.0	
+Andre	annotation-561	Village Urugwiro	kinyarwanda_7:16702-16717	NIL	LOC	NAM	1.0	
+Andre	annotation-562	OCAM	kinyarwanda_7:12314-12317	NIL	ORG	NAM	1.0	
+Andre	annotation-563	Habyarimana	kinyarwanda_7:15127-15137	NIL	PER	NAM	1.0	
+Andre	annotation-564	Rwanda	kinyarwanda_7:17203-17208	NIL	LOC	NAM	1.0	
+Andre	annotation-565	Gicanda	kinyarwanda_7:46328-46334	NIL	PER	NAM	1.0	
+Andre	annotation-566	Ndoba	kinyarwanda_7:58588-58592	NIL	PER	NAM	1.0	
+Andre	annotation-567	Rwanda	kinyarwanda_7:4667-4672	NIL	LOC	NAM	1.0	
+Andre	annotation-568	Gicanda	kinyarwanda_7:45142-45148	NIL	PER	NAM	1.0	
+Andre	annotation-569	INMR	kinyarwanda_7:21729-21732	NIL	ORG	NAM	1.0	
+Andre	annotation-570	Rwanda	kinyarwanda_7:53842-53847	NIL	LOC	NAM	1.0	
+Andre	annotation-571	Rwanda	kinyarwanda_7:68759-68764	NIL	LOC	NAM	1.0	
+Andre	annotation-572	Rwanda	kinyarwanda_7:51218-51223	NIL	LOC	NAM	1.0	
+Andre	annotation-573	Afurika	kinyarwanda_7:31291-31297	NIL	LOC	NAM	1.0	
+Andre	annotation-574	Habyarimana	kinyarwanda_7:44370-44380	NIL	PER	NAM	1.0	
+Andre	annotation-575	13 Mutarama 1942	kinyarwanda_7:43279-43294	NIL	DATE	NAM	1.0	
+Andre	annotation-576	Sharangabo ya Cyilima Rujugira	kinyarwanda_7:59770-59799	NIL	PER	NAM	1.0	
+Andre	annotation-577	Rubaduka Frank	kinyarwanda_7:8871-8884	NIL	PER	NAM	1.0	
+Andre	annotation-578	Léopold II	kinyarwanda_7:33566-33575	NIL	PER	NAM	1.0	
+Andre	annotation-579	Kigeli Mukobanya	kinyarwanda_7:22439-22454	NIL	PER	NAM	1.0	
+Andre	annotation-580	Rwanda	kinyarwanda_7:13077-13082	NIL	LOC	NAM	1.0	
+Andre	annotation-581	Segahwege ka Nsigaye ya Gakombe ka Yuhi mazimpaka	kinyarwanda_7:60676-60724	NIL	PER	NAM	1.0	
+Andre	annotation-582	Kacyiru	kinyarwanda_7:12078-12084	NIL	LOC	NAM	1.0	
+Andre	annotation-583	Mutaganzwa	kinyarwanda_7:38763-38772	NIL	PER	NAM	1.0	
+Andre	annotation-584	Bwanacyambwe	kinyarwanda_7:42429-42440	NIL	LOC	NAM	1.0	
+Andre	annotation-585	Gahengeri	kinyarwanda_7:41401-41409	NIL	LOC	NAM	1.0	
+Andre	annotation-586	Afurika	kinyarwanda_7:30356-30362	NIL	LOC	NAM	1.0	
+Andre	annotation-587	Nyarugenge	kinyarwanda_7:21363-21372	NIL	LOC	NAM	1.0	
+Andre	annotation-588	Kagame	kinyarwanda_7:37299-37304	NIL	PER	NAM	1.0	
+Andre	annotation-589	Nyirabwanacyambwe	kinyarwanda_7:42132-42148	NIL	PER	NAM	1.0	
+Andre	annotation-590	Bamporiki	kinyarwanda_7:1447-1455	NIL	PER	NAM	1.0	
+Andre	annotation-591	Budage	kinyarwanda_7:30412-30417	NIL	LOC	NAM	1.0	
+Andre	annotation-592	OCAM	kinyarwanda_7:12902-12905	NIL	ORG	NAM	1.0	
+Andre	annotation-593	Uganda	kinyarwanda_7:6672-6677	NIL	LOC	NAM	1.0	
+Andre	annotation-594	Rweya rw’u Mubali	kinyarwanda_7:50491-50507	NIL	LOC	NAM	1.0	
+Andre	annotation-595	Pia	kinyarwanda_7:549-551	NIL	PER	NAM	1.0	
+Andre	annotation-596	Rutsiro	kinyarwanda_7:4960-4966	NIL	LOC	NAM	1.0	
+Andre	annotation-597	Amerika	kinyarwanda_7:29062-29068	NIL	LOC	NAM	1.0	
+Andre	annotation-598	Kayibanda Grégoire	kinyarwanda_7:43599-43616	NIL	PER	NAM	1.0	
+Andre	annotation-599	Rurenge	kinyarwanda_7:41682-41688	NIL	PER	NAM	1.0	
+Andre	annotation-600	Kigeli Mukobanya	kinyarwanda_7:22746-22761	NIL	PER	NAM	1.0	
+Andre	annotation-601	Burayi	kinyarwanda_7:33718-33723	NIL	LOC	NAM	1.0	
+Andre	annotation-602	Uwo mwaka	kinyarwanda_7:13669-13677	NIL	DATE	NAM	1.0	
+Andre	annotation-603	HATEGEKIMANA Richard	kinyarwanda_7:57212-57231	NIL	PER	NAM	1.0	
+Andre	annotation-604	Rwamagana	kinyarwanda_7:8426-8434	NIL	LOC	NAM	1.0	
+Andre	annotation-605	Nkuba ya Nyabakonjo	kinyarwanda_7:42535-42553	NIL	PER	NAM	1.0	
+Andre	annotation-606	Gicanda	kinyarwanda_7:47760-47766	NIL	PER	NAM	1.0	
+Andre	annotation-607	Rwasamanzi rwa Mukungu ya Yuhi Mazimpaka	kinyarwanda_7:61005-61044	NIL	PER	NAM	1.0	
+Andre	annotation-608	Bushinwa	kinyarwanda_7:73430-73437	NIL	LOC	NAM	1.0	
+Andre	annotation-609	Goethe Institut	kinyarwanda_7:65318-65332	NIL	ORG	NAM	1.0	
+Andre	annotation-610	Rwanda	kinyarwanda_7:67849-67854	NIL	LOC	NAM	1.0	
+Andre	annotation-611	Rwanda	kinyarwanda_7:12518-12523	NIL	LOC	NAM	1.0	
+Andre	annotation-612	Ange Kagame	kinyarwanda_7:20214-20224	NIL	PER	NAM	1.0	
+Andre	annotation-613	Ken	kinyarwanda_7:56161-56163	NIL	PER	NAM	1.0	
+Andre	annotation-614	1983	kinyarwanda_7:14367-14370	NIL	DATE	NAM	1.0	
+Andre	annotation-615	Budage	kinyarwanda_7:29751-29756	NIL	LOC	NAM	1.0	
+Andre	annotation-616	Gicanda	kinyarwanda_7:45373-45379	NIL	PER	NAM	1.0	
+Andre	annotation-617	Afurika	kinyarwanda_7:70355-70361	NIL	LOC	NAM	1.0	
+Andre	annotation-618	Michael Pesek	kinyarwanda_7:34590-34602	NIL	PER	NAM	1.0	
+Andre	annotation-619	Rwanda	kinyarwanda_7:42943-42948	NIL	LOC	NAM	1.0	
+Andre	annotation-620	Mata 1994	kinyarwanda_7:11445-11453	NIL	DATE	NAM	1.0	
+Andre	annotation-621	Bwanacyambwe	kinyarwanda_7:40336-40347	NIL	LOC	NAM	1.0	
+Andre	annotation-622	1961	kinyarwanda_7:43585-43588	NIL	DATE	NAM	1.0	
+Andre	annotation-623	Bwanacyambwe	kinyarwanda_7:42567-42578	NIL	LOC	NAM	1.0	
+Andre	annotation-624	Rwanda	kinyarwanda_7:48790-48795	NIL	LOC	NAM	1.0	
+Andre	annotation-625	Rwanda	kinyarwanda_7:56719-56724	NIL	LOC	NAM	1.0	
+Andre	annotation-626	Rwanda	kinyarwanda_7:4218-4223	NIL	LOC	NAM	1.0	
+Andre	annotation-627	Cyiru	kinyarwanda_7:21871-21875	NIL	PER	NAM	1.0	
+Andre	annotation-628	Rwanda	kinyarwanda_7:2626-2631	NIL	LOC	NAM	1.0	
+Andre	annotation-629	Congo	kinyarwanda_7:33228-33232	NIL	LOC	NAM	1.0	
+Andre	annotation-630	Ken Chartrand	kinyarwanda_7:55879-55891	NIL	PER	NAM	1.0	
+Andre	annotation-631	Rwanda	kinyarwanda_7:67248-67253	NIL	LOC	NAM	1.0	
+Andre	annotation-632	Rwanda	kinyarwanda_7:7841-7846	NIL	LOC	NAM	1.0	
+Andre	annotation-633	Gasabo	kinyarwanda_7:48607-48612	NIL	LOC	NAM	1.0	
+Andre	annotation-634	Rwanda	kinyarwanda_7:19409-19414	NIL	LOC	NAM	1.0	
+Andre	annotation-635	2011	kinyarwanda_7:852-855	NIL	DATE	NAM	1.0	
+Andre	annotation-636	Afurika	kinyarwanda_7:34240-34246	NIL	LOC	NAM	1.0	
+Andre	annotation-637	Rwanda	kinyarwanda_7:2918-2923	NIL	LOC	NAM	1.0	
+Andre	annotation-638	Amazon	kinyarwanda_7:9316-9321	NIL	ORG	NAM	1.0	
+Andre	annotation-639	Mwongera	kinyarwanda_7:41698-41705	NIL	PER	NAM	1.0	
+Andre	annotation-640	2019	kinyarwanda_7:19652-19655	NIL	DATE	NAM	1.0	
+Andre	annotation-641	Ethiopia	kinyarwanda_7:30815-30822	NIL	LOC	NAM	1.0	
+Andre	annotation-642	Gatsibo	kinyarwanda_7:6918-6924	NIL	LOC	NAM	1.0	
+Andre	annotation-643	Nyirarukangaga rwa Nyamigezi ya Kabeja	kinyarwanda_7:52075-52112	NIL	PER	NAM	1.0	
+Andre	annotation-644	Rucagu	kinyarwanda_7:14563-14568	NIL	PER	NAM	1.0	
+Andre	annotation-645	Rwanda	kinyarwanda_7:48589-48594	NIL	LOC	NAM	1.0	
+Andre	annotation-646	uyu munsi	kinyarwanda_7:34290-34298	NIL	DATE	NAM	1.0	
+Andre	annotation-647	Rwanda	kinyarwanda_7:48374-48379	NIL	LOC	NAM	1.0	
+Andre	annotation-648	Leopold II	kinyarwanda_7:32626-32635	NIL	PER	NAM	1.0	
+Andre	annotation-649	Rwanda	kinyarwanda_7:23551-23556	NIL	LOC	NAM	1.0	
+Andre	annotation-650	Kaminuza yigenga ya Kigali	kinyarwanda_7:1847-1872	NIL	ORG	NAM	1.0	
+Andre	annotation-651	2011	kinyarwanda_7:1183-1186	NIL	DATE	NAM	1.0	
+Andre	annotation-652	Bwanacyambwe	kinyarwanda_7:39006-39017	NIL	LOC	NAM	1.0	
+Andre	annotation-653	Rwanda	kinyarwanda_7:2709-2714	NIL	LOC	NAM	1.0	
+Andre	annotation-654	Rwanda	kinyarwanda_7:12701-12706	NIL	LOC	NAM	1.0	
+Andre	annotation-655	Gicanda	kinyarwanda_7:45220-45226	NIL	PER	NAM	1.0	
+Andre	annotation-656	Mugesera	kinyarwanda_7:40632-40639	NIL	LOC	NAM	1.0	
+Andre	annotation-657	Kigali	kinyarwanda_7:20684-20689	NIL	LOC	NAM	1.0	
+Andre	annotation-658	Afurika	kinyarwanda_7:31100-31106	NIL	LOC	NAM	1.0	
+Andre	annotation-659	Mutaganzwa	kinyarwanda_7:38023-38032	NIL	PER	NAM	1.0	
+Andre	annotation-660	Bukombe	kinyarwanda_7:58833-58839	NIL	PER	NAM	1.0	
+Andre	annotation-661	Bugesera	kinyarwanda_7:8120-8127	NIL	LOC	NAM	1.0	
+Andre	annotation-662	Rwanda	kinyarwanda_7:50448-50453	NIL	LOC	NAM	1.0	
+Andre	annotation-663	Bubiligi	kinyarwanda_7:65190-65197	NIL	LOC	NAM	1.0	
+Andre	annotation-664	Rwanda	kinyarwanda_7:65158-65163	NIL	LOC	NAM	1.0	
+Andre	annotation-665	Village Urugwiro	kinyarwanda_7:14265-14280	NIL	LOC	NAM	1.0	
+Andre	annotation-666	Rwanda	kinyarwanda_7:66657-66662	NIL	LOC	NAM	1.0	
+Andre	annotation-667	Gihanga	kinyarwanda_7:53855-53861	NIL	PER	NAM	1.0	
+Andre	annotation-668	Rwanda	kinyarwanda_7:50705-50710	NIL	LOC	NAM	1.0	
+Andre	annotation-669	Bujumbura	kinyarwanda_7:43377-43385	NIL	LOC	NAM	1.0	
+Andre	annotation-670	Rwanda	kinyarwanda_7:38464-38469	NIL	LOC	NAM	1.0	
+Andre	annotation-671	Ruganzu	kinyarwanda_7:28159-28165	NIL	PER	NAM	1.0	
+Andre	annotation-672	Rwaka	kinyarwanda_7:58746-58750	NIL	PER	NAM	1.0	
+Andre	annotation-673	Afurika	kinyarwanda_7:12197-12203	NIL	LOC	NAM	1.0	
+Andre	annotation-674	Berlin	kinyarwanda_7:31389-31394	NIL	LOC	NAM	1.0	
+Andre	annotation-675	1642 kugeza mu wa 1675	kinyarwanda_7:58245-58266	NIL	DATE	NAM	1.0	
+Andre	annotation-676	Burengerazuba	kinyarwanda_7:4295-4307	NIL	LOC	NAM	1.0	
+Andre	annotation-677	Rwanda	kinyarwanda_7:18645-18650	NIL	LOC	NAM	1.0	
+Andre	annotation-678	Village Urugwiro	kinyarwanda_7:11748-11763	NIL	LOC	NAM	1.0	
+Andre	annotation-679	1999	kinyarwanda_7:44550-44553	NIL	DATE	NAM	1.0	
+Andre	annotation-680	Kwezi John	kinyarwanda_7:597-606	NIL	PER	NAM	1.0	
+Andre	annotation-681	Kagame	kinyarwanda_7:46875-46880	NIL	PER	NAM	1.0	
+Andre	annotation-682	Rukiri II	kinyarwanda_7:42309-42317	NIL	LOC	NAM	1.0	
+Andre	annotation-683	Rubaduka Frank	kinyarwanda_7:8679-8692	NIL	PER	NAM	1.0	
+Andre	annotation-684	18 Gicurasi	kinyarwanda_7:62328-62338	NIL	DATE	NAM	1.0	
+Andre	annotation-685	Nyarwaya	kinyarwanda_7:58763-58770	NIL	PER	NAM	1.0	
+Andre	annotation-686	Bwanacyambwe’	kinyarwanda_7:41811-41823	NIL	LOC	NAM	1.0	
+Andre	annotation-687	21 na 22 Gicurasi 1979	kinyarwanda_7:13190-13211	NIL	DATE	NAM	1.0	
+Andre	annotation-688	n’Akagera	kinyarwanda_7:40607-40615	NIL	LOC	NAM	1.0	
+Andre	annotation-689	Nkuba ya Nyabakonjo	kinyarwanda_7:22307-22325	NIL	PER	NAM	1.0	
+Andre	annotation-690	Bufaransa	kinyarwanda_7:13325-13333	NIL	LOC	NAM	1.0	
+Andre	annotation-691	Twitter	kinyarwanda_7:20012-20018	NIL	ORG	NAM	1.0	
+Andre	annotation-692	Sharangabo ya Cyilima Rujugira	kinyarwanda_7:61800-61829	NIL	PER	NAM	1.0	
+Andre	annotation-693	Espagne	kinyarwanda_7:30484-30490	NIL	LOC	NAM	1.0	
+Andre	annotation-694	Ikigo cy’Ingoro z’Igihugu z’Umurage w’u Rwanda	kinyarwanda_7:20564-20609	NIL	ORG	NAM	1.0	
+Andre	annotation-695	Plague	kinyarwanda_7:1710-1715	NIL	LOC	NAM	1.0	
+Andre	annotation-696	Burayi	kinyarwanda_7:72873-72878	NIL	LOC	NAM	1.0	
+Andre	annotation-697	Afurika	kinyarwanda_7:13277-13283	NIL	LOC	NAM	1.0	
+Andre	annotation-698	Ndera	kinyarwanda_7:8336-8340	NIL	LOC	NAM	1.0	
+Andre	annotation-699	Gihanga	kinyarwanda_7:52517-52523	NIL	PER	NAM	1.0	
+Andre	annotation-700	Afurika	kinyarwanda_7:33670-33676	NIL	LOC	NAM	1.0	
+Andre	annotation-701	Afurika	kinyarwanda_7:32221-32227	NIL	LOC	NAM	1.0	
+Andre	annotation-702	Afurika	kinyarwanda_7:35523-35529	NIL	LOC	NAM	1.0	
+Andre	annotation-703	Rwanda	kinyarwanda_7:39792-39797	NIL	LOC	NAM	1.0	
+Andre	annotation-704	n’Ubunani	kinyarwanda_7:30743-30751	NIL	DATE	NAM	1.0	
+Andre	annotation-705	Butare	kinyarwanda_7:44291-44296	NIL	LOC	NAM	1.0	
+Andre	annotation-706	Rosali Gicanda	kinyarwanda_7:43836-43849	NIL	PER	NAM	1.0	
+Andre	annotation-707	Bufaransa	kinyarwanda_7:35978-35986	NIL	LOC	NAM	1.0	
+Andre	annotation-708	Nyarwaya Karuretwa wa Yuhi Mazimpaka	kinyarwanda_7:59200-59235	NIL	PER	NAM	1.0	
+Andre	annotation-709	Kigali	kinyarwanda_7:22674-22679	NIL	LOC	NAM	1.0	
+Andre	annotation-710	‘Gasunzu’	kinyarwanda_7:22908-22916	NIL	PER	NAM	1.0	
+Andre	annotation-711	Kanyabashi	kinyarwanda_7:45565-45574	NIL	PER	NAM	1.0	
+Andre	annotation-712	Bwanacyambwe	kinyarwanda_7:40212-40223	NIL	LOC	NAM	1.0	
+Andre	annotation-713	Ndorwa	kinyarwanda_7:8059-8064	NIL	LOC	NAM	1.0	
+Andre	annotation-714	Rucagu	kinyarwanda_7:15283-15288	NIL	PER	NAM	1.0	
+Andre	annotation-715	uyu munsi	kinyarwanda_7:62821-62829	NIL	DATE	NAM	1.0	
+Andre	annotation-716	Juvénal Habyarimana	kinyarwanda_7:14002-14020	NIL	PER	NAM	1.0	
+Andre	annotation-717	Rwanda	kinyarwanda_7:61930-61935	NIL	LOC	NAM	1.0	
+Andre	annotation-718	Burayi	kinyarwanda_7:32841-32846	NIL	LOC	NAM	1.0	
+Andre	annotation-719	Buliza	kinyarwanda_7:41004-41009	NIL	LOC	NAM	1.0	
+Andre	annotation-720	Ildephonse Nizeyimana	kinyarwanda_7:45890-45910	NIL	PER	NAM	1.0	
+Andre	annotation-721	Burengerazuba	kinyarwanda_7:4680-4692	NIL	LOC	NAM	1.0	
+Andre	annotation-722	Buliza	kinyarwanda_7:40858-40863	NIL	LOC	NAM	1.0	
+Andre	annotation-723	Rwamagana y’Iburengerazuba	kinyarwanda_7:41321-41346	NIL	LOC	NAM	1.0	
+Andre	annotation-724	Novotel Umubano	kinyarwanda_7:13704-13718	NIL	ORG	NAM	1.0	
+Andre	annotation-725	Gicanda	kinyarwanda_7:44576-44582	NIL	PER	NAM	1.0	
+Andre	annotation-726	Mukungu wa Yuhi Mazimpaka	kinyarwanda_7:59148-59172	NIL	PER	NAM	1.0	
+Andre	annotation-727	Nyagihanga	kinyarwanda_7:51619-51628	NIL	LOC	NAM	1.0	
+Andre	annotation-728	Rucagu Boniface	kinyarwanda_7:14400-14414	NIL	PER	NAM	1.0	
+Andre	annotation-729	Kimironko	kinyarwanda_7:42028-42036	NIL	LOC	NAM	1.0	
+Andre	annotation-730	Afurika	kinyarwanda_7:35038-35044	NIL	LOC	NAM	1.0	
+Andre	annotation-731	2013	kinyarwanda_7:1325-1328	NIL	DATE	NAM	1.0	
+Andre	annotation-732	Rosalia Gicanda	kinyarwanda_7:44430-44444	NIL	PER	NAM	1.0	
+Andre	annotation-733	1908	kinyarwanda_7:33161-33164	NIL	DATE	NAM	1.0	
+Andre	annotation-734	Jeune Afrique	kinyarwanda_7:46667-46679	NIL	ORG	NAM	1.0	
+Andre	annotation-735	Afurika	kinyarwanda_7:35873-35879	NIL	LOC	NAM	1.0	
+Andre	annotation-736	20 Mata 1994	kinyarwanda_7:43801-43812	NIL	DATE	NAM	1.0	
+Andre	annotation-737	saa tanu z’amanywa	kinyarwanda_7:44729-44746	NIL	DATE	NAM	1.0	
+Andre	annotation-738	Otto von Bismarck	kinyarwanda_7:29759-29775	NIL	PER	NAM	1.0	
+Andre	annotation-739	Rindiro	kinyarwanda_7:41968-41974	NIL	LOC	NAM	1.0	
+Andre	annotation-740	Kigeli Mukobanya	kinyarwanda_7:42488-42503	NIL	PER	NAM	1.0	
+Andre	annotation-741	IGIHE	kinyarwanda_7:10104-10108	NIL	ORG	NAM	1.0	
+Andre	annotation-742	Nsanzabera Jean de Dieu	kinyarwanda_7:40013-40035	NIL	PER	NAM	1.0	
+Andre	annotation-743	Mutaganzwa	kinyarwanda_7:37258-37267	NIL	PER	NAM	1.0	
+Andre	annotation-744	Rwanda	kinyarwanda_7:17622-17627	NIL	LOC	NAM	1.0	
+Andre	annotation-745	18 Gicurasi 2020 saa Cyenda	kinyarwanda_7:65616-65642	NIL	DATE	NAM	1.0	
+Andre	annotation-746	Gatsibo	kinyarwanda_7:50594-50600	NIL	LOC	NAM	1.0	
+Andre	annotation-747	Karagwe	kinyarwanda_7:22894-22900	NIL	LOC	NAM	1.0	
+Andre	annotation-748	Rwanda	kinyarwanda_7:46923-46928	NIL	LOC	NAM	1.0	
+Andre	annotation-749	Uganda	kinyarwanda_7:11330-11335	NIL	LOC	NAM	1.0	
+Andre	annotation-750	Rwanda	kinyarwanda_7:16878-16883	NIL	LOC	NAM	1.0	
+Andre	annotation-751	ishuri rikuru rya gisirikare	kinyarwanda_7:44934-44961	NIL	ORG	NAM	1.0	
+Andre	annotation-752	Rubavu	kinyarwanda_7:5008-5013	NIL	LOC	NAM	1.0	
+Andre	annotation-753	Afurika	kinyarwanda_7:72138-72144	NIL	LOC	NAM	1.0	
+Andre	annotation-754	Mani Martin	kinyarwanda_7:1142-1152	NIL	PER	NAM	1.0	
+Andre	annotation-755	Gicanda	kinyarwanda_7:44220-44226	NIL	PER	NAM	1.0	
+Andre	annotation-756	Rosalie Gicanda	kinyarwanda_7:47381-47395	NIL	PER	NAM	1.0	
+Andre	annotation-757	Kanyankore ka Kanyoni ka Baziga ba Cyilima Rujugira	kinyarwanda_7:61474-61524	NIL	PER	NAM	1.0	
+Andre	annotation-758	Buholandi	kinyarwanda_7:838-846	NIL	LOC	NAM	1.0	
+Andre	annotation-759	Gicanda	kinyarwanda_7:45515-45521	NIL	PER	NAM	1.0	
+Andre	annotation-760	Kigeli Mukobanya	kinyarwanda_7:23575-23590	NIL	PER	NAM	1.0	
+Andre	annotation-761	Mutara wa III Rudahigwa Charles Léon Pierre	kinyarwanda_7:43230-43272	NIL	PER	NAM	1.0	
+Andre	annotation-762	Rwanda	kinyarwanda_7:13220-13225	NIL	LOC	NAM	1.0	
+Andre	annotation-763	5 Ugushyingo 2016	kinyarwanda_7:36731-36747	NIL	DATE	NAM	1.0	
+Andre	annotation-764	Nyarwaya Karuretwa wa Yuhi Mazimpaka	kinyarwanda_7:59321-59356	NIL	PER	NAM	1.0	
+Andre	annotation-765	Rwanda	kinyarwanda_7:23169-23174	NIL	LOC	NAM	1.0	
+Andre	annotation-766	Kigeli Rwabugiri	kinyarwanda_7:23491-23506	NIL	PER	NAM	1.0	
+Andre	annotation-767	Rwanda	kinyarwanda_7:38366-38371	NIL	LOC	NAM	1.0	
+Andre	annotation-768	Ange Kagame	kinyarwanda_7:19613-19623	NIL	PER	NAM	1.0	
+Andre	annotation-769	Afurika	kinyarwanda_7:32428-32434	NIL	LOC	NAM	1.0	
+Andre	annotation-770	Rudahigwa	kinyarwanda_7:43347-43355	NIL	PER	NAM	1.0	
+Andre	annotation-771	Nyirabwana	kinyarwanda_7:42119-42128	NIL	LOC	NAM	1.0	
+Andre	annotation-772	Guverinoma y’u Bubiligi	kinyarwanda_7:33407-33429	NIL	ORG	NAM	1.0	
+Andre	annotation-773	Kimironko	kinyarwanda_7:41291-41299	NIL	LOC	NAM	1.0	
+Andre	annotation-774	Uwingabire Claudine	kinyarwanda_7:1582-1600	NIL	PER	NAM	1.0	
+Andre	annotation-775	Rwanda	kinyarwanda_7:66987-66992	NIL	LOC	NAM	1.0	
+Andre	annotation-776	Gasabo	kinyarwanda_7:8370-8375	NIL	LOC	NAM	1.0	
+Andre	annotation-777	Yuhi Mazimpaka	kinyarwanda_7:61227-61240	NIL	PER	NAM	1.0	
+Andre	annotation-778	uyu mwaka wa 2020	kinyarwanda_7:63745-63761	NIL	DATE	NAM	1.0	
+Andre	annotation-779	Yuhi Mazimpaka	kinyarwanda_7:58470-58483	NIL	PER	NAM	1.0	
+Andre	annotation-780	Rwimbogo	kinyarwanda_7:5880-5887	NIL	LOC	NAM	1.0	
+Andre	annotation-781	Village Urugwiro	kinyarwanda_7:12756-12771	NIL	LOC	NAM	1.0	
+Andre	annotation-782	Nyarugenge	kinyarwanda_7:22015-22024	NIL	LOC	NAM	1.0	
+Andre	annotation-783	Ramiro	kinyarwanda_7:41960-41965	NIL	LOC	NAM	1.0	
+Andre	annotation-784	Maroc	kinyarwanda_7:46844-46848	NIL	LOC	NAM	1.0	
+Andre	annotation-785	Kicukiro	kinyarwanda_7:22627-22634	NIL	LOC	NAM	1.0	
+Andre	annotation-786	Kigali	kinyarwanda_7:20524-20529	NIL	LOC	NAM	1.0	
+Andre	annotation-787	Gasabo	kinyarwanda_7:42054-42059	NIL	LOC	NAM	1.0	
+Andre	annotation-788	Afurika	kinyarwanda_7:28984-28990	NIL	LOC	NAM	1.0	
+Andre	annotation-789	Majyaruguru y’Iburasirazuba bwa Afurika	kinyarwanda_7:6057-6095	NIL	LOC	NAM	1.0	
+Andre	annotation-790	Gapfizi	kinyarwanda_7:58796-58802	NIL	PER	NAM	1.0	
+Andre	annotation-791	Rwanda	kinyarwanda_7:22510-22515	NIL	LOC	NAM	1.0	
+Andre	annotation-792	Bwanacyambwe	kinyarwanda_7:42691-42702	NIL	LOC	NAM	1.0	
+Andre	annotation-793	Rwanda	kinyarwanda_7:11674-11679	NIL	LOC	NAM	1.0	
+Andre	annotation-794	Rwanda	kinyarwanda_7:19645-19650	NIL	LOC	NAM	1.0	
+Andre	annotation-795	Bwanacyambwe	kinyarwanda_7:40508-40519	NIL	LOC	NAM	1.0	
+Andre	annotation-796	Gisaka	kinyarwanda_7:27329-27334	NIL	LOC	NAM	1.0	
+Andre	annotation-797	Afurika	kinyarwanda_7:57126-57132	NIL	LOC	NAM	1.0	
+Andre	annotation-798	Ethiopia	kinyarwanda_7:6111-6118	NIL	LOC	NAM	1.0	
+Andre	annotation-799	Afurika	kinyarwanda_7:32155-32161	NIL	LOC	NAM	1.0	
+Andre	annotation-800	Afurika	kinyarwanda_7:71313-71319	NIL	LOC	NAM	1.0	
+Andre	annotation-801	Nyirabwanacyambwe	kinyarwanda_7:41735-41751	NIL	PER	NAM	1.0	
+Andre	annotation-802	Afurika	kinyarwanda_7:71430-71436	NIL	LOC	NAM	1.0	
+Andre	annotation-803	Yezu Kirisitu	kinyarwanda_7:6279-6291	NIL	PER	NAM	1.0	
+Andre	annotation-804	2008	kinyarwanda_7:926-929	NIL	DATE	NAM	1.0	
+Andre	annotation-805	Bwanacyambwe	kinyarwanda_7:22338-22349	NIL	LOC	NAM	1.0	
+Andre	annotation-806	Kanombe	kinyarwanda_7:64225-64231	NIL	LOC	NAM	1.0	
+Andre	annotation-807	Rwanda	kinyarwanda_7:42835-42840	NIL	LOC	NAM	1.0	
+Andre	annotation-808	Vugavuge	kinyarwanda_7:23649-23656	NIL	LOC	NAM	1.0	
+Andre	annotation-809	Rwanda	kinyarwanda_7:4724-4729	NIL	LOC	NAM	1.0	
+Andre	annotation-810	Bamporiki	kinyarwanda_7:243-251	NIL	PER	NAM	1.0	
+Andre	annotation-811	Village Urugwiro	kinyarwanda_7:14618-14633	NIL	LOC	NAM	1.0	
+Andre	annotation-812	Mukungu wa Yuhi Mzimpaka	kinyarwanda_7:59094-59117	NIL	PER	NAM	1.0	
+Andre	annotation-813	Village Urugwiro	kinyarwanda_7:15609-15624	NIL	LOC	NAM	1.0	
+Andre	annotation-814	OCAM	kinyarwanda_7:12798-12801	NIL	ORG	NAM	1.0	
+Andre	annotation-815	Semakamba	kinyarwanda_7:23440-23448	NIL	LOC	NAM	1.0	
+Andre	annotation-816	Mutabazi Kabarira	kinyarwanda_7:69882-69898	NIL	PER	NAM	1.0	
+Andre	annotation-817	Rwanda	kinyarwanda_7:58305-58310	NIL	LOC	NAM	1.0	
+Andre	annotation-818	January 26, 2019	kinyarwanda_7:20465-20480	NIL	DATE	NAM	1.0	
+Andre	annotation-819	Munana wa Gihana cya Cyilima Rujugira	kinyarwanda_7:61720-61756	NIL	PER	NAM	1.0	
+Andre	annotation-820	Nduba	kinyarwanda_7:8301-8305	NIL	LOC	NAM	1.0	
+Andre	annotation-821	Afurika	kinyarwanda_7:36092-36098	NIL	LOC	NAM	1.0	
+Andre	annotation-822	Rwanda	kinyarwanda_7:5093-5098	NIL	LOC	NAM	1.0	
+Andre	annotation-823	Kigali	kinyarwanda_7:23518-23523	NIL	LOC	NAM	1.0	
+Andre	annotation-824	‘Kabusunzu’	kinyarwanda_7:22824-22834	NIL	LOC	NAM	1.0	
+Andre	annotation-825	Afurika	kinyarwanda_7:29343-29349	NIL	LOC	NAM	1.0	
