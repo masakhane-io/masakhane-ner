@@ -1,0 +1,603 @@
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Gúúsù-Ìwọòrùn I-LOC
+Akoko I-LOC
+
+' O
+'' O
+' O
+'' O
+je O
+ìlú O
+ní O
+Nàìjíríà B-LOC
+. O
+
+' O
+'' O
+Vaduz B-LOC
+'' O
+' O
+, O
+Líktẹ́nstáìnì B-LOC
+
+Sloane B-PER
+Stephens I-PER
+'' O
+( O
+Fourth O
+round O
+) O
+
+** O
+Windows B-ORG
+XP I-ORG
+( O
+2001 O
+) O
+
+Àgbájọ B-ORG
+àwọn I-ORG
+Orílẹ̀-èdè I-ORG
+Aṣòkan I-ORG
+
+Martin B-PER
+Luther I-PER
+King I-PER
+, I-PER
+Jr I-PER
+. I-PER
+
+Yunifásítì B-ORG
+ìlú I-ORG
+Ilorin I-ORG
+
+Pópù B-PER
+Innocent I-PER
+5k I-PER
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Gúúsù I-LOC
+Mubi I-LOC
+
+' O
+'' O
+' O
+'' O
+jẹ́ O
+Fáráò B-PER
+ni O
+Ẹ́gíptì B-LOC
+Ayéijọ́un I-LOC
+. O
+
+Àwọn B-ORG
+ìṣẹ̀lẹ̀ I-ORG
+ìdánilóró I-ORG
+September I-ORG
+11 I-ORG
+, I-ORG
+2001 I-ORG
+
+Sérbíà B-ORG
+àti I-ORG
+Montenégrò I-ORG
+
+Pópù B-PER
+Paschal I-PER
+2k I-PER
+
+' O
+'' O
+' O
+'' O
+je O
+ìlú O
+ní O
+Nàìjíríà B-LOC
+. O
+
+Yunifásítì B-ORG
+ìlú I-ORG
+Ìbàdàn I-ORG
+
+Dáníẹ́l B-PER
+O. I-PER
+Fágúnwà I-PER
+
+Muhammad B-ORG
+ibn I-ORG
+Mūsā I-ORG
+al-Khwārizmī I-ORG
+
+Yunifásítì B-ORG
+ìlú I-ORG
+Calabar I-ORG
+
+Ààrẹ B-ORG
+ilẹ̀ I-ORG
+Gúúsù I-ORG
+Áfríkà I-ORG
+
+Suara B-PER
+Àlàní I-PER
+Bánkọ́lé I-PER
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Gummi I-LOC
+
+Agbègbè B-LOC
+Apáàríwá I-LOC
+Nàìjíríà I-LOC
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Ajingi I-LOC
+
+' O
+'' O
+' O
+'' O
+je O
+ìlú O
+ní O
+Nàìjíríà B-LOC
+. O
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Bokkos I-LOC
+
+Ilé-ìgbìmọ̀ B-ORG
+Aṣòfin I-ORG
+Oníbínibí I-ORG
+ilẹ̀ I-ORG
+Nàìjíríà I-ORG
+
+Ìpínlẹ̀ B-ORG
+Akwa I-ORG
+Íbọm I-ORG
+
+Pópù B-PER
+Sixtus I-PER
+1k I-PER
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Dange-Shuni I-LOC
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Ohaukwu I-LOC
+
+Yunifásítì B-ORG
+ìlú I-ORG
+Ebute I-ORG
+Harcourt I-ORG
+
+Ẹgbẹ́ B-ORG
+agbábọ́ọ̀lù-ẹlẹ́sẹ̀ I-ORG
+ọmọorílẹ̀-èdè I-ORG
+Nàìjíríà I-ORG
+
+Samantha B-PER
+Stosur I-PER
+'' O
+( O
+First O
+round O
+) O
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Damban I-LOC
+
+Ẹgbẹ́ B-ORG
+Olóṣèlúaráìlú I-ORG
+àwọn I-ORG
+Aráàlù I-ORG
+( I-ORG
+Nàìjíríà I-ORG
+) I-ORG
+
+Ibi B-ORG
+Ọ̀ṣọ́ I-ORG
+Àgbáyé I-ORG
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Okitipupa I-LOC
+
+Pápá B-ORG
+Eréìdárayá I-ORG
+Mbombela I-ORG
+
+Ààrẹ B-ORG
+ilẹ̀ I-ORG
+Brasil I-ORG
+
+Màríà B-PER
+( I-PER
+ìyá I-PER
+Jésù I-PER
+) I-PER
+
+Ó O
+gboyè O
+Enjiníà O
+ní O
+Ilẹ̀gẹ̀ẹ́sì B-LOC
+. O
+
+Àwọn B-LOC
+Ìpínlẹ̀ I-LOC
+Orílẹ̀-èdè I-LOC
+Amẹ́ríkà I-LOC
+
+Prime O
+Minister]] O
+Yousaf B-PER
+Raza I-PER
+Gillani I-PER
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Gbako I-LOC
+
+Ben B-PER
+Okri I-PER
+( O
+1959– O
+) O
+
+Louis B-PER
+9k I-PER
+ilẹ̀ I-PER
+Fránsì I-PER
+
+Stanley B-PER
+Cohen I-PER
+( I-PER
+aṣeògùn-alàyè I-PER
+) I-PER
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Song I-LOC
+
+Ignatius B-PER
+Kutu I-PER
+Acheampong I-PER
+
+Anastasia B-PER
+Pavlyuchenkova I-PER
+'' O
+( O
+First O
+round O
+) O
+
+' O
+'' O
+Tenczynek B-LOC
+'' O
+' O
+
+Ààrẹ B-ORG
+ilẹ̀ I-ORG
+Nàìjíríà I-ORG
+
+Tamarine B-PER
+Tanasugarn I-PER
+'' O
+( O
+Third O
+Round O
+) O
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Wudil I-LOC
+
+Tamarine B-PER
+Tanasugarn I-PER
+'' O
+( O
+Fourth O
+Round O
+) O
+'' O
+
+Antonio B-PER
+López I-PER
+de I-PER
+Santa I-PER
+Anna I-PER
+
+Àgbájọ B-ORG
+àwọn I-ORG
+Orílẹ̀-èdè I-ORG
+Aṣòkan I-ORG
+
+Venus B-PER
+Williams I-PER
+'' O
+( O
+Final O
+) O
+'' O
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Dala I-LOC
+
+Jelena B-PER
+Janković I-PER
+'' O
+( O
+Fourth O
+round O
+) O
+
+Àmì B-ORG
+ọ̀pá I-ORG
+àṣẹ I-ORG
+ilẹ̀ I-ORG
+Ingushetia I-ORG
+
+Gbọ̀ngàn B-ORG
+Òfurufú I-ORG
+Kennedy I-ORG
+
+Àkójọ B-ORG
+àwọn I-ORG
+Alákòóso I-ORG
+Àgbà I-ORG
+ilẹ̀ I-ORG
+Tànsáníà I-ORG
+
+Anastasia B-PER
+Pavlyuchenkova I-PER
+'' O
+( O
+Second O
+round O
+) O
+
+Àsìá B-PER
+ilẹ̀ I-PER
+Tufalu I-PER
+
+Daniela B-PER
+Hantuchová I-PER
+'' O
+( O
+Third O
+Round O
+) O
+
+Beijing B-LOC
+Pyongyang B-LOC
+Seoul B-LOC
+Taipei B-LOC
+Tokyo B-LOC
+Ulan B-ORG
+Bator I-ORG
+
+Angelique B-PER
+Kerber I-PER
+'' O
+( O
+Quarterfinals O
+) O
+
+Àmì B-ORG
+ọ̀pá I-ORG
+àṣẹ I-ORG
+ilẹ̀ I-ORG
+Bósníà I-ORG
+àti I-ORG
+Hẹrjẹgòfínà I-ORG
+
+Zheng B-PER
+Jie I-PER
+'' O
+( O
+Second O
+Round O
+) O
+
+Charles B-PER
+8k I-PER
+ilẹ̀ I-PER
+Fránsì I-PER
+
+' O
+'' O
+' O
+'' O
+jẹ́ O
+Fáráò B-PER
+ni O
+Ẹ́gíptì B-LOC
+Ayéijọ́un I-LOC
+. O
+
+Ptolemy B-PER
+1k I-PER
+Soter I-PER
+
+' O
+'' O
+' O
+'' O
+jẹ́ O
+Fáráò B-PER
+ni O
+Ẹ́gíptì B-LOC
+Ayéijọ́un I-LOC
+. O
+
+Ilẹ̀ B-ORG
+Ọbalúayé I-ORG
+Rómù I-ORG
+Mímọ́ I-ORG
+
+' O
+'' O
+David B-PER
+Mark I-PER
+'' O
+' O
+
+Àkójọ B-ORG
+àwọn I-ORG
+olórí I-ORG
+ìjọba I-ORG
+ilẹ̀ I-ORG
+Bùrkínà I-ORG
+Fasò I-ORG
+
+' O
+'' O
+' O
+'' O
+jẹ́ O
+Fáráò B-PER
+ni O
+Ẹ́gíptì B-LOC
+Ayéijọ́un I-LOC
+. O
+
+Ajagun B-ORG
+Ojúòfurufú I-ORG
+Nàìjíríà I-ORG
+
+Orílẹ̀-èdè B-LOC
+Olómìnira I-LOC
+ilẹ̀ I-LOC
+Makẹdóníà I-LOC
+
+Pópù B-PER
+Benedict I-PER
+15k I-PER
+
+Ibi B-ORG
+Ọ̀ṣọ́ I-ORG
+Àgbáyé I-ORG
+
+Sara B-PER
+Errani I-PER
+'' O
+( O
+Semifinals O
+) O
+
+Pópù B-PER
+Pelagius I-PER
+2k I-PER
+
+Orin-ìyìn B-ORG
+orílẹ̀-èdè I-ORG
+ilẹ̀ I-ORG
+Tatarstan I-ORG
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Odo I-LOC
+Otin I-LOC
+
+Ekaterina B-PER
+Makarova I-PER
+'' O
+( O
+Quarterfinals O
+) O
+
+' O
+'' O
+Abdulsalami B-PER
+Abubakar I-PER
+'' O
+' O
+
+Orílẹ̀-èdè B-LOC
+Olómìnira I-LOC
+Aṣọ̀kan I-LOC
+Árábù I-LOC
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Buruku I-LOC
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Gúúsù-Ìwọòrùn I-LOC
+Èkìtì I-LOC
+
+Ahmed B-PER
+Sani I-PER
+Yerima I-PER
+
+Monica B-PER
+Seles I-PER
+'' O
+( O
+Third O
+Round O
+) O
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Gúúsù I-LOC
+Onitsha I-LOC
+
+' O
+'' O
+' O
+'' O
+jẹ́ O
+Fáráò B-PER
+ni O
+Ẹ́gíptì B-LOC
+Ayéijọ́un I-LOC
+. O
+
+Ààrẹ B-PER
+ilẹ̀ I-PER
+Jẹ́mánì I-PER
+
+President]] O
+José B-PER
+Eduardo I-PER
+dos I-PER
+Santos I-PER
+
+Pópù B-PER
+Gelasius I-PER
+2k I-PER
+
+116,096 O
+km2 O
+-- O
+Ohio B-LOC
+

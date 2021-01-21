@@ -1,0 +1,622 @@
+Ishyaka B-ORG
+FPR-Inkotanyi I-ORG
+
+Recep B-PER
+Tayyip I-PER
+Erdoğan I-PER
+
+Leta B-LOC
+Zunze I-LOC
+Ubumwe I-LOC
+z’Amerika I-LOC
+
+Tonga B-LOC
+
+Rwanda B-LOC
+· O
+Imirenge B-LOC
+y’u I-LOC
+Rwanda I-LOC
+
+Molidova B-LOC
+
+Umukuzanyana B-LOC
+
+Nikolay B-PER
+Merkushkin I-PER
+
+=== O
+Ibitabo O
+Isezerano B-ORG
+Rishya I-ORG
+=== O
+
+Paul B-PER
+Kagame I-PER
+
+Kanada B-LOC
+
+Umuryango B-ORG
+Ugamije I-ORG
+Iterambere I-ORG
+ry’Afurika I-ORG
+y’amajyepfo I-ORG
+
+Leta B-LOC
+Zunze I-LOC
+Ubumwe I-LOC
+z’Amerika I-LOC
+
+Emmanuel B-PER
+Kant I-PER
+
+Porutigali B-LOC
+
+Uburusiya B-LOC
+
+Ali B-PER
+Hassan I-PER
+Mwinyi I-PER
+
+Umusigiti B-ORG
+wa I-ORG
+Sulutani I-ORG
+Omar I-ORG
+Ali I-ORG
+Saifuddin I-ORG
+
+' O
+'' O
+PPC O
+'' O
+' O
+Ishyaka B-ORG
+ry’Iterambere I-ORG
+n’Ubusabane I-ORG
+( O
+''Parti O
+pour O
+le O
+Progrès O
+et O
+la O
+Concorde O
+/ O
+Party O
+for O
+Progress O
+and O
+Concord O
+'' O
+) O
+
+Ağrı B-LOC
+
+Frederick B-PER
+Sumaye I-PER
+
+Ikawa B-ORG
+
+Ishyaka B-ORG
+ry’Iterambere I-ORG
+n’Ubusabane I-ORG
+
+Amahoro B-ORG
+Masa I-ORG
+
+Umusigiti B-ORG
+wa I-ORG
+Sulutani I-ORG
+Ibrahim I-ORG
+Jamek I-ORG
+
+File O
+: O
+Pongamia O
+pinnata O
+( O
+Karanj O
+) O
+near O
+Hyderabad O
+W O
+IMG_7634.jpg| O
+'' O
+Pongamia O
+Pinnata O
+'' O
+, O
+Ubuhinde B-LOC
+. O
+
+Ubushinwa B-LOC
+
+U O
+Rwanda B-LOC
+rucumbikiye O
+ibimera O
+by’amoko O
+menshi O
+anyuranye O
+kubera O
+urusobe O
+rw’imiterere O
+y’igihugu O
+n’urw’ikirere O
+ruhanitse O
+kuva O
+mu O
+burengerazuba O
+kugera O
+mu O
+burasirazuba O
+. O
+
+Tirinida B-ORG
+na I-ORG
+Tobago I-ORG
+
+Banki B-ORG
+Nyafurika I-ORG
+Itsura I-ORG
+Amajyambere I-ORG
+
+Andrew B-PER
+Johnson I-PER
+
+Omar B-PER
+El I-PER
+Bechir I-PER
+
+Zinedine B-PER
+Zidane I-PER
+
+Alpha B-PER
+Oumar I-PER
+Konaré I-PER
+
+Bolu B-LOC
+
+Mosiuoa B-PER
+Lekota I-PER
+
+James B-PER
+Knox I-PER
+Polk I-PER
+
+' O
+'' O
+AEC O
+'' O
+' O
+Umuryango B-ORG
+w’Ubukungu I-ORG
+bw’Afurika I-ORG
+
+Igitabo B-ORG
+cy’Abacamanza I-ORG
+
+Ibirwa B-LOC
+bya I-LOC
+Virigini I-LOC
+bya I-LOC
+Leta I-LOC
+Zunze I-LOC
+Ubumwe I-LOC
+
+Mehmet B-PER
+Ali I-PER
+Talat I-PER
+
+Tommy B-PER
+Thompson I-PER
+
+Nicolas B-PER
+Copernic I-PER
+
+Bilecik B-LOC
+
+Mwai B-PER
+Kibaki I-PER
+
+' O
+'' O
+UN O
+'' O
+' O
+cyangwa O
+' O
+'' O
+UNO O
+'' O
+' O
+Umuryango B-ORG
+w’Abibumye I-ORG
+( O
+''United O
+Nations O
+'' O
+cyangwe O
+''United O
+Nations O
+Organization O
+'' O
+) O
+
+Mutagatifu O
+Lusiya]] O
+, O
+Mutagatifu B-LOC
+Visenti I-LOC
+na I-LOC
+Gerenadine I-LOC
+
+André B-PER
+Flahaut I-PER
+
+Dominique B-PER
+Mbonyumutwa I-PER
+
+' O
+'' O
+AfDB O
+'' O
+' O
+Banki B-ORG
+Nyafurika I-ORG
+Itsura I-ORG
+Amajyambere I-ORG
+( O
+''African O
+Development O
+Bank O
+'' O
+) O
+
+' O
+'' O
+SADC O
+'' O
+' O
+Umuryango B-ORG
+Ugamije I-ORG
+Iterambere I-ORG
+ry’Afurika I-ORG
+y’amajyepfo I-ORG
+
+Dendo B-LOC
+( O
+''Meleagris O
+gallopavo O
+'' O
+) O
+
+Umusigiti B-ORG
+wa I-ORG
+Hassan I-ORG
+II I-ORG
+
+Yezu B-PER
+Kirisitu I-PER
+
+Festus B-PER
+Mogae I-PER
+
+Umusigiti B-ORG
+wa I-ORG
+Lala I-ORG
+Mustafa I-ORG
+Pasha I-ORG
+
+Ludwig B-PER
+Feuerbach I-PER
+
+Umusigiti B-ORG
+wa I-ORG
+Sulutani I-ORG
+Hassan I-ORG
+
+Jean B-PER
+Kambanda I-PER
+
+Icya O
+kabiri O
+, O
+uhereye O
+kuko O
+u O
+Rwanda O
+rwari O
+rugiye O
+kwinjira O
+mu O
+muryango O
+w’ibihugu O
+bya O
+Afurika O
+y’Iburasirazuba O
+bye O
+Kenya O
+, O
+Uganda O
+na O
+Uganda O
+mu O
+byo O
+bise O
+''East O
+African O
+Community O
+'' O
+( O
+EAC O
+, O
+Umuryango B-ORG
+w’Ibihugu I-ORG
+by’Iburasirazuba I-ORG
+bw’Afurika I-ORG
+) O
+, O
+KCK O
+nk’umwe O
+mu O
+bafatanyije O
+na O
+EAC O
+n’indi O
+miryango O
+itari O
+iya O
+leta O
+( O
+ONG O
+) O
+, O
+yumvise O
+ari O
+inshingano O
+zayo O
+gushyira O
+u O
+Rwanda O
+muri O
+gahunda O
+zayo O
+. O
+
+Samuel B-PER
+Morse I-PER
+
+Abaperezida B-ORG
+ba I-ORG
+Shipure I-ORG
+y’Amajyaruguru I-ORG
+
+Meles B-PER
+Zenawi I-PER
+
+Thabo B-PER
+Mbeki I-PER
+
+Martin B-PER
+Van I-PER
+Buren I-PER
+
+Korowatiya B-LOC
+
+Umusigiti B-ORG
+wa I-ORG
+Yukhari I-ORG
+Govhar I-ORG
+aga I-ORG
+
+Heidemarie B-PER
+Wieczorek-Zeul I-PER
+
+Indymedia B-ORG
+
+' O
+'' O
+Laura O
+Lane O
+Welch O
+Bush O
+'' O
+' O
+( O
+4 O
+Ugushyingo O
+1946 O
+) O
+ni O
+madamu O
+wa O
+Perezida O
+George B-PER
+W. I-PER
+Bush I-PER
+. O
+
+Tirinida B-ORG
+na I-ORG
+Tobago I-ORG
+
+Babeldaob B-LOC
+
+' O
+'' O
+Igitabo B-PER
+cya I-PER
+Yosuwa I-PER
+'' O
+' O
+
+Georg B-PER
+Wilhelm I-PER
+Friedrich I-PER
+Hegel I-PER
+
+' O
+'' O
+Bernard B-PER
+Makuza I-PER
+'' O
+' O
+
+Yugosilaviya B-LOC
+
+Julius B-PER
+Nyerere I-PER
+
+Esitoniya B-LOC
+
+' O
+'' O
+Isezerano B-ORG
+Rishya I-ORG
+'' O
+' O
+ni O
+igitekerezo O
+cy'imibereho O
+ye O
+nk'uko O
+byari O
+byarahanuwe O
+. O
+
+Icyarabu B-ORG
+
+Umuryango B-ORG
+Ugamije I-ORG
+Iterambere I-ORG
+ry’Afurika I-ORG
+y’amajyepfo I-ORG
+
+Abyarwa O
+na O
+Makuza O
+Anastase O
+, O
+nawe O
+wabaye O
+Minisitiri O
+mu O
+gihe O
+cya O
+Repubulika O
+ya O
+mbere O
+, O
+kubwa O
+Perezida O
+Grégoire B-PER
+Kayibanda I-PER
+, O
+aho O
+yari O
+Minisitiri O
+w'Uburezi O
+, O
+hagati O
+y'1969 O
+na O
+1973 O
+. O
+
+Umusigiti B-ORG
+wa I-ORG
+Yukhari I-ORG
+Govhar I-ORG
+aga I-ORG
+
+Abdoulaye B-PER
+Wade I-PER
+
+Uburundi B-LOC
+
+Ubusuwisi B-LOC
+, O
+Liyeshitensiteyine B-LOC
+
+Arumeniya B-LOC
+
+Arabiya B-LOC
+Sawudite I-LOC
+
+Jomo B-PER
+Kenyatta I-PER
+
+Amahwa B-LOC
+ya I-LOC
+Kasi I-LOC
+( O
+''Pinus O
+kesiya O
+'' O
+) O
+
+Umusigiti B-ORG
+wa I-ORG
+Mustafa I-ORG
+Kazdal I-ORG
+
+' O
+'' O
+Kanseri B-ORG
+yo O
+muri O
+nyababyeyi O
+'' O
+' O
+tuyisanga O
+aho O
+umwana O
+akurira O
+. O
+
+Arnavutköy B-LOC
+
+Azarias B-PER
+Ruberwa I-PER
+
+Isirayeli B-LOC
+
+' O
+'' O
+Aldo O
+Ajello O
+'' O
+' O
+Intumwa O
+yihariye O
+Umuryango B-ORG
+w’Ubumwe I-ORG
+bw’Ibihugu I-ORG
+by’i I-ORG
+Burayi I-ORG
+ushinzwe O
+Akarere O
+k’Ibiyaga O
+Bigari O
+. O
+
+== O
+Gucura O
+k’umugore O
+na O
+Kanseri B-ORG
+== O
+
+Umuceli B-ORG
+
+Tirinida B-ORG
+na I-ORG
+Tobago I-ORG
+
+=== O
+Akarere B-LOC
+ka I-LOC
+Muhanga I-LOC
+=== O
+

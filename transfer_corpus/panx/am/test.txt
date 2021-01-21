@@ -1,0 +1,760 @@
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+የኢትዮጵያ B-ORG
+ኦርቶዶክስ I-ORG
+ተዋሕዶ I-ORG
+ቤተ I-ORG
+ክርስቲያን I-ORG
+
+የሆላንድ B-ORG
+ሰንደቅ I-ORG
+ዓላማ I-ORG
+
+ላ B-LOC
+ፓዝ I-LOC
+ካውንቲ፥ I-LOC
+አሪዞና I-LOC
+
+የዓለም B-ORG
+ሀገራት I-ORG
+ባንዲራዎች I-ORG
+
+ላውሬንት O
+ኡጎ O
+( O
+ፈረንሳይ B-ORG
+) O
+
+ጥራክያ B-LOC
+ሰዎች O
+86 O
+ዓመት O
+ገዙ O
+( O
+1020-934 O
+ዓክልበ O
+. O
+
+ሴሌስቲን O
+ንታጉንጂራ O
+( O
+ሩዋንዳ B-ORG
+) O
+
+ፓትሪሲዮ O
+ባሱዋልቶ O
+( O
+ቺሌ B-ORG
+) O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+ጃን-ሄንድሪክ O
+ሳልቨር O
+( O
+ጀርመን B-ORG
+) O
+
+' O
+'' O
+ሶፍትወር O
+'' O
+' O
+ማለት O
+ማንኛውም O
+ኮምፒውተራችን B-LOC
+የምንሰራቸውን O
+ነግሮች O
+አንዲሰሩ O
+የሚያደርግ O
+ነው። O
+( O
+ሶፍትወር O
+ግኡዝ O
+የሆኑትን O
+የኮምፒውተር O
+አካሎች O
+አይመሌከትም። O
+) O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+ቶሩ O
+ሳጋራ O
+( O
+ጃፓን B-ORG
+) O
+
+ገዳማ O
+( O
+ግሪክ B-LOC
+) O
+
+የነገሠ O
+) O
+። O
+ኤራ-ኢሚቲ B-PER
+ተከታይ O
+ነበረ። O
+
+ጂዮንግ O
+ሀይ-ሳንግ O
+( O
+የኮሪያ B-ORG
+ሪፐብሊክ I-ORG
+) O
+
+አዋሳ B-ORG
+ከተማ I-ORG
+የእግር I-ORG
+ኳስ I-ORG
+ክለብ I-ORG
+
+ጣልያን B-LOC
+እና O
+ቫቲካን B-LOC
+ከተማ I-LOC
+- O
+39 O
+
+ፓትሪስ B-PER
+ደ I-PER
+ማክ I-PER
+ማሆን I-PER
+( O
+1865-1871 O
+) O
+
+የኢትዮጵያ B-ORG
+ሕዝቦች I-ORG
+አብዮታዊ I-ORG
+ዲሞክራሲያዊ I-ORG
+ግንባር I-ORG
+
+ንግሥት B-PER
+ኤልሣቤጥ I-PER
+( I-PER
+ዳግማዊት I-PER
+) I-PER
+
+አሜሪካ B-LOC
+ይኼ O
+ቀን O
+የዐለቃዎች O
+ቀን O
+( O
+boss’s O
+day O
+) O
+በመባል O
+የተሰየመ O
+ሲሆን፤ O
+ሥራ O
+መያዝንና O
+ሥራ O
+ላይ O
+መሆንን O
+የማክበሪያ O
+ቀን O
+ነው። O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+- O
+1 B-PER
+ሳርጎን I-PER
+በአሦር O
+ነገሠ። O
+
+አፋር B-LOC
+( I-LOC
+ክልል I-LOC
+) I-LOC
+
+የተባበሩት B-PER
+የዓረብ I-PER
+ግዛቶች I-PER
+ሰንደቅ I-PER
+ዓላማ I-PER
+
+የነገሠ O
+) O
+። O
+ቡር-ሲን B-PER
+ልጅና O
+ተከታይ O
+ነበረ። O
+
+ቲቦር O
+ቫሞስ O
+( O
+ሀንጋሪ B-ORG
+) O
+
+መንበረ B-ORG
+ጸባኦት I-ORG
+ቅድስት I-ORG
+ሥላሴ I-ORG
+
+ባንፊልድ B-ORG
+አትሌቲክ I-ORG
+ክለብ I-ORG
+
+- O
+ካዛሉ B-LOC
+ግድግዳ O
+የጠፋበት O
+ዓመት» O
+
+ሆተፒብሬ B-PER
+1806-1803 O
+ዓክልበ O
+. O
+
+ሳንደርስ O
+ተወልዶ O
+ያደገው O
+ብሩክሊን O
+ኒው B-LOC
+ዮርክ I-LOC
+ከተማ I-LOC
+ውስጥ O
+ሲሆን O
+የተመረቀው O
+ደግሞ O
+በእ.ኤ.አ O
+. O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+- O
+1 B-PER
+ሻምሺ-አዳድ I-PER
+ን O
+በዱር- O
+አሸነፈ።» O
+( O
+MEC O
+) O
+
+የጥንተ B-LOC
+ንጥር I-LOC
+ጥናት I-LOC
+
+ግድም O
+የሚመስል O
+ጊዜ O
+ያጠቁማል፤ O
+በሌላ O
+ግን O
+እጅግ O
+ይለያል O
+ለምሳሌ O
+ፕላቶ B-PER
+ግመት O
+ጎርፉ O
+በ9500 O
+ዓክልበ O
+. O
+
+ቶሩ O
+ሳጋራ O
+( O
+ጃፓን B-ORG
+) O
+
+ደብረ B-LOC
+ታቦር I-LOC
+( I-LOC
+እስራኤል I-LOC
+) I-LOC
+
+ሪፐብሊካን B-ORG
+ፓርቲ I-ORG
+( I-ORG
+አሜሪካ I-ORG
+) I-ORG
+
+ሰይንት B-LOC
+ኪትስና I-LOC
+ኒቨስ I-LOC
+
+- O
+2 B-PER
+መንቱሆተፕ I-PER
+በኩሽ O
+ላይ O
+ዘመተ። O
+
+ከዚያ O
+በኡር O
+ንጉሥ O
+ኡር-ናሙ B-PER
+( O
+1984-1966 O
+ዓክልበ O
+. O
+
+' O
+'' O
+ሳያት O
+ደምሴ O
+'' O
+' O
+ኢትዮጵያ B-LOC
+ታዋቂ O
+ዘፋኝ O
+ስትሆን O
+ብዙ O
+ዘመናዊ O
+ሙዚቃ B-LOC
+ስራዎችን O
+በማቅረብ O
+ትታወቃለች። O
+
+ናራም-ሲን B-PER
+( I-PER
+አሦር I-PER
+) I-PER
+
+ጸጋዬ B-PER
+ገብረ I-PER
+መድህን I-PER
+
+2 B-PER
+መንቱሆተፕ I-PER
+2121-2077 O
+ዓክልበ O
+. O
+
+የተባበሩት B-ORG
+መንግሥታት I-ORG
+ድርጅት I-ORG
+
+ቅዱስ B-ORG
+ጊዮርጊስ I-ORG
+የእግር I-ORG
+ኳስ I-ORG
+ቡድን I-ORG
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+ተካሄዷል። O
+በዚህ O
+ምድብ O
+ውስጥ O
+እስፓንያ፣ B-LOC
+ስዊዘርላንድ፣ B-LOC
+ሆንዱራስ B-LOC
+እና O
+ቺሌ B-LOC
+ቡድኖች O
+ነበሩ። O
+
+ኅሩይ B-PER
+ወልደሥላሴ I-PER
+( I-PER
+ብላቴን I-PER
+ጌታ I-PER
+) I-PER
+
+የኢትዮጵያ B-ORG
+ሕዝቦች I-ORG
+አብዮታዊ I-ORG
+ዲሞክራሲያዊ I-ORG
+ግንባር I-ORG
+
+ቫሌሪ B-PER
+ጊስካር I-PER
+ዴስቴን I-PER
+( O
+1966-1973 O
+) O
+
+የቻይና B-LOC
+ሕዝባዊ I-LOC
+ሪፐብሊክ I-LOC
+
+፪፣፱ O
+) O
+አዲስ B-ORG
+ኪዳን I-ORG
+የተመሠረተ O
+እምነት O
+ነው። O
+
+4 B-PER
+መንቱሆተፕ I-PER
+2003-2002 O
+ዓክልበ O
+. O
+
+ቤንሻንጉል B-LOC
+ጉሙዝ I-LOC
+ክልል I-LOC
+
+የኢትዮጵያ B-ORG
+አየር I-ORG
+መንገድ I-ORG
+
+አካባቢ O
+ገዛ። O
+1 B-PER
+ሳርጎን I-PER
+ልጅና O
+ተከታይ O
+ይባላል። O
+
+የተባበሩት B-ORG
+መንግሥታት I-ORG
+ድርጅት I-ORG
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+ስቴፋኖ O
+አይሮልዲ O
+( O
+ጣልያን B-ORG
+) O
+
+*«አባቶቻቸው O
+የታወቁት O
+10 O
+ነገሥታት»፦ O
+አፒያሻል O
+የኡሽፒያ O
+ልጅ O
+ነበር፣ O
+ሐሌ O
+የአፒያሻል O
+ልጅ፣ O
+ሳማኒ O
+የሐሌ O
+ልጅ፣ O
+ሐያኒ O
+የሳማኒ O
+ልጅ፣ O
+ኢሉ-መር O
+የሐያኒ O
+ልጅ፣ O
+ያክሜሲ O
+የኢሉ-መር O
+ልጅ፣ O
+ያክሜኒ O
+የያክሜሲ O
+ልጅ፣ O
+ያዝኩር-ኢሉ O
+የያክሜኒ O
+ልጅ፣ O
+ኢላ-ካብካቡ B-PER
+የያዝኩር-ኢሉ O
+ልጅ፣ O
+አሚኑ O
+የኢላካብካቡ O
+ልጅ። O
+
+የአፍሪቃ B-ORG
+አንድነት I-ORG
+ድርጅት I-ORG
+
+ፓብሎ B-PER
+ኔሩዳ I-PER
+( O
+ቺሌ B-LOC
+) O
+
+ቅዱስ B-ORG
+ጊዮርጊስ I-ORG
+የእግር I-ORG
+ኳስ I-ORG
+ቡድን I-ORG
+
+አረቢያ B-LOC
+( O
+ዲዮዶሮስ B-PER
+ሲኩሉስ I-PER
+) O
+
+፴፮ O
+) O
+ከነዓን B-PER
+ዘር O
+ይመስላል። O
+
+ቅንጅት B-ORG
+ለአንድነትና I-ORG
+ለዴሞክራሲ I-ORG
+
+የ O
+'' O
+'አዝማሪ O
+ቋንቋ O
+'' O
+' O
+የሚሰኘው O
+አዝማሪወች B-PER
+እርስ O
+በርሳቸው O
+የሚግባቡበትና O
+ሌሎችን O
+የሚያገሉበት O
+የምስጢር O
+ቋንቋ O
+ነው። O
+ይህን O
+የሚያደርጉት O
+፡ O
+
+የኢትዮጵያና B-ORG
+አዳል I-ORG
+ጦርነት I-ORG
+
+ድረስ O
+አየርላንድ B-LOC
+ከፍተኛ O
+ንጉሥ O
+ነበር። O
+
+ቤንሻንጉል B-LOC
+ጉሙዝ I-LOC
+ክልል I-LOC
+
+***** O
+ዮቅጣን B-PER
+- O
+የኤቦር O
+ልጅ። O
+
+ኹታዊሬ B-PER
+ወጋፍ I-PER
+1776-1774 O
+ዓክልበ O
+. O
+
+- O
+4 B-PER
+ካሽቲሊያሽ I-PER
+በካሳውያን O
+ነገሡ። O
+
+ጃን-ሄንድሪክ O
+ሳልቨር O
+( O
+ጀርመን B-ORG
+) O
+
+ንግሥት B-PER
+ኤልሣቤጥ I-PER
+( I-PER
+ዳግማዊት I-PER
+) I-PER
+
+ተካሄዷል። O
+በዚህ O
+ምድብ O
+ውስጥ O
+አሜሪካ፣ B-LOC
+አልጄሪያ፣ B-LOC
+እንግሊዝ B-LOC
+እና O
+ስሎቬኒያ B-LOC
+ቡድኖች O
+ነበሩ። O
+
+አዲስ B-ORG
+ዘመን፤ I-ORG
+«ድንገተኛውና O
+ተላላፊው O
+ማጅራት O
+ገትር»፤ O
+
+ብርቱጋል]] O
+ሠራዊት O
+የመራው O
+' O
+'' O
+ኤስቴቫዎ O
+ዳጋማ O
+'' O
+' O
+ወንድሙን O
+' O
+'' O
+ክሪስቶቫዎ O
+ዳጋማ O
+'' O
+' O
+ን O
+ከአራት O
+መቶ O
+ወታደሮችና O
+መቶ O
+ሃምሳ O
+ባሪያዎች O
+ጋር O
+ትቶ O
+ምጽዋ B-LOC
+ወደብ O
+ወደአገሩ O
+ተጓዘ። O
+
+1 B-PER
+አንተፍ I-PER
+2077-2066 O
+ዓክልበ O
+. O
+
+ባርሴሎና B-ORG
+እግር I-ORG
+ኳስ I-ORG
+ክለብ I-ORG
+
+Final O
+Accident O
+Report O
+( O
+Archive O
+) O
+- O
+የኢትዮጵያ B-ORG
+ሲቪል I-ORG
+ኤቪዬሽን I-ORG
+ባለሥልጣን I-ORG
+
+ሙ O
+ዩሺን O
+( O
+ቻይና B-ORG
+) O
+
+ኦማን B-LOC
+( O
+ኢባዲ O
+) O
+
+ደቡብ B-LOC
+ብሔሮች I-LOC
+ብሔረሰቦችና I-LOC
+ሕዝቦች I-LOC
+ክልል I-LOC
+
+ኤል B-LOC
+ሳልቫዶር I-LOC
+- O
+503 O
+
+ከዚያ O
+በኋላ O
+ልጁ O
+ዳሚቅ-ኢሊሹ B-PER
+ሲን-ማጊርን O
+በኢሲን O
+ተከተለው። O
+
+ጎጃም B-LOC
+ክፍለ I-LOC
+ሀገር I-LOC
+
+' O
+'' O
+ማሕሙድ O
+አሕማዲኔዣድ O
+'' O
+' O
+ኢራን B-LOC
+፮ኛ O
+ፕሬዚደንት O
+ናቸው። O
+
+ዴሞክራቲክ B-ORG
+ፓርቲ I-ORG
+( I-ORG
+አሜሪካ I-ORG
+) I-ORG
+
+ቀዳማዊ B-PER
+ዓፄ I-PER
+ዮሐንስ I-PER
+
+መብራት B-ORG
+ኃይል I-ORG
+የእግር I-ORG
+ኳስ I-ORG
+ክለብ I-ORG
+
+የኢትዮጵያ B-ORG
+ሕዝቦች I-ORG
+አብዮታዊ I-ORG
+ዲሞክራሲያዊ I-ORG
+ግንባር I-ORG
+
+ቲቦር O
+ቫሞስ O
+( O
+ሀንጋሪ B-ORG
+) O
+
+ሲያትል B-ORG
+የህዝብ I-ORG
+ቤተ I-ORG
+መጻሕፍት I-ORG
+
+' O
+'' O
+መቅደስ O
+መስፍን O
+'' O
+' O
+ኢትዮጵያ B-LOC
+ታዋቂ O
+ዘፋኝ O
+ስትሆን O
+ብዙ O
+ዘመናዊ O
+ሙዚቃ B-LOC
+ስራወችን O
+በማቅረብ O
+ትታወቃለች። O
+

@@ -1,0 +1,705 @@
+Ȯra B-ORG
+Edo I-ORG
+
+' O
+'' O
+Olusegun O
+Obasanjo O
+'' O
+' O
+bula O
+onye O
+president O
+Naigeria B-LOC
+, O
+soto O
+Abdulsalami B-PER
+Abubakar I-PER
+. O
+
+' O
+'' O
+13 O
+Jenụwarị O
+'' O
+' O
+- O
+''Coup O
+'' O
+na O
+Togo O
+, O
+obodo O
+no O
+Naigeria B-LOC
+la O
+aka O
+ikpa O
+ya O
+, O
+e O
+tinye O
+''Etienne O
+( O
+Gnassingbé O
+) O
+Eyadéma O
+'' O
+na O
+isi O
+ya O
+. O
+
+Nwanne B-ORG
+
+Chimaroke B-PER
+Nnamani I-PER
+
+Hampshire B-LOC
+Ohúrú I-LOC
+
+Ishi B-ORG
+ochíchì I-ORG
+Naigeria I-ORG
+
+George B-PER
+Gaynes I-PER
+
+KÚFÙ O
+Ȯra B-ORG
+Kogi I-ORG
+
+Olusegun B-PER
+Obasanjo I-PER
+
+: O
+''Lee O
+' B-ORG
+'' I-ORG
+'' I-ORG
+1 I-ORG
+'' I-ORG
+' B-ORG
+'' I-ORG
+nke-na I-ORG
+. O
+
+Beyoncé B-PER
+Knowles I-PER
+
+Virginia B-PER
+Etiaba I-PER
+
+Albert B-PER
+Einstein I-PER
+, O
+nà O
+áká O
+ozor O
+, O
+sị O
+na O
+`` O
+otụ O
+íwú O
+ọmúmú-ónúọgụgụ O
+kwùrù O
+ihe O
+bu O
+ùwà O
+nke O
+ányí O
+na O
+hü O
+, O
+ọ O
+dígí O
+ézíbóté O
+; O
+na O
+mgbe O
+ha O
+gi O
+bu O
+ézíbóté O
+, O
+ha O
+gágị O
+à O
+bụ O
+ihe O
+bu O
+ùwà O
+nke O
+ányí O
+na O
+hü O
+. O
+
+Afrịka B-LOC
+
+Ohaïyo B-LOC
+
+Lt B-PER
+Col. I-PER
+Chukwuemeka I-PER
+Odumegwu I-PER
+Ojukwu I-PER
+bụ O
+onye O
+na O
+achi O
+ndi O
+ọwụwa O
+anyawu O
+Naigeria O
+n'oge O
+ahu O
+, O
+wéré O
+juọ O
+enyem-aka O
+maka O
+igbochi O
+ogbugbu O
+nke O
+ndi O
+Ígbo O
+nọ O
+na O
+ala O
+ndi O
+Hausa O
+, O
+kama O
+ndi O
+n'achi O
+ala O
+anyi O
+egeghi O
+ya O
+ntị O
+. O
+
+Progressive B-ORG
+Peoples I-ORG
+Alliance I-ORG
+( O
+PPA O
+) O
+
+Ibrahim B-PER
+Shekarau I-PER
+
+Ȯra B-ORG
+Edo I-ORG
+
+KÚFÙ O
+Ȯra B-ORG
+Anambra I-ORG
+
+Ȯra B-ORG
+Edo I-ORG
+
+Umaru B-PER
+Yar'Adua I-PER
+
+Obodo O
+a O
+na-akpo O
+Republic B-LOC
+du I-LOC
+Benin I-LOC
+no O
+na O
+aka-ekpe O
+Naijiria O
+. O
+
+Martin B-PER
+Luther I-PER
+King I-PER
+, I-PER
+Jr I-PER
+. I-PER
+
+Damaturu B-LOC
+
+' O
+'' O
+Áláküba O
+'' O
+' O
+bu O
+ekpere O
+chi O
+nwoke O
+ana-kpo O
+Muhammad B-PER
+'' O
+bidoro O
+. O
+
+Atiku B-PER
+Abubakar I-PER
+
+1 O
+All B-ORG
+Progressives I-ORG
+Grand I-ORG
+Alliance I-ORG
+( O
+APGA O
+) O
+
+Obula O
+onye O
+People B-ORG
+'s I-ORG
+Democratic I-ORG
+Party I-ORG
+( O
+PDP O
+) O
+. O
+
+Nleda B-LOC
+anyanwu I-LOC
+Kàròlina I-LOC
+
+Birnin O
+Kebbi O
+bụ O
+ịsị O
+óche O
+Ȯra B-ORG
+Kebbi I-ORG
+'' O
+( O
+Kebbi O
+State O
+) O
+'' O
+, O
+nwéré O
+madu O
+ha O
+sị O
+rùrù O
+, O
+268,620 O
+( O
+Local O
+Government O
+Area O
+; O
+2006 O
+; O
+census O
+) O
+na O
+313,660 O
+( O
+Local O
+Government O
+Area O
+; O
+2011 O
+; O
+projection O
+) O
+. O
+
+Sam B-PER
+Egwu I-PER
+
+Goodluck B-PER
+Jonathan I-PER
+
+Ha O
+nwetere O
+office O
+ahu O
+, O
+ya O
+no O
+nga O
+onwa O
+ato O
+mgbe O
+Sani B-PER
+Abacha I-PER
+biara O
+na O
+army O
+, O
+chufu O
+ya O
+. O
+
+Olusegun B-PER
+Obasanjo I-PER
+
+O O
+no O
+n'etiti O
+Togo B-LOC
+na O
+Naigeria B-LOC
+. O
+
+Goodluck B-PER
+Jonathan I-PER
+
+Ȯra B-ORG
+Nasarawa I-ORG
+
+Chinụa B-PER
+Achebe I-PER
+
+Genaral B-PER
+Johnson I-PER
+Aguiyi-Ironsi I-PER
+
+Umaru B-PER
+Yar'Adua I-PER
+
+People B-ORG
+'s I-ORG
+Democratic I-ORG
+Party I-ORG
+( O
+PDP O
+) O
+
+People B-ORG
+'s I-ORG
+Democratic I-ORG
+Party I-ORG
+
+People B-ORG
+'s I-ORG
+Democratic I-ORG
+Party I-ORG
+
+Chukwuemeka B-PER
+Odumegwu I-PER
+Ojukwu I-PER
+bu O
+onye O
+wo O
+. O
+
+25 O
+People B-ORG
+'s I-ORG
+Democratic I-ORG
+Party I-ORG
+( O
+PDP O
+) O
+
+' O
+'' O
+Chile O
+'' O
+' O
+bu O
+ala O
+no O
+n'ime O
+obodo O
+ukwu O
+adi-kpo O
+South B-LOC
+Amerika I-LOC
+. O
+
+Chukwuemeka B-PER
+Odumegwu I-PER
+Ojukwu I-PER
+
+Obukwa O
+onye O
+All B-ORG
+Nigeria I-ORG
+People I-ORG
+'s I-ORG
+Party I-ORG
+. O
+
+Orji B-PER
+Uzor I-PER
+Kalu I-PER
+
+Kánada B-LOC
+
+' O
+'' O
+Omaha O
+'' O
+' O
+bụ O
+ama O
+ukwu O
+kárírí O
+na O
+ivụ O
+mádu O
+ímé O
+nkeji O
+obodo O
+Nebraska B-LOC
+, O
+Njikota B-LOC
+Obodo I-LOC
+Amerika I-LOC
+, O
+na O
+ȯ O
+bụ O
+ochíe O
+ndi O
+íshí O
+Douglas O
+County O
+. O
+
+Chinụa B-PER
+Achebe I-PER
+
+Chinụa B-PER
+Achebe I-PER
+
+Ndiánà B-LOC
+
+Muhammadu B-PER
+Buhari I-PER
+
+Jimmy B-PER
+Wales I-PER
+
+' O
+'' O
+Puntland O
+'' O
+' O
+bu O
+otu O
+obodo O
+no O
+na O
+Afrịka B-LOC
+. O
+
+Orji B-PER
+Uzor I-PER
+Kalu I-PER
+
+Sani B-PER
+Abacha I-PER
+
+Jisọs B-PER
+Kraịst I-PER
+
+Goodluck B-PER
+Jonathan I-PER
+
+Yenagoa B-LOC
+
+Na O
+elu O
+ya O
+no O
+obodo O
+ana-kpo O
+Niger B-LOC
+. O
+
+Chukwuemeka B-PER
+Ojukwu I-PER
+
+Coritiba B-ORG
+Foot I-ORG
+Ball I-ORG
+Club I-ORG
+
+Nwanne B-ORG
+
+KÚFÙ O
+Anieze B-ORG
+Nri I-ORG
+
+Afrịka B-LOC
+
+Ishi B-ORG
+ochíchì I-ORG
+Naigeria I-ORG
+
+Mike B-PER
+Akhigbe I-PER
+
+Shoneyin O
+bi O
+na O
+Lagos B-LOC
+na O
+Naigeria O
+. O
+
+O O
+no O
+n'etiti O
+Sierra B-LOC
+Leone I-LOC
+, O
+Guinea B-LOC
+na O
+Côte B-LOC
+d'Ivoire I-LOC
+. O
+
+Oskàpà B-ORG
+
+Ndi B-ORG
+Afrika I-ORG
+nke I-ORG
+Amerika I-ORG
+
+Flórídạ B-LOC
+
+' O
+'' O
+Equatorial O
+Guinea O
+'' O
+' O
+bu O
+otu O
+obodo O
+no O
+na O
+Afrịka B-LOC
+. O
+
+Isi O
+ya O
+bu O
+Ikeja B-LOC
+. O
+
+Ndi B-ORG
+Igbo I-ORG
+Amerikạ I-ORG
+
+' O
+'' O
+Libya O
+'' O
+' O
+bu O
+otu O
+obodo O
+no O
+na O
+Afrịka B-LOC
+. O
+
+Afrịka B-LOC
+
+Ora B-LOC
+no I-LOC
+na I-LOC
+ime I-LOC
+Naigeria I-LOC
+
+Umaru B-PER
+Yar'Adua I-PER
+
+Goodluck B-PER
+Jonathan I-PER
+
+Olusegun B-PER
+Obasanjo I-PER
+
+5th B-ORG
+Avenue I-ORG
+Theatre I-ORG
+
+Atiku B-PER
+Abubakar I-PER
+
+Nú B-LOC
+Mézíkọ I-LOC
+
+Ernest B-PER
+Shonekan I-PER
+
+Afrịka B-LOC
+
+Įsị O
+óche O
+nke O
+Ȯra O
+Kogi O
+bụ O
+Lokoja B-LOC
+. O
+
+Olile B-LOC
+anyanwu I-LOC
+Amerika I-LOC
+
+Ernest B-PER
+Shonekan I-PER
+
+KÚFÙ O
+Ȯra B-ORG
+Nasarawa I-ORG
+
+Malcolm B-PER
+X I-PER
+
+1 O
+Action B-ORG
+Congress I-ORG
+( O
+AC O
+) O
+
+Ndi B-ORG
+ojié I-ORG
+
+Nke O
+bu O
+ihe O
+mere O
+Babangida O
+a O
+hafu O
+office O
+, O
+tinye O
+Ernest B-PER
+Shonekan I-PER
+na O
+ya O
+ta O
+o O
+lekotawa O
+Naigeria O
+du O
+mgbe O
+ndi O
+madu O
+e O
+mee O
+election O
+nke O
+president O
+. O
+
+KÚFÙ O
+Ȯra B-ORG
+Bayelsa I-ORG
+

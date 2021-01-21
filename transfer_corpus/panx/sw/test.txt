@@ -1,0 +1,6786 @@
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+33413 O
+. O
+
+Alimfuata O
+Papa B-PER
+Anastasio I-PER
+III I-PER
+akafuatwa O
+na O
+Papa B-PER
+Yohane I-PER
+X I-PER
+. O
+
+Eneo O
+lake O
+ni O
+15.5 O
+km² B-ORG
+. O
+
+LDP B-ORG
+( I-ORG
+Kenya I-ORG
+) I-ORG
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Fukuoka B-LOC
+( O
+福岡市 O
+) O
+. O
+
+Shirika B-ORG
+la I-ORG
+Viwango I-ORG
+Katika I-ORG
+Kenya I-ORG
+
+Orodha B-PER
+ya I-PER
+Marais I-PER
+wa I-PER
+Sudan I-PER
+
+William B-PER
+Devane I-PER
+kama O
+Secretary B-PER
+of I-PER
+Defense I-PER
+James I-PER
+Heller I-PER
+
+Kitabu B-ORG
+cha I-ORG
+Yoeli I-ORG
+
+Eneo O
+lake O
+ni O
+42 O
+km² B-ORG
+. O
+
+Nikolaus B-PER
+von I-PER
+Zinzendorf I-PER
+
+Eneo O
+lake O
+ni O
+127 O
+km² B-ORG
+. O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+25208 O
+
+Michezo B-ORG
+ya I-ORG
+Afrika I-ORG
+Nzima I-ORG
+
+Hatimaye O
+alifuatwa O
+na O
+Papa B-PER
+Damaso I-PER
+II I-PER
+. O
+
+Eneo O
+lake O
+ni O
+49 O
+km² B-ORG
+. O
+
+Wilaya B-LOC
+ya I-LOC
+Uyui I-LOC
+396.623 O
+
+En O
+Ti O
+Deje O
+Mi O
+Amor O
+( O
+I B-ORG
+Lay I-ORG
+My I-ORG
+Love I-ORG
+on I-ORG
+You I-ORG
+) O
+
+Reli B-ORG
+ya I-ORG
+Tanganyika I-ORG
+
+Wakuu B-PER
+wa I-PER
+Serikali I-PER
+ya I-PER
+Kenya I-PER
+
+Eneo O
+lake O
+ni O
+21.94 O
+km² B-ORG
+. O
+
+Wilaya B-ORG
+ya I-ORG
+Sassandra I-ORG
+
+Eneo B-LOC
+la I-LOC
+Uingereza I-LOC
+katika I-LOC
+Bahari I-LOC
+Hindi I-LOC
+
+Carl B-PER
+XVI I-PER
+Gustaf I-PER
+wa I-PER
+Uswidi I-PER
+
+Alifuatwa O
+na O
+Edward B-PER
+Sokoine I-PER
+. O
+
+Mkoa B-LOC
+wa I-LOC
+Damietta I-LOC
+
+' O
+'' O
+Sri B-LOC
+Lanka I-LOC
+'' O
+' O
+
+Muungano B-ORG
+wa I-ORG
+mabenki I-ORG
+ya I-ORG
+Equity I-ORG
+
+Henry B-PER
+Morton I-PER
+Stanley I-PER
+
+Harry B-PER
+S. I-PER
+Truman I-PER
+
+Wilaya B-LOC
+ya I-LOC
+Mpwapwa I-LOC
+305.056 O
+
+Henry B-PER
+Callaway I-PER
+( O
+1817-1890 O
+) O
+
+Eneo O
+lake O
+ni O
+65 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+17.6 O
+km² B-ORG
+. O
+
+Orodha B-ORG
+ya I-ORG
+Mawaziri I-ORG
+Wakuu I-ORG
+wa I-ORG
+Slovenia I-ORG
+
+Kiayta B-ORG
+ya I-ORG
+Mag-Indi I-ORG
+
+Ron B-PER
+Kenoly I-PER
+- O
+muimbaji O
+mgeni O
+
+Eneo O
+lake O
+ni O
+26.4 O
+km² B-ORG
+. O
+
+El B-LOC
+Paso I-LOC
+, I-LOC
+Texas I-LOC
+
+Eneo O
+lake O
+ni O
+43.5 O
+km² B-ORG
+. O
+
+`` O
+Been B-ORG
+There I-ORG
+, I-ORG
+Done I-ORG
+That I-ORG
+'' O
+
+'' O
+Bilecik B-LOC
+'' O
+' O
+
+Bloemfontein B-LOC
+, O
+Cape B-LOC
+Town I-LOC
+, O
+Pretoria B-LOC
+
+Cedar B-LOC
+Falls I-LOC
+, I-LOC
+Iowa I-LOC
+
+Alimfuata O
+Papa B-PER
+Silvester I-PER
+II I-PER
+akafuatwa O
+na O
+Papa B-PER
+Yohane I-PER
+XVIII I-PER
+. O
+
+' O
+'' O
+If B-ORG
+I I-ORG
+Were I-ORG
+a I-ORG
+Boy” I-ORG
+'' O
+' O
+
+Eneo O
+lake O
+ni O
+9.6 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+20.9 O
+km² B-ORG
+. O
+
+' O
+'' O
+Pretoria B-LOC
+'' O
+' O
+
+Papa B-PER
+Paskali I-PER
+II I-PER
+( O
+1050-1118 O
+) O
+
+Eneo O
+lake O
+ni O
+416.84 O
+km² B-ORG
+. O
+
+Wilaya B-LOC
+ya I-LOC
+Makete I-LOC
+97.266 O
+
+Chama B-ORG
+cha I-ORG
+Mapinduzi I-ORG
+
+Dan B-PER
+Jacobson I-PER
+( O
+1929- O
+) O
+
+Laikipia B-LOC
+( O
+Nanyuki B-LOC
+) O
+
+`` O
+Can B-ORG
+We I-ORG
+Chill I-ORG
+'' O
+
+Chuo B-ORG
+Kikuu I-ORG
+cha I-ORG
+Cape I-ORG
+Town I-ORG
+
+Bonaventura B-PER
+wa I-PER
+Bagnoregio I-PER
+
+Kim B-PER
+yumbioni O
+, O
+kwa O
+kumwokoa O
+kisichana O
+kidogo O
+kilichokuwa O
+kikinyanyaswa O
+na O
+baba O
+yake O
+. O
+
+Ina O
+eneo O
+la O
+1,076,395 O
+km² B-ORG
+. O
+
+Terror B-ORG
+Squad I-ORG
+( I-ORG
+studio I-ORG
+) I-ORG
+
+Eneo O
+lake O
+ni O
+103.59 O
+km² B-ORG
+. O
+
+''Al O
+Bu O
+Falasah O
+'' O
+( O
+Dubai B-LOC
+) O
+
+Eneo O
+lake O
+ni O
+79 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+756.6 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+1047.6 O
+km² B-ORG
+. O
+
+Arusha B-LOC
+( I-LOC
+mji I-LOC
+) I-LOC
+
+Mtaguso B-ORG
+wa I-ORG
+pili I-ORG
+wa I-ORG
+Vatikani I-ORG
+
+Eneo O
+lake O
+ni O
+108 O
+km² B-ORG
+. O
+
+24 B-ORG
+( I-ORG
+msimu I-ORG
+wa I-ORG
+8 I-ORG
+) I-ORG
+
+Ulitumiwa O
+pia O
+na O
+Adolf B-PER
+Hitler I-PER
+, O
+na O
+tangu O
+hapo O
+unachukiwa O
+na O
+wengi O
+. O
+
+Eneo O
+lake O
+ni O
+41 O
+km² B-ORG
+. O
+
+Nat B-PER
+King I-PER
+Cole I-PER
+
+| O
+bgcolor= O
+'' O
+ddddff O
+'' O
+align= O
+'' O
+center O
+'' O
+| O
+Kiarabu B-ORG
+
+If B-ORG
+I I-ORG
+Let I-ORG
+You I-ORG
+Go I-ORG
+
+North B-LOC
+Valley I-LOC
+Stream I-LOC
+, I-LOC
+New I-LOC
+York I-LOC
+
+Hifadhi B-ORG
+ya I-ORG
+Taifa I-ORG
+ya I-ORG
+Hell I-ORG
+'s I-ORG
+Gate I-ORG
+
+Hatimaye O
+Papa B-PER
+Gregori I-PER
+XII I-PER
+alikubali O
+kujiuzulu O
+, O
+wapinzani O
+wake O
+wawili O
+waliondolewa O
+, O
+na O
+Papa B-PER
+Martin I-PER
+V I-PER
+akachaguliwa O
+. O
+
+Herbert B-PER
+James I-PER
+Mntangi I-PER
+
+Perth B-LOC
+Amboy I-LOC
+, I-LOC
+New I-LOC
+Jersey I-LOC
+
+' O
+'' O
+Belo B-LOC
+Horizonte I-LOC
+'' O
+' O
+
+Biržai B-LOC
+( I-LOC
+DM I-LOC
+) I-LOC
+
+Mathias B-PER
+Meinrad I-PER
+Chikawe I-PER
+
+John B-PER
+Atta I-PER
+Mills I-PER
+
+`` O
+Uptown B-ORG
+Girl I-ORG
+( O
+Radio O
+Edit O
+) O
+'' O
+
+Papa B-PER
+Callixtus I-PER
+III I-PER
+
+Eneo O
+lake O
+ni O
+36 O
+km² B-ORG
+. O
+
+'' O
+Israel B-LOC
+'' O
+' O
+
+Bahari B-LOC
+ya I-LOC
+Aegean I-LOC
+
+*Desemba O
+- O
+Papa B-PER
+Leo I-PER
+VI I-PER
+
+Chuo B-ORG
+Kikuu I-ORG
+cha I-ORG
+Kilimo I-ORG
+na I-ORG
+Teknolojia I-ORG
+cha I-ORG
+Jomo I-ORG
+Kenyatta I-ORG
+
+Wasichana B-PER
+wa I-PER
+Bond I-PER
+
+Mehmed B-PER
+II I-PER
+'' O
+Mshindi O
+'' O
+
+Alimfuata O
+Papa B-PER
+Benedikto I-PER
+IX I-PER
+akafuatwa O
+na O
+Papa B-PER
+Leo I-PER
+IX I-PER
+. O
+
+`` O
+I B-ORG
+Lay I-ORG
+My I-ORG
+Love I-ORG
+on I-ORG
+You I-ORG
+'' O
+( O
+Single O
+Remix O
+) O
+
+Yohane B-PER
+wa I-PER
+Msalaba I-PER
+'' O
+. O
+
+' O
+'' O
+Wilaya B-LOC
+ya I-LOC
+Taita-Taveta I-LOC
+'' O
+' O
+
+Kiefer B-PER
+Sutherland I-PER
+kama O
+Jack B-PER
+Bauer I-PER
+
+Eneo O
+lake O
+ni O
+157.50 O
+km² B-ORG
+. O
+
+Viktoria B-PER
+wa I-PER
+Uingereza I-PER
+
+Eneo O
+lake O
+ni O
+57.8 O
+km² B-ORG
+. O
+
+Chuo B-ORG
+Kikuu I-ORG
+cha I-ORG
+Sokoine I-ORG
+cha I-ORG
+Kilimo I-ORG
+( I-ORG
+SUA I-ORG
+) I-ORG
+
+Eneo O
+lake O
+ni O
+68 O
+km² B-ORG
+. O
+
+Teletubbies B-PER
+, O
+a O
+tv O
+show O
+for O
+children O
+. O
+
+Karl B-PER
+Friedrich I-PER
+Benz I-PER
+
+Eneo O
+lake O
+ni O
+61.9 O
+km² B-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Gregori I-PER
+XVI I-PER
+akafuatwa O
+na O
+Papa B-PER
+Leo I-PER
+XIII I-PER
+. O
+
+`` O
+California B-ORG
+Love I-ORG
+'' O
+[Non O
+Album O
+Single] O
+
+Imepakana O
+na O
+Peru B-LOC
+, O
+Bolivia B-LOC
+na O
+Argentina B-LOC
+. O
+
+Eneo O
+lake O
+ni O
+368.20 O
+km² B-ORG
+. O
+
+' O
+'' O
+Wilaya B-LOC
+ya I-LOC
+Mbeere I-LOC
+'' O
+' O
+
+`` O
+The B-ORG
+Way I-ORG
+You I-ORG
+Make I-ORG
+Me I-ORG
+Feel I-ORG
+'' O
+
+Pia O
+kuna O
+wasemaji O
+10,460 O
+nchini O
+Jamhuri B-LOC
+ya I-LOC
+Afrika I-LOC
+ya I-LOC
+Kati I-LOC
+na O
+9060 O
+nchini O
+Jamhuri B-LOC
+ya I-LOC
+Kongo I-LOC
+. O
+
+Takwimu B-ORG
+za I-ORG
+Norwei I-ORG
+
+Cincinnati B-LOC
+, I-LOC
+Ohio I-LOC
+
+Jamhuri B-LOC
+ya I-LOC
+Dominika I-LOC
+
+Thousand B-LOC
+Oaks I-LOC
+, I-LOC
+California I-LOC
+
+Chuo B-ORG
+Kikuu I-ORG
+cha I-ORG
+Kikatoliki I-ORG
+cha I-ORG
+Ghana I-ORG
+
+Kaizari B-PER
+Rudolf I-PER
+II I-PER
+
+Alimfuata O
+Papa B-PER
+Dionysius I-PER
+akafuatwa O
+na O
+Papa B-PER
+Eutychian I-PER
+. O
+
+Eneo O
+lake O
+ni O
+2.9 O
+km² B-ORG
+. O
+
+Kituo B-ORG
+cha I-ORG
+Nishi I-ORG
+Isahaya I-ORG
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+33110 O
+. O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+33328 O
+. O
+
+Eneo O
+lake O
+ni O
+13.5 O
+km² B-ORG
+. O
+
+Carlo B-PER
+Rota I-PER
+kama O
+Morris B-PER
+O'Brian I-PER
+
+Umoja B-LOC
+wa I-LOC
+Kisovyeti I-LOC
+
+** O
+Makamu B-PER
+wa I-PER
+Rais I-PER
+wa I-PER
+Kenya I-PER
+
+Thomas B-PER
+Aquinas I-PER
+Mtakatifu I-PER
+
+Imepakana O
+na O
+Uswisi B-LOC
+na O
+Austria B-LOC
+. O
+
+Celina B-PER
+Ompeshi I-PER
+Kombani I-PER
+
+Kikanisa O
+linahusiana O
+na O
+Jimbo B-ORG
+Kuu I-ORG
+la I-ORG
+Mwanza I-ORG
+. O
+
+Papa B-PER
+Benedikto I-PER
+XVI I-PER
+
+Eneo O
+lake O
+ni O
+147 O
+km² B-ORG
+. O
+
+Nasaba B-LOC
+ya I-LOC
+Qin I-LOC
+
+Papa B-PER
+Anastasio I-PER
+III I-PER
+
+Soko B-ORG
+la I-ORG
+Hisa I-ORG
+la I-ORG
+Nairobi I-ORG
+
+Chiquito B-PER
+de I-PER
+la I-PER
+Calzada I-PER
+
+Eneo O
+lake O
+ni O
+205.35 O
+km² B-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Theodor I-PER
+I I-PER
+akafuatwa O
+na O
+Papa B-PER
+Eugenio I-PER
+I I-PER
+. O
+
+Chuo B-ORG
+Kikuu I-ORG
+cha I-ORG
+Strathmore I-ORG
+
+Wanachezea O
+katika O
+Chama B-ORG
+cha I-ORG
+Mpira I-ORG
+wa I-ORG
+Kikapu I-ORG
+nchini O
+Marekani B-LOC
+. O
+
+Alimfuata O
+Papa B-PER
+Fabian I-PER
+akafuatwa O
+na O
+Papa B-PER
+Lucius I-PER
+I I-PER
+. O
+
+'' O
+Pakistan B-LOC
+'' O
+' O
+
+Eneo O
+lake O
+378.45 O
+km² B-ORG
+. O
+
+Mkoa B-LOC
+wa I-LOC
+Cà I-LOC
+Mau I-LOC
+
+Epiphany B-ORG
+'' O
+( O
+2007 O
+) O
+
+New B-LOC
+Bedford I-LOC
+, I-LOC
+Massachusetts I-LOC
+
+Papa B-PER
+Boniface I-PER
+VIII I-PER
+
+Babu B-PER
+wa I-PER
+Kanisa I-PER
+
+' O
+'' O
+Wilaya B-LOC
+ya I-LOC
+Kuria I-LOC
+'' O
+' O
+
+Orodha B-ORG
+ya I-ORG
+Mawaziri I-ORG
+Wakuu I-ORG
+wa I-ORG
+Ubelgiji I-ORG
+
+Eneo O
+lake O
+ni O
+2.5 O
+km² B-ORG
+. O
+
+Wanatokea O
+Afrika B-LOC
+na O
+Asia B-LOC
+. O
+
+' O
+'' O
+Rio B-LOC
+Branco I-LOC
+'' O
+' O
+
+Mkoa B-LOC
+wa I-LOC
+Bonde I-LOC
+la I-LOC
+Ufa I-LOC
+
+Jamhuri B-LOC
+ya I-LOC
+Kidemokrasia I-LOC
+ya I-LOC
+Kongo I-LOC
+
+Alimfuata O
+Papa B-PER
+Gregori I-PER
+III I-PER
+akafuatwa O
+na O
+Papa B-PER
+Stefano I-PER
+II I-PER
+. O
+
+Eneo O
+lake O
+ni O
+68.0 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+18.1 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+38 O
+km² B-ORG
+. O
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Aomori B-LOC
+( O
+青森市 O
+) O
+. O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+30209 O
+. O
+
+Alimfuata O
+Papa B-PER
+Leo I-PER
+I I-PER
+akafuatwa O
+na O
+Papa B-PER
+Simplicio I-PER
+. O
+
+Eneo O
+lake O
+ni O
+37 O
+km² B-ORG
+. O
+
+Imepakana O
+na O
+Uruguay B-LOC
+, O
+Argentina B-LOC
+, O
+Paraguay B-LOC
+, O
+Bolivia B-LOC
+, O
+Peru B-LOC
+, O
+Kolombia B-LOC
+, O
+Venezuela B-LOC
+, O
+Guyana B-LOC
+, O
+Surinam B-LOC
+na O
+eneo O
+la O
+Guyana B-LOC
+ya I-LOC
+Kifaransa I-LOC
+. O
+
+Uneo O
+lake O
+ni O
+151 O
+km² B-ORG
+. O
+
+Bremen B-LOC
+- O
+''Bremen O
+Airport O
+'' O
+
+Eneo O
+lake O
+ni O
+23.6 O
+km² B-ORG
+. O
+
+Francisco B-PER
+de I-PER
+Goya I-PER
+
+Papa B-PER
+Honorius I-PER
+I I-PER
+
+Smithtown B-LOC
+, I-LOC
+New I-LOC
+York I-LOC
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+33505 O
+. O
+
+With B-ORG
+You I-ORG
+( I-ORG
+nyimbo I-ORG
+ya I-ORG
+Chris I-ORG
+Brown I-ORG
+) I-ORG
+
+Hackensack B-LOC
+, I-LOC
+New I-LOC
+Jersey I-LOC
+
+Hivyo O
+kupitia O
+babake O
+alipata O
+kujua O
+watu O
+maarufu O
+kama O
+vile O
+Rembrandt B-PER
+, O
+Peter B-PER
+Paul I-PER
+Rubens I-PER
+na O
+René B-PER
+Descartes I-PER
+. O
+
+Saint B-LOC
+Kitts I-LOC
+na I-LOC
+Nevis I-LOC
+( O
+Basseterre B-LOC
+) O
+( O
+NA O
+) O
+
+Teresa B-PER
+wa I-PER
+Mtoto I-PER
+Yesu I-PER
+
+Los B-LOC
+Altos I-LOC
+, I-LOC
+California I-LOC
+
+Linz B-LOC
+- O
+''Linz O
+Airport O
+'' O
+
+Dennis B-PER
+Haysbert I-PER
+kama O
+Rais B-PER
+David I-PER
+Palmer I-PER
+
+Mary B-PER
+Lynn I-PER
+Rajskub I-PER
+kama O
+Chloe B-PER
+O'Brian I-PER
+
+Kaizari B-PER
+Francis I-PER
+I I-PER
+
+Eneo O
+lake O
+ni O
+1.4 O
+km² B-ORG
+. O
+
+Fat B-PER
+Joe I-PER
+( O
+mmiliki O
+) O
+
+Alimfuata O
+baba O
+yake O
+, O
+Theodosius B-PER
+Mkuu I-PER
+. O
+
+Wizara B-ORG
+ya I-ORG
+Maliasili I-ORG
+na I-ORG
+Utalii I-ORG
+
+Des B-LOC
+Plaines I-LOC
+, I-LOC
+Illinois I-LOC
+
+Herman B-PER
+Charles I-PER
+Bosman I-PER
+( O
+1905-1951 O
+) O
+
+Eneo O
+lake O
+ni O
+50.2 O
+km² B-ORG
+. O
+
+Kikanisa O
+linahusiana O
+na O
+Jimbo B-ORG
+Kuu I-ORG
+la I-ORG
+Tororo I-ORG
+. O
+
+Mkoa B-LOC
+wa I-LOC
+Kusini I-LOC
+( I-LOC
+Zambia I-LOC
+) I-LOC
+
+William B-PER
+Edward I-PER
+Burghardt I-PER
+Du I-PER
+Bois I-PER
+
+Georg B-PER
+Wilhelm I-PER
+Friedrich I-PER
+Hegel I-PER
+
+Alimfuata O
+baba O
+yake O
+, O
+Vespasian B-PER
+. O
+
+Wilaya B-ORG
+ya I-ORG
+Yakassé-Attobrou I-ORG
+
+Akwa B-ORG
+Ibom I-ORG
+( I-ORG
+jimbo I-ORG
+) I-ORG
+
+`` O
+If B-ORG
+I I-ORG
+Ca I-ORG
+n't I-ORG
+'' O
+
+Mji B-LOC
+mkuu I-LOC
+wake O
+ni O
+Torino B-LOC
+. O
+
+The B-ORG
+Don I-ORG
+Killuminati I-ORG
+: I-ORG
+The B-ORG
+7 I-ORG
+Day I-ORG
+Theory I-ORG
+'' O
+
+Wilaya B-ORG
+ya I-ORG
+Tingréla I-ORG
+
+Zacatecas B-ORG
+( O
+132,035 O
+) O
+
+Abushiri B-PER
+ibn I-PER
+Salim I-PER
+al-Harthi I-PER
+
+Bangkok B-LOC
+( I-LOC
+Krung I-LOC
+Thep I-LOC
+Maha I-LOC
+Nakhon I-LOC
+) I-LOC
+, O
+Special O
+Governed O
+District O
+of O
+( O
+กรุงเทพ O
+ฯ O
+) O
+
+Georg B-PER
+Friedrich I-PER
+Händel I-PER
+
+Eneo O
+lake O
+ni O
+2.7 O
+km² B-ORG
+. O
+
+Jimbo B-LOC
+ya I-LOC
+Sidi I-LOC
+Bel I-LOC
+Abbes I-LOC
+( I-LOC
+Aljeria I-LOC
+) I-LOC
+
+Eneo O
+lake O
+ni O
+3,200.56 O
+km² B-ORG
+. O
+
+Guinea B-LOC
+ya I-LOC
+Ikweta I-LOC
+( O
+Malabo B-LOC
+) O
+( O
+AF O
+) O
+
+Ufalme B-LOC
+wa I-LOC
+Muungano I-LOC
+
+' O
+'' O
+Ethiopia B-LOC
+'' O
+' O
+
+Alimfuata O
+Papa B-PER
+Lando I-PER
+akafuatwa O
+na O
+Papa B-PER
+Leo I-PER
+VI I-PER
+. O
+
+Kerio B-LOC
+( I-LOC
+mto I-LOC
+) I-LOC
+
+'' O
+Iron B-ORG
+Flag I-ORG
+'' O
+( O
+2001 O
+) O
+
+Eneo O
+lake O
+ni O
+51 O
+km² B-ORG
+. O
+
+** O
+Kanisa B-ORG
+Katoliki I-ORG
+la I-ORG
+Kigiriki I-ORG
+la I-ORG
+Belarus I-ORG
+( O
+Belarus B-LOC
+) O
+, O
+waamini O
+wachache O
+. O
+
+** O
+Hispaniola B-LOC
+( O
+Haiti B-LOC
+na O
+Jamhuri B-LOC
+ya I-LOC
+Dominika I-LOC
+
+Ankara B-LOC
+( O
+Uturuki B-LOC
+) O
+
+Uhusika O
+huu O
+umehezwa O
+na O
+Sarah B-PER
+Wayne I-PER
+Callies I-PER
+. O
+
+James B-PER
+Daud I-PER
+Lembeli I-PER
+
+' O
+'' O
+Mauritania B-LOC
+'' O
+' O
+
+Ulysses B-PER
+S. I-PER
+Grant I-PER
+
+Wanamheshimu O
+sana O
+Yohane B-PER
+Mbatizaji I-PER
+, O
+lakini O
+wanamkataa O
+Yesu B-PER
+pamoja O
+na O
+Musa B-PER
+na O
+Abrahamu B-PER
+. O
+
+Uhusika O
+unachezwa O
+na O
+Glenn B-PER
+Morshower I-PER
+. O
+
+Alimfuata O
+Papa B-PER
+Yohane I-PER
+IV I-PER
+akafuatwa O
+na O
+Papa B-PER
+Martin I-PER
+I I-PER
+. O
+
+Alimfuata O
+Papa B-PER
+Konon I-PER
+akafuatwa O
+na O
+Papa B-PER
+Yohane I-PER
+VI I-PER
+. O
+
+Eneo O
+lake O
+ni O
+151 O
+km² B-ORG
+. O
+
+Umaarufu O
+wake O
+hasa O
+ni O
+kama O
+mahali O
+pa O
+kufariki O
+kwa O
+Michael B-PER
+Jackson I-PER
+( O
+1958- O
+) O
+. O
+
+Kipanya B-ORG
+( I-ORG
+kompyuta I-ORG
+) I-ORG
+
+kutoka O
+Uingereza B-LOC
+tarehe O
+06.07 O
+. O
+
+Mtaguso B-ORG
+wa I-ORG
+pili I-ORG
+wa I-ORG
+Nisea I-ORG
+
+Eneo O
+lake O
+ni O
+295.7 O
+km² B-ORG
+. O
+
+Wilaya B-ORG
+ya I-ORG
+Korhogo I-ORG
+
+Papa B-PER
+Celestino I-PER
+V I-PER
+
+Jamhuri B-LOC
+ya I-LOC
+Kisovyeti I-LOC
+ya I-LOC
+Kijamii I-LOC
+ya I-LOC
+Kikazakhi I-LOC
+
+Us B-ORG
+Against I-ORG
+the I-ORG
+World I-ORG
+
+Cherry B-PER
+Jones I-PER
+kama O
+Rais B-PER
+Allison I-PER
+Taylor I-PER
+
+Eneo O
+lake O
+ni O
+10.1 O
+km² B-ORG
+. O
+
+Chuo B-ORG
+Kikuu I-ORG
+cha I-ORG
+Babcock I-ORG
+
+Ganga B-LOC
+( I-LOC
+mto I-LOC
+) I-LOC
+
+Lambo B-ORG
+la I-ORG
+Magenge I-ORG
+Matatu I-ORG
+
+Papa B-PER
+Agapeto I-PER
+II I-PER
+
+Wilaya B-LOC
+ya I-LOC
+Homa I-LOC
+Bay I-LOC
+
+Montreal B-LOC
+( O
+1.620.693 O
+) O
+
+Jimmy B-PER
+Jam I-PER
+na I-PER
+Terry I-PER
+Lewis I-PER
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Waterford B-LOC
+. O
+
+Inasemekana O
+kuna O
+wasemaji O
+wengine O
+nchini O
+Tanzania B-LOC
+. O
+
+Eneo O
+lake O
+ni O
+4.4 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+38 O
+km² B-ORG
+. O
+
+Akafuatwa O
+na O
+Papa B-PER
+Yohane I-PER
+XXIII I-PER
+. O
+
+Jumuiya B-ORG
+ya I-ORG
+Afrika I-ORG
+Mashariki I-ORG
+
+Ruvuma B-LOC
+( I-LOC
+mto I-LOC
+) I-LOC
+
+Kikanisa O
+linahusiana O
+na O
+Jimbo B-ORG
+Kuu I-ORG
+la I-ORG
+Kigali I-ORG
+. O
+
+Peter B-PER
+Paul I-PER
+Rubens I-PER
+
+' O
+'' O
+Wilaya B-LOC
+ya I-LOC
+Thika I-LOC
+'' O
+' O
+
+Papa B-PER
+Klementi I-PER
+IV I-PER
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Tsu B-LOC
+( O
+津市 O
+) O
+. O
+
+Wilaya B-LOC
+ya I-LOC
+Laikipia I-LOC
+( O
+Nanyuki B-LOC
+) O
+== O
+
+Kati O
+yao O
+kuna O
+Abrahamu B-PER
+, O
+Buddha B-PER
+, O
+Yesu B-PER
+, O
+Muhammad B-PER
+na O
+wengineo O
+. O
+
+Alliance B-ORG
+for I-ORG
+Democratic I-ORG
+Change I-ORG
+( O
+ADC O
+) O
+
+Mtaguso B-ORG
+wa I-ORG
+kwanza I-ORG
+wa I-ORG
+Vatikano I-ORG
+( O
+1869-1870 O
+) O
+
+40px]] O
+' O
+'' O
+Shirikisho B-LOC
+la I-LOC
+Mikronesia I-LOC
+'' O
+' O
+
+Inahudumiwa O
+na O
+Vietnam B-ORG
+Airlines I-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Eugenio I-PER
+I I-PER
+akafuatwa O
+na O
+Papa B-PER
+Adeodato I-PER
+II I-PER
+. O
+
+Jimbo B-ORG
+la I-ORG
+Uchaguzi I-ORG
+la I-ORG
+Imenti I-ORG
+Kusini I-ORG
+
+Eneo O
+lake O
+ni O
+60 O
+km² B-ORG
+. O
+
+Mkoa B-LOC
+wa I-LOC
+Bonde I-LOC
+la I-LOC
+Ufa I-LOC
+
+Henry B-PER
+Morton I-PER
+Stanley I-PER
+
+Papa B-PER
+Damaso I-PER
+I I-PER
+
+Mexiko B-LOC
+( O
+45.127 O
+) O
+[6] O
+
+Eneo O
+lake O
+ni O
+316.31 O
+km² B-ORG
+. O
+
+25px]] O
+' O
+'' O
+Álava B-LOC
+'' O
+' O
+
+William B-PER
+Wellington I-PER
+Gqoba I-PER
+
+Jumuiya B-ORG
+ya I-ORG
+Madola I-ORG
+
+Eneo O
+lake O
+ni O
+41.4 O
+km² B-ORG
+. O
+
+'' O
+Argentina B-LOC
+'' O
+' O
+
+Dangerous B-ORG
+( I-ORG
+albamu I-ORG
+) I-ORG
+
+Eneo O
+lake O
+ni O
+2.2 O
+km² B-ORG
+. O
+
+Palisades B-LOC
+Park I-LOC
+, I-LOC
+New I-LOC
+Jersey I-LOC
+
+Pia O
+kuna O
+wasemaji O
+wachache O
+nchini O
+Uhindi B-LOC
+( O
+2007 O
+) O
+. O
+
+Chen B-PER
+Ning I-PER
+Yang I-PER
+
+Ed O
+- O
+Jim B-PER
+Cummings I-PER
+
+The O
+Colonel O
+; O
+Jack B-PER
+Bauer I-PER
+
+Beginnings B-ORG
+: I-ORG
+The I-ORG
+Lost I-ORG
+Tapes I-ORG
+1988–1991 I-ORG
+'' O
+
+Danubi B-LOC
+( I-LOC
+mto I-LOC
+) I-LOC
+
+' O
+'' O
+Gordian B-PER
+I I-PER
+'' O
+' O
+
+Makao O
+makuu O
+yako O
+karibu O
+na O
+Durban B-LOC
+, O
+Afrika B-LOC
+Kusini I-LOC
+. O
+
+Alikuwa O
+sogora O
+na O
+The B-ORG
+Beatles I-ORG
+. O
+
+Agostino B-PER
+wa I-PER
+Hippo I-PER
+
+Alimfuata O
+Papa B-PER
+Benedikto I-PER
+XI I-PER
+akafuatwa O
+na O
+Papa B-PER
+Yohane I-PER
+XXII I-PER
+. O
+
+Eneo O
+lake O
+ni O
+13.5 O
+km² B-ORG
+. O
+
+Uhusika O
+unachezwa O
+na O
+Marisol B-PER
+Nichols I-PER
+. O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+30122 O
+. O
+
+Chuo B-ORG
+Kikuu I-ORG
+cha I-ORG
+Dar I-ORG
+es I-ORG
+Salaam I-ORG
+
+Terror B-ORG
+Squad I-ORG
+( I-ORG
+studio I-ORG
+) I-ORG
+
+Mahakama B-ORG
+ya I-ORG
+Kimataifa I-ORG
+ya I-ORG
+Jinai I-ORG
+
+Soko B-ORG
+la I-ORG
+Hisa I-ORG
+la I-ORG
+Uganda I-ORG
+
+Wilaya B-ORG
+ya I-ORG
+Jacqueville I-ORG
+
+Sirili B-PER
+wa I-PER
+Yerusalemu I-PER
+
+Gertrudi B-PER
+wa I-PER
+Thuringia I-PER
+
+Chuo B-ORG
+Kikuu I-ORG
+cha I-ORG
+Harvard I-ORG
+
+Ruth B-PER
+Miller I-PER
+( O
+1919-1969 O
+) O
+
+Eneo O
+lake O
+ni O
+123.8 O
+km² B-ORG
+. O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+33331 O
+. O
+
+Bangkok B-LOC
+- O
+''Suvarnabhumi O
+Airport O
+'' O
+
+Foresti B-LOC
+( I-LOC
+Mbeya I-LOC
+mjini I-LOC
+) I-LOC
+
+Alimfuata O
+Papa B-PER
+Pius I-PER
+III I-PER
+akafuatwa O
+na O
+Papa B-PER
+Leo I-PER
+X I-PER
+. O
+
+Baraza B-ORG
+la I-ORG
+Usalama I-ORG
+la I-ORG
+Umoja I-ORG
+wa I-ORG
+Mataifa I-ORG
+
+John B-PER
+William I-PER
+Colenso I-PER
+( O
+1814-1883 O
+) O
+
+Alimfuata O
+Papa B-PER
+Sixtus I-PER
+V I-PER
+akafuatwa O
+na O
+Papa B-PER
+Gregori I-PER
+XIV I-PER
+. O
+
+' O
+'' O
+Wilaya B-LOC
+ya I-LOC
+Marsabit I-LOC
+'' O
+' O
+
+Lindi B-LOC
+( I-LOC
+mji I-LOC
+) I-LOC
+
+Vitória B-LOC
+, I-LOC
+Espírito I-LOC
+Santo I-LOC
+
+Kikanisa O
+linahusiana O
+na O
+Jimbo B-ORG
+Kuu I-ORG
+la I-ORG
+Tabora I-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Klementi I-PER
+XII I-PER
+akafuatwa O
+na O
+Papa B-PER
+Klementi I-PER
+XIII I-PER
+. O
+
+Samwel B-PER
+Yellah I-PER
+Black I-PER
+
+Potinus B-PER
+wa I-PER
+Lyon I-PER
+
+Nouakchott B-LOC
+- O
+''Nouakchott O
+Airport O
+'' O
+
+Iceman B-PER
+( I-PER
+komiki I-PER
+) I-PER
+
+Eneo O
+lake O
+ni O
+59 O
+km² B-ORG
+. O
+
+Papa B-PER
+Yohane I-PER
+Paulo I-PER
+II I-PER
+
+River B-LOC
+Edge I-LOC
+, I-LOC
+New I-LOC
+Jersey I-LOC
+
+Uhusika O
+unachezwa O
+na O
+Janeane B-PER
+Garofalo I-PER
+. O
+
+Soko B-ORG
+la I-ORG
+Hisa I-ORG
+la I-ORG
+Nairobi I-ORG
+
+`` O
+Gentleman B-ORG
+'' O
+- O
+3:26 O
+
+`` O
+Baby B-ORG
+Do I-ORG
+n't I-ORG
+Cry I-ORG
+( I-ORG
+Keep I-ORG
+Ya I-ORG
+Head I-ORG
+Up I-ORG
+II I-ORG
+) I-ORG
+'' O
+
+Upper B-LOC
+Freehold I-LOC
+Township I-LOC
+, I-LOC
+New I-LOC
+Jersey I-LOC
+
+Eneo O
+lake O
+ni O
+83 O
+km² B-ORG
+. O
+
+Gervais B-PER
+Yao I-PER
+Kouassi I-PER
+
+Tala]] O
+, O
+Machakos B-LOC
+, O
+Athi B-LOC
+River I-LOC
+
+Eneo O
+lake O
+ni O
+86.2 O
+km² B-ORG
+. O
+
+' O
+'' O
+'' O
+'' O
+Letter B-ORG
+2 I-ORG
+My I-ORG
+Unborn I-ORG
+'' O
+' O
+'' O
+'' O
+
+All B-ORG
+Bout I-ORG
+U I-ORG
+
+When B-ORG
+You I-ORG
+'re I-ORG
+Looking I-ORG
+Like I-ORG
+That I-ORG
+
+Bulgaria B-LOC
+( O
+Sofia B-LOC
+) O
+( O
+EU O
+) O
+
+Mtaguso B-ORG
+wa I-ORG
+kwanza I-ORG
+wa I-ORG
+Vatikano I-ORG
+( O
+1869-1870 O
+) O
+
+Glenn B-PER
+Morshower I-PER
+kama O
+Aaron B-PER
+Pierce I-PER
+
+José B-PER
+Echegaray I-PER
+y I-PER
+Eizaguirre I-PER
+
+Alimfuata O
+Papa B-PER
+Gelasio I-PER
+I I-PER
+akafuatwa O
+na O
+Papa B-PER
+Symmachus I-PER
+. O
+
+Global B-ORG
+Voices I-ORG
+Online I-ORG
+
+North B-LOC
+Merrick I-LOC
+, I-LOC
+New I-LOC
+York I-LOC
+
+' O
+'' O
+Florianópolis B-LOC
+'' O
+' O
+
+Paul B-PER
+Schulze I-PER
+kama O
+Ryan B-PER
+Chappelle I-PER
+
+Mobutu B-PER
+Sese I-PER
+Seko I-PER
+
+Matengenezo B-ORG
+ya I-ORG
+Kiprotestanti I-ORG
+
+Alimfuata O
+Papa B-PER
+Simplicio I-PER
+akafuatwa O
+na O
+Papa B-PER
+Gelasio I-PER
+I I-PER
+. O
+
+Big B-PER
+Pun I-PER
+, O
+Raekwon B-PER
+na O
+Armageddon O
+
+Eneo O
+lake O
+ni O
+3.3 O
+km² B-ORG
+. O
+
+Mbongeni B-PER
+Ngema I-PER
+( O
+1955- O
+) O
+
+Mji B-LOC
+mkuu I-LOC
+wake O
+ni O
+Créteil B-LOC
+. O
+
+Eneo O
+lake O
+ni O
+49 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+14.2 O
+km² B-ORG
+. O
+
+Jimbo B-ORG
+la I-ORG
+Uchaguzi I-ORG
+la I-ORG
+Imenti I-ORG
+Kaskazini I-ORG
+
+Timu B-ORG
+ya I-ORG
+Taifa I-ORG
+ya I-ORG
+Kandanda I-ORG
+ya I-ORG
+Kenya I-ORG
+
+Eneo O
+lake O
+ni O
+118 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+81 O
+km² B-ORG
+. O
+
+Eneo B-LOC
+la I-LOC
+Uingereza I-LOC
+katika I-LOC
+Bahari I-LOC
+Hindi I-LOC
+
+Storm B-PER
+( I-PER
+komiki I-PER
+) I-PER
+
+Uhusika O
+unachezwa O
+na O
+Kiefer B-PER
+Sutherland I-PER
+. O
+
+Chelsea B-ORG
+F.C I-ORG
+. I-ORG
+
+Eneo O
+lake O
+ni O
+44 O
+km² B-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Paulo I-PER
+III I-PER
+akafuatwa O
+na O
+Papa B-PER
+Marcello I-PER
+II I-PER
+. O
+
+`` O
+Baby B-ORG
+Do I-ORG
+n't I-ORG
+Cry I-ORG
+( I-ORG
+Keep I-ORG
+Ya I-ORG
+Head I-ORG
+Up I-ORG
+II I-ORG
+) I-ORG
+'' O
+
+`` O
+The O
+Winner O
+'' O
+umeimbwa O
+na O
+Coolio B-PER
+– O
+4:03 O
+
+Eneo O
+lake O
+ni O
+82 O
+km² B-ORG
+. O
+
+Malaysia B-LOC
+na O
+Sumatra B-LOC
+/ O
+Indonesia B-LOC
+( O
+Asia B-LOC
+) O
+
+Madrid B-LOC
+- O
+''Barajas O
+Airport O
+'' O
+
+' O
+'' O
+Galba B-PER
+'' O
+' O
+
+( O
+Addis B-LOC
+Ababa I-LOC
+) O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+33411 O
+. O
+
+Orodha B-LOC
+ya I-LOC
+majimbo I-LOC
+ya I-LOC
+Brazil I-LOC
+
+Wilaya B-ORG
+ya I-ORG
+Biankouma I-ORG
+
+Mwendo O
+wake O
+kuanzia O
+chanzo O
+hadi O
+mdomo O
+uko O
+nchini O
+Urusi B-LOC
+. O
+
+Habari O
+zake O
+zinapatikana O
+katika O
+kitabu B-PER
+chake O
+, O
+ingawa O
+humo O
+hazikupangwa O
+kitarehe O
+. O
+
+Pia O
+kuna O
+wasemaji O
+nchini O
+Nigeria B-LOC
+. O
+
+Mji B-LOC
+mkuu I-LOC
+wake O
+ni O
+Nantes B-LOC
+. O
+
+Alimfuata O
+Papa B-PER
+Lucius I-PER
+III I-PER
+akafuatwa O
+na O
+Papa B-PER
+Gregori I-PER
+VIII I-PER
+. O
+
+Uhusika O
+unachezwa O
+na O
+Peter B-PER
+MacNicol I-PER
+. O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+33210 O
+. O
+
+Benki B-ORG
+kuu I-ORG
+ya I-ORG
+Kenya I-ORG
+
+Alimfuata O
+Papa B-PER
+Marko I-PER
+akafuatwa O
+na O
+Papa B-PER
+Liberius I-PER
+. O
+
+Wanachezea O
+katika O
+Chama B-ORG
+cha I-ORG
+Mpira I-ORG
+wa I-ORG
+Kikapu I-ORG
+nchini O
+Marekani B-LOC
+. O
+
+Wilaya B-LOC
+ya I-LOC
+Sumbawanga I-LOC
+Mjini I-LOC
+. O
+
+`` O
+If B-ORG
+My I-ORG
+Homie I-ORG
+Calls I-ORG
+'' O
+
+Wittgenstein B-PER
+, I-PER
+Ludwig I-PER
+. O
+
+The B-ORG
+Way I-ORG
+You I-ORG
+Make I-ORG
+Me I-ORG
+Feel I-ORG
+- O
+4:57 O
+
+Zadar B-LOC
+, O
+Dalmatia B-LOC
+, O
+siku O
+hizi O
+Kroatia B-LOC
+
+José B-PER
+Echegaray I-PER
+y I-PER
+Eizaguirre I-PER
+
+David B-ORG
+Archuleta I-ORG
+'' O
+( O
+2008 O
+) O
+
+Gibson B-PER
+Kente I-PER
+( O
+1932-2004 O
+) O
+
+Eneo O
+lake O
+ni O
+118.6 O
+km² B-ORG
+. O
+
+Mji B-LOC
+mkuu I-LOC
+wake O
+ni O
+Mende B-LOC
+. O
+
+Jamhuri B-LOC
+ya I-LOC
+Kidemokrasia I-LOC
+ya I-LOC
+Kongo I-LOC
+
+Alimfuata O
+Papa B-PER
+Pius I-PER
+IX I-PER
+( O
+1846-78 O
+) O
+akafuatwa O
+na O
+Papa B-PER
+Pius I-PER
+X I-PER
+. O
+
+Papa B-PER
+Innocent I-PER
+VIII I-PER
+
+Chrystostom O
+'' O
+by O
+John B-PER
+Henry I-PER
+Newman I-PER
+- O
+a O
+biographical O
+sketch O
+focusing O
+mainly O
+on O
+the O
+period O
+of O
+his O
+exile O
+
+Cancún B-LOC
+, I-LOC
+Quintana I-LOC
+Roo I-LOC
+
+Papa B-PER
+Marcello I-PER
+I I-PER
+
+Soko B-ORG
+la I-ORG
+Hisa I-ORG
+la I-ORG
+Nairobi I-ORG
+
+Eneo O
+lake O
+ni O
+2.7 O
+km² B-ORG
+. O
+
+AS O
+Samoa B-LOC
+ya I-LOC
+Marekani I-LOC
+
+Back B-ORG
+in I-ORG
+Business I-ORG
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+39303 O
+. O
+
+Eneo O
+lake O
+ni O
+40 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+81.1 O
+km² B-ORG
+. O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+39404 O
+. O
+
+William B-PER
+Henry I-PER
+Harrison I-PER
+
+Milwaukee B-LOC
+, I-LOC
+Wisconsin I-LOC
+
+Eneo O
+lake O
+ni O
+122 O
+km² B-ORG
+. O
+
+Basilika B-ORG
+la I-ORG
+Mt. I-ORG
+Petro I-ORG
+
+Wizara B-ORG
+ya I-ORG
+Sheria I-ORG
+na I-ORG
+Katiba I-ORG
+
+IE O
+Eire B-LOC
+( O
+Ayalandi O
+) O
+
+Ripoti B-PER
+za I-PER
+Sheria I-PER
+ya I-PER
+Kenya I-PER
+
+Kanisa B-ORG
+Katoliki I-ORG
+la I-ORG
+Kisiria I-ORG
+la I-ORG
+Malankara I-ORG
+
+** O
+Rais B-ORG
+wa I-ORG
+Afrika I-ORG
+ya I-ORG
+Kusini I-ORG
+
+Kanuni B-ORG
+ya I-ORG
+Heisenberg I-ORG
+ya I-ORG
+Utovu I-ORG
+wa I-ORG
+Hakika I-ORG
+
+Lewis B-PER
+Nkosi I-PER
+( O
+1936-2010 O
+) O
+
+Wimbo O
+umetayarishwa O
+na O
+Eminem B-PER
+. O
+
+Karl B-PER
+Friedrich I-PER
+Benz I-PER
+
+Carlo B-PER
+Rota I-PER
+kama O
+Morris B-PER
+O'Brian I-PER
+
+Puerto B-LOC
+Rico I-LOC
+( O
+Marekani B-LOC
+) O
+
+'' O
+Bulgaria B-LOC
+'' O
+' O
+
+Arusha B-LOC
+( I-LOC
+mji I-LOC
+) I-LOC
+
+Eneo O
+lake O
+ni O
+17.3 O
+km² B-ORG
+. O
+
+'' O
+How B-ORG
+Do I-ORG
+U I-ORG
+Want I-ORG
+It I-ORG
+'' O
+
+Eneo O
+lake O
+ni O
+15.7 O
+km² B-ORG
+. O
+
+Nyasa B-LOC
+( I-LOC
+ziwa I-LOC
+) I-LOC
+
+`` O
+Bury B-ORG
+Me I-ORG
+a I-ORG
+G I-ORG
+'' O
+— O
+4:59 O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+39307 O
+. O
+
+Wizara B-ORG
+ya I-ORG
+Afya I-ORG
+na I-ORG
+Ustawi I-ORG
+wa I-ORG
+Jamii I-ORG
+
+Papa B-PER
+Yohane I-PER
+Paulo I-PER
+II I-PER
+
+Elementi B-LOC
+za I-LOC
+kikemia I-LOC
+
+Pia O
+kuna O
+wasemaji O
+nchini O
+Cote B-LOC
+d'Ivoire I-LOC
+; O
+idadi O
+yao O
+haijulikani O
+. O
+
+Alimfuata O
+Papa B-PER
+Damaso I-PER
+II I-PER
+akafuatwa O
+na O
+Papa B-PER
+Viktor I-PER
+II I-PER
+. O
+
+If B-ORG
+I I-ORG
+Let I-ORG
+You I-ORG
+Go I-ORG
+
+Eneo O
+lake O
+ni O
+87 O
+km² B-ORG
+. O
+
+죽음으로 O
+마감한 O
+‘커밍아웃’ O
+시사저널 O
+2003.05.15 O
+( O
+Korea B-LOC
+Kusini I-LOC
+) O
+
+Eneo O
+lake O
+ni O
+84.5 O
+km² B-ORG
+. O
+
+Alimfuata O
+Kaizari B-PER
+Nerva I-PER
+na O
+akafuatwa O
+na O
+Kaizari B-PER
+Hadrian I-PER
+. O
+
+Muawiya B-PER
+ibn I-PER
+Abu I-PER
+Sufyan I-PER
+
+Kiefer B-PER
+Sutherland I-PER
+kama O
+Jack B-PER
+Bauer I-PER
+
+Eneo O
+lake O
+ni O
+36.4 O
+km² B-ORG
+. O
+
+Hennie B-PER
+Aucamp I-PER
+( O
+1934- O
+) O
+
+Eneo O
+lake O
+ni O
+13.8 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+184 O
+km² B-ORG
+. O
+
+Rappa B-ORG
+Ternt I-ORG
+Sanga I-ORG
+'' O
+( O
+2005 O
+) O
+
+John B-PER
+F. I-PER
+Kennedy I-PER
+
+Sao B-LOC
+Tome I-LOC
+na I-LOC
+Principe I-LOC
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Castlebar B-LOC
+. O
+
+' O
+'' O
+Glycerius B-PER
+'' O
+' O
+
+Baton B-LOC
+Rouge I-LOC
+, I-LOC
+Louisiana I-LOC
+
+David B-PER
+Ben I-PER
+Gurion I-PER
+
+Shambulio B-ORG
+la I-ORG
+11 I-ORG
+Septemba I-ORG
+2001 I-ORG
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Osaka B-LOC
+( O
+大阪市 O
+) O
+. O
+
+Mkoa B-LOC
+wa I-LOC
+La I-LOC
+Coruña I-LOC
+
+Alimfuata O
+Papa B-PER
+Klementi I-PER
+XIII I-PER
+akafuatwa O
+na O
+Papa B-PER
+Pius I-PER
+VI I-PER
+. O
+
+Sabah B-LOC
+( O
+Borneo B-LOC
+) O
+
+`` O
+21 B-ORG
+Questions I-ORG
+'' O
+( O
+feat O
+. O
+
+Orodha B-LOC
+ya I-LOC
+mikoa I-LOC
+ya I-LOC
+Argentina I-LOC
+
+Chama B-ORG
+cha I-ORG
+Kikristo I-ORG
+cha I-ORG
+Kidemokrasia I-ORG
+cha I-ORG
+Ujerumani I-ORG
+
+`` O
+Dear B-ORG
+Mama I-ORG
+'' O
+– O
+4:40 O
+
+'' O
+Burkina B-LOC
+Faso I-LOC
+'' O
+' O
+
+Paulo B-PER
+wa I-PER
+Msalaba I-PER
+
+Burundi B-LOC
+( O
+2007 O
+) O
+
+Eneo O
+lake O
+ni O
+212.47 O
+km² B-ORG
+. O
+
+Mswati B-PER
+III I-PER
+wa I-PER
+Uswazi I-PER
+
+Alifanya O
+kazi O
+hasa O
+nchini O
+Tanzania B-LOC
+. O
+
+Mradi B-ORG
+wa I-ORG
+Umoja I-ORG
+wa I-ORG
+Mataifa I-ORG
+Kuhusu I-ORG
+Mazingira I-ORG
+
+Eneo O
+lake O
+ni O
+87.1 O
+km² B-ORG
+. O
+
+Chechele B-LOC
+( I-LOC
+Stenostiridae I-LOC
+) I-LOC
+
+Damian B-PER
+de I-PER
+Veuster I-PER
+
+Mji B-LOC
+mkuu I-LOC
+wake O
+ni O
+Trento B-LOC
+. O
+
+Shangari O
+alitanguliwa O
+na O
+Olusegun B-PER
+Obasanjo I-PER
+kisha O
+akafuatiwa O
+na O
+Muhammadu B-PER
+Buhari I-PER
+. O
+
+Jimbo B-ORG
+la I-ORG
+Uchaguzi I-ORG
+la I-ORG
+Nyando I-ORG
+
+Kampuni B-ORG
+ya I-ORG
+Kijerumani I-ORG
+kwa I-ORG
+Afrika I-ORG
+ya I-ORG
+Mashariki I-ORG
+
+Kaunas B-LOC
+( I-LOC
+CM I-LOC
+) I-LOC
+
+Kinyole B-LOC
+( I-LOC
+lugha I-LOC
+) I-LOC
+
+Japani B-LOC
+( O
+Tokyo B-LOC
+) O
+( O
+AS O
+) O
+
+Alimfuata O
+Papa B-PER
+Yohane I-PER
+XXII I-PER
+akafuatwa O
+na O
+Papa B-PER
+Klementi I-PER
+VI I-PER
+. O
+
+Eneo O
+lake O
+ni O
+71 O
+km² B-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Pius I-PER
+I I-PER
+akafuatwa O
+na O
+Papa B-PER
+Soter I-PER
+. O
+
+Johannes B-PER
+Hans I-PER
+Daniel I-PER
+Jensen I-PER
+
+Eneo O
+lake O
+ni O
+40 O
+km² B-ORG
+. O
+
+Kenya B-ORG
+Commercial I-ORG
+Bank I-ORG
+( I-ORG
+Uganda I-ORG
+) I-ORG
+
+Alimfuata O
+Papa B-PER
+Leo I-PER
+II I-PER
+akafuatwa O
+na O
+Papa B-PER
+Yohane I-PER
+V I-PER
+. O
+
+Senati B-ORG
+( I-ORG
+Marekani I-ORG
+) I-ORG
+
+' O
+'' O
+Gebre B-PER
+Krestos I-PER
+'' O
+' O
+
+Eneo O
+lake O
+ni O
+4.2 O
+km² B-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Stefano I-PER
+III I-PER
+akafuatwa O
+na O
+Papa B-PER
+Leo I-PER
+III I-PER
+. O
+
+Soko B-ORG
+la I-ORG
+Hisa I-ORG
+la I-ORG
+Malawi I-ORG
+
+Umoja B-ORG
+wa I-ORG
+Nchi I-ORG
+za I-ORG
+Asia I-ORG
+ya I-ORG
+Kusini-Mashariki I-ORG
+
+Mkoa B-LOC
+wa I-LOC
+Bắc I-LOC
+Ninh I-LOC
+
+`` O
+If B-ORG
+I I-ORG
+Let I-ORG
+You I-ORG
+Go I-ORG
+( O
+Radio O
+Edit O
+) O
+'' O
+
+Eneo O
+lake O
+ni O
+34.70 O
+km² B-ORG
+. O
+
+Aguascalientes B-ORG
+( O
+663,671 O
+) O
+
+Alimfuata O
+Papa B-PER
+Klementi I-PER
+XI I-PER
+akafuatwa O
+na O
+Papa B-PER
+Benedikto I-PER
+XIII I-PER
+. O
+
+Theodore B-PER
+`` I-PER
+T-Bag I-PER
+'' I-PER
+Bagwell I-PER
+
+Kikanisa O
+linahusiana O
+na O
+Jimbo B-ORG
+Kuu I-ORG
+la I-ORG
+Kampala I-ORG
+. O
+
+Eneo O
+lake O
+ni O
+10.7 O
+km² B-ORG
+. O
+
+Vibarabara O
+wanatokea O
+Afrika B-LOC
+, O
+Asia B-LOC
+na O
+Ulaya B-LOC
+. O
+
+Axum B-LOC
+- O
+''Axum O
+Airport O
+'' O
+
+Eneo O
+lake O
+ni O
+49.7 O
+km² B-ORG
+. O
+
+Papa B-PER
+Klementi I-PER
+VI I-PER
+( O
+1342-1352 O
+) O
+
+Matola B-LOC
+( I-LOC
+Msumbiji I-LOC
+) I-LOC
+
+Shinyanga B-LOC
+( I-LOC
+mji I-LOC
+) I-LOC
+
+Alimfuata O
+Papa B-PER
+Felix I-PER
+III I-PER
+akafuatwa O
+na O
+Papa B-PER
+Anastasio I-PER
+II I-PER
+. O
+
+Eneo B-ORG
+Bunge I-ORG
+la I-ORG
+Kipkelion I-ORG
+
+Papa B-PER
+Sergio I-PER
+III I-PER
+
+Alimfuata O
+Papa B-PER
+Pius I-PER
+VIII I-PER
+akafuatwa O
+na O
+Papa B-PER
+Pius I-PER
+IX I-PER
+. O
+
+Mwalimu B-PER
+wa I-PER
+Kanisa I-PER
+
+Makao O
+yake O
+makuu O
+yapo O
+Dar B-LOC
+es I-LOC
+Salaam I-LOC
+nchini O
+Tanzania B-LOC
+. O
+
+Innsbruck B-LOC
+- O
+''Innsbruck O
+Airport O
+'' O
+
+Hospitali B-ORG
+ya I-ORG
+Mafunzo I-ORG
+na I-ORG
+Marejereo I-ORG
+ya I-ORG
+Moi I-ORG
+
+Aliyemaliza O
+fitina O
+hiyo O
+na O
+kuwafuata O
+ni O
+Tewodros B-PER
+II I-PER
+. O
+
+Kogi B-ORG
+( I-ORG
+jimbo I-ORG
+) I-ORG
+
+Eneo O
+lake O
+ni O
+10.5 O
+km² B-ORG
+. O
+
+' O
+'' O
+Katika O
+Australia B-LOC
+na I-LOC
+Pasifiki I-LOC
+'' O
+' O
+
+Papa B-PER
+Paskali I-PER
+I I-PER
+( O
+817-824 O
+) O
+
+Discografia B-ORG
+ya I-ORG
+50 I-ORG
+Cent I-ORG
+
+Vipimo B-ORG
+sanifu I-ORG
+vya I-ORG
+kimataifa I-ORG
+
+Kiefer B-PER
+Sutherland I-PER
+kama O
+Jack B-PER
+Bauer I-PER
+
+Kenya B-ORG
+African I-ORG
+National I-ORG
+Union I-ORG
+
+Eneo O
+lake O
+ni O
+82 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+37 O
+km² B-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Boniface I-PER
+II I-PER
+akafuatwa O
+na O
+Papa B-PER
+Agapeto I-PER
+I I-PER
+. O
+
+Manhasset B-LOC
+, I-LOC
+New I-LOC
+York I-LOC
+
+Eneo O
+lake O
+ni O
+62 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+366.9 O
+km² B-ORG
+. O
+
+Kitabu B-ORG
+cha I-ORG
+Nahumu I-ORG
+
+Uhindi B-LOC
+( O
+232.320 O
+) O
+
+Jean B-PER
+Smart I-PER
+kama O
+Martha B-PER
+Logan I-PER
+
+Kampuni B-ORG
+ya I-ORG
+Kijerumani I-ORG
+kwa I-ORG
+Afrika I-ORG
+ya I-ORG
+Mashariki I-ORG
+
+Parana B-LOC
+( I-LOC
+mto I-LOC
+) I-LOC
+
+Eneo O
+lake O
+ni O
+7.4 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+32 O
+km² B-ORG
+. O
+
+Fat B-PER
+Joe I-PER
+– O
+`` O
+The O
+Profit O
+'' O
+( O
+akishirikiana O
+na O
+Lil B-PER
+Wayne I-PER
+) O
+
+Teresa B-PER
+wa I-PER
+Mtoto I-PER
+Yesu I-PER
+
+Reiko B-PER
+Aylesworth I-PER
+kama O
+Michelle B-PER
+Dessler I-PER
+
+Jimbo B-LOC
+la I-LOC
+Chlef I-LOC
+
+Papa B-PER
+Benedikto I-PER
+XVI I-PER
+
+Richmond B-LOC
+, I-LOC
+British I-LOC
+Kolumbia I-LOC
+
+Elizabeth B-PER
+II I-PER
+wa I-PER
+Uingereza I-PER
+
+' O
+'' O
+Umaru B-PER
+Yar'Adua I-PER
+'' O
+' O
+
+Muungano B-ORG
+wa I-ORG
+Afrika I-ORG
+
+'' O
+Ukraine B-LOC
+'' O
+' O
+
+' O
+'' O
+Uingereza B-LOC
+'' O
+' O
+
+Bab B-LOC
+el I-LOC
+Mandeb I-LOC
+
+Oliver B-PER
+Queen I-PER
+( I-PER
+Smallville I-PER
+) I-PER
+
+Baadaye O
+alilazimishwa O
+kujiuzulu O
+, O
+akafuatwa O
+na O
+Papa B-PER
+Klementi I-PER
+II I-PER
+. O
+
+Chuo B-ORG
+Kikuu I-ORG
+cha I-ORG
+Göttingen I-ORG
+
+True B-ORG
+Jesus I-ORG
+Church I-ORG
+
+Papa B-PER
+Eugenio I-PER
+II I-PER
+
+Alimfuata O
+Papa B-PER
+Leo I-PER
+V I-PER
+akafuatwa O
+na O
+Papa B-PER
+Anastasio I-PER
+III I-PER
+. O
+
+Wilaya B-LOC
+ya I-LOC
+Siaya I-LOC
+( O
+Siaya B-LOC
+) O
+== O
+
+( O
+2007 O
+, O
+Inpop B-ORG
+Records I-ORG
+) O
+==== O
+
+William B-PER
+Wellington I-PER
+Gqoba I-PER
+( O
+1840-1888 O
+) O
+
+Eneo O
+lake O
+ni O
+5.0 O
+km² B-ORG
+. O
+
+Nchi B-LOC
+za I-LOC
+Kibalti I-LOC
+
+Eneo O
+lake O
+ni O
+90.4 O
+km² B-ORG
+. O
+
+Aliyechaguliwa O
+badala O
+yake O
+alijitajia O
+jina O
+hilohilo O
+akawa O
+Papa B-PER
+Yohane I-PER
+Paulo I-PER
+II I-PER
+na O
+kujiwekea O
+lengo O
+hilohilo O
+. O
+
+Edinburgh B-LOC
+( O
+Dùn O
+Èideann O
+) O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+33614 O
+. O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+53821 O
+. O
+
+`` O
+In B-ORG
+da I-ORG
+Club I-ORG
+'' O
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Khartoum B-LOC
+. O
+
+Mji B-LOC
+mkuu I-LOC
+wake O
+ni O
+Bhopal B-LOC
+. O
+
+Eneo O
+lake O
+ni O
+5.1 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+0.7 O
+km² B-ORG
+. O
+
+Pia O
+kuna O
+wasemaji O
+wachache O
+nchini O
+Chad B-LOC
+na O
+Nigeria B-LOC
+. O
+
+Eneo O
+lake O
+ni O
+85 O
+km² B-ORG
+. O
+
+2009 O
+Charles B-PER
+Kao I-PER
+, O
+Willard B-PER
+Boyle I-PER
+na O
+George B-PER
+E. I-PER
+Smith I-PER
+
+' O
+'' O
+Petronius B-PER
+Maximus I-PER
+'' O
+' O
+
+Erie B-LOC
+( I-LOC
+ziwa I-LOC
+) I-LOC
+
+2008 O
+Makoto B-PER
+Kobayashi I-PER
+, O
+Toshihide B-PER
+Maskawa I-PER
+na O
+Yoichiro B-PER
+Nambu I-PER
+
+When B-ORG
+You I-ORG
+'re I-ORG
+Looking I-ORG
+Like I-ORG
+That I-ORG
+
+Albany B-LOC
+, I-LOC
+New I-LOC
+York I-LOC
+
+Papa B-PER
+Boniface I-PER
+IV I-PER
+
+Eneo O
+lake O
+ni O
+5.2 O
+km² B-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Vitalian I-PER
+akafuatwa O
+na O
+Papa B-PER
+Donus I-PER
+. O
+
+Alimfuata O
+Papa B-PER
+Agapeto I-PER
+I I-PER
+akafuatwa O
+na O
+Papa B-PER
+Vigilio I-PER
+. O
+
+Alimfuata O
+Papa B-PER
+Liberius I-PER
+akafuatwa O
+na O
+Papa B-PER
+Siricius I-PER
+. O
+
+St. B-LOC
+Louis I-LOC
+, I-LOC
+Missouri I-LOC
+
+Harald B-PER
+V I-PER
+wa I-PER
+Norwei I-PER
+
+Shirika B-ORG
+la I-ORG
+Kimataifa I-ORG
+la I-ORG
+Nishati I-ORG
+ya I-ORG
+Nyuklia I-ORG
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Nanning B-LOC
+( O
+南宁 O
+) O
+. O
+
+Jan B-PER
+Peter I-PER
+Balkenende I-PER
+
+' O
+'' O
+Benjamin B-PER
+Mkapa I-PER
+'' O
+' O
+( O
+1938– O
+) O
+
+Kwame B-PER
+Nkrumah I-PER
+( O
+1909-1972 O
+) O
+
+Eneo B-LOC
+la I-LOC
+Uingereza I-LOC
+katika I-LOC
+Bahari I-LOC
+Hindi I-LOC
+
+Mkoa B-LOC
+wa I-LOC
+Kivu I-LOC
+Kusini I-LOC
+
+Carl B-PER
+Gustav I-PER
+Jung I-PER
+
+Centre B-LOC
+Island I-LOC
+, I-LOC
+New I-LOC
+York I-LOC
+
+Mikoa B-LOC
+na I-LOC
+Wilaya I-LOC
+za I-LOC
+Uswidi I-LOC
+
+Aliitwa O
+''Whispers O
+'' O
+kama O
+jina O
+la O
+`` O
+column O
+'' O
+aliyoiandika O
+kwa O
+The B-ORG
+Daily I-ORG
+Nation I-ORG
+'' O
+. O
+
+Alimfuata O
+Papa B-PER
+Romanus I-PER
+akafuatwa O
+na O
+Papa B-PER
+Yohane I-PER
+IX I-PER
+. O
+
+Alimfuata O
+Papa B-PER
+Nikolasi I-PER
+IV I-PER
+. O
+
+Cyclops B-PER
+( I-PER
+komiki I-PER
+) I-PER
+
+Eneo O
+lake O
+ni O
+61.177 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+52 O
+km² B-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Innocent I-PER
+VI I-PER
+akafuatwa O
+na O
+Papa B-PER
+Gregori I-PER
+XI I-PER
+. O
+
+Manchester B-LOC
+- O
+''Manchester O
+Airport O
+'' O
+
+Bahari B-LOC
+ya I-LOC
+Aegean I-LOC
+
+Vifo O
+vikubwa O
+kabisa O
+ni O
+pamoja O
+na O
+cha O
+David B-PER
+Palmer I-PER
+, O
+Michelle B-PER
+Dessler I-PER
+, O
+na O
+Edgar B-PER
+Stiles I-PER
+. O
+
+Kampuni B-ORG
+ya I-ORG
+Kifalme I-ORG
+ya I-ORG
+Kiingereza I-ORG
+kwa I-ORG
+Afrika I-ORG
+ya I-ORG
+Mashariki I-ORG
+
+Babu B-PER
+wa I-PER
+Kanisa I-PER
+
+Wilfred B-PER
+Moriasi I-PER
+Ombui I-PER
+
+Ikulu B-ORG
+ya I-ORG
+Tanzania I-ORG
+
+Eneo O
+lake O
+ni O
+3.9 O
+km² B-ORG
+. O
+
+Muhammad B-PER
+( O
+محمد O
+) O
+
+Jumuiya B-ORG
+ya I-ORG
+Kiuchumi I-ORG
+ya I-ORG
+Ulaya I-ORG
+
+Eneo O
+lake O
+ni O
+33 O
+km² B-ORG
+. O
+
+National B-ORG
+Rainbow I-ORG
+Coalition I-ORG
+
+Cristiano B-PER
+Ronaldo I-PER
+- O
+2008 O
+
+Viktoria B-PER
+wa I-PER
+Uingereza I-PER
+
+CX O
+Kisiwa B-LOC
+cha I-LOC
+Krismasi I-LOC
+
+Carlo B-PER
+Rota I-PER
+kama O
+Morris B-PER
+O'Brian I-PER
+
+Orodha B-LOC
+ya I-LOC
+miji I-LOC
+ya I-LOC
+Ubelgiji I-LOC
+
+Orodha B-ORG
+ya I-ORG
+marais I-ORG
+wa I-ORG
+Nauru I-ORG
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+30203 O
+. O
+
+Thomas B-PER
+Aquinas I-PER
+Mtakatifu I-PER
+
+Brooke B-ORG
+Allison I-ORG
+'' O
+( O
+2001 O
+) O
+
+Montvale B-LOC
+, I-LOC
+New I-LOC
+Jersey I-LOC
+
+`` O
+It B-ORG
+'s I-ORG
+Just I-ORG
+a I-ORG
+Matter I-ORG
+of I-ORG
+Time I-ORG
+'' O
+
+Alimfuata O
+Papa B-PER
+Pius I-PER
+VII I-PER
+akafuatwa O
+na O
+Papa B-PER
+Pius I-PER
+VIII I-PER
+. O
+
+Ufalme B-PER
+wa I-PER
+Kazembe I-PER
+
+Orodha B-ORG
+ya I-ORG
+Mawaziri I-ORG
+Wakuu I-ORG
+wa I-ORG
+Ureno I-ORG
+
+Eneo O
+lake O
+ni O
+14.5 O
+km² B-ORG
+. O
+
+Kimeru B-ORG
+( I-ORG
+Tanzania I-ORG
+) I-ORG
+
+Shirika B-ORG
+la I-ORG
+Kimataifa I-ORG
+la I-ORG
+Usanifishaji I-ORG
+
+Jiji B-LOC
+la I-LOC
+Quebec I-LOC
+( O
+491.142 O
+) O
+
+Giboni B-LOC
+, O
+''Hylobates O
+'' O
+
+'' O
+Israel B-LOC
+'' O
+' O
+
+Dk. B-PER
+Omar I-PER
+Ali I-PER
+Juma I-PER
+
+Jamaika B-LOC
+( O
+Kingston B-LOC
+) O
+( O
+NA O
+) O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+30108 O
+. O
+
+West B-LOC
+Orange I-LOC
+, I-LOC
+New I-LOC
+Jersey I-LOC
+
+Proviso B-ORG
+East I-ORG
+High I-ORG
+School I-ORG
+
+Dar B-LOC
+es I-LOC
+Salaam I-LOC
+
+Margareta B-PER
+Mtakatifu I-PER
+wa I-PER
+Uskoti I-PER
+
+Eneo O
+lake O
+ni O
+24.49 O
+km² B-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Pius I-PER
+X I-PER
+( O
+1903-14 O
+) O
+akafuatwa O
+na O
+Papa B-PER
+Pius I-PER
+XI I-PER
+. O
+
+Wolfgang B-PER
+Amadeus I-PER
+Mozart I-PER
+
+Uhusika O
+ulichezwa O
+na O
+Eric B-PER
+Balfour I-PER
+. O
+
+Kibaha B-LOC
+( I-LOC
+mji I-LOC
+) I-LOC
+
+Dar B-ORG
+es I-ORG
+Salaam I-ORG
+Institute I-ORG
+of I-ORG
+Technology I-ORG
+
+Eneo O
+lake O
+ni O
+71 O
+km² B-ORG
+. O
+
+Mkoa B-LOC
+wa I-LOC
+Kati I-LOC
+( I-LOC
+Zambia I-LOC
+) I-LOC
+, O
+Zambia B-LOC
+
+`` O
+Man B-ORG
+in I-ORG
+the I-ORG
+Mirror I-ORG
+'' O
+
+Centro B-ORG
+Federal I-ORG
+de I-ORG
+Educação I-ORG
+Tecnológica I-ORG
+Celso I-ORG
+Suckow I-ORG
+da I-ORG
+Fonseca I-ORG
+
+`` O
+I B-ORG
+Ai I-ORG
+n't I-ORG
+Mad I-ORG
+at I-ORG
+Cha I-ORG
+'' O
+
+Alimfuata O
+Papa B-PER
+Yohane I-PER
+XVIII I-PER
+akafuatwa O
+na O
+Papa B-PER
+Benedikto I-PER
+VIII I-PER
+. O
+
+Teresa B-PER
+wa I-PER
+Mtoto I-PER
+Yesu I-PER
+
+Pia O
+kuna O
+wasemaji O
+17,000 O
+nchini O
+Burkina B-LOC
+Faso I-LOC
+. O
+
+Ernest B-PER
+Rutherford I-PER
+, O
+mwanafizikia O
+
+Forever B-ORG
+'' O
+( O
+2006 O
+) O
+
+Eneo O
+lake O
+ni O
+103.54 O
+km² B-ORG
+. O
+
+*Januari O
+- O
+Papa B-PER
+Yohane I-PER
+IX I-PER
+
+Wilaya B-ORG
+ya I-ORG
+Daloa I-ORG
+
+' O
+'' O
+Hokkaidō B-LOC
+'' O
+' O
+
+Bangkok B-LOC
+- O
+''Suvarnabhumi O
+Airport O
+'' O
+
+Eneo O
+lake O
+ni O
+1.6 O
+km² B-ORG
+. O
+
+Merrick B-LOC
+, I-LOC
+New I-LOC
+York I-LOC
+
+Dresden B-LOC
+- O
+''Dresden O
+Airport O
+'' O
+
+Imepakana O
+na O
+Veracruz B-LOC
+, O
+Hidalgo B-LOC
+, O
+Mexico B-LOC
+( I-LOC
+jimbo I-LOC
+) I-LOC
+, O
+Tlaxcala B-LOC
+, O
+Guerrero B-LOC
+, O
+Morelos B-LOC
+na O
+Oaxaca B-LOC
+. O
+
+Musoma B-LOC
+( I-LOC
+mji I-LOC
+) I-LOC
+
+Yono B-PER
+Stanley I-PER
+Jilaoneka I-PER
+Kevela I-PER
+
+Alimfuata O
+Papa B-PER
+Yohane I-PER
+III I-PER
+akafuatwa O
+na O
+Papa B-PER
+Pelagio I-PER
+II I-PER
+. O
+
+Timu B-ORG
+ya I-ORG
+Taifa I-ORG
+ya I-ORG
+Kandanda I-ORG
+ya I-ORG
+Kenya I-ORG
+
+Shirika B-ORG
+la I-ORG
+Biashara I-ORG
+Duniani I-ORG
+
+Alimfuata O
+Papa B-PER
+Klementi I-PER
+VII I-PER
+akafuatwa O
+na O
+Papa B-PER
+Julius I-PER
+III I-PER
+. O
+
+Nyumba B-ORG
+ya I-ORG
+sanaa I-ORG
+Kwenye I-ORG
+Makavazi I-ORG
+ya I-ORG
+Derby I-ORG
+
+Sao B-LOC
+Tome I-LOC
+na I-LOC
+Principe I-LOC
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+30318 O
+. O
+
+Beyoncé B-PER
+Knowles I-PER
+mnamo O
+tar O
+. O
+
+Soko B-ORG
+la I-ORG
+Hisa I-ORG
+la I-ORG
+Uganda I-ORG
+
+Pia O
+kuna O
+wasemaji O
+wachache O
+nchini O
+Chad B-LOC
+. O
+
+' O
+'' O
+Arcadius B-PER
+'' O
+' O
+
+' O
+'' O
+Johannesburg B-LOC
+' O
+'' O
+
+Nyamera B-LOC
+( I-LOC
+jenasi I-LOC
+) I-LOC
+
+Mfalme B-PER
+Dongmyeong I-PER
+wa I-PER
+Goguryeo I-PER
+
+Alimfuata O
+Papa B-PER
+Stefano I-PER
+IX I-PER
+akafuatwa O
+na O
+Papa B-PER
+Alexander I-PER
+II I-PER
+. O
+
+Goat B-LOC
+Island I-LOC
+( I-LOC
+New I-LOC
+York I-LOC
+) I-LOC
+
+Eneo O
+lake O
+ni O
+40 O
+km² B-ORG
+. O
+
+' O
+'' O
+Leuven B-LOC
+'' O
+' O
+
+Kiefer B-PER
+Sutherland I-PER
+kama O
+Jack B-PER
+Bauer I-PER
+
+Vipimo B-ORG
+sanifu I-ORG
+vya I-ORG
+kimataifa I-ORG
+
+Mama B-ORG
+yetu I-ORG
+wa I-ORG
+Coromoto I-ORG
+
+Kanisa B-ORG
+Katoliki I-ORG
+la I-ORG
+Kigiriki I-ORG
+la I-ORG
+Ukraina I-ORG
+
+Mkoa B-LOC
+wa I-LOC
+Centre I-LOC
+
+Roy B-PER
+Campbell I-PER
+( O
+1901-1957 O
+) O
+
+Wizara B-ORG
+ya I-ORG
+Mambo I-ORG
+ya I-ORG
+Ndani I-ORG
+
+Kikanisa O
+linahusiana O
+na O
+Jimbo B-ORG
+Kuu I-ORG
+la I-ORG
+Mbarara I-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Anastasio I-PER
+IV I-PER
+akafuatwa O
+na O
+Papa B-PER
+Alexander I-PER
+III I-PER
+. O
+
+Russell B-PER
+, I-PER
+Bertrand I-PER
+. O
+
+Fogg O
+Art O
+Museum O
+, O
+Cambridge B-LOC
+, O
+Uingereza B-LOC
+.]] O
+
+Discografia B-ORG
+ya I-ORG
+50 I-ORG
+Cent I-ORG
+
+Sarah B-PER
+Clarke I-PER
+kama O
+Nina B-PER
+Myers I-PER
+
+Imepakana O
+na O
+Libya B-LOC
+, O
+Sudan B-LOC
+, O
+Jamhuri B-LOC
+ya I-LOC
+Afrika I-LOC
+ya I-LOC
+Kati I-LOC
+, O
+Kamerun B-LOC
+, O
+Nigeria B-LOC
+na O
+Niger B-LOC
+. O
+
+Eneo O
+lake O
+ni O
+88.7 O
+km² B-ORG
+. O
+
+Alimfuata O
+Papa B-PER
+Yohane I-PER
+XII I-PER
+akafuatwa O
+na O
+Papa B-PER
+Leo I-PER
+VIII I-PER
+. O
+
+Sobhuza B-PER
+II I-PER
+wa I-PER
+Uswazi I-PER
+
+Msikiti B-ORG
+wa I-ORG
+Sultan I-ORG
+Ahmed I-ORG
+
+Eneo O
+lake O
+ni O
+266 O
+km² B-ORG
+. O
+
+Alifuatwa O
+na O
+Papa B-PER
+Eusebius I-PER
+. O
+
+Alimfuata O
+Papa B-PER
+Sergio I-PER
+IV I-PER
+akafuatwa O
+na O
+Papa B-PER
+Yohane I-PER
+XIX I-PER
+. O
+
+Mkoa B-LOC
+wa I-LOC
+Kati I-LOC
+( I-LOC
+Kenya I-LOC
+) I-LOC
+
+Otto B-PER
+von I-PER
+Bismarck I-PER
+
+Visiwa B-LOC
+vya I-LOC
+Solomon I-LOC
+
+Wilaya B-ORG
+ya I-ORG
+Prikro I-ORG
+
+When B-ORG
+You I-ORG
+'re I-ORG
+Looking I-ORG
+Like I-ORG
+That I-ORG
+
+Kenya B-ORG
+Power I-ORG
+and I-ORG
+Lighting I-ORG
+Company I-ORG
+
+' O
+'' O
+'' O
+'' O
+One B-ORG
+Day I-ORG
+at I-ORG
+a I-ORG
+Time I-ORG
+( I-ORG
+Em I-ORG
+'s I-ORG
+Version I-ORG
+) I-ORG
+'' O
+' O
+'' O
+'' O
+
+Abdul B-PER
+Jabir I-PER
+Marombwa I-PER
+
+Deal B-LOC
+, I-LOC
+New I-LOC
+Jersey I-LOC
+
+Mbuyiseni B-PER
+Mtshali I-PER
+( O
+1940- O
+) O
+
+Utsunomiya B-LOC
+, I-LOC
+Tochigi I-LOC
+
+Uhusika O
+ulichezwa O
+na O
+Roger B-PER
+Cross I-PER
+. O
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Ōita B-LOC
+( O
+大分市 O
+) O
+. O
+
+Eneo O
+lake O
+ni O
+56 O
+km² B-ORG
+. O
+
+CF O
+Jamhuri B-LOC
+ya I-LOC
+Afrika I-LOC
+ya I-LOC
+Kati I-LOC
+
+Daudi B-PER
+( I-PER
+Biblia I-PER
+) I-PER
+
+Buffalo B-LOC
+, I-LOC
+New I-LOC
+York I-LOC
+
+Mji B-LOC
+mkuu I-LOC
+na O
+pia O
+mji O
+mkubwa O
+ni O
+Tashkent B-LOC
+. O
+
+Roger B-PER
+Cross I-PER
+kama O
+Curtis B-PER
+Manning I-PER
+
+Kabila B-PER
+la I-PER
+Benyamini I-PER
+
+Pia O
+kuna O
+wasemaji O
+8500 O
+nchini O
+Guinea B-LOC
+ya I-LOC
+Ikweta I-LOC
+. O
+
+Deux-Sèvres B-LOC
+( O
+79 O
+) O
+
+Kanu B-LOC
+( I-LOC
+mnyama I-LOC
+) I-LOC
+
+Shirika B-ORG
+la I-ORG
+Kimataifa I-ORG
+la I-ORG
+Nishati I-ORG
+ya I-ORG
+Nyuklia I-ORG
+
+Jumuiya B-ORG
+ya I-ORG
+Nchi I-ORG
+za I-ORG
+Kiarabu I-ORG
+
+Antili B-LOC
+za I-LOC
+Kiholanzi I-LOC
+, O
+Aruba B-LOC
+
+Orodha B-ORG
+ya I-ORG
+Mawaziri I-ORG
+Wakuu I-ORG
+wa I-ORG
+Ubelgiji I-ORG
+
+Eneo O
+lake O
+ni O
+38 O
+km² B-ORG
+. O
+
+Ilianzishwa O
+na O
+Alfred B-PER
+Nobel I-PER
+. O
+
+Eneo O
+lake O
+ni O
+2,324.26 O
+km² B-ORG
+. O
+
+Papa B-PER
+Silvester I-PER
+I I-PER
+
+' O
+'' O
+Bangladesh B-LOC
+'' O
+' O
+
+Eneo O
+lake O
+ni O
+354.12 O
+km² B-ORG
+. O
+
+James B-PER
+Morrison I-PER
+kama O
+Bill B-PER
+Buchanan I-PER
+
+' O
+'' O
+Syria B-LOC
+'' O
+' O
+
+Mary B-PER
+Benson I-PER
+( O
+1919-2000 O
+) O
+
+Eneo O
+lake O
+ni O
+5.1 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+9.34 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+106 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+262.31 O
+km² B-ORG
+. O
+
+Chris B-ORG
+Brown I-ORG
+'' O
+( O
+2005 O
+) O
+
+Kongo B-ORG
+ya I-ORG
+Kibelgiji I-ORG
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+39102 O
+. O
+
+Johann B-PER
+Wolfgang I-PER
+von I-PER
+Goethe I-PER
+
+Papa B-PER
+Celestino I-PER
+III I-PER
+
+`` O
+When B-ORG
+You I-ORG
+'re I-ORG
+Looking I-ORG
+Like I-ORG
+That I-ORG
+( O
+Single O
+Remix O
+) O
+'' O
+
+lugha B-ORG
+ya I-ORG
+Kibantu I-ORG
+nchini O
+Tanzania B-LOC
+. O
+
+Alimfuata O
+Papa B-PER
+Stefano I-PER
+IV I-PER
+akafuatwa O
+na O
+Papa B-PER
+Eugenio I-PER
+II I-PER
+. O
+
+Moja O
+ni O
+Ono B-ORG
+sahihi O
+. O
+
+Louisville B-LOC
+, I-LOC
+Kentucky I-LOC
+
+Visiwa B-LOC
+vya I-LOC
+Mariana I-LOC
+ya I-LOC
+Kaskazini I-LOC
+
+*Septemba O
+- O
+Papa B-PER
+Leo I-PER
+V I-PER
+
+Imepakana O
+na O
+Ubelgiji B-LOC
+, O
+Ufaransa B-LOC
+na O
+Ujerumani B-LOC
+. O
+
+'' O
+Brazil B-LOC
+'' O
+' O
+
+Alliance B-ORG
+for I-ORG
+Change I-ORG
+and I-ORG
+Transparency I-ORG
+' O
+'' O
+' O
+
+'' O
+Chad B-LOC
+'' O
+' O
+
+Alimfuata O
+Papa B-PER
+Boniface I-PER
+I I-PER
+akafuatwa O
+na O
+Papa B-PER
+Sixtus I-PER
+III I-PER
+. O
+
+Elizabeth B-LOC
+, I-LOC
+New I-LOC
+Jersey I-LOC
+
+Eneo O
+lake O
+ni O
+9.2 O
+km² B-ORG
+. O
+
+Orodha B-LOC
+ya I-LOC
+miji I-LOC
+ya I-LOC
+Ubelgiji I-LOC
+
+`` O
+Rock B-ORG
+with I-ORG
+You I-ORG
+'' O
+
+Santiago B-PER
+Ramón I-PER
+y I-PER
+Cajal I-PER
+
+'' O
+Msumbiji B-LOC
+'' O
+' O
+
+** O
+' O
+'' O
+Bugs B-PER
+Bunny I-PER
+'' O
+' O
+
+Mkoa B-LOC
+wa I-LOC
+Kivu I-LOC
+Kusini I-LOC
+
+Eneo O
+lake O
+ni O
+73 O
+km² B-ORG
+. O
+
+Dominiko B-PER
+Ibáñez I-PER
+de I-PER
+Erquicia I-PER
+
+Eneo O
+lake O
+ni O
+1961.1 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+50 O
+km² B-ORG
+. O
+
+Orodha B-ORG
+ya I-ORG
+Marais I-ORG
+wa I-ORG
+Komori I-ORG
+
+Athumani B-PER
+Saidi I-PER
+Mwinshehe I-PER
+Janguo I-PER
+
+' O
+'' O
+Wilaya B-LOC
+ya I-LOC
+Trans-Nzoia I-LOC
+'' O
+' O
+
+Lake B-LOC
+Success I-LOC
+, I-LOC
+New I-LOC
+York I-LOC
+
+Mkoa B-LOC
+wa I-LOC
+Santa I-LOC
+Cruz I-LOC
+de I-LOC
+Tenerife I-LOC
+
+Al B-PER
+Pacino I-PER
+( O
+1994–hadi O
+sasa O
+) O
+
+Huntington B-LOC
+Park I-LOC
+, I-LOC
+California I-LOC
+
+Pia O
+kuna O
+wasemaji O
+nchini O
+Nigeria B-LOC
+. O
+
+`` O
+You B-ORG
+Rock I-ORG
+My I-ORG
+World I-ORG
+'' O
+
+Wizara B-ORG
+ya I-ORG
+Nishati I-ORG
+na I-ORG
+Madini I-ORG
+
+The B-ORG
+Village I-ORG
+Voice I-ORG
+
+Baba O
+akiwa O
+amempakata O
+mtoto O
+, O
+[[Dhaka O
+, O
+Bangladesh B-LOC
+.]] O
+
+Wilaya B-ORG
+ya I-ORG
+Séguéla I-ORG
+
+Eneo O
+lake O
+ni O
+5.8 O
+km² B-ORG
+. O
+
+Zama B-ORG
+za I-ORG
+Mwangaza I-ORG
+
+Kazi O
+hii O
+ilimpeleka O
+pia O
+London B-LOC
+na O
+Paris B-LOC
+. O
+
+Edward B-PER
+Tingatinga I-PER
+, O
+msanii O
+kutoka O
+Tanzania B-LOC
+
+Eneo O
+lake O
+ni O
+412,40 O
+km² B-ORG
+. O
+
+Fair B-LOC
+Haven I-LOC
+, I-LOC
+New I-LOC
+Jersey I-LOC
+
+Cyclops B-PER
+( I-PER
+komiki I-PER
+) I-PER
+
+Wamisionari B-ORG
+wa I-ORG
+Afrika I-ORG
+
+Victoria B-LOC
+( I-LOC
+ziwa I-LOC
+) I-LOC
+
+William B-PER
+Plomer I-PER
+( O
+1903-1973 O
+) O
+
+Alimfuata O
+Kaisari B-PER
+Kaligula I-PER
+akafuatwa O
+na O
+Kaisari B-PER
+Nero I-PER
+. O
+
+Diamond B-LOC
+Bar I-LOC
+, I-LOC
+California I-LOC
+
+Mtaguso B-ORG
+wa I-ORG
+kwanza I-ORG
+wa I-ORG
+Konstantinopoli I-ORG
+
+Eneo O
+lake O
+ni O
+148.27 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+62 O
+km² B-ORG
+. O
+
+Khalifa B-PER
+bin I-PER
+Harub I-PER
+( O
+1911–1960 O
+) O
+
+James B-PER
+Badge I-PER
+Dale I-PER
+kama O
+Chase B-PER
+Edmunds I-PER
+
+Wilaya B-LOC
+ya I-LOC
+Lakota I-LOC
+
+Gaziantep B-LOC
+( O
+aggl O
+. O
+) O
+
+Wimbo O
+umetayarishwa O
+na O
+Timbaland B-PER
+. O
+
+Vendée B-LOC
+( O
+85 O
+) O
+
+' O
+'' O
+Austria B-LOC
+'' O
+' O
+
+Muhammad B-PER
+Amour I-PER
+Chomboh I-PER
+
+Wilaya B-LOC
+ya I-LOC
+Busia I-LOC
+, I-LOC
+Uganda I-LOC
+
+Orchestra B-ORG
+Maquis I-ORG
+Original I-ORG
+
+Wilaya B-ORG
+ya I-ORG
+Bouaké I-ORG
+
+' O
+'' O
+Ufaransa B-LOC
+'' O
+' O
+
+Aliyemfuata O
+ni O
+Gebre B-PER
+Krestos I-PER
+. O
+
+Guovdageaidnu B-LOC
+( O
+Kautokeino O
+) O
+
+Eneo O
+lake O
+ni O
+23.8 O
+km² B-ORG
+. O
+
+In B-ORG
+da I-ORG
+Club I-ORG
+
+J. B-PER
+M. I-PER
+Coetzee I-PER
+
+Providence B-LOC
+, I-LOC
+Rhode I-LOC
+Island I-LOC
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Tralee B-LOC
+. O
+
+Pia O
+kuna O
+wasemaji O
+nchini O
+Nigeria B-LOC
+na O
+Marekani B-LOC
+. O
+
+' O
+'' O
+Majorian B-PER
+'' O
+' O
+
+Eneo O
+lake O
+ni O
+12.53 O
+km² B-ORG
+. O
+
+' O
+'' O
+Värmdö O
+'' O
+' O
+ni O
+manispaa O
+nchini O
+Uswidi B-LOC
+. O
+
+' O
+'' O
+Masaka B-LOC
+'' O
+' O
+
+Alimfuata O
+kaka O
+yake O
+, O
+Claudius B-PER
+II I-PER
+. O
+
+John B-PER
+Field I-PER
+( I-PER
+composer I-PER
+) I-PER
+
+Eneo O
+lake O
+ni O
+76 O
+km² B-ORG
+. O
+
+Norbert B-PER
+wa I-PER
+Xanten I-PER
+
+Eneo O
+lake O
+ni O
+43.0 O
+km² B-ORG
+. O
+
+Nikolasi B-PER
+Saggio I-PER
+wa I-PER
+Longobardi I-PER
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+39117 O
+. O
+
+' O
+'' O
+Jeddah B-LOC
+'' O
+' O
+
+Eneo O
+lake O
+ni O
+11.3 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+63343 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+191.30 O
+km² B-ORG
+. O
+
+Wilaya B-ORG
+ya I-ORG
+Bongouanou I-ORG
+
+Allen B-LOC
+Park I-LOC
+, I-LOC
+Michigan I-LOC
+
+Eneo O
+lake O
+ni O
+196.0 O
+km² B-ORG
+. O
+
+Kiefer B-PER
+Sutherland I-PER
+kama O
+Jack B-PER
+Bauer I-PER
+
+Huyu O
+ndiye O
+aliyemshauri O
+Wayne B-PER
+Palmer I-PER
+kugombea O
+Urais O
+. O
+
+Ni O
+nchi O
+yenye O
+watu O
+wengi O
+katika O
+Ulaya B-LOC
+, O
+isipokuwa O
+Urusi B-LOC
+ina O
+watu O
+zaidi O
+. O
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Toyama B-LOC
+( O
+富山市 O
+) O
+. O
+
+Xander B-PER
+Berkeley I-PER
+kama O
+George B-PER
+Mason I-PER
+
+Jakaya B-PER
+Kikwete I-PER
+2006 O
+- O
+hadi O
+sasa O
+
+Richard B-PER
+Steven I-PER
+Horvitz I-PER
+
+Franco B-PER
+Luambo I-PER
+Makiadi I-PER
+
+Papa B-PER
+Benedikto I-PER
+XV I-PER
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+33518 O
+. O
+
+Kasanga B-LOC
+( I-LOC
+Ufipa I-LOC
+) I-LOC
+
+Harare B-LOC
+( O
+mji O
+) O
+, O
+
+Pia O
+kuna O
+wasemaji O
+wachache O
+nchini O
+Jamhuri B-LOC
+ya I-LOC
+Kongo I-LOC
+na O
+Nigeria B-LOC
+. O
+
+Alimfuata O
+Papa B-PER
+Pelagio I-PER
+I I-PER
+akafuatwa O
+na O
+Papa B-PER
+Benedikto I-PER
+I I-PER
+. O
+
+Sasa O
+ameolewa O
+na O
+Mbongeni B-PER
+Ngema I-PER
+. O
+
+( O
+Ufalme B-LOC
+wa I-LOC
+Muungano I-LOC
+) O
+
+Loyal B-ORG
+to I-ORG
+the I-ORG
+Game I-ORG
+'' O
+
+Chama B-ORG
+cha I-ORG
+Wananchi I-ORG
+
+Elisha B-PER
+Cuthbert I-PER
+kama O
+Kim B-PER
+Bauer I-PER
+
+Eneo O
+lake O
+ni O
+8.8 O
+km² B-ORG
+. O
+
+Wilaya B-ORG
+ya I-ORG
+Guitry I-ORG
+
+Jamhuri B-LOC
+ya I-LOC
+Afrika I-LOC
+ya I-LOC
+Kati I-LOC
+
+Mji B-LOC
+mkuu I-LOC
+ni O
+Kyoto B-LOC
+( O
+京都市 O
+) O
+. O
+
+Var B-LOC
+( O
+83 O
+) O
+
+Eneo O
+lake O
+ni O
+36 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+5.9 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+9.3 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+81 O
+km² B-ORG
+. O
+
+Rukwa B-LOC
+( I-LOC
+ziwa I-LOC
+) I-LOC
+
+Teresa B-PER
+wa I-PER
+Yesu I-PER
+
+' O
+'' O
+Didius B-PER
+Julianus I-PER
+'' O
+' O
+
+'' O
+Interview O
+with O
+Westlife B-ORG
+'' O
+
+Kanisa B-ORG
+Katoliki I-ORG
+la I-ORG
+Kisiria I-ORG
+la I-ORG
+Malabar I-ORG
+
+Alliance B-ORG
+for I-ORG
+Change I-ORG
+and I-ORG
+Transparency I-ORG
+
+Eneo O
+lake O
+ni O
+477.7 O
+km² B-ORG
+. O
+
+Orodha B-ORG
+ya I-ORG
+Wafalme I-ORG
+wa I-ORG
+Uswazi I-ORG
+
+Alimfuata O
+Papa B-PER
+Adrian I-PER
+VI I-PER
+akafuatwa O
+na O
+Papa B-PER
+Paulo I-PER
+III I-PER
+. O
+
+Eneo O
+lake O
+ni O
+3.4 O
+km² B-ORG
+. O
+
+Papa B-PER
+Agapeto I-PER
+II I-PER
+
+Eneo O
+lake O
+ni O
+131.27 O
+km² B-ORG
+. O
+
+Wim B-PER
+Kok I-PER
+( O
+1938– O
+) O
+
+Aliigiza O
+pamoja O
+na O
+Robert B-PER
+De I-PER
+Niro I-PER
+
+Uneo O
+lake O
+ni O
+189.9 O
+km² B-ORG
+. O
+
+Aniceti B-PER
+Kitereza I-PER
+( O
+1896-1981 O
+) O
+
+Me B-ORG
+Against I-ORG
+the I-ORG
+World I-ORG
+'' O
+
+Franz B-PER
+Beckenbauer I-PER
+( O
+1993-1994 O
+) O
+
+Puerto B-LOC
+Vallarta I-LOC
+, I-LOC
+Jalisco I-LOC
+
+Eneo O
+lake O
+ni O
+10.6 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+55 O
+km² B-ORG
+. O
+
+Eneo O
+lake O
+ni O
+74 O
+km² B-ORG
+. O
+
+Uruapan B-LOC
+( O
+238,975 O
+) O
+
+Hiki O
+ni O
+kisiwa O
+kikubwa O
+kabisa O
+cha O
+Mkoa B-LOC
+wa I-LOC
+Nagasaki I-LOC
+. O
+
+Alimfuata O
+Papa B-PER
+Sergio I-PER
+II I-PER
+akafuatwa O
+na O
+Papa B-PER
+Benedikto I-PER
+III I-PER
+. O
+
+Kikanisa O
+linahusiana O
+na O
+Jimbo B-ORG
+Kuu I-ORG
+la I-ORG
+Tororo I-ORG
+. O
+
+Warren B-PER
+G. I-PER
+Harding I-PER
+
+Martin B-PER
+Luther I-PER
+King I-PER
+, I-PER
+Jr I-PER
+. I-PER
+
+Halifax B-LOC
+, I-LOC
+Nova I-LOC
+Scotia I-LOC
+
+Orodha B-ORG
+ya I-ORG
+Mawaziri I-ORG
+Wakuu I-ORG
+wa I-ORG
+Ubelgiji I-ORG
+
+Pia O
+kulikuwa O
+na O
+remix O
+nyingine O
+imemshirikisha O
+Trey B-PER
+Songz I-PER
+. O
+
+`` O
+Unconditional B-ORG
+Love I-ORG
+'' O
+
+Tanganyika B-ORG
+African I-ORG
+National I-ORG
+Union I-ORG
+
+Wilaya B-ORG
+ya I-ORG
+Botro I-ORG
+
+Chuo B-ORG
+Kikuu I-ORG
+cha I-ORG
+Bahia I-ORG
+
+Mwakikagile B-PER
+, I-PER
+Godfrey I-PER
+( O
+2001 O
+) O
+. O
+
+Yohane B-PER
+Baptista I-PER
+de I-PER
+La I-PER
+Salle I-PER
+
+Klemens B-PER
+wa I-PER
+Aleksandria I-PER
+
+Wilaya B-LOC
+ya I-LOC
+Uasin I-LOC
+Gishu I-LOC
+
+30px]] O
+Visiwa B-LOC
+vya I-LOC
+Faroe I-LOC
+( O
+Denmark B-LOC
+) O
+
+Lakini O
+chama O
+kikubwa O
+cha O
+ANC B-ORG
+haikukubali O
+na O
+mipango O
+ilishindikana O
+. O
+
+Alifuatwa O
+na O
+Ali B-PER
+Kafi I-PER
+. O
+
+William B-PER
+I I-PER
+wa I-PER
+Uingereza I-PER
+
+Bulawayo B-LOC
+( O
+mji O
+) O
+, O
+
+Eneo O
+lake O
+ni O
+86 O
+km² B-ORG
+. O
+
+Queen B-ORG
+of I-ORG
+My I-ORG
+Heart I-ORG
+
+Jimbo B-LOC
+ya I-LOC
+Tizi I-LOC
+Ouzou I-LOC
+( I-LOC
+Aljeria I-LOC
+) I-LOC
+
+Eneo O
+lake O
+ni O
+592.82 O
+km² B-ORG
+. O
+
+Eneo B-LOC
+la I-LOC
+ng'ambo I-LOC
+la I-LOC
+Ufaransa I-LOC
+
+San B-LOC
+Clemente I-LOC
+, I-LOC
+California I-LOC
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+33619 O
+. O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+30121 O
+. O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+30401 O
+. O
+
+Ignas B-PER
+wa I-PER
+Laconi I-PER
+
+' O
+'' O
+Hoima B-LOC
+'' O
+' O
+
+Ugonjwa B-ORG
+wa I-ORG
+kuambukiza I-ORG
+
+Jimbo B-ORG
+la I-ORG
+Uchaguzi I-ORG
+la I-ORG
+Ikolomani I-ORG
+
+Uajemi B-LOC
+( O
+Tehran B-LOC
+) O
+( O
+AS O
+) O
+
+' O
+'' O
+Pertinax B-PER
+'' O
+' O
+
+Seal B-LOC
+Beach I-LOC
+, I-LOC
+California I-LOC
+
+Bonaventura B-PER
+wa I-PER
+Bagnoregio I-PER
+
+Martin B-PER
+Luther I-PER
+King I-PER
+, I-PER
+Jr I-PER
+. I-PER
+
+Teresa B-PER
+wa I-PER
+Mtoto I-PER
+Yesu I-PER
+
+George B-PER
+H. I-PER
+W. I-PER
+Bush I-PER
+
+Kikuyu B-ORG
+( I-ORG
+lugha I-ORG
+) I-ORG
+
+1998 O
+Walter B-PER
+Kohn I-PER
+na O
+John B-PER
+Pople I-PER
+
+Louis B-PER
+Armstrong I-PER
+( O
+1901-1971 O
+) O
+
+Eneo O
+lake O
+ni O
+73 O
+km² B-ORG
+. O
+
+Suisun B-LOC
+City I-LOC
+, I-LOC
+California I-LOC
+
+'' O
+Syria B-LOC
+'' O
+' O
+
+Eneo O
+lake O
+ni O
+4.1 O
+km² B-ORG
+. O
+
+North B-LOC
+Reading I-LOC
+, I-LOC
+Massachusetts I-LOC
+
+Maria B-PER
+Ana I-PER
+wa I-PER
+Yesu I-PER
+
+Maktoum B-PER
+bin I-PER
+Rashid I-PER
+Al I-PER
+Maktoum B-PER
+( O
+1943-2006 O
+) O
+
+Akafuatwa O
+na O
+Papa B-PER
+Pius I-PER
+XII I-PER
+. O
+
+Chuo B-ORG
+Kikuu I-ORG
+cha I-ORG
+Tübingen I-ORG
+
+Shirika B-ORG
+la O
+Afya B-ORG
+Duniani I-ORG
+
+Alimfuata O
+Papa B-PER
+Gregori I-PER
+IV I-PER
+akafuatwa O
+na O
+Papa B-PER
+Leo I-PER
+IV I-PER
+. O
+
+Pierre-Gilles B-PER
+de I-PER
+Gennes I-PER
+
+== O
+Kanda B-LOC
+ya I-LOC
+Aegean I-LOC
+( I-LOC
+Ege I-LOC
+Bölgesi I-LOC
+) I-LOC
+== O
+
+Earth B-ORG
+Song I-ORG
+- O
+6:46 O
+
+' O
+'' O
+'' O
+'' O
+I B-ORG
+Wonder I-ORG
+If I-ORG
+Heaven I-ORG
+Got I-ORG
+a I-ORG
+Ghetto I-ORG
+'' O
+' O
+'' O
+'' O
+
+Wimbo B-PER
+Ulio I-PER
+Bora I-PER
+
+Jacques B-PER
+Paul I-PER
+Migne I-PER
+
+'' O
+Yemen B-LOC
+'' O
+' O
+
+Exit B-ORG
+13 I-ORG
+'' O
+( O
+2008 O
+) O
+
+Kampuni B-ORG
+ya I-ORG
+Kenya I-ORG
+Pipeline I-ORG
+
+Ludwig B-PER
+van I-PER
+Beethoven I-PER
+
+'' O
+Sri B-LOC
+Lanka I-LOC
+'' O
+' O
+
+==Maneno O
+Yatumikayo O
+sana O
+Mtaani O
+hasa O
+Tanzania B-LOC
+
+Alimfuata O
+Papa B-PER
+Agapeto I-PER
+II I-PER
+akafuatwa O
+na O
+Papa B-PER
+Benedikto I-PER
+V I-PER
+. O
+
+William B-PER
+Butler I-PER
+Yeats I-PER
+
+Nikolasi B-PER
+wa I-PER
+Myra I-PER
+
+' O
+'' O
+Kilis B-LOC
+'' O
+' O
+
+Daraja B-ORG
+jipya I-ORG
+la I-ORG
+Ruvu I-ORG
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+33609 O
+. O
+
+Jude B-PER
+Ciccolella I-PER
+kama O
+Mike B-PER
+Novick I-PER
+
+Visiwa B-LOC
+vya I-LOC
+Turks I-LOC
+na I-LOC
+Caicos I-LOC
+
+Alimfuata O
+Papa B-PER
+Klementi I-PER
+I I-PER
+akafuatwa O
+na O
+Papa B-PER
+Alexander I-PER
+I I-PER
+. O
+
+Yosafat B-PER
+wa I-PER
+Polotsk I-PER
+
+Dennis B-PER
+Haysbert I-PER
+kama O
+David B-PER
+Palmer I-PER
+
+Mji B-LOC
+mkuu I-LOC
+wake O
+ni O
+Nampula B-LOC
+. O
+
+Eneo O
+lake O
+ni O
+420,1 O
+km² B-ORG
+. O
+
+Uganda B-LOC
+( O
+2001 O
+) O
+
+When B-ORG
+You I-ORG
+'re I-ORG
+Looking I-ORG
+Like I-ORG
+That I-ORG
+( O
+2000 O
+Remix O
+) O
+
+Ignas B-PER
+wa I-PER
+Antiokia I-PER
+
+Stephen B-PER
+Black I-PER
+( O
+1880-1931 O
+) O
+
+Wilaya B-LOC
+ya I-LOC
+Al I-LOC
+Hudaydah I-LOC
+
+Jimmy B-PER
+Jam I-PER
+na I-PER
+Terry I-PER
+Lewis I-PER
+
+Kucha B-LOC
+wa I-LOC
+Afrika I-LOC
+
+Jimbo B-LOC
+la I-LOC
+Harar I-LOC
+
+Gregory B-PER
+Itzin I-PER
+kama O
+Charles B-PER
+Logan I-PER
+
+Wizara B-ORG
+ya I-ORG
+Viwanda I-ORG
+, I-ORG
+Biashara I-ORG
+na I-ORG
+Masoko I-ORG
+
+Baba O
+yake O
+ni O
+Niels B-PER
+Bohr I-PER
+. O
+
+All B-ORG
+Eyez I-ORG
+on I-ORG
+Me I-ORG
+'' O
+
+Una O
+eneo O
+la O
+km² B-ORG
+53,683.56 O
+. O
+
+Eneo O
+lake O
+ni O
+102 O
+km² B-ORG
+. O
+
+' O
+'' O
+Alexander B-ORG
+Severus I-ORG
+'' O
+' O
+
+' O
+'' O
+Ali B-PER
+Hassan I-PER
+Mwinyi I-PER
+'' O
+' O
+( O
+1925– O
+) O
+
+Skolastika B-PER
+wa I-PER
+Nursia I-PER
+
+Jimbo B-LOC
+la I-LOC
+Schaffhausen I-LOC
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+39411 O
+. O
+
+The B-ORG
+Don I-ORG
+Killuminati I-ORG
+: I-ORG
+The B-ORG
+7 I-ORG
+Day I-ORG
+Theory I-ORG
+
+Eneo O
+lake O
+ni O
+60 O
+km² B-ORG
+. O
+
+`` O
+I B-ORG
+'m I-ORG
+'n I-ORG
+Luv I-ORG
+( I-ORG
+Wit I-ORG
+a I-ORG
+Stripper I-ORG
+) I-ORG
+'' O
+
+' O
+'' O
+Marcus B-PER
+Aurelius I-PER
+'' O
+' O
+
+Msimbo B-LOC
+wa I-LOC
+posta I-LOC
+ni O
+39203 O
+. O
+
+Carlos B-PER
+Bernard I-PER
+kama O
+Tony B-PER
+Almeida I-PER
+
+Yohane B-PER
+Baptista I-PER
+de I-PER
+La I-PER
+Salle I-PER
+
+Hifadhi B-ORG
+ya I-ORG
+Taifa I-ORG
+ya I-ORG
+Tsavo I-ORG
+Magharibi I-ORG
+
+' O
+'' O
+Tiberius B-PER
+'' O
+' O
+
+Shihabdin O
+Chiraghdin O
+et O
+Mathias B-PER
+E. I-PER
+Mnyampala I-PER
+. O
+

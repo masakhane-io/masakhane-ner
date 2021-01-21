@@ -1,0 +1,589 @@
+Ilé-ìgbìmọ̀ B-ORG
+Aṣòfin I-ORG
+Oníbínibí I-ORG
+ilẹ̀ I-ORG
+Nàìjíríà I-ORG
+
+Pópù B-PER
+Adrian I-PER
+1k I-PER
+
+Orílẹ̀-èdè B-LOC
+Olómìnira I-LOC
+Àpapọ̀ I-LOC
+Sófìẹ̀tì I-LOC
+Sósíálístì I-LOC
+Rọ́síà I-LOC
+
+Yunifásítì B-ORG
+ìlú I-ORG
+Benin I-ORG
+
+Àmì B-ORG
+ọ̀pá I-ORG
+àṣẹ I-ORG
+ilẹ̀ I-ORG
+Adygea I-ORG
+
+Henri B-PER
+ilẹ̀ I-PER
+Lúksẹ́mbọ̀rg I-PER
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Bursari I-LOC
+
+Àsìá B-ORG
+ilẹ̀ I-ORG
+Ṣèíhẹ́lẹ́sì I-ORG
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Ibaji I-LOC
+
+Pápá B-ORG
+Eréìdárayá I-ORG
+Ellis I-ORG
+Park I-ORG
+
+Ààrẹ B-ORG
+ilẹ̀ I-ORG
+Ghánà I-ORG
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Oruk-Anam I-LOC
+
+President]] O
+Cristina B-PER
+Fernández I-PER
+de I-PER
+Kirchner I-PER
+
+Pópù B-PER
+Adrian I-PER
+4k I-PER
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Ìlàòrùn I-LOC
+Gwer I-LOC
+
+The B-LOC
+Valley I-LOC
+, I-LOC
+Àngúíllà I-LOC
+
+' O
+'' O
+' O
+'' O
+jẹ́ O
+Fáráò B-PER
+ni O
+Ẹ́gíptì B-LOC
+Ayéijọ́un I-LOC
+. O
+
+John B-PER
+Boyd I-PER
+Orr I-PER
+
+John B-PER
+Carew I-PER
+Eccles I-PER
+
+National B-ORG
+Basketball I-ORG
+League I-ORG
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Tarauni I-LOC
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Gúúsù I-LOC
+Awka I-LOC
+
+Àwọn B-LOC
+Ìpínlẹ̀ I-LOC
+Àṣepapọ̀ I-LOC
+ilẹ̀ I-LOC
+Mikronésíà I-LOC
+
+Pópù B-PER
+Adrian I-PER
+1k I-PER
+
+Ẹgbẹ́ B-ORG
+Olóṣèlúaráìlú I-ORG
+àwọn I-ORG
+Aráàlù I-ORG
+( I-ORG
+Nàìjíríà I-ORG
+) I-ORG
+
+' O
+'' O
+' O
+'' O
+jẹ́ O
+Fáráò B-PER
+ni O
+Ẹ́gíptì B-LOC
+Ayéijọ́un I-LOC
+. O
+
+William B-PER
+D. I-PER
+Coleman I-PER
+
+Ìgbìmọ̀ B-ORG
+Òlímpíkì I-ORG
+Akáríayé I-ORG
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Kware I-LOC
+
+Àwọn B-LOC
+Erékùṣù I-LOC
+Spratly I-LOC
+
+Open B-ORG
+Amẹ́ríkà I-ORG
+2012 I-ORG
+
+Pírámídì B-ORG
+Nínlá I-ORG
+ti I-ORG
+Gísà I-ORG
+
+Caroline B-PER
+Wozniacki I-PER
+( O
+10 O
+) O
+
+' O
+'' O
+' O
+'' O
+jẹ́ O
+Fáráò B-PER
+ni O
+Ẹ́gíptì B-LOC
+Ayéijọ́un I-LOC
+. O
+
+Àgbàjọ B-ORG
+Tòkòwò I-ORG
+àwọn I-ORG
+Orílẹ̀-èdè I-ORG
+Ìwọòrùn I-ORG
+Áfríkà I-ORG
+
+Ilẹ̀ B-LOC
+Ọmọ-ọba I-LOC
+Sealand I-LOC
+
+Yaroslava B-PER
+Shvedova I-PER
+'' O
+( O
+Second O
+round O
+) O
+
+Àgbájọ B-ORG
+Òṣìṣẹ́ I-ORG
+Akáríayé I-ORG
+
+Àwọn B-ORG
+Ilé-iṣẹ́ I-ORG
+Ológun I-ORG
+Nàìjíríà I-ORG
+
+' O
+'' O
+Mohamed B-PER
+Ahmed I-PER
+'' O
+' O
+, O
+Co-Chairman O
+of O
+the O
+Directorate O
+
+Pópù B-PER
+Lucius I-PER
+2k I-PER
+
+Pápá B-ORG
+Eréìdárayá I-ORG
+Free I-ORG
+State I-ORG
+
+Mohammad B-PER
+Reza I-PER
+Pahlavi I-PER
+
+Pópù B-PER
+Benedict I-PER
+3k I-PER
+
+Ilé B-ORG
+Alàgbà I-ORG
+Nàìjíríà I-ORG
+
+San B-LOC
+Jose I-LOC
+, I-LOC
+Kalifọ́rníà I-LOC
+
+Ìwọ̀n B-ORG
+Ẹyọ I-ORG
+Akáríayé I-ORG
+SI I-ORG
+
+Pópù B-PER
+Benedict I-PER
+9k I-PER
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Bukkuyum I-LOC
+
+Anwar B-PER
+El I-PER
+Sadat I-PER
+
+Dadra B-LOC
+àti I-LOC
+Nagar I-LOC
+Haveli I-LOC
+
+Mọ́ṣálásí B-ORG
+Olókìkí I-ORG
+Djenné I-ORG
+
+Àwọn B-LOC
+Ìpínlẹ̀ I-LOC
+Nàìjíríà I-LOC
+
+Pópù B-PER
+Gregory I-PER
+6k I-PER
+
+Ìgbìmọ̀ B-ORG
+Agbógunti I-ORG
+Ìwàọ̀daràn I-ORG
+Òkòwó I-ORG
+àti I-ORG
+Ìnáwó I-ORG
+
+Nassau B-LOC
+, I-LOC
+Àwọn I-LOC
+Bàhámà I-LOC
+
+Acting O
+Prime O
+Minister]] O
+Frank B-PER
+Bainimarama I-PER
+
+Ààrẹ B-ORG
+ilẹ̀ I-ORG
+Kóstá I-ORG
+Rikà I-ORG
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Gabasawa I-LOC
+
+' O
+'' O
+' O
+'' O
+je O
+ìlú O
+ní O
+Nàìjíríà B-LOC
+. O
+
+Àkójọ B-ORG
+àwọn I-ORG
+olórí I-ORG
+orílẹ̀-èdè I-ORG
+ilẹ̀ I-ORG
+Benin I-ORG
+
+Pópù B-PER
+Adeodatus I-PER
+2k I-PER
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Akoko-Ẹdó I-LOC
+
+Pópù B-PER
+Damasus I-PER
+2k I-PER
+
+Ibi B-ORG
+Ọ̀ṣọ́ I-ORG
+Àgbáyé I-ORG
+
+Pópù B-PER
+Leo I-PER
+6k I-PER
+
+Action B-ORG
+Congress I-ORG
+of I-ORG
+Nigeria I-ORG
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Ola I-LOC
+Oluwa I-LOC
+
+Charles B-PER
+9k I-PER
+ilẹ̀ I-PER
+Fránsì I-PER
+
+Ìrìnkánkán B-ORG
+àwọn I-ORG
+Ẹ̀tọ́ I-ORG
+Aráàlú I-ORG
+ọmọ I-ORG
+Áfríkà I-ORG
+Amẹ́ríkà I-ORG
+( I-ORG
+1955–1968 I-ORG
+) I-ORG
+
+' O
+'' O
+' O
+'' O
+jẹ́ O
+Fáráò B-PER
+ni O
+Ẹ́gíptì B-LOC
+Ayéijọ́un I-LOC
+. O
+
+Yunifásítì B-ORG
+Ọbáfẹ́mi I-ORG
+Awólọ́wọ̀ I-ORG
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Udi I-LOC
+
+Àgbájọ B-ORG
+Òṣìṣẹ́ I-ORG
+Akáríayé I-ORG
+
+Eugenie B-PER
+Bouchard I-PER
+'' O
+( O
+Final O
+) O
+'' O
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Oriade I-LOC
+
+' O
+'' O
+' O
+'' O
+je O
+apa B-LOC
+kan O
+ninu O
+33 O
+ni O
+orile-ede O
+Kòlómbìà B-LOC
+. O
+
+Pópù B-PER
+Lucius I-PER
+3k I-PER
+
+Pópù B-PER
+Honorius I-PER
+4k I-PER
+
+Nọ́mbà B-ORG
+tẹlifónù I-ORG
+ní I-ORG
+Nàìjíríà I-ORG
+
+Pópù B-PER
+Leo I-PER
+5k I-PER
+
+Pópù B-PER
+Stephen I-PER
+7k I-PER
+
+Àkójọ B-ORG
+àwọn I-ORG
+Ààrẹ I-ORG
+ilẹ̀ I-ORG
+Dómíníkì I-ORG
+Olómìnira I-ORG
+
+Serena B-PER
+Williams I-PER
+is O
+the O
+champion O
+; O
+others O
+show O
+the O
+round O
+in O
+which O
+they O
+were O
+eliminated O
+. O
+
+' O
+'' O
+Johnson B-PER
+Aguiyi-Ironsi I-PER
+'' O
+' O
+
+' O
+'' O
+Caroline B-PER
+Wozniacki I-PER
+'' O
+' O
+
+Agbègbè B-LOC
+Ìjọba I-LOC
+Ìbílẹ̀ I-LOC
+Gúúsù I-LOC
+Igbo-Eze I-LOC
+
+Consists O
+of O
+Svalbard B-LOC
+and O
+Jan B-LOC
+Mayen I-LOC
+
+Akwa B-ORG
+Ibom I-ORG
+State I-ORG
+University I-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology I-ORG
+
+Upper B-ORG
+Volta I-ORG
+Fránsì I-ORG
+
+Charles B-PER
+4k I-PER
+ilẹ̀ I-PER
+Fránsì I-PER
+
+' O
+'' O
+' O
+'' O
+je O
+ìlú O
+ní O
+Nàìjíríà B-LOC
+. O
+
+Agbègbè B-ORG
+Ìjọba I-ORG
+Ìbílẹ̀ I-ORG
+Eleme I-ORG
+
+Billie B-PER
+Jean I-PER
+King I-PER
+'' O
+( O
+Runner-up O
+) O
+'' O
+
+Agbègbè B-ORG
+Ìjọba I-ORG
+Ìbílẹ̀ I-ORG
+Àríwá I-ORG
+Aba I-ORG
+
+' O
+'' O
+' O
+'' O
+ni O
+Kánsílọ̀ B-LOC
+orile-ede O
+Jẹ́mánì B-LOC
+tele O
+. O
+
+' O
+'' O
+' O
+'' O
+je O
+ìlú O
+ní O
+Nàìjíríà B-LOC
+. O
+
+Saint B-ORG
+Helena I-ORG
+, I-ORG
+Ascension I-ORG
+àti I-ORG
+Tristan I-ORG
+da I-ORG
+Cunha I-ORG
+
+Sérbíà B-ORG
+àti I-ORG
+Montenégrò I-ORG
+
+Jẹ́ọ́gráfì B-ORG
+ilẹ̀ I-ORG
+Kòmórò I-ORG
+

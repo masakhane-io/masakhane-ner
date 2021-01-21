@@ -1,0 +1,722 @@
+ግድም O
+- O
+«የማሪና O
+አሹር B-LOC
+ንጉሥ» O
+ተባለ፤ O
+ከርሱ O
+በኋላ O
+ግን O
+አሦር B-LOC
+ነጻ O
+ሆነ። O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+ራፋኤል B-PER
+ማርኬዝ I-PER
+( O
+አምበል O
+) O
+
+ንግሥት B-PER
+ኤልሣቤጥ I-PER
+( I-PER
+ዳግማዊት I-PER
+) I-PER
+
+ፍጅት O
+ተይዘው O
+ወደ O
+ሶማሌ B-LOC
+ደናኔ O
+ተግዘው O
+ለሦስት O
+ዓመታት O
+ታስረዋል። O
+ከነጻነትም O
+መልስ O
+አገራቸውን O
+በተለያዩ O
+የኃላፊነት O
+ደረጃዎች O
+አገልግለዋል። O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+ሚሸል B-PER
+ደ I-PER
+ሞንታኝ I-PER
+
+ድረስ O
+ያህል O
+አሦር B-LOC
+ንጉሥ O
+ነበረ። O
+
+- O
+3 B-PER
+አመነምሃት I-PER
+ለብቻ O
+በግብጽ O
+ነገሠ። O
+
+ኤኖክ O
+ሞሌፌ O
+( O
+ደቡብ B-ORG
+አፍሪካ I-ORG
+) O
+
+ሐረር B-LOC
+ልዑል B-PER
+ራስ I-PER
+መኮንን I-PER
+ሐውልት O
+
+ኃይለ B-PER
+መለኮት I-PER
+ሣህለ I-PER
+ሥላሴ I-PER
+
+የአፍሪቃ B-ORG
+አንድነት I-ORG
+ድርጅት I-ORG
+
+የሱመራውያን B-PER
+ነገሥታት I-PER
+ዝርዝር I-PER
+
+ህያርባስ B-PER
+- O
+2162-2151 O
+ዓክልበ O
+. O
+
+' O
+'' O
+አማርኛ B-LOC
+'' O
+' O
+'' O
+፦ O
+
+ሙ O
+ዩሺን O
+( O
+ቻይና B-ORG
+) O
+
+ሰኸምካሬ B-PER
+ሶንበፍ I-PER
+1816-1812 O
+ዓክልበ O
+. O
+
+ራፋኤል B-PER
+ማርኬዝ I-PER
+( O
+አምበል O
+) O
+
+የጣልያን B-ORG
+እግር I-ORG
+ኳስ I-ORG
+ፌዴሬሽን I-ORG
+
+ዮርዳኖስ B-LOC
+( O
+ሱኒ O
+) O
+
+የደቡብ B-ORG
+አፍሪካ I-ORG
+ብሔራዊ I-ORG
+እግር I-ORG
+ኳስ I-ORG
+ቡድን I-ORG
+
+- O
+ሸሺ B-PER
+መዓይብሬ I-PER
+በጌሤም O
+ነገሠ። O
+
+ቶጎ B-LOC
+( O
+የ7 O
+ቀን O
+`` O
+`` O
+) O
+
+በራይሆልት O
+አስተሳሰብ፣ O
+የሆተፒብሬ O
+ተከታይ O
+ዩፍኒ B-PER
+ሲሆን O
+ይህ O
+ምናልባት O
+ወንድሙ O
+ወይም O
+አጎቱ O
+ይሆናል። O
+
+ድረስ O
+ማንችስተር B-ORG
+ዩናይትድ I-ORG
+በግብ O
+ጠባቂነት O
+ተጫውቷል። O
+
+ኤኖክ O
+ሞሌፌ O
+( O
+ደቡብ B-ORG
+አፍሪካ I-ORG
+) O
+
+የኢትዮጵያ B-ORG
+ፕሪሚየር I-ORG
+ሊግ I-ORG
+
+' O
+'' O
+ሌፕቶስፓይሮሲስ O
+'' O
+' O
+( O
+' O
+'' O
+የመስክ O
+ትኩሳት O
+' O
+'' O
+በመባል O
+ይታወቃል፤ O
+ህመሙ O
+በሰዎች O
+ላይ O
+ወደ O
+ቢጫ B-ORG
+ከተቀየረ፣ O
+[[የኩላሊት O
+
+ባካዲር O
+ኮችካሮቭ O
+( O
+ኪርጊዝስታን B-LOC
+) O
+
+- O
+ሲን-ኤሪባም B-PER
+ንጉሥ O
+የሆነበት O
+አመት» O
+
+ረኔ B-PER
+ኮቲ I-PER
+( O
+1946-1951 O
+) O
+
+ፓትሪሲዮ O
+ባሱዋልቶ O
+( O
+ቺሌ B-ORG
+) O
+
+ፖል B-PER
+ኒኮላስ I-PER
+አጊላር I-PER
+
+' O
+'' O
+ፋሮኛ O
+'' O
+' O
+( O
+' O
+'' O
+føroyskt O
+'' O
+' O
+/ O
+ፌርስት O
+/ O
+) O
+ፋሮ B-LOC
+ደሴቶች I-LOC
+የሚናገር O
+ቋንቋ O
+ነው። O
+
+የዓለም B-ORG
+አቀፍ I-ORG
+እግር I-ORG
+ኳስ I-ORG
+ማኅበር I-ORG
+
+ያቫፓይ B-LOC
+ካውንቲ፥ I-LOC
+አሪዞና I-LOC
+
+ዴንማርክ፣ B-LOC
+አየርላንድና B-LOC
+እንግሊዝ B-LOC
+ወደ O
+አውሮፓ B-ORG
+ህብረት I-ORG
+ተጨመሩ። O
+
+ኅሩይ B-PER
+ወልደሥላሴ I-PER
+( I-PER
+ብላቴን I-PER
+ጌታ I-PER
+) I-PER
+
+ተካሄዷል። O
+በዚህ O
+ምድብ O
+ውስጥ O
+ብራዚል፣ B-LOC
+ፖርቱጋል፣ B-LOC
+ኮት B-LOC
+ዲቯር I-LOC
+እና O
+ሰሜን B-LOC
+ኮርያ I-LOC
+ቡድኖች O
+ነበሩ። O
+
+መብራት B-ORG
+ኃይል I-ORG
+የእግር I-ORG
+ኳስ I-ORG
+ክለብ I-ORG
+
+ኤድዊን B-PER
+ቫን I-PER
+ደር I-PER
+ሳር I-PER
+
+የተባበሩት B-ORG
+መንግሥታት I-ORG
+ድርጅት I-ORG
+
+ወሓካ B-ORG
+ዴ I-ORG
+ዋሬዝ I-ORG
+
+ግን O
+አካድ B-LOC
+ንጉሥ O
+ታላቁ B-PER
+ሳርጎን I-PER
+እብላንም O
+ናጋርንም O
+አጠፋቸው። O
+
+የተፈጥሮ B-LOC
+ሕግጋት I-LOC
+ጥናት I-LOC
+
+==በሚያዝያ O
+ወር O
+ነጻ O
+የወጡ O
+አፍሪቃ B-LOC
+አገራት== O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+' O
+'' O
+' O
+'' O
+አሦር B-LOC
+ከተማ O
+ነበረ። O
+
+አርማን B-PER
+ፋሊዬር I-PER
+( O
+1898-1905 O
+) O
+
+ኬንያ B-LOC
+- O
+ለ3 O
+ወር O
+ያለ O
+ቪሳ O
+መጎብኘት O
+ለኢትዮጵያውያን O
+ይፈቀዳል O
+
+የተፈጥሮ B-LOC
+ሕግጋት I-LOC
+ጥናት I-LOC
+
+አሜሪካዊው B-LOC
+የተንቀሳቃሽ O
+ምስል O
+ባለሙያ O
+ዎልት B-PER
+ዲዝኒ I-PER
+
+ስብሐት B-PER
+ገብረ I-PER
+እግዚአብሔር I-PER
+
+እሽመ-ዳጋን B-PER
+( I-PER
+ኢሲን I-PER
+) I-PER
+- O
+1850-1833 O
+ዓክልበ O
+. O
+
+ቤኪር O
+ሀሳኒ O
+( O
+ቲኒዚያ B-LOC
+) O
+
+አዲስ B-ORG
+ዘመን I-ORG
+( I-ORG
+ጋዜጣ I-ORG
+) I-ORG
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+ፋልክላንድ B-LOC
+ደሴቶች I-LOC
+- O
+500 O
+
+መተሓራ B-ORG
+ስኳር I-ORG
+የእግር I-ORG
+ኳስ I-ORG
+ክለብ I-ORG
+
+ንግሥት B-PER
+ኤልሣቤጥ I-PER
+( I-PER
+ዳግማዊት I-PER
+) I-PER
+
+ማክ B-PER
+ኲል፣ I-PER
+ማክ B-PER
+ኬክት I-PER
+እና O
+ማክ B-PER
+ግሬን I-PER
+
+እና O
+ብዙ O
+ጊዜ O
+ይዘምት O
+ነበር። O
+በተከታዩ O
+አማር-ሲን B-PER
+ጊዜ O
+( O
+1918-1909 O
+ዓክልበ O
+. O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+አሪስ B-ORG
+የእግር I-ORG
+ኳስ I-ORG
+ክለብ I-ORG
+( I-ORG
+ቴሳሎኒኪ I-ORG
+) I-ORG
+
+ዋሂብሬ B-PER
+ኢቢያው I-PER
+1676-1665 O
+ዓክልበ O
+. O
+
+ኤሚል B-PER
+ሉቤ I-PER
+( O
+1891-1898 O
+) O
+
+ዋርነር B-ORG
+ብሮስ I-ORG
+. I-ORG
+
+- O
+እሽመ-ዳጋን B-PER
+በኢሲን O
+ነገሠ። O
+እርሱ O
+ኒፑርን B-LOC
+መለሰው። O
+
+የ2010 B-ORG
+እ.ኤ.አ. I-ORG
+ፊፋ I-ORG
+የዓለም I-ORG
+ዋንጫ I-ORG
+ምድብ I-ORG
+ኢ I-ORG
+
+ሞሮኮ B-LOC
+( O
+ሱኒ O
+) O
+
+ሪፐብሊካን B-ORG
+ፓርቲ I-ORG
+( I-ORG
+አሜሪካ I-ORG
+) I-ORG
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+ሁዋቺፓቶ B-ORG
+ስፖርት I-ORG
+ክለብ I-ORG
+
+ባንግላዴሽ B-LOC
+- O
+በመጋቢት O
+2001ና O
+እንደገና O
+በ2005 O
+ዓ.ም O
+. O
+
+41ኛው O
+ጆርጅ B-PER
+ኤች I-PER
+ቡሽ I-PER
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+- O
+ዳንጉን B-PER
+ዋንገም I-PER
+ጎጆሰን B-ORG
+ነገሠ። O
+
+አርሰናል B-ORG
+የእግር I-ORG
+ኳስ I-ORG
+ክለብ I-ORG
+
+ገዳማ O
+( O
+ጂዮርጂያ B-LOC
+) O
+
+2121 O
+ግ O
+- O
+2 B-PER
+መንቱሆተፕ I-PER
+በግብጽ O
+ነገሠ። O
+
+**** O
+ዔቦር B-PER
+- O
+የሳላ O
+ልጅ። O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+የ2010 B-ORG
+እ.ኤ.አ. I-ORG
+ፊፋ I-ORG
+የዓለም I-ORG
+ዋንጫ I-ORG
+ምድብ I-ORG
+ዲ I-ORG
+
+የሲን-ሙባሊት O
+ተከታይ O
+ልጁ O
+ሃሙራቢ B-PER
+ነበረ። O
+
+ቀዳማዊ B-PER
+ኃይለ I-PER
+ሥላሴ I-PER
+
+==በጥቅምት O
+ወር O
+ነጻ O
+የውጡ O
+አፍሪቃ B-LOC
+አገራት== O
+
+የአፍሪቃ B-ORG
+አንድነት I-ORG
+ድርጅት I-ORG
+የተመሠረተበትን O
+ዕለት O
+በማስታወስ O
+ይህ O
+ዕለት O
+በመላው O
+አፍሪቃ B-LOC
+አኅጉር O
+' O
+'' O
+“የአፍሪቃ O
+ቀን” O
+'' O
+' O
+ተብሎ O
+ይከበራል። O
+
+ቅዱስ B-ORG
+ጊዮርጊስ I-ORG
+የእግር I-ORG
+ኳስ I-ORG
+ቡድን I-ORG
+
+ሴይንት B-LOC
+ህሊና I-LOC
+ደሴት I-LOC
+
+4 B-PER
+አመነምሃት I-PER
+1832-1824 O
+ዓክልበ O
+. O
+
+አንቲጋ B-LOC
+እና I-LOC
+ባርቡዳ I-LOC
+
+የሱሙኤል O
+ተከታይ O
+ኑር-አዳድ B-PER
+ነበረ፤ O
+የኑር-አዳድም O
+አባት O
+ስም O
+አይታወቅም። O
+
+' O
+'' O
+'' O
+የ O
+አየርላንድ B-LOC
+ንጉሥ O
+ነበር። O
+
+' O
+'' O
+ህብስት O
+ጥሩነህ O
+'' O
+' O
+ኢትዮጵያ B-LOC
+ታዋቂ O
+ዘፋኝ O
+ስትሆን O
+ብዙ O
+ዘመናዊ O
+ሙዚቃ B-LOC
+ስራወችን O
+በማቅረብ O
+ትታወቃለች። O
+
+ሪፐብሊካን B-ORG
+ፓርቲ I-ORG
+( I-ORG
+አሜሪካ I-ORG
+) I-ORG
+
+ሊዮኔል B-PER
+ሜሲ I-PER
+( O
+አምበል O
+) O
+
+ማይክ O
+ፒክል O
+( O
+ጀርመን B-ORG
+) O
+

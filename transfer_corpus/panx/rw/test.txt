@@ -1,0 +1,526 @@
+Antipas B-PER
+Mbusa I-PER
+Nyamwisi I-PER
+
+Benjamin B-PER
+Mkapa I-PER
+
+Palawu B-LOC
+
+' O
+'' O
+EAC O
+'' O
+' O
+Umuryango B-ORG
+w’Ibihugu I-ORG
+by’Iburasirazuba I-ORG
+bw’Afurika I-ORG
+( O
+Umuryango O
+w’ibihugu O
+by’Afurika O
+y’iburasirazuba O
+) O
+( O
+''East O
+African O
+Community O
+'' O
+) O
+
+Abishyize B-ORG
+Hamwe I-ORG
+Bashinzwe I-ORG
+Kubungabunga I-ORG
+Isi I-ORG
+
+Singapore B-LOC
+, O
+Buruneyi B-LOC
+
+Umusigiti B-ORG
+wa I-ORG
+Al-Azhar I-ORG
+
+Ubugande B-LOC
+
+' O
+'' O
+CIEL O
+'' O
+' O
+Ikigo B-ORG
+Gishinzwe I-ORG
+Amategeko I-ORG
+Mpuzamahanga I-ORG
+Arengera I-ORG
+Ibidukikije I-ORG
+( O
+''Center O
+for O
+International O
+Environmental O
+Law O
+'' O
+) O
+
+' O
+'' O
+ONU O
+'' O
+' O
+Umuryango B-ORG
+w’Abibumye I-ORG
+
+=== O
+Akarere B-LOC
+ka I-LOC
+Ngoma I-LOC
+=== O
+
+Umusigiti B-ORG
+wa I-ORG
+Sulutani I-ORG
+Suriansyah I-ORG
+
+Patrick B-PER
+Mazimhaka I-PER
+
+Icyugaritike B-ORG
+
+Girne B-LOC
+
+Umusigiti B-ORG
+wa I-ORG
+Sulutani I-ORG
+Qabus I-ORG
+
+William B-PER
+Henry I-PER
+Harrison I-PER
+
+Umugwamporo B-LOC
+
+Igikuyu B-ORG
+
+Umusigiti B-ORG
+w’Abuja I-ORG
+
+Umusigiti B-ORG
+wa I-ORG
+Selimiye I-ORG
+
+' O
+'' O
+Yoweri O
+Kaguta O
+Museveni O
+' O
+'' O
+( O
+1944 O
+) O
+ni O
+Perezida O
+Ubugande B-LOC
+. O
+
+Malita B-LOC
+
+Abülfaz B-PER
+Elçibay I-PER
+
+' O
+'' O
+MSF O
+'' O
+' O
+Abavuzi B-ORG
+Batagira I-ORG
+Umupaka I-ORG
+( O
+''Médecins O
+Sans O
+Frontières O
+'' O
+) O
+
+Mwai B-PER
+Kibaki I-PER
+
+Mehmet B-PER
+Ali I-PER
+Talat I-PER
+
+Intara B-LOC
+y’Amasya I-LOC
+
+: O
+Mu O
+burengerazuba O
+: O
+Akarere O
+ka O
+Çubuk B-LOC
+, O
+Akarere O
+ka O
+Pursaklar B-LOC
+n’Akarere O
+Altındağ B-LOC
+
+Umuryango B-ORG
+w’Abibumye I-ORG
+
+Millard B-ORG
+Fillmore I-ORG
+
+Umubunda B-LOC
+( I-LOC
+casuarina I-LOC
+) I-LOC
+
+Ubusuwisi B-LOC
+
+Yezu B-PER
+Kirisitu I-PER
+
+Ikigega B-ORG
+Mpuzamahanga I-ORG
+cy’Imari I-ORG
+
+: O
+Mu O
+majyepfo O
+: O
+Akarere O
+Ayaş B-LOC
+
+Franklin B-PER
+Delano I-PER
+Roosevelt I-PER
+
+=== O
+Akarere B-LOC
+ka I-LOC
+Gatsibo I-LOC
+=== O
+
+Igikuyu B-ORG
+
+Umusigiti B-ORG
+wa I-ORG
+Al-Rifayi I-ORG
+
+Inteko B-ORG
+Ishinga I-ORG
+Amategeko I-ORG
+y’u I-ORG
+Rwanda I-ORG
+
+Umuceli B-ORG
+
+Koreya B-LOC
+y’Amajyaruguru I-LOC
+
+Mustafa B-PER
+Kemal I-PER
+Atatürk I-PER
+( O
+1881 O
+– O
+1938 O
+) O
+
+' O
+'' O
+WWF O
+'' O
+' O
+Ikigega B-ORG
+Mpuzamahanga I-ORG
+Gishinzwe I-ORG
+Umutungo I-ORG
+Kamere I-ORG
+( O
+''World O
+Wide O
+Fund O
+for O
+Nature O
+'' O
+) O
+
+Tobi B-LOC
+
+Yezu B-PER
+Kirisitu I-PER
+
+Jakaya B-PER
+Kikwete I-PER
+
+Adama B-PER
+Dieng I-PER
+
+Franklin B-PER
+Pierce I-PER
+
+Quett B-PER
+Masire I-PER
+
+Iki O
+giti O
+nacyo O
+ngo O
+ni O
+ubukombe O
+muri O
+Parike O
+itagira O
+uko O
+isa O
+ya O
+Nyungwe B-ORG
+, O
+kivura O
+indwara O
+ebyiri O
+arizo O
+Amibe O
+ndetse O
+n’amarozi O
+. O
+
+Mu O
+w’2000 O
+twashyizeho O
+amahuriro O
+y’ururimi O
+rw’igisilovaki O
+, O
+guhera O
+ubwo O
+twakiriye O
+abanyamuryango O
+bashya O
+baturutse O
+muri O
+Silovakiya O
+no O
+muri O
+Cekiya B-LOC
+. O
+
+Çankaya B-LOC
+
+K. B-PER
+Y. I-PER
+Amoako I-PER
+
+Ububiligi B-LOC
+
+John B-PER
+Adams I-PER
+
+' O
+'' O
+Kanseri B-ORG
+y’ibere O
+'' O
+' O
+cyangwa O
+' O
+'' O
+Kanseri O
+y’amabere O
+'' O
+' O
+
+Yezu B-PER
+Kirisitu I-PER
+
+Benjamin B-PER
+Harrison I-PER
+
+Mamak B-LOC
+
+Yezu B-PER
+Kirisitu I-PER
+
+Nyuma O
+y'ifatwa O
+ry'uyu O
+muhanzi O
+wari O
+uzwi O
+nk'inshuti O
+ikomeye O
+y'ubutegetsi O
+bw'u O
+Rwanda B-LOC
+n'umutoni O
+wa O
+Perezida O
+Paul B-PER
+Kagame I-PER
+, O
+havuzwe O
+byinshi O
+mu O
+itangazamakuru O
+, O
+abantu O
+ku O
+giti O
+cyabo O
+babivuga O
+kwinshi O
+, O
+imiryango O
+mpuzamahanga O
+n'ibihugu O
+bimwe O
+na O
+bimwe O
+bigira O
+icyo O
+bitangaza O
+. O
+
+Zimbabwe B-LOC
+
+Juvénal B-PER
+Habyarimana I-PER
+
+Shipure B-LOC
+
+Jean B-PER
+Minani I-PER
+
+Mutagatifu B-LOC
+Marino I-LOC
+
+Yoweri B-PER
+Museveni I-PER
+
+Adamu B-PER
+
+Ubuki B-ORG
+
+John B-PER
+Kufuor I-PER
+
+Amasya B-LOC
+
+Umusigiti B-ORG
+wa I-ORG
+Sulutani I-ORG
+Ahmad I-ORG
+Shah I-ORG
+
+Diyarbakır B-LOC
+
+Alphonse-Marie B-PER
+Kadege I-PER
+
+Umusigiti B-ORG
+wa I-ORG
+Sulutani I-ORG
+Salahuddin I-ORG
+Abdul I-ORG
+Aziz I-ORG
+Shah I-ORG
+
+Lativiya B-LOC
+
+Théoneste B-PER
+Bagosora I-PER
+
+Daudi B-PER
+Migereko I-PER
+
+' O
+'' O
+CAF O
+'' O
+' O
+Ishyirahamwe B-ORG
+ry’Umupira I-ORG
+w’Amaguru I-ORG
+muri I-ORG
+Afrika I-ORG
+( O
+''Confédération O
+Africaine O
+de O
+Football O
+'' O
+) O
+
+Ishyaka B-ORG
+ry’Iterambere I-ORG
+n’Ubusabane I-ORG
+
+Shili B-LOC
+
+Zachary B-PER
+Taylor I-PER
+
+Ubutaliyani B-LOC
+
+Icyoriya B-ORG
+
+Jean-Marie B-PER
+Guéhenno I-PER
+
+Pariki B-ORG
+ya I-ORG
+Nyungwe I-ORG
+
+Icyosetiya B-ORG
+
+Umusigiti B-ORG
+wa I-ORG
+Sulutani I-ORG
+Abu I-ORG
+Bakar I-ORG
+
+Ho B-LOC
+Chi I-LOC
+Minh I-LOC
+( I-LOC
+umujyi I-LOC
+) I-LOC
+
+Ibirwa B-LOC
+bya I-LOC
+Mariyana I-LOC
+y’Amajyaruguru I-LOC
+
+' O
+'' O
+Paul B-PER
+Kagame I-PER
+'' O
+' O
+
+Umuryango B-ORG
+w’Abibumye I-ORG
+
+Galileo B-PER
+Galilei I-PER
+
+Incuti B-ORG
+z’Isi I-ORG
+
+Yezu B-PER
+Kirisitu I-PER
+
+Guy B-PER
+Verhofstadt I-PER
+
+Ipapaya B-LOC
+
+Nijeriya B-LOC
+

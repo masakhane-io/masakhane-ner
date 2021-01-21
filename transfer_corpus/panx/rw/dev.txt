@@ -1,0 +1,679 @@
+Libiya B-LOC
+
+Adıyaman B-LOC
+
+Leta B-LOC
+Zunze I-LOC
+Ubumwe I-LOC
+z’Amerika I-LOC
+
+Icyarabu B-ORG
+
+Kazakisitani B-LOC
+
+' O
+'' O
+Igitabo B-PER
+cya I-PER
+Yosuwa I-PER
+'' O
+' O
+
+Umuryango B-ORG
+w’Ibihugu I-ORG
+by’Iburasirazuba I-ORG
+bw’Afurika I-ORG
+
+Umusigiti B-ORG
+wa I-ORG
+Selimiye I-ORG
+( I-ORG
+Turukiya I-ORG
+) I-ORG
+
+Ikirunga B-LOC
+cya I-LOC
+Nyamuragira I-LOC
+
+William B-PER
+McKinley I-PER
+
+Mayanimari B-ORG
+
+Umuryango B-ORG
+w’Ubumwe I-ORG
+bw’Ibihugu I-ORG
+by’i I-ORG
+Burayi I-ORG
+
+Ingagi B-LOC
+zo I-LOC
+mu I-LOC
+birunga I-LOC
+
+Umusigiti B-ORG
+wa I-ORG
+Ashaghi I-ORG
+Govhar I-ORG
+aga I-ORG
+
+Akarere B-LOC
+ka I-LOC
+Huye I-LOC
+
+Yezu B-PER
+Kirisitu I-PER
+
+Umurwa B-LOC
+mukuru O
+wa O
+Madagasikari O
+witwa O
+Antananarivo B-LOC
+. O
+
+' O
+'' O
+Igitabo B-ORG
+cy’Abacamanza I-ORG
+'' O
+' O
+
+Kaminuza B-ORG
+nkuru I-ORG
+y’u I-ORG
+Rwanda I-ORG
+
+Umurwa B-LOC
+mukuru O
+wa O
+Zimbabwe O
+witwa O
+Harare B-LOC
+. O
+
+Ikirwa B-LOC
+cya I-LOC
+Bouve I-LOC
+
+' O
+'' O
+Uetersen O
+'' O
+' O
+( O
+ˈyːtɐzən O
+) O
+ni O
+umujyi O
+w'u O
+Ubudage B-LOC
+. O
+
+' O
+'' O
+Kanseri B-ORG
+yo O
+mu O
+mabya O
+'' O
+' O
+ni O
+yo O
+kanseri O
+iboneka O
+cyane O
+mu O
+r’ubyiruko O
+rw’abagabo O
+( O
+bafite O
+imyaka O
+15-35 O
+) O
+. O
+
+Burayi B-LOC
+
+Anne-Marie B-PER
+Lizin I-PER
+
+Afuganisitani B-LOC
+
+Gineya B-LOC
+
+Umukuzanyana B-LOC
+
+Pasteur B-PER
+Bizimungu I-PER
+
+Umusigiti B-ORG
+wa I-ORG
+Al-Abyad I-ORG
+i I-ORG
+Ramla I-ORG
+
+Intobo B-LOC
+
+Nuveli B-LOC
+Zelande I-LOC
+
+Ni O
+ryo O
+rya O
+mbere O
+rigeze O
+muri O
+Afurika O
+y’Iburasirazuba O
+, O
+rikaba O
+ndetse O
+irya O
+3 O
+muri O
+Afurika O
+nzima O
+nyuma O
+ya O
+Gana B-LOC
+na O
+Afurika B-LOC
+y’Epfo I-LOC
+. O
+
+Umusigiti B-ORG
+wa I-ORG
+Sulutani I-ORG
+Abdul I-ORG
+Samad I-ORG
+
+Louis B-PER
+Michel I-PER
+
+Umusigiti B-ORG
+wa I-ORG
+Sultanahmet I-ORG
+
+Ilham B-PER
+Aliyev I-PER
+
+Omar B-PER
+Bongo I-PER
+
+' O
+'' O
+Igitabo B-PER
+cya I-PER
+Rusi I-PER
+'' O
+' O
+
+Ulysses B-PER
+Simpson I-PER
+Grant I-PER
+
+Derviş B-PER
+Eroğlu I-PER
+
+Ibirwa B-ORG
+bya I-ORG
+Norufoluki I-ORG
+
+' O
+'' O
+Curitiba O
+'' O
+' O
+[kuɾi'tʃibɐ] O
+ni O
+umujyi O
+w'u O
+Burezile B-LOC
+. O
+
+: O
+Mu O
+burasirazuba O
+: O
+Akarere O
+ka O
+Mamak B-LOC
+
+Hervé B-PER
+Hasquin I-PER
+
+Ishyirahamwe B-ORG
+ry’Umupira I-ORG
+w’Amaguru I-ORG
+muri I-ORG
+Afrika I-ORG
+
+Umuryango B-ORG
+w’Ubumwe I-ORG
+bw’Ibihugu I-ORG
+by’i I-ORG
+Burayi I-ORG
+
+Emmanuel B-PER
+Kant I-PER
+
+Intara B-LOC
+ya I-LOC
+Batman I-LOC
+
+Adalar B-LOC
+
+Andrew B-PER
+Jackson I-PER
+
+Umuryango B-ORG
+w’Ubukungu I-ORG
+bw’Afurika I-ORG
+yo I-ORG
+Hagati I-ORG
+
+James B-PER
+Madison I-PER
+
+Frank B-PER
+Habineza I-PER
+
+Umusigiti B-ORG
+wa I-ORG
+Shah I-ORG
+
+Mu O
+Kwakira O
+1990 O
+, O
+cyahinduye O
+umurongo O
+gitangira O
+kurwanya O
+Leta O
+yariho O
+ya O
+Perezida O
+Juvénal B-PER
+Habyarimana I-PER
+, O
+mu O
+1991 O
+, O
+ubwo O
+amashyaka O
+menshi O
+yemererwaga O
+gukorera O
+mu O
+gihugu O
+cyahise O
+cyirwanya O
+Leta O
+ku O
+mugaragaro O
+. O
+
+Perezidansi B-ORG
+y’Amerika I-ORG
+
+Boliviya B-LOC
+
+Harry B-PER
+S. I-PER
+Truman I-PER
+
+John B-PER
+Tyler I-PER
+
+Umushubi B-LOC
+
+Icyosetiya B-ORG
+
+Thomas B-PER
+Jefferson I-PER
+
+Icyoriya B-ORG
+
+Ishyaka B-ORG
+FPR-Inkotanyi I-ORG
+
+Namibiya B-LOC
+
+Igikuyu B-ORG
+
+Mongoliya B-LOC
+
+George B-PER
+Washington I-PER
+
+Hilary B-PER
+Benn I-PER
+
+Umurwa O
+mukuru O
+w’u O
+Esipanye O
+witwa O
+Madrid B-LOC
+. O
+
+Nyuma O
+yo O
+kuva O
+kubutegetsi O
+yahise O
+afungwa O
+nyuma O
+yo O
+guhabwa O
+imbabazi O
+na O
+leta O
+y'u O
+Rwanda B-LOC
+iyobowe O
+na O
+perezida O
+Paul B-PER
+Kagame I-PER
+ntawongeye O
+ku O
+menya O
+amakuru O
+ye O
+ubu O
+nitangaza O
+makuru O
+mu O
+Rwanda O
+nta O
+narimwe O
+rigira O
+icyo O
+ri O
+muvugaho O
+yibera O
+iwe O
+igikondo O
+uwazaturusha O
+amakuru O
+kubihereranye O
+nawe O
+yazayatubwira O
+. O
+
+N'ubwo O
+polisi O
+y'u O
+Rwanda O
+yari O
+yabanje O
+kuvuga O
+ko O
+itazi O
+aho O
+uyu O
+muhanzi O
+yari O
+ari O
+mu O
+cyumweru O
+cyabanjirije O
+iyerekanwa O
+rye O
+, O
+urubuga O
+WikiLeaks B-ORG
+ruzwiho O
+kumena O
+amabanga O
+ya O
+za O
+Leta O
+zitandukanye O
+zo O
+ku O
+isi O
+rwavuze O
+ko O
+Kizito O
+Mihigo O
+yari O
+yafashwe O
+tariki O
+ya O
+4 O
+Mata O
+, O
+ni O
+ukuvuga O
+iminsi O
+icumi O
+mbere O
+y'uko O
+polisi O
+imwerekana.. O
+
+Malesiya B-LOC
+
+: O
+Mu O
+burengerazuba O
+: O
+Akarere O
+Akyurt B-LOC
+n’Akarere O
+ka O
+Çubuk B-LOC
+
+Petero B-PER
+Nkurunziza I-PER
+
+Irani B-LOC
+
+Shampiyona B-ORG
+y’ I-ORG
+icyiciro I-ORG
+cya I-ORG
+mbere I-ORG
+mu I-ORG
+mupira I-ORG
+w’amaguru I-ORG
+mu I-ORG
+Rwanda I-ORG
+
+Umusigiti B-ORG
+wa I-ORG
+Ibrahim I-ORG
+al-lbrahim I-ORG
+( I-ORG
+Venezuwela I-ORG
+) I-ORG
+
+' O
+'' O
+Ikawa B-ORG
+ya O
+Maraba O
+'' O
+' O
+
+Intara B-LOC
+ya I-LOC
+Diyarbakır I-LOC
+
+P.S.Imberakuri B-ORG
+
+Umusengesi O
+nacyo O
+ni O
+ikindi O
+giti O
+gifite O
+akamaro O
+kigaragara O
+muri O
+Pariki B-ORG
+ya I-ORG
+Nyungwe I-ORG
+, O
+iki O
+giti O
+kandi O
+kivura O
+amarozi O
+yo O
+mu O
+bwoko O
+butandukanye O
+, O
+kandi O
+ngo O
+kuri O
+ba O
+bandi O
+igifu O
+cyabujije O
+amahwemo O
+babonye O
+umuti O
+wacyo O
+hehe O
+no O
+kongera O
+ku O
+kirwara O
+. O
+
+Jamayika B-LOC
+
+Mutagatifu B-PER
+Pawulo I-PER
+
+Yezu B-PER
+Kirisitu I-PER
+
+Inkima B-LOC
+
+Umurwa B-LOC
+mukuru O
+wa O
+Bahirayini O
+witwa O
+Manama B-LOC
+. O
+
+Osetiya B-ORG
+y’Amajyaruguru I-ORG
+
+Yezu B-PER
+Kirisitu I-PER
+
+Ishyaka B-ORG
+ry’Ukwishyira I-ORG
+Ukizana I-ORG
+
+' O
+'' O
+PL O
+'' O
+' O
+Ishyaka B-ORG
+ry’Ukwishyira I-ORG
+Ukizana I-ORG
+( O
+''Parti O
+libéral O
+'' O
+) O
+
+Ibihugu B-LOC
+by’Amajyepfo I-LOC
+Nyamfaransa I-LOC
+
+Gümüşhane B-LOC
+
+Landoald B-PER
+Ndasingwa I-PER
+
+Umukuru O
+w’igihugu O
+ni O
+Nyakubahwa O
+Perezida O
+Paul B-PER
+Kagame I-PER
+naho O
+Umukuru O
+wa O
+guverinoma O
+Ni O
+Minisitiri O
+w’intebe O
+Anastase O
+Murekezi O
+Guverinoma O
+ishyirwaho O
+na O
+Perezida O
+. O
+
+Incuti B-ORG
+z’Isi I-ORG
+
+Umunazi B-LOC
+
+: O
+Mu O
+burasirazuba O
+: O
+Akarere O
+ka O
+Beypazarı B-LOC
+
+Iki O
+giti O
+ngo O
+kimaze O
+imyaka O
+myinshi O
+cyane O
+muri O
+Pariki B-ORG
+ya I-ORG
+Nyungwe I-ORG
+, O
+ndetse O
+kandi O
+gikungahaye O
+ku O
+buvuzi O
+butangaje O
+kuko O
+kibasha O
+kuvura O
+indwara O
+zitandukanye O
+zirimo O
+; O
+Imitezi O
+, O
+Ubushye O
+, O
+Kuribwa O
+mu O
+ngingo O
+, O
+Ibikomere O
+, O
+Ibisebe O
+, O
+Mburugu O
+n’Uburwayi O
+bwo O
+mu O
+ngingo O
+. O
+

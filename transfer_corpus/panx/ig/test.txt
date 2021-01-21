@@ -1,0 +1,749 @@
+Ndi B-ORG
+ojié I-ORG
+
+Martin B-PER
+Elechi I-PER
+
+' O
+'' O
+Konfúkius B-PER
+'' O
+' O
+( O
+''Confucius O
+'' O
+) O
+, O
+onye O
+bidoro O
+echiche O
+ana-kpo O
+''Confucianism O
+'' O
+a O
+nwete O
+aha O
+''royal O
+title O
+'' O
+Lord O
+Baochengxun O
+Ni O
+, O
+mgbe O
+o O
+wuru O
+. O
+
+General O
+' O
+'' O
+Abdulsalami O
+Abubakar O
+'' O
+' O
+, O
+bula O
+onye O
+General O
+ndi O
+Army O
+, O
+bula O
+onye O
+ishi O
+Naigeria B-LOC
+mgbe O
+Sani B-PER
+Abacha I-PER
+wuru O
+. O
+
+' O
+'' O
+Asaá O
+Göttingen O
+'' O
+' O
+( O
+Jeman O
+: O
+' O
+'' O
+Asaá O
+Göttingen O
+'' O
+' O
+) O
+bu O
+mgbe O
+mbu O
+ọtú O
+asaá O
+ndi O
+nkuzi O
+mahadum O
+shí O
+Göttingen B-LOC
+. O
+
+Dika O
+Nupedia O
+, O
+Jimmy B-PER
+Wales I-PER
+bula O
+otu O
+madu O
+bidoro O
+ya O
+, O
+ha O
+na O
+Larry B-PER
+Sanger I-PER
+. O
+
+Akure B-LOC
+
+KÚFÙ O
+Ȯra B-ORG
+Ebonyi I-ORG
+
+Chinụa B-PER
+Achebe I-PER
+
+Oshimiri B-LOC
+Orimiri I-LOC
+
+Obu O
+otu O
+state O
+n'iteghete O
+meka O
+ebe O
+ana-kpo O
+Mba B-ORG
+Mmiri I-ORG
+'' O
+( O
+Niger O
+Delta O
+) O
+'' O
+. O
+
+Jisọs B-PER
+Kraịst I-PER
+
+J. O
+U. O
+Tagbo O
+Nzeako O
+was O
+born O
+on O
+14 O
+Juun O
+1940 O
+in O
+Ȯra B-ORG
+Anambra I-ORG
+'' O
+( O
+Anambra O
+State O
+) O
+'' O
+as O
+one O
+of O
+ten O
+children O
+. O
+
+Screenplè O
+nke O
+Richard B-PER
+Matheson I-PER
+dèrè O
+jèrè O
+akíkó O
+nke O
+ntà O
+Edgar O
+Allan O
+Poe O
+kèrè O
+nke O
+nwere O
+áhà O
+nke O
+kwa O
+. O
+
+' O
+'' O
+Niger O
+State O
+'' O
+' O
+bu O
+state O
+no O
+n'ime O
+Naigeria B-LOC
+. O
+
+Njikota B-LOC
+Obodo I-LOC
+Amerika I-LOC
+
+Olile B-LOC
+anyanwu I-LOC
+Amerika I-LOC
+( O
+''North O
+Amerika O
+'' O
+) O
+
+7 O
+All B-ORG
+Nigeria I-ORG
+People I-ORG
+'s I-ORG
+Party I-ORG
+( O
+ANPP O
+) O
+
+Ezigbo B-ORG
+ulo I-ORG
+uka I-ORG
+Jesu I-ORG
+
+' O
+'' O
+Namibia O
+'' O
+' O
+bu O
+otu O
+obodo O
+no O
+na O
+Afrịka B-LOC
+. O
+
+Antarctica B-LOC
+
+Ȯra B-ORG
+Yobe I-ORG
+
+Asia B-LOC
+
+Njè B-ORG
+Ághá I-ORG
+Jésu I-ORG
+
+KÚFÙ O
+Ȯra B-ORG
+Edo I-ORG
+
+Ndï O
+bekee O
+hapụrụ O
+Naigeria B-LOC
+na O
+1960 O
+, O
+wéé O
+nyehachi O
+ndï O
+ala O
+Naigeria O
+obodo O
+ha O
+. O
+
+Orji B-PER
+Uzor I-PER
+Kalu I-PER
+
+Achike B-PER
+Udenwa I-PER
+
+Sani B-PER
+Abacha I-PER
+
+Russell B-PER
+Crowe I-PER
+
+Muhammadu B-PER
+Buhari I-PER
+
+Uyo B-LOC
+
+KÚFÙ O
+Ȯra B-ORG
+Yobe I-ORG
+
+Jamaikạ B-LOC
+
+Afrịka B-LOC
+
+Chimaroke B-PER
+Nnamani I-PER
+
+Ȯra B-ORG
+Kogi I-ORG
+
+Àláskà B-LOC
+
+29 O
+Mee O
+- O
+Naigeria O
+nwe O
+president B-PER
+. O
+
+Nú B-LOC
+Mézíkọ I-LOC
+
+People B-ORG
+'s I-ORG
+Democratic I-ORG
+Party I-ORG
+
+Goodluck B-PER
+Jonathan I-PER
+
+Mba B-ORG
+Mmiri I-ORG
+
+Atiku B-PER
+Abubakar I-PER
+bu O
+onye O
+wo O
+. O
+
+KÚFÙ O
+Ábu B-LOC
+
+Nwanne B-ORG
+
+Olusegun B-PER
+Obasanjo I-PER
+
+Ernest B-PER
+Shonekan I-PER
+
+Guinea B-LOC
+
+Ȯra B-ORG
+Akwa I-ORG
+Ibom I-ORG
+
+Chinụa B-PER
+Achebe I-PER
+
+' O
+'' O
+Chukwuemeka O
+Odumegwu O
+Ojukwụ O
+'' O
+' O
+, O
+''Ikemba O
+Nnewi O
+'' O
+, O
+onye O
+amụrụ O
+n'afọ O
+( O
+4.11.1933 O
+) O
+bụ O
+onye O
+ndụ O
+Bịafra B-ORG
+sịte O
+n'afọ O
+( O
+1967–1970 O
+) O
+. O
+
+' O
+'' O
+Democratic O
+Republic O
+of O
+the O
+Congo O
+'' O
+' O
+bu O
+otu O
+obodo O
+no O
+na O
+Afrịka B-LOC
+. O
+
+Ȯra B-ORG
+Edo I-ORG
+, O
+7 O
+. O
+
+' O
+'' O
+Poland O
+'' O
+' O
+, O
+nke O
+ana O
+kpokwaa O
+' O
+'' O
+Ochíchìíwú O
+Poland O
+'' O
+' O
+, O
+bụ O
+otu O
+obodo O
+ndi O
+ocha O
+no O
+n'etiti O
+obodo-ukwu O
+nwo O
+, O
+nke O
+Obodo B-LOC
+Békè I-LOC
+. O
+
+Òrìmìlì B-LOC
+India I-LOC
+
+Olusegun B-PER
+Obasanjo I-PER
+
+KÚFÙ O
+Ȯra B-ORG
+Nasarawa I-ORG
+
+KÚFÙ O
+Òbòdò B-LOC
+àgwè I-LOC
+
+Kúfù O
+30 B-LOC
+Mee I-LOC
+
+Sani B-PER
+Abacha I-PER
+
+' O
+'' O
+Botswana O
+'' O
+' O
+bu O
+otu O
+obodo O
+no O
+na O
+Afrịka B-LOC
+. O
+
+Ya O
+na O
+Umaru B-PER
+Yar'Adua I-PER
+bu O
+ndi O
+People B-ORG
+'s I-ORG
+Democratic I-ORG
+Party I-ORG
+. O
+
+Ȯra B-ORG
+Jigawa I-ORG
+
+Ȯra B-LOC
+Kaduna I-LOC
+
+N'ala O
+ukwu O
+Afrịka B-LOC
+nile O
+, O
+ha O
+bi O
+wo O
+na O
+ala O
+ana-kpo O
+Sudan B-LOC
+, O
+n'ebe O
+ana-kpo O
+Chad B-LOC
+nke O
+nnuku O
+. O
+
+KÚFÙ O
+Ȯra B-ORG
+Kebbi I-ORG
+
+All B-ORG
+Progressives I-ORG
+Grand I-ORG
+Alliance I-ORG
+
+Ȯra B-ORG
+Zamfara I-ORG
+
+Obama-Biden O
+Obama-Biden B-PER
+supporter O
+during O
+San O
+Francisco O
+LoveFest O
+2008 O
+. O
+
+Njikota B-LOC
+Obodo I-LOC
+Amerika I-LOC
+
+Ndi B-ORG
+Afrika I-ORG
+nke I-ORG
+Amerika I-ORG
+
+Dziecinów B-LOC
+( I-LOC
+no I-LOC
+na I-LOC
+Otwock I-LOC
+County I-LOC
+) I-LOC
+
+Afrịka B-LOC
+
+' O
+'' O
+Ȯra O
+Lagos O
+'' O
+' O
+'' O
+( O
+Lagos O
+State O
+) O
+'' O
+bu O
+state O
+no O
+n'ime O
+Naigeria B-LOC
+. O
+
+Ȯra B-ORG
+Anambra I-ORG
+
+Obamafamily.jpg|thumb|The O
+futere O
+First O
+Family O
+waves O
+: O
+Obamafamily B-PER
+2007 O
+. O
+
+Chinụa B-PER
+Achebe I-PER
+
+Olusegun B-PER
+Obasanjo I-PER
+
+Lokoja O
+di O
+na O
+ebe O
+ndida O
+Nigeria O
+na O
+Ȯra B-ORG
+Kogi I-ORG
+( O
+''Kogi O
+State O
+'' O
+) O
+( O
+) O
+. O
+
+All B-ORG
+Progressives I-ORG
+Grand I-ORG
+Alliance I-ORG
+( O
+APGA O
+) O
+
+Jisọs B-PER
+Kraịst I-PER
+
+N'ime O
+aro O
+1999 O
+, O
+emekwara O
+ya O
+onye O
+isi O
+ochi-agha O
+nke O
+Katsina O
+State O
+site O
+na O
+itu-aka O
+nke O
+oritere O
+na O
+People B-ORG
+'s I-ORG
+Democratic I-ORG
+Party I-ORG
+( O
+PDP O
+) O
+. O
+
+Afrịka B-LOC
+
+Abram B-PER
+
+Progressive B-ORG
+Peoples I-ORG
+Alliance I-ORG
+
+Nke O
+ezioku O
+, O
+''naija O
+'' O
+nwere-ike O
+bu O
+otu O
+a O
+ne O
+de O
+, O
+kpo O
+Niger B-LOC
+'' O
+maka O
+otu O
+nde O
+ala-a O
+di O
+kwu O
+okwu O
+. O
+
+Afrịka B-LOC
+
+Ȯra B-ORG
+Akwa I-ORG
+Ibom I-ORG
+, O
+3 O
+. O
+
+Abá B-LOC
+
+Dika O
+Wikipedia O
+, O
+Jimmy B-PER
+Wales I-PER
+bula O
+otu O
+madu O
+bidoro O
+ya O
+, O
+ha O
+na O
+Larry B-PER
+Sanger I-PER
+. O
+
+KÚFÙ O
+Ȯra B-ORG
+Akwa I-ORG
+Ibom I-ORG
+
+' O
+'' O
+Osasco O
+'' O
+' O
+( O
+Osasku O
+) O
+bụ O
+kachasiri O
+city O
+south O
+Brazil B-LOC
+. O
+
+Jimmy B-PER
+Wales I-PER
+
+KÚFÙ O
+Ȯra B-ORG
+Zamfara I-ORG
+
+Kúfù O
+19 B-LOC
+Mee I-LOC
+
+Marcus B-PER
+Garvey I-PER
+
+Ndi B-ORG
+Afrika I-ORG
+nke I-ORG
+Amerika I-ORG
+
+Atiku B-PER
+Abubakar I-PER
+
+People B-ORG
+'s I-ORG
+Democratic I-ORG
+Party I-ORG
+
