@@ -5,7 +5,7 @@
 ----------------
 | Language | Volunteer names |
 |----------|-----------------|
-| Amharic | Seid Muhie, Musie Meressa, Israel Abebe, Degaga Wolde, Henok Tilaye, Dibora Haile  |
+| Amharic | Seid Muhie Yimam, Musie Meressa, Israel Abebe, Degaga Wolde, Henok Tilaye, Dibora Haile  |
 | Hausa  | Shamsudden Muhammad, Tajuddeen Rabiu Gwadabe, Emmanuel Anebi|
 | Igbo  | Ignatius Ezeani, Chris Emezue, Chukwuneke Chiamaka, Nkiru Odu, Amaka, Isaac |
 | Kinyarwanda | Rubungo Andre Niyongabo, Happy Buzaaba |
