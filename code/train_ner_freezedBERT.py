@@ -85,23 +85,6 @@ MODEL_CLASSES = {
 }
 
 
-class NERDataset(Dataset):
-    """
-    All the information for a sentence needed by BERT, i.e.
-    token_id, label_id + token_type, padding, masking, domain_ids
-    """
-
-    def __init__(self, encodings, domain_ids):
-        self.encodings = encodings
-        self.domain_ids = domain_ids
-
-    def __len__(self):
-        return len(self.domain_ids)
-
-    def __getitem__(self, idx):
-        return self.encodings[idx], self.domain_ids[idx]
-
-
 def set_seed(args):
     random.seed(args.seed)
     np.random.seed(args.seed)
@@ -110,13 +93,57 @@ def set_seed(args):
         torch.cuda.manual_seed_all(args.seed)
 
 
-def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
+class Classifier(nn.Module):
+    """Head for sentence-level classification tasks."""
+
+    def __init__(self, num_classes, input_dim=768, hidden_size=64, pooler_dropout=0.3):
+        super(Classifier, self).__init__()
+        # self.dense = nn.Linear(input_dim, inner_dim)
+
+        self.lstm = nn.LSTM(input_size=input_dim,
+                            hidden_size=hidden_size,
+                            num_layers=1,
+                            # dropout = self.config.dropout_keep,
+                            bidirectional=True, batch_first=True)
+
+        self.activation_fn = nn.ReLU()
+        self.dropout = nn.Dropout(p=pooler_dropout)
+        self.out_proj = nn.Linear(hidden_size * 2, num_classes)  # 2*hidden_size because bidirectional is True
+
+    def forward(self, sent_rep):
+        # x = self.dropout(sent_rep)
+        # x = self.dense(x)
+        total_length = sent_rep.size(1)
+        input_lengths = sent_rep.size(0)
+        # print('input length: ', input_lengths)
+        vectorized_seqs = sent_rep.cpu().numpy()
+        input_lengths = LongTensor(list(map(len, vectorized_seqs)))
+        packed_input = pack_padded_sequence(sent_rep, input_lengths.cpu().numpy(), batch_first=True)
+        packed_output, (h_n, c_n) = self.lstm(packed_input)
+        # lstm_out, (h_n, c_n) = self.lstm(sent_rep)
+        output, _ = pad_packed_sequence(packed_output, batch_first=True,
+                                        total_length=total_length)
+        final_feature_map = self.dropout(output)  # shape=(num_layers * num_directions, 64, hidden_size)
+        # final_feature_map = self.dropout(lstm_out)  # shape=(num_layers * num_directions, 64, hidden_size)
+
+        # Convert input to (64, hidden_size * hidden_layers * num_directions) for linear layer
+        # final_feature_map = torch.cat([final_feature_map[i, :, :] for i in range(final_feature_map.shape[0])], dim=1)
+
+        x = self.activation_fn(final_feature_map)
+        x = self.dropout(x)
+        x = self.out_proj(x)  # F.log_softmax(self.out_proj(x), dim=1)
+        return x
+
+
+def train(args, train_dataset, bert_model, model, tokenizer, labels, pad_token_label_id):
     """ Train the model """
     if args.local_rank in [-1, 0]:
         tb_writer = SummaryWriter()
 
+    loss_fct = torch.nn.CrossEntropyLoss()
+
     args.train_batch_size = args.per_gpu_train_batch_size * max(1, args.n_gpu)
-    train_sampler = RandomSampler(train_dataset) if args.local_rank == -1 else DistributedSampler(train_dataset)
+    train_sampler = RandomSampler(train_dataset)
     train_dataloader = DataLoader(train_dataset, sampler=train_sampler, batch_size=args.train_batch_size)
 
     if args.max_steps > 0:
@@ -147,15 +174,6 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
         optimizer.load_state_dict(torch.load(os.path.join(args.model_name_or_path, "optimizer.pt")))
         scheduler.load_state_dict(torch.load(os.path.join(args.model_name_or_path, "scheduler.pt")))
 
-    # multi-gpu training (should be after apex fp16 initialization)
-    if args.n_gpu > 1:
-        model = torch.nn.DataParallel(model)
-
-    # Distributed training (should be after apex fp16 initialization)
-    if args.local_rank != -1:
-        model = torch.nn.parallel.DistributedDataParallel(
-            model, device_ids=[args.local_rank], output_device=args.local_rank, find_unused_parameters=True
-        )
 
     # Train!
     logger.info("***** Running training *****")
@@ -166,7 +184,7 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
         "  Total train batch size (w. parallel, distributed & accumulation) = %d",
         args.train_batch_size
         * args.gradient_accumulation_steps
-        * (torch.distributed.get_world_size() if args.local_rank != -1 else 1),
+        * (1),
     )
     logger.info("  Gradient Accumulation steps = %d", args.gradient_accumulation_steps)
     logger.info("  Total optimization steps = %d", t_total)
@@ -212,11 +230,24 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
                     batch[2] if args.model_type in ["bert", "xlnet"] else None
                 )  # XLM and RoBERTa don"t use segment_ids
 
-            outputs = model(**inputs)
-            loss = outputs[0]  # model outputs are always tuple in pytorch-transformers (see doc)
+            hs = bert_model(inputs["input_ids"], attention_mask=inputs["attention_mask"], output_hidden_states=True)
 
-            if args.n_gpu > 1:
-                loss = loss.mean()  # mean() to average on multi-gpu parallel training
+            avg_emb = 0
+            for layer in range(1, len(hs.hidden_states)):
+                avg_emb += hs.hidden_states[layer]
+
+            avg_emb = torch.div(avg_emb, len(hs.hidden_states)-1)
+            #print(avg_emb.shape, len(hs.hidden_states))
+            #cls_hs = hs[0]
+
+            logits = model(avg_emb)
+            active_loss = inputs["attention_mask"].view(-1) == 1
+            active_logits = logits.view(-1, args.num_labels)
+            active_labels = torch.where(
+                active_loss, inputs["labels"].view(-1), torch.tensor(loss_fct.ignore_index).type_as(inputs["labels"])
+            )
+            loss = loss_fct(active_logits, active_labels)
+
             if args.gradient_accumulation_steps > 1:
                 loss = loss / args.gradient_accumulation_steps
 
@@ -248,13 +279,22 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
                     output_dir = os.path.join(args.output_dir, "checkpoint-{}".format(global_step))
                     if not os.path.exists(output_dir):
                         os.makedirs(output_dir)
+
                     model_to_save = (
                         model.module if hasattr(model, "module") else model
                     )  # Take care of distributed/parallel training
-                    model_to_save.save_pretrained(output_dir)
-                    tokenizer.save_pretrained(output_dir)
 
-                    torch.save(args, os.path.join(output_dir, "training_args.bin"))
+                    bert_model_to_save = (
+                        bert_model.module if hasattr(bert_model, "module") else bert_model
+                    )
+
+                    bert_model_to_save.save_pretrained(args.output_dir)
+                    tokenizer.save_pretrained(args.output_dir)
+
+                    # Good practice: save your training arguments together with the trained model
+                    torch.save(args, os.path.join(args.output_dir, "training_args.bin"))
+                    torch.save(model_to_save.state_dict(), os.path.join(args.output_dir, "bert_lstm.model"))
+
                     logger.info("Saving model checkpoint to %s", output_dir)
 
                     torch.save(optimizer.state_dict(), os.path.join(output_dir, "optimizer.pt"))
@@ -274,8 +314,10 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
     return global_step, tr_loss / global_step
 
 
-def evaluate(args, model, tokenizer, labels, pad_token_label_id, mode, prefix=""):
+def evaluate(args, bert_model, model, tokenizer, labels, pad_token_label_id, mode, prefix=""):
     eval_dataset = load_and_cache_examples(args, tokenizer, labels, pad_token_label_id, mode=mode)
+
+    loss_fct = torch.nn.CrossEntropyLoss()
 
     args.eval_batch_size = args.per_gpu_eval_batch_size * max(1, args.n_gpu)
     # Note that DistributedSampler samples randomly
@@ -304,8 +346,25 @@ def evaluate(args, model, tokenizer, labels, pad_token_label_id, mode, prefix=""
                 inputs["token_type_ids"] = (
                     batch[2] if args.model_type in ["bert", "xlnet"] else None
                 )  # XLM and RoBERTa don"t use segment_ids
-            outputs = model(**inputs)
-            tmp_eval_loss, logits = outputs[:2]
+            #outputs = model(**inputs)
+            #tmp_eval_loss, logits = outputs[:2]
+
+
+            hs = bert_model(inputs["input_ids"], attention_mask=inputs["attention_mask"], output_hidden_states=True)
+
+            avg_emb = 0
+            for layer in range(1, len(hs.hidden_states)):
+                avg_emb += hs.hidden_states[layer]
+
+            avg_emb = torch.div(avg_emb, len(hs.hidden_states) - 1)
+
+            logits = model(avg_emb)
+            active_loss = inputs["attention_mask"].view(-1) == 1
+            active_logits = logits.view(-1, args.num_labels)
+            active_labels = torch.where(
+                active_loss, inputs["labels"].view(-1), torch.tensor(loss_fct.ignore_index).type_as(inputs["labels"])
+            )
+            tmp_eval_loss = loss_fct(active_logits, active_labels)
 
             if args.n_gpu > 1:
                 tmp_eval_loss = tmp_eval_loss.mean()  # mean() to average on multi-gpu parallel evaluating
@@ -397,21 +456,6 @@ def load_and_cache_examples(args, tokenizer, labels, pad_token_label_id, mode):
     all_label_ids = torch.tensor([f.label_ids for f in features], dtype=torch.long)
 
     dataset = TensorDataset(all_input_ids, all_input_mask, all_segment_ids, all_label_ids)
-    return dataset
-
-
-def load_examples(args, mode):
-    '''
-    if args.local_rank not in [-1, 0] and not evaluate:
-        torch.distributed.barrier()  # Make sure only the first process in distributed training process the dataset, and the others will use the cache
-
-    if args.local_rank == 0 and not evaluate:
-        torch.distributed.barrier()
-    '''
-    data = load_npz(args.data_dir + mode + ".npz")
-    data = data.toarray()
-    dataset = NERDataset(data[:, :-1], data[:, -1])
-
     return dataset
 
 
@@ -607,6 +651,7 @@ def main():
     # Prepare CONLL-2003 task
     labels = get_labels(args.labels)
     num_labels = len(labels)
+    args.num_labels = num_labels
     # Use cross entropy ignore index as padding label id so that only real label ids contribute to the loss later
     pad_token_label_id = CrossEntropyLoss().ignore_index
 
@@ -615,30 +660,30 @@ def main():
         torch.distributed.barrier()  # Make sure only the first process in distributed training will download model & vocab
 
     args.model_type = args.model_type.lower()
-    config_class, model_class, tokenizer_class = AutoConfig, AutoModelForTokenClassification, AutoTokenizer #MODEL_CLASSES[args.model_type]
+    config_class, model_class, tokenizer_class = AutoConfig, AutoModel, AutoTokenizer #MODEL_CLASSES[args.model_type]
 
-    config = config_class.from_pretrained(
-        args.config_name if args.config_name else args.model_name_or_path,
-        num_labels=num_labels,
-        id2label={str(i): label for i, label in enumerate(labels)},
-        label2id={label: i for i, label in enumerate(labels)},
-        cache_dir=args.cache_dir if args.cache_dir else None,
-    )
     tokenizer = tokenizer_class.from_pretrained(
         args.tokenizer_name if args.tokenizer_name else args.model_name_or_path,
-        #do_lower_case=args.do_lower_case,
+        # do_lower_case=args.do_lower_case,
         cache_dir=args.cache_dir if args.cache_dir else None,
-        #use_fast=args.use_fast,
+        # use_fast=args.use_fast,
     )
-    model = model_class.from_pretrained(
+    bert_model = model_class.from_pretrained(
         args.model_name_or_path,
-        from_tf=bool(".ckpt" in args.model_name_or_path),
-        config=config,
         cache_dir=args.cache_dir if args.cache_dir else None,
     )
+
+    # freeze all the parameters
+    for param in bert_model.parameters():
+        param.requires_grad = False
 
     if args.local_rank == 0:
         torch.distributed.barrier()  # Make sure only the first process in distributed training will download model & vocab
+
+    bert_model.to(args.device)
+    bert_model.eval()
+
+    model = Classifier(num_classes=num_labels)
 
     model.to(args.device)
 
@@ -648,7 +693,7 @@ def main():
     if args.do_train:
         train_dataset = load_and_cache_examples(args, tokenizer, labels, pad_token_label_id, mode="train")
         #train_dataset = load_examples(args, mode="train")
-        global_step, tr_loss = train(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
+        global_step, tr_loss = train(args, train_dataset, bert_model, model, tokenizer, labels, pad_token_label_id)
         #global_step, tr_loss = train_ner(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
         logger.info(" global_step = %s, average loss = %s", global_step, tr_loss)
 
@@ -674,14 +719,21 @@ def main():
         logger.info("Saving model checkpoint to %s", args.output_dir)
         # Save a trained model, configuration and tokenizer using `save_pretrained()`.
         # They can then be reloaded using `from_pretrained()`
+
         model_to_save = (
             model.module if hasattr(model, "module") else model
         )  # Take care of distributed/parallel training
-        model_to_save.save_pretrained(args.output_dir)
+
+        bert_model_to_save = (
+            bert_model.module if hasattr(bert_model, "module") else bert_model
+        )
+
+        bert_model_to_save.save_pretrained(args.output_dir)
         tokenizer.save_pretrained(args.output_dir)
 
         # Good practice: save your training arguments together with the trained model
         torch.save(args, os.path.join(args.output_dir, "training_args.bin"))
+        torch.save(model_to_save.state_dict(), os.path.join(args.output_dir, "bert_lstm.model"))
 
     # Evaluation
     results = {}
@@ -696,9 +748,11 @@ def main():
         logger.info("Evaluate the following checkpoints: %s", checkpoints)
         for checkpoint in checkpoints:
             global_step = checkpoint.split("-")[-1] if len(checkpoints) > 1 else ""
-            model = model_class.from_pretrained(checkpoint)
-            model.to(args.device)
-            result, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="dev", prefix=global_step)
+
+            bert_model = model_class.from_pretrained(checkpoint)
+            bert_model.to(args.device)
+            model.load_state_dict(torch.load(os.path.join(args.output_dir, "bert_lstm.model")))
+            result, _ = evaluate(args, bert_model, model, tokenizer, labels, pad_token_label_id, mode="dev", prefix=global_step)
             if global_step:
                 result = {"{}_{}".format(global_step, k): v for k, v in result.items()}
             results.update(result)
@@ -709,9 +763,10 @@ def main():
 
     if args.do_predict and args.local_rank in [-1, 0]:
         tokenizer = tokenizer_class.from_pretrained(args.output_dir, do_lower_case=args.do_lower_case)
-        model = model_class.from_pretrained(args.output_dir)
-        model.to(args.device)
-        result, predictions = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="test")
+        bert_model = model_class.from_pretrained(args.output_dir)
+        bert_model.to(args.device)
+        model.load_state_dict(torch.load(os.path.join(args.output_dir, "bert_lstm.model")))
+        result, predictions = evaluate(args, bert_model, model, tokenizer, labels, pad_token_label_id, mode="test")
         # Save results
         output_test_results_file = os.path.join(args.output_dir, args.test_result_file)
         with open(output_test_results_file, "w") as writer:
@@ -745,79 +800,36 @@ if __name__ == "__main__":
 '''
 export MAX_LENGTH=164
 export BERT_MODEL=bert-base-multilingual-cased
-export OUTPUT_DIR=wol_bert
+export OUTPUT_DIR=yo_sample
 export BATCH_SIZE=32
 export NUM_EPOCHS=50
 export SAVE_STEPS=10000
 export SEED=1
 
-CUDA_VISIBLE_DEVICES=2 python3 train_ner.py --data_dir conll_format/wolof/ \
+CUDA_VISIBLE_DEVICES=3 python3 train_ner_freezedBERT.py --data_dir conll_format/yoruba/ \
 --model_type bert \
 --model_name_or_path $BERT_MODEL \
 --output_dir $OUTPUT_DIR \
 --max_seq_length  $MAX_LENGTH \
 --num_train_epochs $NUM_EPOCHS \
 --per_gpu_train_batch_size $BATCH_SIZE \
---save_steps $SAVE_STEPS \
+--save_steps $SAVE_STEPS --learning_rate 5e-4 \
 --seed $SEED \
 --do_train \
 --do_eval \
 --do_predict
 
 
-export MAX_LENGTH=164
-export BERT_MODEL=xlm-roberta-base
-export INPUT_DIR=conll_tranf
-export OUTPUT_DIR=eng_yor100
-export BATCH_SIZE=32
-export NUM_EPOCHS=10
-export SAVE_STEPS=10000
-export SEED=1
-
-CUDA_VISIBLE_DEVICES=2 python3 train_ner.py --data_dir news/yoruba100/ \
---model_type bert \
---model_name_or_path $BERT_MODEL \
---input_dir $INPUT_DIR \
---output_dir $OUTPUT_DIR \
---max_seq_length  $MAX_LENGTH \
---num_train_epochs $NUM_EPOCHS \
---per_gpu_train_batch_size $BATCH_SIZE \
---save_steps $SAVE_STEPS \
---seed $SEED \
---do_finetune \
---do_eval \
---do_predict
-
 
 export MAX_LENGTH=164
 export BERT_MODEL=xlm-roberta-base
-export OUTPUT_DIR=conll_tranf
-export BATCH_SIZE=32
-export NUM_EPOCHS=10
-export SAVE_STEPS=10000
-export SEED=1
-
-CUDA_VISIBLE_DEVICES=3 python3 train_ner.py --data_dir news/igbo/ \
---model_type bert \
---model_name_or_path $BERT_MODEL \
---output_dir $OUTPUT_DIR \
---max_seq_length  $MAX_LENGTH \
---num_train_epochs $NUM_EPOCHS \
---per_gpu_train_batch_size $BATCH_SIZE \
---save_steps $SAVE_STEPS \
---seed $SEED \
---do_predict
-
-
-export MAX_LENGTH=164
-export BERT_MODEL=xlm-roberta-large
-export OUTPUT_DIR=ibo_xlmrlarge
+export OUTPUT_DIR=yo_sample
 export BATCH_SIZE=32
 export NUM_EPOCHS=50
 export SAVE_STEPS=10000
 export SEED=1
 
-CUDA_VISIBLE_DEVICES=0,1,3 python3 train_ner.py --data_dir conll_format/igbo/ \
+CUDA_VISIBLE_DEVICES=3 python3 train_ner_freezedBERT.py --data_dir conll_format/yoruba/ \
 --model_type xlmroberta \
 --model_name_or_path $BERT_MODEL \
 --output_dir $OUTPUT_DIR \
@@ -829,24 +841,5 @@ CUDA_VISIBLE_DEVICES=0,1,3 python3 train_ner.py --data_dir conll_format/igbo/ \
 --do_train \
 --do_eval \
 --do_predict
-
-
-yor
-bert
-f1 = 0.7777286787450287
-xlmr
-f1 = 0.7187916481563749
-
-luo
-bert
-f1 = 0.5938650306748466
-xlmr
-f1 = 0.43446601941747576
-
-igbo
-bert
-
-xlmr
-
 
 '''
