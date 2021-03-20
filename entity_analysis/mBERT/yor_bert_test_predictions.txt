@@ -39,9 +39,9 @@ Gyi I-PER
 ni O
 olùdásílẹ̀ O
 iléeṣẹ́ O
-Àjọ̀dún O
-Eré O
-Ajàfẹ́tọ̀ọ́ O
+Àjọ̀dún B-ORG
+Eré I-ORG
+Ajàfẹ́tọ̀ọ́ I-ORG
 Iyì O
 Ọmọnìyàn O
 àti O
@@ -123,8 +123,8 @@ kàn O
 a O
 tọrọ O
 ìdánilójú O
-ìjọba B-ORG
-Myanmar I-ORG
+ìjọba O
+Myanmar B-LOC
 láti O
 ríi O
 dájú O
@@ -223,7 +223,7 @@ Min B-PER
 Htin I-PER
 Ko I-PER
 Ko I-PER
-Gyi I-PER
+Gyi O
 kọ O
 fún O
 béèlì O
@@ -291,7 +291,7 @@ oṣù B-DATE
 Igbe I-DATE
 tí O
 ó O
-kọjá I-DATE
+kọjá O
 àmọ́ O
 a O
 dá O
@@ -516,8 +516,8 @@ náà O
 wọ́n O
 jẹ́ O
 aṣojú O
-Ilẹ̀ B-LOC
-Ìbílẹ̀ I-LOC
+Ilẹ̀ O
+Ìbílẹ̀ O
 tí O
 ìjọba O
 fọwọ́ O
@@ -619,8 +619,8 @@ tí O
 ń O
 gbé O
 jákèjádò O
-Ilẹ̀ B-LOC
-Ìbílẹ̀ I-LOC
+Ilẹ̀ O
+Ìbílẹ̀ O
 tí O
 fífẹ̀ O
 reluwé O
@@ -689,14 +689,14 @@ pa O
 á O
 láṣẹ O
 fún O
-Ibama B-PER
+Ibama O
 , O
 àjọ O
 ètò O
 àyíká O
 orílẹ̀ O
 èdè O
-Brazili O
+Brazili B-LOC
 , O
 láti O
 ṣíra O
@@ -727,7 +727,7 @@ níyànjú O
 láti O
 mú O
 kí O
-Rumo B-PER
+Rumo B-LOC
 ó O
 san O
 owó O
@@ -887,9 +887,9 @@ Biava I-PER
 ajábọ̀ O
 - O
 ìròyìn O
-ìwé O
-ìròyìn O
-Brasil B-LOC
+ìwé B-ORG
+ìròyìn I-ORG
+Brasil I-ORG
 de O
 Fato O
 fọ̀rọ̀jomitoro O
@@ -902,7 +902,7 @@ tí O
 wà O
 láti O
 agbègbè O
-Guarani O
+Guarani B-LOC
 , O
 sọ O
 wípé O
@@ -942,11 +942,27 @@ náà O
 tí O
 wọ́n O
 ra O
+
 ọ̀kọ̀ọ̀kan O
 - O
 an O
 ní O
-17 B-DATE
+17 O
+owó O
+reais O
+, O
+tí O
+ó O
+tó O
+bíi O
+4 O
+, O
+30 O
+owóo O
+dọ́là O
+US B-LOC
+) O
+. O
 
 Karai O
 tún O
@@ -963,7 +979,7 @@ ti O
 kóbá O
 agbègbèe O
 rẹ̀ O
-Tenondé B-PER
+Tenondé B-LOC
 , O
 tí O
 ó O
@@ -1119,7 +1135,7 @@ báyìí O
 Gẹ́gẹ́ O
 bíi O
 ìròyìn O
-Folha B-ORG
+Folha O
 , O
 ní O
 àkọ́kọ́ O
@@ -1295,7 +1311,7 @@ lórí O
 àmọ́ O
 àwọn O
 aṣojú O
-Rumo B-PER
+Rumo O
 sọ O
 wípé O
 ọ̀rọ̀ O
@@ -1365,7 +1381,7 @@ Alájọpín O
 ìbílẹ̀ O
 Guarani O
 àti O
-Tupi O
+Tupi B-PER
 nìkan O
 kọ́ O
 ni O
@@ -1492,8 +1508,8 @@ Ní O
 oṣù I-DATE
 Igbe I-DATE
 , O
-ọjọ́ B-DATE
-ìpàdé I-DATE
+ọjọ́ O
+ìpàdé O
 alájọpín O
 ìdókòòwò O
 , O
@@ -1528,7 +1544,7 @@ olú O
 ilé O
 - O
 iṣẹ́ẹ O
-Vale B-PER
+Vale B-LOC
 , O
 gẹ́gẹ́ O
 bí O
@@ -1603,7 +1619,7 @@ ní O
 ìpín O
 nínú O
 ìdókòòwò O
-Vale B-LOC
+Vale O
 , O
 sọ O
 fún O
@@ -1692,7 +1708,7 @@ nílùú O
 05 I-DATE
 GMT I-DATE
 
-Dókítà B-PER
+Dókítà O
 Wairagala B-PER
 Wakabi I-PER
 [ O
@@ -1728,8 +1744,8 @@ Pápákọ̀ O
 òfuurufú O
 Julius B-PER
 Nyerere I-PER
-International O
-Airport O
+International I-ORG
+Airport I-LOC
 ní O
 Dar B-LOC
 es I-LOC
@@ -1746,7 +1762,7 @@ A O
 fi O
 ìwé O
 pe O
-Wakabi B-PER
+Wakabi O
 kí O
 ó O
 wá O
@@ -1763,7 +1779,7 @@ ní O
 Tanzania B-LOC
 ọlọ́dọọdún O
 tí O
-Àgbáríjọ B-ORG
+Àgbáríjọ O
 Olùgbèjà I-ORG
 Ẹ̀tọ́ I-ORG
 Ọmọnìyàn I-ORG
@@ -1776,12 +1792,12 @@ jẹ́ O
 olùgbàlejò O
 . O
 
-Wakabi B-PER
+Wakabi O
 ni O
 Olùdarí O
 Àgbà O
-Ìfọwọ́sowọ́pọ̀ O
-Ètò O
+Ìfọwọ́sowọ́pọ̀ I-ORG
+Ètò I-ORG
 - O
 ìmúlò O
 Ìmọ̀ O
@@ -1866,8 +1882,8 @@ Uganda B-LOC
 aṣojú O
 láti O
 Àgbáríjọ O
-Olùgbèjà I-ORG
-Ẹ̀tọ́ I-ORG
+Olùgbèjà O
+Ẹ̀tọ́ O
 Ọmọnìyàn O
 gbìyànjú O
 láti O
@@ -1890,7 +1906,7 @@ ni O
 a O
 fi O
 dá O
-Wakabi B-PER
+Wakabi O
 padà O
 sí O
 ìlúu O
@@ -2038,8 +2054,8 @@ Ní O
 un I-DATE
 2015 I-DATE
 , O
-Orílẹ̀èdè B-ORG
-Olómìnira I-ORG
+Orílẹ̀èdè O
+Olómìnira B-ORG
 Ìṣọ̀kan I-ORG
 Tanzania I-ORG
 kéde O
@@ -2051,8 +2067,8 @@ Ayélujára O
 . O
 
 Ní O
-àárín B-DATE
-ọdún I-DATE
+àárín O
+ọdún B-DATE
 kan I-DATE
 tí O
 a O
@@ -2145,7 +2161,7 @@ bíi O
 US O
 $ O
 900 O
-lọ́dún B-DATE
+lọ́dún O
 kí O
 wọn O
 ó O
@@ -2155,6 +2171,7 @@ gbé O
 àtẹ̀jáde O
 sí O
 orí O
+
 ayélujára O
 . O
 
@@ -2216,7 +2233,7 @@ náà O
 Àtìmọ́lé O
 àti O
 ìdápadà O
-Wakabi B-LOC
+Wakabi O
 sí O
 Uganda B-LOC
 jẹ́ O
@@ -2365,7 +2382,7 @@ jábọ̀ O
 pé O
 àwọn O
 Agbófinró O
-Ọ̀tẹlẹ̀múyẹ́ B-ORG
+Ọ̀tẹlẹ̀múyẹ́ I-ORG
 Bolivaria I-ORG
 ( O
 SEBIN B-ORG
@@ -2563,9 +2580,9 @@ yìí O
 ní O
 dédé O
 agogo O
-3 B-DATE
-: I-DATE
-00 I-DATE
+3 O
+: O
+00 O
 òwúrọ̀ O
 kùtùkùtù O
 , O
@@ -2648,8 +2665,8 @@ orí O
 ìkànnì O
 ayélujára O
 Twitter B-ORG
-ti I-ORG
-Orílẹ̀ I-ORG
+ti O
+Orílẹ̀ B-ORG
 Èdè I-ORG
 Venezuela I-ORG
 . O
@@ -2847,8 +2864,8 @@ NiboniLuisCarlosWa O
 . O
 
 Láàrin O
-ọjọ́ B-DATE
-péréte I-DATE
+ọjọ́ O
+péréte O
 tó O
 ṣíwájú O
 ìpòóráa O
@@ -2863,7 +2880,7 @@ sára O
 ti O
 ìjọba O
 Con B-PER
-el B-PER
+el I-PER
 Mazo I-PER
 Dando I-PER
 ṣàfihàn O
@@ -2916,8 +2933,8 @@ fún O
 ó O
 lé O
 ní O
-wákàtí O
-mẹ́rin O
+wákàtí B-DATE
+mẹ́rin I-DATE
 lé O
 lógún O
 lọ́jọ́ B-DATE
@@ -3411,9 +3428,18 @@ tí O
 ó O
 ti O
 kó O
+
 kòkòrò O
 àrùn O
 Kòrónà O
+láti O
+má O
+wọ O
+orílẹ̀ O
+- O
+èdè O
+Nàìjíríà B-LOC
+. O
 
 Àwọn O
 tí O
@@ -3737,13 +3763,13 @@ ti O
 gbilẹ̀ O
 , O
 akọ̀ròyìn O
-Bayo B-LOC
-Olupohunda I-LOC
+Bayo B-PER
+Olupohunda I-PER
 náà O
 tẹnumọ O
 : O
 
-Whitewalker O
+Whitewalker B-PER
 náà O
 tẹnpẹlẹ O
 mọ́ O
@@ -3798,7 +3824,7 @@ pé O
 ń O
 """" O
 gbìyànjú O
-GIDI B-ORG
+GIDI O
 láti O
 rí O
 i O
@@ -3863,7 +3889,7 @@ wọ́n O
 tó O
 dúró O
 di O
-ọjọ́ O
+ọjọ́ B-DATE
 kejì I-DATE
 kí O
 wọ́n O
@@ -3922,8 +3948,8 @@ Nàìjíríà B-LOC
 náà O
 bẹ̀rẹ̀ O
 ní O
-àbámẹ́ta B-DATE
-ọjọ́ I-DATE
+àbámẹ́ta O
+ọjọ́ B-DATE
 21 I-DATE
 , I-DATE
 oṣù I-DATE
@@ -4172,8 +4198,8 @@ yà O
 sọ́tọ̀ O
 ní O
 ESUTH B-ORG
-Colliery I-ORG
-Parklane I-ORG
+Colliery B-LOC
+Parklane I-LOC
 , O
 wọ́n O
 sì O
@@ -4415,7 +4441,7 @@ Egypt B-LOC
 . O
 
 Ìwádìí O
-Hudeyin B-PER
+Hudeyin O
 fi O
 hàn O
 pé O
@@ -4467,7 +4493,7 @@ bóyá O
 ẹnikẹ́ni O
 ní O
 iléeṣẹ́ O
-Dangote B-ORG
+Dangote B-LOC
 ti O
 gbìyànjú O
 láti O
@@ -4798,8 +4824,8 @@ sórí O
 , O
 nítorí O
 ayẹyẹ O
-ọdún B-DATE
-tuntun I-DATE
+ọdún O
+tuntun O
 ìran O
 Chinese O
 ọlọ́dọọdún O
@@ -5077,13 +5103,13 @@ láàárín O
 sí O
 3 O
 ní O
-ìparí B-DATE
-Oṣù I-DATE
+ìparí O
+Oṣù B-DATE
 Kìn I-DATE
 - I-DATE
 ín I-DATE
-- O
-ní O
+- I-DATE
+ní I-DATE
 , O
 ẹni O
 tí O
@@ -5183,7 +5209,7 @@ lọ́nà O
 ẹgbẹ́rùn O
 ní O
 ìlọ́po O
-60 I-DATE
+60 O
 . O
 
 Bí O
@@ -5240,7 +5266,7 @@ kún O
 kòkòrò O
 àìfojúrí O
 kòrónà O
-Wuhan B-LOC
+Wuhan B-PER
 náà O
 kì O
 í O
@@ -5327,8 +5353,8 @@ bu O
 ẹnu O
 àtẹ́ O
 lu O
-ìjọba B-ORG
-Beijing I-ORG
+ìjọba O
+Beijing B-LOC
 fún O
 ọwọ́ O
 yẹpẹrẹ O
@@ -5340,12 +5366,12 @@ mú O
 àjàkálẹ̀ O
 àrùn O
 èémí O
-SARS O
+SARS B-ORG
 tó O
 ṣú O
 yọ O
-ní O
-ọdún B-DATE
+ní B-DATE
+ọdún I-DATE
 2002 I-DATE
 sí I-DATE
 2003 I-DATE
@@ -5623,7 +5649,7 @@ yìí O
 Orílẹ̀ O
 - O
 èdè O
-Mozambique I-ORG
+Mozambique B-LOC
 ti O
 ní O
 àkọsílẹ̀ O
@@ -5698,7 +5724,7 @@ f'ara O
 - O
 rọ O
 olóṣù O
-kan O
+kan I-DATE
 látàrí O
 àjàkálẹ̀ O
 àìsàn O
@@ -5730,8 +5756,8 @@ ti O
 Orílẹ̀ O
 - O
 èdè O
-Portugal I-ORG
-Lusa I-ORG
+Portugal B-LOC
+Lusa B-ORG
 ti O
 ròyìn O
 : O
@@ -5751,8 +5777,8 @@ Iṣẹ́ I-ORG
 ẹ̀rọ I-ORG
 - I-ORG
 ìbánisọ̀rọ̀ I-ORG
-ti I-ORG
-Cape I-ORG
+ti O
+Cape B-LOC
 Verde I-ORG
 méjèèjì O
 , O
@@ -5926,7 +5952,7 @@ COVID O
 Ìpolongo O
 àǹfààní O
 ìrànwọ́ O
-MB B-ORG
+MB O
 ẹgbẹ̀rún O
 2 O
 láti O
@@ -6046,7 +6072,7 @@ hàn O
 . O
 
 Lọ́dún B-DATE
-náà I-DATE
+náà O
 , O
 ìdá O
 50 O
@@ -6127,6 +6153,7 @@ kónílégbélé O
 """" O
 yìí O
 kan O
+
 náà O
 . O
 
@@ -6442,8 +6469,8 @@ Force I-ORG
 - I-ORG
 Ìho I-ORG
 Ilẹ̀ I-ORG
-- I-ORG
-Adúláwọ̀ I-ORG
+- I-LOC
+Adúláwọ̀ I-LOC
 , O
 ń O
 tọ́jú O
@@ -6635,11 +6662,14 @@ Al B-ORG
 Jazeera I-ORG
 ti O
 ṣe O
+
 jíyìn O
 ìròyìn O
+náà O
+. O
 
 Oníṣègùn O
-Mira B-PER
+Mira B-ORG
 , O
 olórí O
 ẹ̀ka O
@@ -6711,10 +6741,14 @@ rọrùn O
 fún O
 àrùn O
 ìbálòpọ̀ O
+
 láti O
 lúgọ O
 sí O
 ara O
+wọn O
+. O
+"""" O
 
 Àwọn O
 oníṣẹ́ O
@@ -6739,8 +6773,8 @@ ikọ́ O
 àwúpẹ̀jẹ̀ O
 ní O
 Yúróòpù B-LOC
-àti I-LOC
-Australia I-LOC
+àti O
+Australia B-LOC
 láti O
 mọ̀ O
 bóyá O
@@ -6823,15 +6857,26 @@ tí O
 fi O
 Yúróòpù O
 tàbí O
-ilẹ̀ O
-Amẹ́ríkà B-LOC
+ilẹ̀ B-LOC
+Amẹ́ríkà I-LOC
 ṣe O
 ibùgbé O
 — O
+
 láti O
 wá O
 ṣe O
 àyẹ̀wò O
+ní O
+ara O
+àwọn O
+tí O
+kò O
+rí O
+já O
+jẹ O
+láwùjọ O
+. O
 
 Lẹ́sẹ̀kẹsẹ̀ O
 ni O
@@ -6897,8 +6942,8 @@ di O
 Oṣù I-DATE
 Kẹrin I-DATE
 , O
-Oníṣègùn O
-Mira B-PER
+Oníṣègùn B-ORG
+Mira I-ORG
 ti O
 ṣe O
 ìtọrọ O
@@ -6966,8 +7011,8 @@ sọ O
 . O
 
 Ní O
-àárín O
-ọ̀sẹ̀ B-DATE
+àárín B-DATE
+ọ̀sẹ̀ I-DATE
 yẹn I-DATE
 kan I-DATE
 náà O
@@ -7030,13 +7075,23 @@ kòkòrò O
 àìfojúrí O
 kòrónà O
 tí O
+
 kò O
 bá O
 à O
 wáyé O
 lọ́jọ́ O
+iwájú O
+, O
+"""" O
+bí O
+News B-ORG
+24 I-ORG
+ti O
+jábọ̀ O
+. O
 
-Muyembe B-PER
+Muyembe O
 , O
 olórí O
 ìgbìmọ̀ O
@@ -7158,7 +7213,7 @@ pọ̀ O
 . O
 
 Láàárín O
-wákàtí B-DATE
+wákàtí O
 díẹ̀ O
 , O
 Oníṣègùn O
@@ -7279,9 +7334,22 @@ jù O
 lọ O
 lórí O
 ìgbàṣẹ O
+
 lọ́wọ́ O
 àwọn O
 ènìyàn O
+kí O
+wọn O
+ó O
+tó O
+ṣe O
+ìdánwò O
+àti O
+ìlànà O
+ìṣètò O
+ìlera O
+onítúláàsì O
+. O
 
 Àwọn O
 iléeṣẹ́ O
@@ -7335,7 +7403,7 @@ orílẹ̀ O
 Zimbabwe B-LOC
 , O
 ní O
-àárín B-DATE
+àárín O
 àwọn I-DATE
 ọdún I-DATE
 tí I-DATE
@@ -7395,17 +7463,21 @@ agbógunti O
 ìtànká O
 àrùn O
 kògbóògùn O
-AZT B-ORG
+AZT O
 lágọ̀ọ́ O
 ara O
 tí O
 CDC B-ORG
 , O
 WHO B-ORG
+
 àti O
 NIH B-ORG
 kó O
 owó O
+lé O
+lórí O
+. O
 
 Bákan O
 náà O
@@ -7569,12 +7641,22 @@ ní O
 jọ O
 ń O
 parapọ̀ O
+
 ṣe O
 , O
 tí O
 ìk O
 - O
 ín O
+- O
+ní O
+ń O
+kín O
+ìlọsíwájú O
+ìkejì O
+lẹ́yìn O
+. O
+"""" O
 
 Láti O
 ayée O
@@ -8170,7 +8252,7 @@ ní O
 tí O
 àrùn O
 ibà O
-Ebola O
+Ebola B-LOC
 ń O
 jà O
 rọ̀ìnrọ̀ìn O
@@ -8216,11 +8298,13 @@ wọ́n O
 fún O
 àwọn O
 ní O
+
 ìtọ́jú O
 tí O
 ó O
 lẹ́tikẹ O
 . O
+"""" O
 
 Jù O
 bẹ́ẹ̀ O
@@ -8232,7 +8316,7 @@ rògbòdìyàn O
 - O
 àrùn O
 ibà O
-Ebola B-LOC
+Ebola O
 ọdún B-DATE
 - I-DATE
 un I-DATE
@@ -8257,7 +8341,7 @@ ti O
 lu O
 gúdẹ O
 àrùn O
-Ebola B-LOC
+Ebola O
 “ O
 tí O
 ó O
@@ -8273,8 +8357,8 @@ lábẹ́ O
 ìtọ́nàa O
 Oníṣègùn B-ORG
 Muyembe I-ORG
-àti I-ORG
-ìjọba I-ORG
+àti O
+ìjọba B-ORG
 orílẹ̀ I-ORG
 - I-ORG
 èdèe I-ORG
@@ -8286,6 +8370,7 @@ dóòlà O
 àwọn O
 ènìyàn O
 níkẹyìn O
+
 . O
 
 Nígbà O
@@ -8310,7 +8395,7 @@ fún O
 ọmọ O
 orílẹ̀ O
 èdèe O
-Congo O
+Congo B-LOC
 tí O
 ó O
 ju O
@@ -8354,8 +8439,8 @@ Kẹrin I-DATE
 , O
 ṣùgbọ́n O
 lẹ́yìn O
-50 B-DATE
-ọjọ́ I-DATE
+50 O
+ọjọ́ O
 tí O
 kò O
 sí O
@@ -8397,7 +8482,7 @@ báyìí O
 , O
 ní O
 àfikún O
-Ebola O
+Ebola B-LOC
 àti O
 awuyewuye O
 ọ̀rọ̀ O
@@ -8757,7 +8842,7 @@ bábọ̀ O
 ọ̀rọ̀ O
 di O
 lẹ́yìn B-DATE
-oṣù I-DATE
+oṣù B-DATE
 kan I-DATE
 . O
 
@@ -8855,8 +8940,8 @@ lọ O
 . O
 
 Ní O
-ọjọ́ O
-yẹn O
+ọjọ́ B-DATE
+yẹn I-DATE
 náà O
 , O
 àwọn O
@@ -9224,7 +9309,7 @@ di O
 ẹ̀rọ O
 ọgbà O
 ẹ̀wọ̀n O
-Bubanza B-PER
+Bubanza B-LOC
 ( O
 Àwòrán O
 láti O
@@ -10196,7 +10281,7 @@ Kìn I-DATE
 - I-DATE
 ín I-DATE
 - I-DATE
-ní I-DATE
+ní O
 , O
 akọ̀ròyìn O
 Blaise B-PER
@@ -10353,8 +10438,8 @@ Ilẹ̀ B-LOC
 Adúláwọ̀ I-LOC
 ní O
 orí O
-United B-LOC
-States I-LOC
+United B-ORG
+States I-ORG
 government O
 work O
 , O
@@ -10547,7 +10632,7 @@ BringBackOurGirls O
 , O
 tí O
 Dókítà B-PER
-Oby I-PER
+Oby B-PER
 Ezekwesili I-PER
 jẹ́ O
 aṣíwájú O
@@ -10580,6 +10665,7 @@ tí O
 fa O
 ìlọsíwájú O
 wọn O
+
 sẹ́yìn O
 . O
 
@@ -10623,9 +10709,9 @@ lọ O
 , O
 láti O
 iléèwé O
-Gíga O
-Ìjọba O
-Obìnrin O
+Gíga I-ORG
+Ìjọba I-ORG
+Obìnrin I-ORG
 ní O
 Chibok B-LOC
 ẹ̀bà O
@@ -10654,13 +10740,14 @@ fi O
 túláàsì O
 mú O
 sí O
+
 ìgbẹ̀sìn O
 . O
 
 Ìjínigbé O
 àwọn O
 ọmọdébìnrin O
-Chibok B-ORG
+Chibok B-PER
 náà O
 ṣe O
 okùnfà O
@@ -10786,8 +10873,8 @@ ND O
 
 Dókítà B-PER
 Obiageli I-PER
-( I-PER
-Oby I-PER
+( O
+Oby B-PER
 ) I-PER
 Ezekwesili I-PER
 , O
@@ -10848,12 +10935,12 @@ jí O
 ọmọdékùnrin O
 gbé O
 ní O
-iléèwé B-ORG
+iléèwé O
 Kọ́lẹ̀jì I-ORG
 ìjọba I-ORG
 Àpapọ̀ I-ORG
 ti I-ORG
-Buni I-ORG
+Buni B-PER
 Yadi I-PER
 ní O
 Ìpínlẹ̀ O
@@ -11017,8 +11104,8 @@ olóhùn O
 kan O
 láti O
 inú O
-Ilé B-PER
-Funfun I-PER
+Ilé B-LOC
+Funfun I-LOC
 síta O
 — O
 tí O
@@ -11518,7 +11605,7 @@ kúrò O
 lọ́ràn O
 àwọn O
 ọmọdébìnrin O
-Chibok B-LOC
+Chibok B-PER
 . O
 """" O
 
@@ -11914,29 +12001,29 @@ Bauchi B-LOC
 Kano B-LOC
 , O
 àti O
-Niger O
+Niger B-LOC
 . O
 
 Ìyíde O
 ọlọ́jọ́ B-DATE
 mẹ́ẹ̀ẹ́dógún I-DATE
 ti O
-NorthNormal O
+NorthNormal B-ORG
 wá O
 sáyé O
 nínú O
 oṣù B-DATE
 Belu I-DATE
 ọdún I-DATE
-t'ó I-DATE
-kọjá I-DATE
+t'ó O
+kọjá O
 ní O
 àwọn O
 ìpínlẹ̀ O
 mẹ́jọ O
 ní O
 òkè O
-Ọya B-LOC
+Ọya O
 àti O
 ní O
 Abuja B-LOC
@@ -12005,7 +12092,7 @@ tí O
 ó O
 ń O
 yíde O
-NorthNormal B-LOC
+NorthNormal O
 """" O
 . O
 
@@ -12052,7 +12139,7 @@ ti O
 ṣe O
 wí O
 , O
-NorthNormal O
+NorthNormal B-ORG
 súyọ O
 láti O
 ara O
@@ -12098,8 +12185,8 @@ obìnrin O
 àṣà O
 ìfipábánilòpọ̀ O
 jákèjádò O
-àríwá O
-Nàìjíríà B-LOC
+àríwá B-LOC
+Nàìjíríà I-LOC
 . O
 """" O
 
@@ -12261,7 +12348,7 @@ fi O
 lélẹ̀ O
 wí O
 pé O
-Abuja B-PER
+Abuja B-LOC
 , O
 olú O
 ìlú O
@@ -12518,9 +12605,19 @@ ní O
 “ O
 ète O
 wọ́n O
+
 ṣiṣẹ́ O
 bí O
 ìyọlẹ́nu O
+orí O
+ayélujára O
+ṣe O
+ń O
+lékún O
+sí O
+i O
+"""" O
+. O
 
 Ní O
 orílẹ̀ O
@@ -12797,11 +12894,36 @@ bí O
 àṣà O
 ìdákẹ́ O
 rọrọ O
+
 ti O
 ṣe O
 rinlẹ̀ O
 tó O
 ní O
+àwùjọ O
+àti O
+pé O
+bí O
+a O
+bá O
+fi O
+àyè O
+gba O
+ìpanumọ́ O
+, O
+a O
+jẹ́ O
+wí O
+pé O
+oko O
+ìparun O
+ni O
+à O
+ń O
+fi O
+orí O
+lé O
+. O
 
 Ó O
 ṣeni O
@@ -12839,7 +12961,7 @@ tòótọ́ O
 
 Ní O
 ti O
-Hashim B-LOC
+Hashim B-PER
 , O
 “ O
 ìmọ̀ọ́mọ̀ O
@@ -12942,10 +13064,30 @@ ayélujára O
 bí O
 ajere O
 tí O
+
 ó O
 wọ́pọ̀ O
 ní O
 orílẹ̀ O
+èdè O
+Ilẹ̀ B-LOC
+Adúláwọ̀ I-LOC
+méje O
+: O
+Algeria B-LOC
+, O
+Cameroon B-LOC
+, O
+Ethiopia B-LOC
+, O
+Nigeria B-LOC
+, O
+Sudan B-LOC
+, O
+Tunisia B-LOC
+àti O
+Uganda B-LOC
+. O
 
 Africa B-ORG
 Digital I-ORG
@@ -13120,18 +13262,26 @@ wọn O
 kó O
 láti O
 bí O
-ọ̀pọ̀lọpọ̀ O
-ọdún O
+ọ̀pọ̀lọpọ̀ B-DATE
+ọdún I-DATE
 , O
+
 ní O
 èyí O
 tí O
 ó O
 ti O
 mú O
+ìdàgbàsókè O
+lọ́pọ̀lọpọ̀ O
+bá O
+orílẹ̀ O
+èdè O
+Nàíjíríà B-LOC
+. O
 
-May B-PER
-Day I-PER
+May B-ORG
+Day I-ORG
 : O
 Abẹnugan O
 ilé O
@@ -13402,7 +13552,7 @@ iye O
 tó O
 ní O
 ààrùn O
-Corona O
+Corona I-LOC
 jẹ́ O
 méjídínláàdọ́rindíngbẹ̀rúnméjì O
 ( O
@@ -13507,9 +13657,9 @@ Nasarawa1 O
 Ondo1 O
 - O
 Kebbi11 O
-: I-DATE
-50pm I-DATE
-30th I-DATE
+: O
+50pm O
+30th B-DATE
 April I-DATE
 - I-DATE
 1932 I-DATE
@@ -13549,11 +13699,11 @@ ohun O
 tó O
 sẹlẹ̀ O
 ní O
-Kano B-PER
-- I-ORG
-Dr I-ORG
-Osagie I-PER
-Mínísítà I-PER
+Kano B-LOC
+- I-LOC
+Dr I-LOC
+Osagie I-LOC
+Mínísítà I-LOC
 fún O
 ètò O
 ìlera O
@@ -13561,7 +13711,7 @@ lórílẹ̀ O
 èdè O
 Nàíjíríà B-LOC
 , O
-Dr O
+Dr B-PER
 Osagie B-PER
 Ehanire I-PER
 ti O
@@ -13669,8 +13819,8 @@ COVID O
 19 O
 . O
 
-Dókítà B-PER
-Ehanire I-PER
+Dókítà O
+Ehanire B-PER
 , O
 wá O
 rọ O
@@ -13714,8 +13864,8 @@ Adépọ́jú I-PER
 Kò O
 tíì O
 ṣí O
-ọjọ́ O
-kan O
+ọjọ́ B-DATE
+kan I-DATE
 ní O
 pàtó O
 nígbà O
@@ -13726,8 +13876,8 @@ ilé O
 yóò O
 wọlé O
 - O
-Emeka B-LOC
-Nwajiuba I-LOC
+Emeka B-PER
+Nwajiuba I-PER
 Mínísítà O
 ìpínlẹ̀ O
 fún O
@@ -13737,8 +13887,8 @@ lórílẹ̀ O
 èdè O
 Nàíjíríà B-LOC
 , O
-Emeka B-LOC
-Nwajiuba I-ORG
+Emeka B-PER
+Nwajiuba I-PER
 ti O
 ní O
 ohun O
@@ -13954,9 +14104,17 @@ tí O
 sùgbọ́n O
 ìjọba O
 àpapọ̀ O
+
 pèsè O
 ètò O
 ìlànà O
+ẹ̀kọ́ O
+tíwọn O
+lórí O
+ẹ̀rọ O
+ayélujára O
+nìkan O
+. O
 
 Kò O
 gbọdọ̀ O
@@ -13976,7 +14134,7 @@ FCT I-ORG
 Mínísítà O
 fún O
 ìlú O
-Àbújá B-LOC
+Àbújá O
 , O
 Alhaji B-PER
 Muhammad I-PER
@@ -14029,11 +14187,20 @@ ti O
 2020 I-DATE
 tí O
 a O
+
 wàyìí O
 láti O
 sọ́ra O
 , O
 kí O
+wọ́n O
+máa O
+ba O
+fojụ O
+winá O
+òfin O
+ìjọba O
+. O
 
 Akọ̀wé O
 àgbà O
@@ -14055,8 +14222,8 @@ tí O
 ó O
 gbé O
 jáde O
-lọ́jọ́ B-DATE
-ìsẹ́gun I-DATE
+lọ́jọ́ O
+ìsẹ́gun O
 pé O
 ètò O
 ẹ̀kọ́ O
@@ -14209,8 +14376,8 @@ yìí O
 
 Ọ̀R̀Ọ O
 ÀÀRẸ O
-MUHAMMADU O
-BUHARI I-PER
+MUHAMMADU B-ORG
+BUHARI I-ORG
 ṢÍ O
 ỌMỌ O
 ORÍLẸ̀ O
@@ -14227,8 +14394,8 @@ ORÍLẸ̀ O
 ÈDÈ O
 NÀÍJÍRÍÀ O
 , O
-MUHAMMADU O
-BUHARI I-PER
+MUHAMMADU B-ORG
+BUHARI I-ORG
 , O
 NÍPA O
 ÒFIN O
@@ -14245,16 +14412,43 @@ OGUN O
 ÌLÚ O
 ABUJA O
 , O
-FCT O
+FCT B-ORG
 , O
 LÓRÍ O
 ÌTÀNKÁLẸ̀ O
+
 ÀÀRÙN O
 COVID O
 - O
 19 O
 , O
 NÍ O
+ÈYÍ O
+TÓ O
+WÁYÉ O
+NÍLÙÚ O
+ÀBÚJÁ O
+LỌ́JỌ́ O
+AJÉ O
+, O
+ỌJỌ́ O
+KẸTÀDÍNLỌ́GBỌ́N O
+, O
+OSÙ O
+KẸRIN O
+, O
+ỌDÚN O
+, O
+2020 B-DATE
+( O
+MONDAY O
+, O
+27th B-DATE
+APRIL I-DATE
+, I-DATE
+2020 B-DATE
+) O
+. O
 
 Ẹ̀yin O
 ọmọ O
@@ -14298,18 +14492,18 @@ Ní́wòyí O
 tí O
 ó O
 jẹ́ O
-ọjọ́ B-DATE
-kẹrìndínlọ́gbọ̀n I-DATE
-, I-DATE
-osù I-DATE
-kẹrin I-DATE
-, I-DATE
-ọdún I-DATE
+ọjọ́ O
+kẹrìndínlọ́gbọ̀n O
+, O
+osù O
+kẹrin O
+, O
+ọdún B-DATE
 , I-DATE
 2020 I-DATE
-, I-DATE
-( I-DATE
-26th I-DATE
+, O
+( O
+26th B-DATE
 April I-DATE
 2020 I-DATE
 ) O
@@ -14375,10 +14569,10 @@ ní O
 ìpínlẹ̀ O
 Èkó B-LOC
 , O
-Ògùn B-LOC
-àti I-DATE
-Àbújá I-DATE
-5 I-DATE
+Ògùn O
+àti O
+Àbújá O
+5 O
 . O
 
 A O
@@ -14393,10 +14587,10 @@ gbélé O
 ní O
 ọjọ́ B-DATE
 kẹrin I-DATE
-, I-DATE
-osù I-DATE
-karùn I-DATE
-ún I-DATE
+, O
+osù O
+karùn O
+ún O
 , I-DATE
 ọdun I-DATE
 2020 I-DATE
@@ -14421,9 +14615,9 @@ kẹrin O
 , O
 osù O
 karùn O
-ún I-DATE
-, I-DATE
-ọdún I-DATE
+ún O
+, O
+ọdún B-DATE
 2020 I-DATE
 yìí O
 láti O
@@ -14432,7 +14626,7 @@ mẹ́jọ I-DATE
 òwúrọ̀ O
 títí O
 di O
-aago I-DATE
+aago B-DATE
 mẹ́fà I-DATE
 àsálẹ́ O
 . O
@@ -15087,8 +15281,8 @@ kan O
 tí O
 ó O
 jáde O
-lọ́jọ́ B-DATE
-Àikú I-DATE
+lọ́jọ́ O
+Àikú O
 nílùú O
 Àbújá O
 , O
@@ -15153,7 +15347,7 @@ lọ́wọ́ O
 fún O
 àyẹ̀wò O
 àarùn O
-Corona B-PER
+Corona B-LOC
 . O
 
 “ O
@@ -15176,10 +15370,10 @@ bí O
 ìlànà O
 àjọ O
 tó O
-ń I-ORG
-gbógun I-ORG
-ti I-ORG
-àjàkálẹ̀ I-ORG
+ń O
+gbógun O
+ti O
+àjàkálẹ̀ O
 àarùn O
 ( O
 NCDC B-ORG
@@ -15212,9 +15406,9 @@ sọ O
 pé O
 ẹnu O
 bodè O
-Seme B-LOC
-- I-LOC
-Krake I-LOC
+Seme B-PER
+- I-PER
+Krake I-PER
 jẹ́ O
 ojú O
 ọ̀nà O
@@ -15326,9 +15520,30 @@ Bàbándédè I-PER
 se O
 rọ O
 àwọn O
+
 arìnrìnàjò O
 láti O
 sọ́ra O
+nípa O
+gbígba O
+ọ̀nà O
+ẹ̀bùrú O
+, O
+nítorí O
+àwọn O
+ọ̀daràn O
+àti O
+oníṣẹ́ O
+- O
+ibi O
+tí O
+ó O
+leè O
+ṣe O
+wọ́n O
+ní O
+ìjàmbá O
+. O
 
 Ààrẹ O
 Buhari B-PER
@@ -15352,7 +15567,7 @@ tàbí O
 tún O
 fi O
 ọjọ́ O
-kún I-DATE
+kún O
 un O
 Ààrẹ O
 orílẹ̀ O
@@ -15377,18 +15592,31 @@ ní O
 déédé O
 aago B-DATE
 mẹ́jọ I-DATE
-àsálẹ́ I-DATE
+àsálẹ́ O
 , I-DATE
 ọjọ́ I-DATE
 Ajé I-DATE
 , I-DATE
 ọjọ́ I-DATE
 kẹtàdínlọ́gbọ̀n I-DATE
+, O
+
+osù O
+kẹrin O
+, O
+ọdún B-DATE
+2020 I-DATE
+( O
+Monday O
+, O
+April I-DATE
+27 I-DATE
 , I-DATE
-osù I-DATE
-kẹrin I-DATE
-, I-DATE
-ọdún I-DATE
+2020 I-DATE
+at O
+8pm I-DATE
+) O
+. O
 
 Gbogbo O
 àwọn O
@@ -15429,10 +15657,10 @@ yìí O
 . O
 
 Ilé O
-ìgbìmọ̀ O
+ìgbìmọ̀ I-ORG
 asojú O
 ( O
-Reps O
+Reps B-ORG
 ) O
 yóò O
 padà O
@@ -15442,14 +15670,14 @@ ní O
 April B-DATE
 28 I-DATE
 Ilé O
-ìgbìmọ̀ O
+ìgbìmọ̀ I-ORG
 asojú O
 lorilẹ O
 ede O
 Naijiria B-LOC
 yoo O
 ( O
-Reps O
+Reps B-ORG
 ) O
 yóò O
 padà O
@@ -15474,7 +15702,7 @@ wọ́n O
 wà O
 látàrí O
 ààrùn O
-Covid B-ORG
+Covid O
 - O
 19 O
 tó O
@@ -15497,8 +15725,8 @@ asojú O
 kọ́kọ́ O
 bẹ̀rẹ̀ O
 ìsinmi O
-ọlọ́sẹ̀ B-DATE
-méjì I-DATE
+ọlọ́sẹ̀ O
+méjì O
 wọ́n O
 láti O
 léè O
@@ -15541,10 +15769,32 @@ bẹ̀rẹ̀ O
 ìsinmi O
 ní O
 ìjọba O
+
 àpapọ̀ O
 pàsẹ O
 pé O
 kí O
+ètò O
+kónílé O
+- O
+gbélé O
+bẹ̀rẹ̀ O
+nílùú O
+Àbújá O
+àti O
+àwọn O
+ìpínlẹ̀ O
+méjì O
+tí O
+ààrùn O
+COIVD O
+- O
+19 O
+ń O
+bá O
+wọ̀yá O
+ìjà O
+. O
 
 Nínú O
 àtẹ̀jáde O
@@ -15606,11 +15856,18 @@ ní O
 tí O
 àwọn O
 yóò O
+
 fi O
 ránsẹ́ O
 sí O
 àwọn O
 ọmọ O
+ilé O
+- O
+ìgbìmọ̀ O
+asojú O
+ọ̀hún O
+. O
 
 Àtẹ̀jáde O
 náà O
@@ -15677,7 +15934,7 @@ láti O
 gbógun O
 tí O
 ààrùn O
-Corona B-LOC
+Corona O
 àti O
 lórí O
 ètò O
@@ -15939,7 +16196,7 @@ pé O
 tètè O
 dojúkọ O
 ààrùn O
-Corona B-PER
+Corona B-LOC
 láti O
 dẹ́kun O
 rẹ̀ O
@@ -16213,7 +16470,7 @@ báyìí O
 fihàn O
 pé O
 ààrùn O
-Corona O
+Corona B-PER
 lórílẹ̀ O
 èdè O
 yíi O
@@ -16278,11 +16535,11 @@ iye O
 tó O
 ní O
 ààrùn O
-Corona O
+Corona I-LOC
 jẹ́ O
 méjìlélọ́gọ́sànánlélẹ́gbẹ̀rún O
 ( O
-1182 B-DATE
+1182 O
 ) O
 , O
 nígbà O
@@ -16406,6 +16663,7 @@ Edo B-LOC
 ati O
 Bauchi B-LOC
 , O
+
 ẹyọ O
 kan O
 ( O
@@ -16413,6 +16671,8 @@ kan O
 ) O
 ni O
 ìpínlẹ̀ O
+Imo B-LOC
+. O
 
 87 O
 new O
@@ -16426,7 +16686,7 @@ reported O
 ; O
 33 O
 in O
-Lagos18 O
+Lagos18 B-LOC
 in O
 Borno12 B-LOC
 in O
@@ -16438,11 +16698,11 @@ Kano4 B-LOC
 in O
 Ekiti3 B-LOC
 in O
-Edo3 O
+Edo3 B-LOC
 in O
 Bauchi1 B-LOC
 in O
-ImoAs B-LOC
+ImoAs O
 at O
 11 B-DATE
 : I-DATE
@@ -16483,7 +16743,7 @@ La5xzZZe2z O
 WHO B-ORG
 yan O
 Okonjo B-PER
-- O
+- I-PER
 Iweala I-PER
 láti O
 jẹ́ O
@@ -16499,9 +16759,9 @@ COVID O
 19 O
 Àjọ B-ORG
 àgbáyé I-ORG
-fún O
-ètò O
-ìlera O
+fún I-ORG
+ètò I-ORG
+ìlera I-ORG
 , O
 ( O
 World B-ORG
@@ -16548,7 +16808,7 @@ COVID O
 
 Ọ̀mọ̀wé O
 Okonjo B-PER
-- O
+- I-PER
 Iweala I-PER
 ni O
 yóò O
@@ -16607,7 +16867,7 @@ ní O
 Geneva B-LOC
 . O
 
-Ghebreyesus B-PER
+Ghebreyesus O
 sọ O
 pé O
 “ O
@@ -16687,9 +16947,9 @@ orílẹ̀ O
 àgbáyé O
 . O
 
-Lósẹ̀ B-DATE
-tó I-DATE
-kọjá I-DATE
+Lósẹ̀ O
+tó O
+kọjá O
 ni O
 adarí O
 àjọ O
@@ -16732,7 +16992,7 @@ sèpàdé O
 lóòrè O
 - O
 kóòrè O
-lọ́dún B-DATE
+lọ́dún O
 láti O
 máa O
 sàlàyé O
@@ -16945,8 +17205,8 @@ Gombe B-LOC
 Àbújá B-LOC
 , O
 Federal B-LOC
-Capital I-ORG
-Territory I-ORG
+Capital I-LOC
+Territory I-LOC
 ( O
 FCT B-ORG
 ) O
@@ -17095,11 +17355,11 @@ iye O
 tó O
 ní O
 ààrùn O
-Corona O
+Corona I-LOC
 jẹ́ O
 márùndínlọgọrunlélẹ́gbẹ̀rún O
 ( O
-1095 B-DATE
+1095 O
 ) O
 , O
 nígbà O
@@ -17158,9 +17418,9 @@ ní O
 déédé O
 aago B-DATE
 méjìlá I-DATE
-kọjá I-DATE
-ìsẹ́jú I-DATE
-márùndínlọ́gbọ̀n I-DATE
+kọjá O
+ìsẹ́jú O
+márùndínlọ́gbọ̀n O
 , O
 lọ́jọ́ B-DATE
 Ẹtì I-DATE
@@ -17211,14 +17471,14 @@ márùn O
 5 O
 ) O
 ni O
-ilu B-LOC
-Abuja I-LOC
+ilu O
+Abuja B-LOC
 , O
 Federal B-LOC
 Capital I-LOC
 Territory I-LOC
 ( O
-FCT B-LOC
+FCT B-ORG
 ) O
 , O
 méjì O
@@ -17240,7 +17500,7 @@ ni O
 ìpínlẹ̀ O
 Ògùn B-LOC
 , O
-Ọ̀yọ́ O
+Ọ̀yọ́ B-LOC
 , O
 Kaduna B-LOC
 àti O
@@ -17260,7 +17520,7 @@ reported O
 ; O
 80 O
 in O
-Lagos21 O
+Lagos21 B-LOC
 in O
 Gombe5 B-LOC
 in O
@@ -17270,7 +17530,7 @@ Zamfara2 B-LOC
 in O
 Edo1 B-LOC
 in O
-Ogun1 O
+Ogun1 B-LOC
 in O
 Oyo1 O
 in O
@@ -17324,7 +17584,7 @@ Buhari B-PER
 agbẹnusọ O
 rere O
 fún O
-Amẹrika B-LOC
+Amẹrika B-PER
 : O
 Ìjọba B-ORG
 Amẹrika I-ORG
@@ -17355,7 +17615,7 @@ rere O
 fún O
 ìjọba O
 orílẹ̀ O
-Amẹrika B-LOC
+Amẹrika B-PER
 Nínú O
 ọ̀rọ̀ O
 ìbánikẹ́dùn O
@@ -17368,12 +17628,67 @@ Buhari I-PER
 igbákejì O
 akọ̀wé O
 àgbà O
+
 ìpínlẹ̀ O
 tó O
 ń O
 mójútó O
+ètò O
+ilẹ̀ O
+Afrika B-LOC
+, O
+Tibor B-PER
+Nagy I-PER
+, O
+ló O
+gbósùbà O
+fún O
+ìwà O
+akínkanjú O
+tí O
+olóògbé O
+Kyari B-PER
+, O
+wù O
+pàápàá O
+jùlọ O
+, O
+nípa O
+bí O
+orílẹ̀ O
+èdè O
+Amẹ́ríkà B-LOC
+se O
+dá O
+owó O
+tí O
+iye O
+rè O
+jẹ́ O
+ọ́ọ̀dúnrún O
+miliọnu O
+dọla O
+( O
+$ O
+300 O
+million O
+) O
+tí O
+olóògbé O
+Sani B-PER
+Abacha I-PER
+jígbé O
+lọ O
+sí O
+orílẹ̀ O
+Amẹrika B-LOC
+padà O
+fún O
+orílẹ̀ O
+Nàíjíríà B-LOC
+. O
 
-Nagy O
+Nagy B-PER
 sọ O
 pé O
 ‘‘Kyari O
@@ -17391,7 +17706,7 @@ rere O
 fún O
 ìjọba O
 orílẹ̀ O
-Amẹrika B-LOC
+Amẹrika O
 pàápàá O
 jùlọ O
 adarí O
@@ -17489,7 +17804,7 @@ lórílẹ̀ O
 Nàíjíríà B-LOC
 . O
 
-Nagy O
+Nagy B-PER
 sọ̀rọ̀ O
 yíi O
 lásìkò O
@@ -17527,7 +17842,7 @@ gbógun O
 ti O
 ìtànkálẹ̀ O
 ààrùn O
-Corona B-PER
+Corona O
 . O
 
 Ààrẹ O
@@ -17540,18 +17855,18 @@ láti O
 ọwọ́ O
 mínísítà O
 fún O
-Niger O
-Delta O
+Niger B-LOC
+Delta I-LOC
 , O
-Usani O
-Uguru O
-Usani O
+Usani B-PER
+Uguru I-PER
+Usani I-PER
 , O
 , O
 olókoòwò O
 láti O
 ìlú O
-Kánò O
+Kánò B-LOC
 , O
 Alhaji B-PER
 Sabiu I-PER
@@ -17620,7 +17935,7 @@ iye O
 tó O
 ní O
 ààrùn O
-Corona O
+Corona I-LOC
 jẹ́ O
 mọ́kàndílógúndínlẹ́gbẹ̀rún O
 ( O
@@ -17715,11 +18030,11 @@ ní O
 ìlú O
 Àbújá B-LOC
 , O
-Federal B-ORG
+Federal B-LOC
 Capital I-ORG
 Territory I-ORG
 ( O
-FCT O
+FCT B-ORG
 ) O
 , O
 márùn O
@@ -17753,11 +18068,28 @@ méjì O
 ) O
 ní O
 ìpínlẹ̀ O
+
 Akwa B-LOC
-Ibom I-LOC
+Ibom I-PER
 , O
 ẹyọ O
 kan O
+( O
+1 O
+) O
+ni O
+ìpínlẹ̀ O
+Kwara B-LOC
+ati O
+ẹyọ O
+kan O
+( O
+1 O
+) O
+ni O
+ìpínlẹ̀ O
+Plateau B-LOC
+. O
 
 108 O
 new O
@@ -17771,22 +18103,22 @@ reported O
 ; O
 78 O
 in O
-Lagos14 O
+Lagos14 B-LOC
 in O
 FCT5 O
 in O
-Ogun4 O
+Ogun4 B-LOC
 in O
 Gombe3 B-LOC
 Borno2 B-LOC
 in O
-Akwa O
-Ibom1 O
+Akwa B-LOC
+Ibom1 B-LOC
 in O
-Kwara1 O
+Kwara1 B-LOC
 in O
 Plateau B-LOC
-As O
+As I-LOC
 at O
 11 B-DATE
 : I-DATE
@@ -17827,8 +18159,8 @@ cq7STlnHGJ O
 
 Ilé O
 - O
-isẹ́ O
-ológun I-ORG
+isẹ́ I-ORG
+ológun O
 òfurufú O
 ṣe O
 ìdánilẹ́kọ̀ọ́ O
@@ -17929,9 +18261,9 @@ Dáramólá B-PER
 sọ O
 pé O
 ìdánilẹ́kọ̀ọ́ O
-ọlọ́sẹ̀ B-DATE
-- I-DATE
-kan I-DATE
+ọlọ́sẹ̀ O
+- O
+kan O
 parí O
 nípa O
 lílo O
@@ -17939,7 +18271,7 @@ lílo O
 òfurufú O
 C O
 - O
-130H O
+130H I-ORG
 tó O
 wà O
 ní O
@@ -17970,11 +18302,47 @@ ikọ̀ O
 ogun O
 ọ̀hún O
 ní O
+
 ìmọ̀ O
 tó O
 gbóhúnjẹ O
+- O
+fẹ́gbẹ́ O
+, O
+gbàwobọ̀ O
+nípa O
+síse O
+ìtọ́jú O
+nínú O
+ọkọ̀ O
+òfurufú O
+fún O
+àwọn O
+ọmọ O
+ogun O
+tó O
+bá O
+farapa O
+lójú O
+ogun O
+láti O
+du O
+ẹ̀mí O
+wọn O
+títí O
+tí O
+wọn O
+yóò O
+fi O
+gbé O
+wọn O
+dé O
+ilé O
+- O
+ìwòsàn O
+. O
 
-Dáramólá O
+Dáramólá B-PER
 ní O
 wọn O
 ti O
@@ -17982,7 +18350,7 @@ se O
 ọkọ̀ O
 òfurufú O
 NAF B-ORG
-C O
+C I-ORG
 - I-ORG
 130H I-ORG
 lọ́nà O
@@ -18160,7 +18528,7 @@ Air B-ORG
 Task I-ORG
 Force I-ORG
 of I-ORG
-Operation I-ORG
+Operation B-ORG
 LAFIYA I-ORG
 DOLE I-ORG
 , O
@@ -18411,6 +18779,7 @@ máa O
 kópa O
 nínú O
 ààwẹ̀ O
+
 ọ̀hún O
 . O
 
@@ -18422,8 +18791,8 @@ seni O
 láàànù O
 pé O
 ààwẹ̀ O
-ọdún O
-yíi O
+ọdún B-DATE
+yíi I-DATE
 wáyé O
 lásìkò O
 tí O
@@ -18481,6 +18850,7 @@ gbàdúrà O
 wọn O
 tàbí O
 pẹ̀lú O
+
 ẹbí O
 wọn O
 . O
@@ -18629,7 +18999,7 @@ iye O
 tó O
 ní O
 ààrùn O
-Corona O
+Corona B-LOC
 jẹ́ O
 mẹ́tàléláàdọ́rinléníẹgbẹ̀rin O
 ( O
@@ -18672,7 +19042,7 @@ ajakalẹ O
 aarun O
 lórílẹ̀ O
 èdè O
-Nàíjíríà I-ORG
+Nàíjíríà B-LOC
 ( O
 NCDC B-ORG
 ) O
@@ -18706,7 +19076,7 @@ mẹ́rìnléláàdọ́rin O
 ) O
 ni O
 ipinlẹ O
-Eko B-LOC
+Eko O
 , O
 márùn O
 ún O
@@ -18730,7 +19100,7 @@ Federal B-LOC
 Capital I-LOC
 Territory I-LOC
 ( O
-FCT B-LOC
+FCT B-ORG
 ) O
 , O
 mẹ́rin O
@@ -18739,7 +19109,7 @@ mẹ́rin O
 ) O
 ni O
 ipinlẹ O
-Ogun O
+Ogun B-LOC
 , O
 méjì O
 ( O
@@ -18776,17 +19146,17 @@ reported O
 ; O
 74 O
 in O
-Lagos5 O
+Lagos5 B-LOC
 in O
-Katsina4 O
+Katsina4 B-LOC
 in O
-Ogun2 O
+Ogun2 B-LOC
 in O
-Delta2 O
+Delta2 B-LOC
 in O
-Edo1 O
+Edo1 B-LOC
 in O
-Kwara1 O
+Kwara1 B-LOC
 in O
 Oyo1 O
 in O
@@ -18829,9 +19199,9 @@ com O
 oDazHLpLp0 O
 . O
 
-Ilé B-ORG
-Aṣòfin I-ORG
-Èkó I-ORG
+Ilé O
+Aṣòfin O
+Èkó B-LOC
 bẹ̀bẹ̀ O
 fún O
 ìfaradà O
@@ -18841,11 +19211,11 @@ látara O
 ‘Coronavirus’ O
 . O
 
-Ilé B-ORG
+Ilé O
 Ìgbìmọ̀ I-ORG
 Aṣòfin I-ORG
-Ìpínlẹ̀ I-ORG
-Èko I-ORG
+Ìpínlẹ̀ O
+Èko B-LOC
 ti O
 rọ O
 àwọn O
@@ -18929,14 +19299,14 @@ mójútó O
 ètò O
 ìlera O
 nínú O
-Ilé B-LOC
-Ìgbìmọ̀ I-LOC
-Aṣòfin I-LOC
-Ìpínlẹ̀ I-LOC
-Èkó I-LOC
+Ilé B-ORG
+Ìgbìmọ̀ I-ORG
+Aṣòfin I-ORG
+Ìpínlẹ̀ I-ORG
+Èkó I-ORG
 , O
 Aṣòfin O
-Hakeem I-LOC
+Hakeem B-LOC
 , O
 tí O
 ó O
@@ -19035,7 +19405,7 @@ ní O
 Mobọ́lájí B-PER
 Johnson I-PER
 ní O
-Oníkàń B-LOC
+Oníkàń O
 ; O
 gbọ̀ngàn O
 ìdánidúró O
@@ -19047,10 +19417,10 @@ Victoria B-LOC
 Island I-LOC
 ní O
 Ìjọba B-LOC
-Ìbílẹ̀ O
-Etí O
+Ìbílẹ̀ I-LOC
+Etí I-LOC
 - I-LOC
-Ọ̀sà O
+Ọ̀sà I-LOC
 àti O
 èyi O
 tó O
@@ -19061,7 +19431,7 @@ Ilé O
 Ìwòsàn O
 gbogboògbò O
 ní O
-Gbàgádà B-LOC
+Gbàgádà O
 . O
 
 Àwọn O
@@ -19360,12 +19730,24 @@ si O
 , O
 pẹ̀lú O
 àwọn O
+
 òṣìṣẹ́ O
 tó O
 yẹ O
 , O
 tí O
 ààyè O
+inú O
+rẹẹ̀ O
+gba O
+ẹdẹ̀ẹ́gbẹ̀ta O
+ìbùsùn O
+fún O
+àwọn O
+alárùn O
+kòrónà O
+yíí O
+. O
 
 Àdánù O
 ńlá O
@@ -19376,15 +19758,15 @@ Akinjide I-PER
 jẹ́ O
 fún O
 ìpínlẹ̀ O
-Ọ̀yọ́ B-LOC
+Ọ̀yọ́ O
 – O
 Makinde B-LOC
 Gómìnà O
 ìpínlẹ̀ O
 Ọ̀yọ́ O
 , O
-Seyi B-PER
-Makinde I-PER
+Seyi O
+Makinde B-LOC
 ti O
 fi O
 ikú O
@@ -19412,7 +19794,7 @@ wé O
 ńlá O
 fún O
 ìpínlẹ̀ O
-Ọ̀yọ́ B-LOC
+Ọ̀yọ́ O
 , O
 orílẹ̀ O
 èdè O
@@ -19424,7 +19806,7 @@ lápapọ̀ O
 
 Gómìnà O
 Sèyí O
-Mákindé B-PER
+Mákindé B-LOC
 , O
 ẹni O
 tí O
@@ -19438,7 +19820,7 @@ sí O
 ikú O
 onídàájọ́ O
 àgbà O
-Akínjídé B-LOC
+Akínjídé O
 hàn O
 nínú O
 ọ̀rọ̀ O
@@ -19463,7 +19845,7 @@ lórí O
 ìròyìn O
 , O
 Taiwo B-PER
-Àdìsá O
+Àdìsá I-PER
 , O
 ló O
 sọ O
@@ -19479,9 +19861,13 @@ ayé O
 rẹ̀ O
 sin O
 orílẹ̀ O
+
 èdè O
 Nàíjíríà B-LOC
 tọkàn O
+- O
+tọkàn O
+. O
 
 Mákindé O
 tún O
@@ -19605,9 +19991,21 @@ gba O
 ìjọba O
 nímọ̀ràn O
 ní O
+
 orísìrísì O
 ọ̀nà O
 , O
+bàbá O
+dúró O
+gẹ́gẹ́ O
+bí O
+òpómúléró O
+nínú O
+òsèlú O
+àti O
+ọ̀rọ̀ O
+òfin O
+. O
 
 “ O
 Ikú O
@@ -19636,7 +20034,7 @@ se O
 ọmọ O
 bíbí O
 ilẹ̀ O
-Ìbàdàn I-LOC
+Ìbàdàn B-LOC
 ní O
 ìpínlẹ̀ O
 Ọ̀yọ́ B-LOC
@@ -19671,9 +20069,38 @@ bá O
 olóògbé O
 náà O
 tó O
+
 tún O
 jẹ́ O
 ògbóǹtarìgì O
+nínú O
+ẹgbẹ́ O
+òsèlú O
+Peoples B-ORG
+Democratic I-ORG
+Party I-ORG
+( O
+PDP B-ORG
+) O
+, O
+olóyè O
+Jùmọ̀ké B-LOC
+Akínjídé B-LOC
+àti O
+gbogbo O
+ọmọ O
+bíbí O
+inú O
+bàbá O
+yòókù O
+láìyọ O
+ẹnìkankan O
+sílẹ̀ O
+àti O
+nínú O
+òsèlú O
+kẹ́dùn O
+. O
 
 Ó O
 wá O
@@ -19686,7 +20113,7 @@ gbogbo O
 ọmọ O
 bíbí O
 ìpínlẹ̀ O
-Ọ̀yọ́ B-LOC
+Ọ̀yọ́ O
 àti O
 ọmọ O
 orílẹ̀ O
@@ -19740,8 +20167,8 @@ orílẹ̀ O
 Nàíjíríà B-LOC
 , O
 Operation B-ORG
-Hadarin I-PER
-Daji I-PER
+Hadarin I-ORG
+Daji I-ORG
 ti O
 gbẹ̀mi O
 àwọn O
@@ -19907,7 +20334,7 @@ rẹ̀ O
 tó O
 wà O
 nílùú O
-Ìbàdàn O
+Ìbàdàn B-LOC
 lẹ́yìn O
 àìsàn O
 ráńpẹ́ O
@@ -20027,9 +20454,20 @@ náà O
 lórí O
 ìròyìn O
 , O
+
 Salihu B-PER
 Tanko I-PER
 Yakasai I-PER
+ló O
+kéde O
+lórí O
+ẹ̀rọ O
+twitter O
+rẹ̀ O
+láàsálẹ́ O
+ọjọ́ B-DATE
+Àìkú I-DATE
+. O
 
 Ó O
 tẹ̀síwájú O
@@ -20049,7 +20487,7 @@ tó O
 wà O
 ní O
 ìpínlẹ̀ O
-ọ̀hún B-LOC
+ọ̀hún O
 . O
 
 Gómìnà O
@@ -20067,8 +20505,8 @@ kónílé O
 - O
 gbélé O
 fún O
-ọ̀sẹ̀ B-DATE
-kan I-DATE
+ọ̀sẹ̀ O
+kan O
 gbáko O
 lọ́jọ́Bọ̀ B-DATE
 ní O
@@ -20087,8 +20525,8 @@ ní O
 Ọjọ́rú O
 . O
 
-Àmọ́ṣá O
-Gàndújè O
+Àmọ́ṣá B-PER
+Gàndújè I-PER
 ní O
 ó O
 se O

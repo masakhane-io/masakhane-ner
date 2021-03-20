@@ -124,7 +124,7 @@ porn O
 . O
 """" O
 
-Mai B-PER
+Mai B-DATE
 tok O
 for O
 twitter B-ORG
@@ -260,7 +260,7 @@ for O
 streaming O
 platform O
 Pornhub B-ORG
-2018 B-DATE
+2018 I-DATE
 . O
 
 Mia B-PER
@@ -301,7 +301,7 @@ story O
 and O
 move O
 to O
-Austin B-LOC
+Austin B-PER
 to O
 try O
 and O
@@ -328,7 +328,7 @@ make O
 plenti O
 money O
 from O
-Porn O
+Porn B-PER
 acting O
 . O
 
@@ -550,7 +550,7 @@ for O
 di O
 Big O
 Brother O
-Nigeria B-LOC
+Nigeria O
 show O
 without O
 permission O
@@ -681,7 +681,7 @@ dey O
 for O
 Big O
 Brother O
-Nigeria B-LOC
+Nigeria O
 show O
 and O
 dem O
@@ -711,7 +711,7 @@ dey O
 attached O
 to O
 di O
-Met B-ORG
+Met O
 transformation O
 command O
 , O
@@ -796,7 +796,7 @@ Pidgin I-ORG
 she O
 say O
 di O
-Met B-ORG
+Met B-PER
 no O
 support O
 di O
@@ -807,7 +807,7 @@ she O
 no O
 represent O
 di O
-Met B-ORG
+Met B-PER
 as O
 she O
 appear O
@@ -838,7 +838,7 @@ bad O
 name O
 to O
 di O
-Met B-ORG
+Met B-PER
 weda O
 on O
 or O
@@ -1023,7 +1023,7 @@ profile O
 inside O
 Africa B-LOC
 Magic I-ORG
-website I-ORG
+website O
 , O
 she O
 bin O
@@ -1291,7 +1291,7 @@ Khafi B-PER
 di O
 policewoman O
 wey O
-Met O
+Met B-ORG
 police O
 for O
 UK B-LOC
@@ -1486,10 +1486,10 @@ moving O
 van O
 along O
 Lekki B-LOC
-- O
-Ikoyi B-LOC
-link I-LOC
-Bridge I-LOC
+- I-LOC
+Ikoyi I-LOC
+link O
+Bridge O
 , O
 spread O
 for O
@@ -1502,7 +1502,7 @@ im O
 release O
 music O
 video O
-'Agege' B-LOC
+'Agege' O
 wey O
 show O
 scene O
@@ -1530,7 +1530,7 @@ release O
 di O
 music O
 video O
-Agege B-LOC
+Agege B-PER
 while O
 Teckno B-PER
 still O
@@ -1920,7 +1920,7 @@ Dem O
 House O
 . O
 
-Elozonam B-PER
+Elozonam O
 na O
 di O
 second O
@@ -2055,8 +2055,8 @@ Late O
 Night O
 Show O
 ontop O
-American O
-TV O
+American B-ORG
+TV I-ORG
 , O
 with O
 Jimmy B-PER
@@ -2530,8 +2530,8 @@ become O
 popular O
 during O
 di O
-year B-DATE
-2000 I-DATE
+year O
+2000 B-DATE
 wen O
 im O
 act O
@@ -2955,7 +2955,7 @@ foto O
 . O
 
 Di O
-US B-ORG
+US B-LOC
 Centre I-ORG
 for I-ORG
 Disease I-ORG
@@ -3414,7 +3414,7 @@ report O
 Di O
 Ogun B-ORG
 State I-ORG
-government I-ORG
+government O
 inside O
 statement O
 tok O
@@ -3507,8 +3507,8 @@ Ikuenobe B-PER
 wey O
 follow O
 BBC B-ORG
-Yemisi B-PER
-Adegoke I-PER
+Yemisi I-ORG
+Adegoke I-ORG
 tok O
 say O
 di O
@@ -3833,9 +3833,9 @@ report O
 . O
 
 Di O
-Brazilian B-ORG
-health O
-ministry O
+Brazilian O
+health I-ORG
+ministry I-ORG
 don O
 sama O
 warning O
@@ -3882,7 +3882,7 @@ infection O
 . O
 
 Lagos B-LOC
-State I-LOC
+State O
 goment O
 don O
 release O
@@ -4449,7 +4449,7 @@ rape O
 . O
 
 Nigerian O
-Centre B-ORG
+Centre I-ORG
 for I-ORG
 Disease I-ORG
 Control I-ORG
@@ -4465,7 +4465,7 @@ publish O
 di O
 first O
 African O
-SARS O
+SARS B-ORG
 - O
 CoV O
 - O
@@ -4710,7 +4710,7 @@ for I-ORG
 the I-ORG
 Genomics I-ORG
 of I-ORG
-Infectious O
+Infectious I-ORG
 Disease I-ORG
 ( O
 ACEGID B-ORG
@@ -4802,7 +4802,7 @@ evening I-DATE
 . O
 
 Lagos B-LOC
-State I-LOC
+State O
 authorities O
 release O
 statement O
@@ -4869,7 +4869,7 @@ don O
 hand O
 over O
 to O
-Police B-ORG
+Police O
 . O
 
 Di O
@@ -4887,7 +4887,7 @@ according O
 to O
 statement O
 wey O
-LASEMA B-ORG
+LASEMA B-PER
 oga O
 Dr O
 Olufemi B-PER
@@ -5062,8 +5062,8 @@ appointment O
 wey O
 go O
 first O
-last O
-three B-DATE
+last B-DATE
+three I-DATE
 months I-DATE
 go O
 begin O
@@ -5362,7 +5362,7 @@ Mohammed I-LOC
 International I-LOC
 Airport I-LOC
 , O
-MMIA O
+MMIA B-LOC
 . O
 
 Earlier O
@@ -5424,7 +5424,7 @@ Lagos B-LOC
 . O
 
 Nigerian O
-Ministry B-ORG
+Ministry I-ORG
 of I-ORG
 Health I-ORG
 confam O
@@ -5514,7 +5514,7 @@ for O
 Kano B-LOC
 don O
 cancel O
-Abuja B-ORG
+Abuja B-LOC
 High I-ORG
 Court I-ORG
 decision O
@@ -5568,8 +5568,8 @@ Danlami B-PER
 Senchi I-PER
 of O
 di O
-federal B-ORG
-High I-ORG
+federal O
+High B-ORG
 Court I-ORG
 , O
 Abuja B-LOC
@@ -5589,8 +5589,8 @@ dia O
 constitution O
 and O
 as O
-Oshiomhole B-PER
-ward O
+Oshiomhole B-LOC
+ward I-LOC
 bin O
 don O
 suspend O
@@ -5699,7 +5699,7 @@ Reward O
 for O
 Justice O
 programme O
-Shekau B-PER
+Shekau B-LOC
 from O
 Yobe B-LOC
 State I-LOC
@@ -5708,7 +5708,7 @@ North B-LOC
 East I-LOC
 part I-LOC
 of I-LOC
-Nigeria I-LOC
+Nigeria B-LOC
 . O
 
 Although O
@@ -5720,7 +5720,7 @@ for O
 Shekau B-PER
 don O
 dey O
-since O
+since B-DATE
 2013 B-DATE
 , O
 di O
@@ -5765,7 +5765,7 @@ send O
 dem O
 message O
 on O
-Whatsapp B-ORG
+Whatsapp O
 or O
 use O
 di O
@@ -6050,7 +6050,7 @@ net O
 . O
 
 Nigeria B-LOC
-House O
+House I-ORG
 of I-ORG
 Representatives I-ORG
 don O
@@ -6176,7 +6176,7 @@ for O
 disease O
 control O
 ( O
-NCDC B-ORG
+NCDC O
 ) O
 , O
 say O
@@ -6242,7 +6242,7 @@ na O
 im O
 di O
 Nigerian O
-Ministry B-ORG
+Ministry I-ORG
 of I-ORG
 Health I-ORG
 confam O
@@ -6903,7 +6903,7 @@ no O
 confidence O
 for O
 Oga O
-Oshiomhole B-PER
+Oshiomhole B-LOC
 on O
 Tuesday B-DATE
 , O
@@ -6937,7 +6937,7 @@ am O
 and O
 im O
 state O
-Govnor O
+Govnor B-PER
 Godwin B-PER
 Obaseki I-PER
 dey O
@@ -7573,8 +7573,8 @@ Zhang I-PER
 wey O
 be O
 'Wakilin O
-Yan O
-China' B-LOC
+Yan B-PER
+China' I-PER
 leader O
 of O
 di O
@@ -7895,7 +7895,7 @@ for O
 Igabi B-LOC
 local O
 goment O
-area O
+area I-LOC
 . O
 
 But O
@@ -8018,7 +8018,7 @@ di O
 Ecumenical B-LOC
 Centre I-LOC
 to O
-Our B-PER
+Our O
 Lady O
 Queen O
 of O
@@ -8037,7 +8037,7 @@ Catholic B-ORG
 Bishop I-ORG
 Conference I-ORG
 of I-ORG
-Nigeria B-LOC
+Nigeria I-ORG
 , O
 CBCN B-ORG
 , O
@@ -8266,7 +8266,7 @@ Justice O
 of O
 Nigeria B-LOC
 , O
-CJN O
+CJN B-ORG
 , O
 Justice O
 Tanko B-PER
@@ -8435,7 +8435,7 @@ uphold O
 di O
 victory O
 of O
-Uzodinma B-PER
+Uzodinma B-LOC
 for O
 March B-DATE
 9 I-DATE
@@ -8460,7 +8460,7 @@ Oga O
 Ihedioha B-PER
 and O
 di O
-PDP O
+PDP B-ORG
 , O
 for O
 dia O
@@ -8550,7 +8550,7 @@ poll O
 
 Di O
 Governorship O
-Election O
+Election I-ORG
 Petition I-ORG
 Tribunal I-ORG
 and O
@@ -8558,7 +8558,7 @@ Court B-ORG
 of I-ORG
 Appeal I-ORG
 support O
-INEC B-ORG
+INEC O
 decision O
 and O
 dismiss O
@@ -8600,7 +8600,7 @@ January I-DATE
 . O
 
 Nigeria B-LOC
-Police I-ORG
+Police O
 for O
 Taraba B-LOC
 state I-LOC
@@ -8727,7 +8727,7 @@ teacher O
 for O
 one O
 Primary O
-School I-ORG
+School O
 for O
 Bali B-LOC
 local O
@@ -8908,7 +8908,7 @@ now O
 . O
 
 Madam B-PER
-Mary B-PER
+Mary I-PER
 stil O
 dey O
 police O
@@ -8944,15 +8944,15 @@ number O
 dey O
 go O
 up O
-evri B-DATE
-hour I-DATE
+evri O
+hour O
 , O
 """" O
 na O
 wetin O
 di O
 Lagos B-LOC
-State I-LOC
+State O
 Commissioner O
 of O
 Health O
@@ -9000,8 +9000,8 @@ quarantine O
 . O
 
 Di O
-Health O
-Commissioner O
+Health B-ORG
+Commissioner I-ORG
 tok O
 dis O
 one O
@@ -9013,7 +9013,7 @@ di O
 Infectious B-ORG
 Disease I-ORG
 Hospital I-ORG
-for O
+for I-ORG
 Yaba B-LOC
 wey O
 im O
@@ -9806,8 +9806,8 @@ safe O
 house O
 , O
 di O
-Ark B-LOC
-Shelter I-LOC
+Ark B-ORG
+Shelter I-ORG
 , O
 director O
 Nana B-PER
@@ -10465,7 +10465,7 @@ Ebenezer B-PER
 Bonsu I-PER
 appear O
 before O
-Kumasi B-ORG
+Kumasi B-LOC
 circuit I-ORG
 court I-ORG
 today B-DATE
@@ -10684,10 +10684,10 @@ you O
 add O
 the O
 Obuasi B-LOC
-market I-LOC
+market O
 and O
 Tema B-LOC
-factory O
+factory I-LOC
 incident O
 , O
 e O
@@ -10747,7 +10747,7 @@ infections O
 wey O
 de O
 Tema B-LOC
-industrial I-LOC
+industrial O
 factory O
 reduce O
 dema O
@@ -11070,8 +11070,8 @@ build O
 hospitals O
 in O
 de O
-last O
-three B-DATE
+last B-DATE
+three I-DATE
 years I-DATE
 of O
 governance O
@@ -11305,7 +11305,7 @@ law O
 . O
 
 Govnor B-PER
-Babajide I-PER
+Babajide B-PER
 Sanwo I-PER
 - I-PER
 Olu I-PER
@@ -11774,7 +11774,7 @@ dis O
 reason O
 Prez B-PER
 Akufo I-PER
-- O
+- I-PER
 Addo I-PER
 lift O
 de O
@@ -11825,13 +11825,13 @@ like O
 Noguchi B-ORG
 Memorial I-ORG
 Institute I-ORG
-for O
-Medical O
+for I-ORG
+Medical I-ORG
 Research I-ORG
 den O
 Kumasi B-ORG
 Center I-ORG
-for O
+for I-ORG
 Collaborative I-ORG
 Research I-ORG
 den O
@@ -12010,7 +12010,7 @@ geographic O
 footprint O
 . O
 
-Govment B-ORG
+Govment O
 manage O
 work O
 plus O
@@ -12045,8 +12045,8 @@ contact O
 tracing O
 efforts O
 by O
-Ghana B-ORG
-Health O
+Ghana B-LOC
+Health I-ORG
 Officials O
 , O
 Prez B-PER
@@ -12084,8 +12084,8 @@ hotspots O
 closely O
 . O
 
-Govment O
-of O
+Govment B-ORG
+of I-ORG
 Ghana B-LOC
 say O
 den O
@@ -12858,8 +12858,8 @@ setback O
 . O
 
 Na O
-Chad B-ORG
-Army I-ORG
+Chad B-LOC
+Army O
 get O
 more O
 experience O
@@ -12935,7 +12935,7 @@ north B-LOC
 east I-LOC
 part I-LOC
 of I-LOC
-di I-LOC
+di O
 kontri I-LOC
 . O
 
@@ -13256,7 +13256,7 @@ dis B-DATE
 year I-DATE
 when O
 on O
-TikTop B-ORG
+TikTop O
 wey O
 e O
 start O
@@ -13466,7 +13466,7 @@ now O
 , O
 na O
 for O
-night B-DATE
+night O
 rangers O
 dey O
 see O
@@ -13546,7 +13546,7 @@ five B-DATE
 metres I-DATE
 ( O
 5 B-DATE
-. I-DATE
+. O
 5 I-DATE
 yards I-DATE
 ) O
@@ -13660,7 +13660,7 @@ of O
 lion O
 dey O
 about O
-14 B-DATE
+14 O
 , O
 """" O
 Dis O
@@ -13697,7 +13697,7 @@ di O
 park O
 roads O
 during O
-cold B-DATE
+cold O
 nights O
 for O
 winter B-DATE
@@ -14011,10 +14011,10 @@ and O
 apartments O
 for O
 China B-LOC
-southern O
-city O
-of O
-Guangzhou B-LOC
+southern I-LOC
+city I-LOC
+of I-LOC
+Guangzhou I-LOC
 as O
 local O
 authorities O
@@ -14474,7 +14474,7 @@ separatist O
 fighters O
 for O
 Anglophone O
-regions O
+regions I-LOC
 for O
 drop O
 dia O
@@ -14488,12 +14488,12 @@ de O
 fighting O
 for O
 Northwest B-LOC
-and O
+and I-LOC
 Southwest B-LOC
 Cameroon I-LOC
 . O
 
-SOCADEF B-ORG
+SOCADEF O
 , O
 one O
 of O
@@ -14591,7 +14591,7 @@ call'am O
 pandemic O
 . O
 
-Alredi B-PER
+Alredi O
 , O
 di O
 Syrian B-ORG
@@ -15233,7 +15233,7 @@ make O
 dem O
 dey O
 atleast O
-2cm B-DATE
+2cm O
 away O
 from O
 the O
@@ -15447,8 +15447,8 @@ all O
 Ghanaians O
 for O
 de O
-next O
-three B-DATE
+next B-DATE
+three I-DATE
 months I-DATE
 , O
 that O
@@ -15695,7 +15695,7 @@ arrest O
 53 O
 pipo O
 for O
-eNseleni O
+eNseleni B-LOC
 , O
 inside O
 rural O
@@ -16044,7 +16044,7 @@ doctors' O
 tok O
 during O
 one O
-TV B-ORG
+TV O
 debate O
 and O
 dia O
@@ -16231,9 +16231,9 @@ of O
 research O
 for O
 Inserm B-ORG
-health I-ORG
-research I-ORG
-group I-ORG
+health O
+research O
+group O
 , O
 tok O
 about O
@@ -16258,7 +16258,7 @@ intensive O
 care O
 for O
 Cochin B-LOC
-hospital I-LOC
+hospital O
 for O
 Paris B-LOC
 , O
