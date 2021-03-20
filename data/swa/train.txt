@@ -6689,6 +6689,7 @@ huku O
 kukiwa O
 na O
 hatari O
+
 ya O
 kusambaa O
 katika O
@@ -26143,6 +26144,7 @@ demokrasia O
 huko O
 Hong B-LOC
 Kong I-LOC
+
 . O
 
 China B-LOC
@@ -26274,6 +26276,7 @@ ya O
 karibuni O
 imetumia O
 hatua O
+
 kandamizi O
 kuwakamata O
 waandamanaji O
@@ -28689,6 +28692,7 @@ ya O
 mifumo O
 inayoigiza O
 kile O
+
 ambacho O
 kinafanywa O
 na O
@@ -54721,6 +54725,7 @@ mwisho O
 ya O
 makundi O
 ya O
+
 waasi O
 . O
 

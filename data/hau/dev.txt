@@ -1862,6 +1862,7 @@ bude O
 kafar O
 cutar O
 dasu O
+
 tare O
 da O
 sasu O
@@ -2294,6 +2295,7 @@ alhakin O
 da O
 kundin O
 tsarin O
+
 mulki O
 ya O
 dora O
@@ -5391,6 +5393,7 @@ daya O
 , O
 wato O
 lambar O
+
 Zinari O
 . O
 
@@ -6494,6 +6497,7 @@ da O
 Steele B-PER
 ya O
 gudanar O
+
 ba O
 , O
 ko O

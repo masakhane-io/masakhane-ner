@@ -4216,6 +4216,7 @@ haya O
 Meghan B-PER
 amejibu O
 : O
+
 “ O
 Ukweli O
 ni O
@@ -10085,6 +10086,7 @@ katika O
 kura O
 ya O
 urais O
+
 iliyofanyika O
 siku O
 hiyo O

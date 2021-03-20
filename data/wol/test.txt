@@ -6240,6 +6240,7 @@ seen O
 i O
 doom O
 te O
+
 jubluwaay O
 bi O
 doonuloon O
@@ -7841,6 +7842,7 @@ Seex B-PER
 Ahmadu I-PER
 Bàmba I-PER
 , O
+
 Walteer B-PER
 Órotneey I-PER
 . O
@@ -10426,6 +10428,7 @@ junni O
 yu O
 teg O
 juróom O
+
 ñatti O
 téemeer O
 ak O
