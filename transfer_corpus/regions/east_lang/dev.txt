@@ -3213,6 +3213,7 @@ kugaragara O
 mu O
 bintu O
 nk’ibyo O
+
 [ O
 ibibazo O
 Gasingwa B-PER
@@ -12791,7 +12792,6 @@ in O
 prison O
 . O
 
-​ O
 Iwapo O
 atakutikana O
 na O

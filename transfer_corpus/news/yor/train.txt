@@ -557,6 +557,7 @@ gbogboògbò O
 ìbáṣepọ̀ O
 orílẹ̀ O
 - O
+
 èdèe O
 Nàìjíríà B-LOC
 pẹ̀lú O
@@ -698,6 +699,7 @@ tí O
 bá O
 gba O
 òpópónà O
+
 ẹ̀rọ O
 ayélukára O
 bí O
@@ -1471,6 +1473,7 @@ Times I-ORG
 ṣe O
 tẹ̀ O
 ẹ́ O
+
 jáde O
 . O
 
@@ -1672,6 +1675,7 @@ iléeṣẹ́ O
 Aṣọ́bodè I-ORG
 Nàìjíríà I-ORG
 tí O
+
 wọ́n O
 kóra O
 jọ O
@@ -3836,6 +3840,7 @@ lóríi O
 “ O
 gba O
 """" O
+
 àwọn O
 ètò O
 tí O
@@ -7328,6 +7333,7 @@ ju O
 ti O
 ìgbà O
 kan O
+
 lọ O
 . O
 
@@ -7682,6 +7688,7 @@ kan O
 ní O
 orílẹ̀ O
 - O
+
 èdèe O
 South B-LOC
 Africa I-LOC
@@ -10706,6 +10713,7 @@ láti O
 Ìpele O
 Ìkíni O
 """" O
+
 , O
 gbogbo O
 ojú O
@@ -12858,6 +12866,7 @@ sí O
 àwọn O
 orílẹ̀ O
 - O
+
 èdè O
 tí O
 ó O
@@ -13205,6 +13214,7 @@ Leone I-LOC
 , O
 fún O
 àpẹẹrẹ O
+
 , O
 láti O
 ṣe O
@@ -15211,6 +15221,7 @@ lásìkò O
 ìbò O
 ààrẹ O
 2019 O
+
 . O
 
 A O
@@ -15457,6 +15468,7 @@ jí O
 padà O
 sáyé O
 . O
+
 """" O
 
 Ìjọba O
@@ -16117,6 +16129,7 @@ Ethiopia B-LOC
 , O
 Mozambique B-LOC
 , O
+
 Nàìjíríà B-LOC
 , O
 Tunisia B-LOC
@@ -17316,6 +17329,7 @@ ní O
 fèrèsé O
 tí O
 ìmọ́lẹ̀ O
+
 oòrùn O
 ń O
 tàn O
@@ -17751,6 +17765,7 @@ Adúláwọ̀ I-LOC
 fẹ́ràn O
 - O
 an O
+
 rẹ̀ O
 dé O
 góńgó O
@@ -18450,6 +18465,7 @@ Mùsùlùmí O
 ọmọ O
 Hausa O
 - O
+
 Fulani O
 ) O
 . O
@@ -18731,6 +18747,7 @@ orílẹ̀ O
 , O
 oṣù O
 Erénà O
+
 ( O
 láti O
 yan O
@@ -20308,6 +20325,7 @@ dí O
 tí O
 ó O
 yẹ O
+
 kí O
 ó O
 lọ O
@@ -20465,6 +20483,7 @@ apá O
 àríwá B-LOC
 - I-LOC
 ìlà I-LOC
+
 oòrùn I-LOC
 orílẹ̀ I-LOC
 - I-LOC
@@ -21048,6 +21067,7 @@ kan O
 nípa O
 ìkéde O
 àti O
+
 ìgbéròyìnjáde O
 ṣe O
 sọ O
@@ -21458,6 +21478,7 @@ Oòrùn O
 tí O
 ó O
 jẹ́ O
+
 agbègbè O
 àwọn O
 aráa O
@@ -21561,6 +21582,7 @@ yóò O
 ṣe O
 àmúpapọ̀ O
 àwọn O
+
 nǹkan O
 ọrọ̀ O
 àti O
@@ -21807,6 +21829,7 @@ ti O
 Ilẹ̀ B-LOC
 - I-LOC
 Adúláwọ̀ I-LOC
+
 """" O
 fún O
 ọdún O
@@ -22545,6 +22568,7 @@ máa O
 lò O
 nítorí O
 ó O
+
 lágbára O
 láti O
 dé O
@@ -22704,6 +22728,7 @@ aláràa O
 gbàyídá O
 inúu O
 wọn O
+
 Bond B-ORG
 92 I-ORG
 . I-ORG
@@ -24282,6 +24307,7 @@ máa O
 lò O
 fún O
 kíkọ O
+
 èdè O
 Yorùbá O
 . O
@@ -24717,6 +24743,7 @@ bí O
 Jésù B-PER
 , O
 àti O
+
 alífábẹ́ẹ̀tì O
 Vai O
 ni O
@@ -25448,6 +25475,7 @@ béèrè O
 fún O
 àtìlẹ́yìn O
 fún O
+
 alífábẹ́ẹ̀tì O
 Odùduwà B-PER
 tuntun O
@@ -25599,6 +25627,7 @@ akọ́nilọ́gbọ́n O
 kàtúùnù O
 fún O
 àwọn O
+
 èwe O
 tí O
 kò O
@@ -27374,6 +27403,7 @@ wa O
 aṣiṣẹ́ O
 Ìtumọ̀ O
 Google B-ORG
+
 lọ́fẹ̀ẹ́ O
 , O
 ecent O
@@ -28170,6 +28200,7 @@ fi O
 ẹnu O
 gbà O
 lọ́wọ́ O
+
 àlùfáà O
 . O
 
@@ -29461,6 +29492,7 @@ iṣẹ́ O
 náà O
 Lyudmila B-PER
 Shabuyeva I-PER
+
 sọ̀rọ̀ O
 nínú O
 àkọsílẹ̀ O
@@ -31800,6 +31832,7 @@ ní O
 tí O
 ó O
 pọ̀ O
+
 nínú O
 . O
 
@@ -34346,6 +34379,7 @@ nínú O
 láti O
 jà O
 fún O
+
 ẹ̀tọ́ọ O
 wọn O
 . O
@@ -37201,6 +37235,7 @@ gbàgbé O
 ẹgbẹẹ̀gbẹ̀rún O
 alátìlẹ́yìn O
 orí O
+
 ẹ̀rọ O
 - O
 ayélujára O
@@ -38099,6 +38134,7 @@ wọ́n O
 ń O
 dúró O
 de O
+
 ìsìnkú O
 tí O
 ó O
@@ -39174,6 +39210,7 @@ han O
 ayé O
 kí O
 gbogbo O
+
 ènìyàn O
 lè O
 rántí O
@@ -40588,6 +40625,7 @@ Abódiakọ O
 akọ́diabo O
 Ènìyàn O
 wọlé O
+
 nínú O
 oṣù O
 Ẹrẹ́nà O
@@ -41285,6 +41323,7 @@ NADRA B-ORG
 láti O
 kàwé O
 , O
+
 iṣẹ́ O
 nínú O
 káràkátà O
@@ -42806,6 +42845,7 @@ bí O
 ọ̀rọ̀ O
 lọ́kọláya O
 ṣe O
+
 rí O
 nìyẹn O
 … O
@@ -44295,6 +44335,7 @@ a O
 dé O
 sínú O
 ìṣèlú O
+
 orílẹ̀ O
 - O
 èdè O
@@ -48662,6 +48703,7 @@ fa O
 aṣọ O
 iyì O
 àti O
+
 ìtẹ̀síwájú O
 orílè O
 - O
@@ -49313,6 +49355,7 @@ tí O
 ó O
 ní O
 ìrírí O
+
 ìgbàlódé O
 . O
 
@@ -50059,6 +50102,7 @@ pẹ̀lú O
 àti O
 àgbékalẹ̀ O
 ètò O
+
 mìíràn O
 tí O
 ó O
@@ -50984,6 +51028,7 @@ gẹ́gẹ́ O
 bíi O
 aṣiṣẹ́ O
 bíi O
+
 Adájọ́ O
 Àgbà O
 Orílẹ̀ O
@@ -52335,6 +52380,7 @@ yọ́ O
 ìgbàgbọ́ O
 wípé O
 Ìwọ́de O
+
 Ojúnà O
 jẹ́ O
 ohun O
@@ -53425,6 +53471,7 @@ tí O
 ó O
 ń O
 bá O
+
 òṣìṣẹ́ O
 akọrin O
 kiri O

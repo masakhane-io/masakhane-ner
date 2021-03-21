@@ -2847,6 +2847,7 @@ shekara O
 ta O
 dubu O
 biyu O
+
 da O
 goma O
 sha O
@@ -3643,6 +3644,7 @@ Trump B-PER
 din O
 ya O
 kore O
+
 shi O
 daga O
 mukaminsa O
@@ -4796,6 +4798,7 @@ suke O
 kunshe O
 a O
 takardar O
+
 kidayar O
 . O
 
@@ -5817,6 +5820,7 @@ musamman O
 Mueller B-PER
 hadin O
 kai O
+
 a O
 binciken O
 da O
@@ -6193,6 +6197,7 @@ miliyoyin O
 daloli O
 da O
 gwamnatin O
+
 Amurka B-LOC
 zata O
 taimakawa O
@@ -6277,6 +6282,7 @@ da O
 kasa O
 a O
 cikin O
+
 Afrika B-LOC
 . O
 
@@ -15211,6 +15217,7 @@ Nassarawa I-LOC
 , O
 Cross B-LOC
 Rivers I-LOC
+
 , O
 Oyo B-LOC
 , O
@@ -47942,6 +47949,7 @@ náà O
 tí O
 wọ́n O
 ra O
+
 ọ̀kọ̀ọ̀kan O
 - O
 an O
@@ -49170,6 +49178,7 @@ gbé O
 àtẹ̀jáde O
 sí O
 orí O
+
 ayélujára O
 . O
 
@@ -50426,6 +50435,7 @@ tí O
 ó O
 ti O
 kó O
+
 kòkòrò O
 àrùn O
 Kòrónà O
@@ -53150,6 +53160,7 @@ kónílégbélé O
 """" O
 yìí O
 kan O
+
 náà O
 . O
 
@@ -53658,6 +53669,7 @@ Al B-ORG
 Jazeera I-ORG
 ti O
 ṣe O
+
 jíyìn O
 ìròyìn O
 náà O
@@ -53736,6 +53748,7 @@ rọrùn O
 fún O
 àrùn O
 ìbálòpọ̀ O
+
 láti O
 lúgọ O
 sí O
@@ -53856,6 +53869,7 @@ Amẹ́ríkà B-LOC
 ṣe O
 ibùgbé O
 — O
+
 láti O
 wá O
 ṣe O
@@ -54068,6 +54082,7 @@ kòkòrò O
 àìfojúrí O
 kòrónà O
 tí O
+
 kò O
 bá O
 à O
@@ -54326,6 +54341,7 @@ jù O
 lọ O
 lórí O
 ìgbàṣẹ O
+
 lọ́wọ́ O
 àwọn O
 ènìyàn O
@@ -54461,6 +54477,7 @@ tí O
 CDC B-ORG
 , O
 WHO B-ORG
+
 àti O
 NIH B-ORG
 kó O
@@ -54631,6 +54648,7 @@ ní O
 jọ O
 ń O
 parapọ̀ O
+
 ṣe O
 , O
 tí O
@@ -55287,6 +55305,7 @@ wọ́n O
 fún O
 àwọn O
 ní O
+
 ìtọ́jú O
 tí O
 ó O
@@ -55358,6 +55377,7 @@ dóòlà O
 àwọn O
 ènìyàn O
 níkẹyìn O
+
 . O
 
 Nígbà O
@@ -57652,6 +57672,7 @@ tí O
 fa O
 ìlọsíwájú O
 wọn O
+
 sẹ́yìn O
 . O
 
@@ -57726,6 +57747,7 @@ fi O
 túláàsì O
 mú O
 sí O
+
 ìgbẹ̀sìn O
 . O
 
@@ -59590,6 +59612,7 @@ ní O
 “ O
 ète O
 wọ́n O
+
 ṣiṣẹ́ O
 bí O
 ìyọlẹ́nu O
@@ -59878,6 +59901,7 @@ bí O
 àṣà O
 ìdákẹ́ O
 rọrọ O
+
 ti O
 ṣe O
 rinlẹ̀ O
@@ -60047,6 +60071,7 @@ ayélujára O
 bí O
 ajere O
 tí O
+
 ó O
 wọ́pọ̀ O
 ní O
@@ -60247,6 +60272,7 @@ bí O
 ọ̀pọ̀lọpọ̀ O
 ọdún O
 , O
+
 ní O
 èyí O
 tí O
@@ -61085,6 +61111,7 @@ tí O
 sùgbọ́n O
 ìjọba O
 àpapọ̀ O
+
 pèsè O
 ètò O
 ìlànà O
@@ -61167,6 +61194,7 @@ ti O
 2020 O
 tí O
 a O
+
 wàyìí O
 láti O
 sọ́ra O
@@ -61395,6 +61423,7 @@ FCT B-LOC
 , O
 LÓRÍ O
 ÌTÀNKÁLẸ̀ O
+
 ÀÀRÙN O
 COVID O
 - O
@@ -62498,6 +62527,7 @@ Bàbándédè I-PER
 se O
 rọ O
 àwọn O
+
 arìnrìnàjò O
 láti O
 sọ́ra O
@@ -62577,6 +62607,7 @@ Ajé O
 ọjọ́ O
 kẹtàdínlọ́gbọ̀n O
 , O
+
 osù O
 kẹrin O
 , O
@@ -62745,6 +62776,7 @@ bẹ̀rẹ̀ O
 ìsinmi O
 ní O
 ìjọba O
+
 àpapọ̀ O
 pàsẹ O
 pé O
@@ -62831,6 +62863,7 @@ ní O
 tí O
 àwọn O
 yóò O
+
 fi O
 ránsẹ́ O
 sí O
@@ -63637,6 +63670,7 @@ Edo B-LOC
 ati O
 Bauchi B-LOC
 , O
+
 ẹyọ O
 kan O
 ( O
@@ -64601,6 +64635,7 @@ Buhari I-PER
 igbákejì O
 akọ̀wé O
 àgbà O
+
 ìpínlẹ̀ B-ORG
 tó I-ORG
 ń I-ORG
@@ -65040,6 +65075,7 @@ méjì O
 ) O
 ní O
 ìpínlẹ̀ O
+
 Akwa B-LOC
 Ibom I-LOC
 , O
@@ -65273,6 +65309,7 @@ ikọ̀ O
 ogun O
 ọ̀hún O
 ní O
+
 ìmọ̀ O
 tó O
 gbóhúnjẹ O
@@ -65749,6 +65786,7 @@ máa O
 kópa O
 nínú O
 ààwẹ̀ O
+
 ọ̀hún O
 . O
 
@@ -65819,6 +65857,7 @@ gbàdúrà O
 wọn O
 tàbí O
 pẹ̀lú O
+
 ẹbí O
 wọn O
 . O
@@ -66698,6 +66737,7 @@ si O
 , O
 pẹ̀lú O
 àwọn O
+
 òṣìṣẹ́ O
 tó O
 yẹ O
@@ -66828,6 +66868,7 @@ ayé O
 rẹ̀ O
 sin O
 orílẹ̀ O
+
 èdè O
 Nàíjíríà B-LOC
 tọkàn O
@@ -66957,6 +66998,7 @@ gba O
 ìjọba O
 nímọ̀ràn O
 ní O
+
 orísìrísì O
 ọ̀nà O
 , O
@@ -67034,6 +67076,7 @@ bá O
 olóògbé O
 náà O
 tó O
+
 tún O
 jẹ́ O
 ògbóǹtarìgì O
@@ -67418,6 +67461,7 @@ náà O
 lórí O
 ìròyìn O
 , O
+
 Salihu B-PER
 Tanko I-PER
 Yakasai I-PER
@@ -73744,6 +73788,7 @@ seen O
 i O
 doom O
 te O
+
 jubluwaay O
 bi O
 doonuloon O
@@ -75345,6 +75390,7 @@ Seex B-PER
 Ahmadu I-PER
 Bàmba I-PER
 , O
+
 Walteer B-PER
 Órotneey I-PER
 . O
@@ -77930,6 +77976,7 @@ junni O
 yu O
 teg O
 juróom O
+
 ñatti O
 téemeer O
 ak O
