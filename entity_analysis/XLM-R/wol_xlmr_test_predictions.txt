@@ -72,7 +72,7 @@ ca O
 déngaleereb O
 ngàngunaay O
 bu O
-Burusel B-LOC
+Burusel B-PER
 la O
 ñu O
 daax O
@@ -83,7 +83,7 @@ ci O
 tallata O
 jee O
 ci O
-ngoon I-DATE
+ngoon O
 . O
 
 Ki O
@@ -107,7 +107,7 @@ Giraud I-ORG
 muy O
 tuumaal O
 Lewopóol B-PER
-II I-PER
+II I-ORG
 , O
 ne O
 raykatu O
@@ -257,7 +257,7 @@ mu O
 yéegoon O
 ca O
 tënub O
-Léwopóol B-PER
+Léwopóol O
 ll O
 , O
 ngir O
@@ -279,7 +279,7 @@ di O
 la O
 mu O
 wax O
-Alkaati B-LOC
+Alkaati B-PER
 ya O
 laata O
 ñu O
@@ -670,7 +670,7 @@ wopp O
 malade O
 ) O
 
-Albatros B-LOC
+Albatros O
 ak O
 Habiibul B-PER
 Xadiim I-PER
@@ -950,7 +950,7 @@ bitim O
 réew O
 
 ● O
-Bunduxataal B-LOC
+Bunduxataal O
 ak O
 toroxal O
 guy O
@@ -1067,7 +1067,7 @@ sukkandikoo O
 ci O
 waññi O
 gi O
-AFP O
+AFP B-ORG
 def O
 . O
 
@@ -1178,8 +1178,8 @@ Njiitu O
 réewum O
 Amerig B-LOC
 di O
-Donaal B-ORG
-Tërëmp I-ORG
+Donaal B-PER
+Tërëmp I-PER
 xamle O
 na O
 ci O
@@ -1357,7 +1357,7 @@ bi O
 Bunu O
 sukkandikoo O
 ci O
-AFP B-ORG
+AFP B-LOC
 , O
 ca O
 ay O
@@ -1459,7 +1459,7 @@ la O
 Ca O
 Karolin B-LOC
 gu O
-bëjj O
+bëjj B-LOC
 Ganaar B-LOC
 ga O
 , O
@@ -1523,7 +1523,7 @@ la O
 ñu O
 . O
 
-Albatros B-PER
+Albatros O
 ak O
 Abdu B-PER
 Salaam I-PER
@@ -1641,19 +1641,19 @@ Kiriŋ B-LOC
 
 Juróom O
 - O
-benni O
-fan B-DATE
+benni B-DATE
+fan I-DATE
 ci O
-noowàmbar I-DATE
+noowàmbar O
 ci O
-atum I-DATE
+atum B-DATE
 2019 I-DATE
 , O
 FRAPP B-ORG
 ak O
-Forum B-ORG
-sósyaal I-ORG
-Senegale I-ORG
+Forum B-LOC
+sósyaal O
+Senegale B-LOC
 amaloon O
 nañu O
 am O
@@ -1977,7 +1977,7 @@ juróom O
 ) O
 . O
 
-SUEZ B-PER
+SUEZ B-ORG
 mayoon O
 na O
 ay O
@@ -2126,11 +2126,11 @@ Féexalleen O
 Abdu B-PER
 Kariim I-PER
 Géy I-PER
-Xurum I-PER
+Xurum O
 - O
 xàq O
 
-Albatros B-LOC
+Albatros O
 ak O
 Habiibul B-PER
 Xadiim I-PER
@@ -2414,7 +2414,7 @@ Jóob I-PER
 bindkat O
 bi O
 : O
-Habiibul B-PER
+Habiibul O
 Xadiim I-PER
 Géy I-PER
 
@@ -2553,7 +2553,7 @@ ci O
 daa O
 di O
 koy O
-Saponeel B-LOC
+Saponeel O
 ngir O
 man O
 koy O
@@ -2660,7 +2660,7 @@ yi O
 Niral O
 gi O
 mooy O
-Sapoŋ B-PER
+Sapoŋ B-LOC
 mii O
 nu O
 jël O
@@ -3066,10 +3066,10 @@ bi O
 
 Albatros O
 ak O
-Daam B-PER
-Faal I-PER
+Daam O
+Faal O
 
-BATAAXELU B-ORG
+BATAAXELU O
 BENN O
 MA O
 - O
@@ -3080,9 +3080,9 @@ CI O
 JËWRIÑU O
 PAJ O
 MI O
-CI I-LOC
-RÉEW I-LOC
-MI I-LOC
+CI O
+RÉEW B-ORG
+MI O
 
 Gisoon O
 naa O
@@ -3091,7 +3091,7 @@ bànneexu O
 bi O
 ñu O
 génne O
-Kemi O
+Kemi B-LOC
 Sebaa I-PER
 ci O
 Senegaal B-LOC
@@ -3216,7 +3216,7 @@ kenn O
 
 Moom O
 ( O
-Kemi B-ORG
+Kemi B-PER
 Sebaa I-PER
 ) O
 , O
@@ -3350,14 +3350,14 @@ sunu O
 kanam O
 . O
 
-BATAAXEL B-ORG
+BATAAXEL O
 BU O
-NATALI O
+NATALI B-LOC
 YÀMB O
 JËM O
 CI O
 NOONI O
-AFRIG B-LOC
+AFRIG O
 YI O
 
 Ginnaaw O
@@ -3486,7 +3486,7 @@ g O
 = O
 gouvernement O
 
-Albatros B-PER
+Albatros O
 ak O
 Saasumaan B-PER
 bi O
@@ -3519,7 +3519,7 @@ askan O
 wi O
 ci O
 ñatti O
-fan B-DATE
+fan I-DATE
 ci O
 awril B-DATE
 , O
@@ -3691,7 +3691,7 @@ ngir O
 dimbali O
 MÓODU O
 - O
-MÓODU O
+MÓODU B-ORG
 yi O
 . O
 
@@ -3699,7 +3699,7 @@ DOGAL O
 YI O
 MAKI B-PER
 SÀLL I-PER
-JËL I-PER
+JËL O
 MU O
 JËM O
 CI O
@@ -3756,8 +3756,8 @@ Njiitu O
 réewum O
 Amerig B-LOC
 di O
-Donaal B-ORG
-Tërëmp I-ORG
+Donaal B-PER
+Tërëmp I-PER
 xaatim O
 na O
 ci O
@@ -4007,7 +4007,7 @@ bor O
 bi O
 . O
 
-Albatros B-PER
+Albatros O
 ak O
 Abdu B-PER
 Salaam I-PER
@@ -4016,7 +4016,7 @@ Saar I-PER
 MAKI B-PER
 SÀLL I-PER
 DAA O
-BËGG B-LOC
+BËGG O
 ÑU O
 NEENAL O
 BORUB O
@@ -4099,11 +4099,11 @@ Kafrin B-LOC
 tax O
 na O
 ci O
-dibéer B-DATE
+dibéer O
 benn O
 panu O
 maars O
-2020 I-DATE
+2020 B-DATE
 bi O
 4i O
 waxtu O
@@ -4187,7 +4187,7 @@ ci O
 - O
 téeméer O
 ak O
-fanweer O
+fanweer B-DATE
 ak O
 ciy O
 milyoŋ O
@@ -4249,10 +4249,10 @@ ni O
 mel O
 . O
 
-JÀPP B-PER
-GU I-PER
+JÀPP O
+GU O
 AM O
-SOLO I-PER
+SOLO O
 CI O
 AY O
 GARAB O
@@ -4284,7 +4284,7 @@ mi O
 ñu O
 defaree O
 këri O
-Grassfeild O
+Grassfeild B-PER
 laataa O
 mbéefarkat O
 yi O
@@ -4353,7 +4353,7 @@ dox O
 ci O
 diggante O
 askani O
-Grassfeild O
+Grassfeild B-PER
 ak O
 mbéefarkat O
 bi O
@@ -4448,10 +4448,10 @@ junniy O
 000 O
 ) O
 doomi O
-Grassfeild O
+Grassfeild B-PER
 ci O
 diggante O
-atum B-DATE
+atum O
 junni O
 ak O
 juróom O
@@ -4609,7 +4609,7 @@ ya O
 . O
 
 Ci O
-diggante B-DATE
+diggante O
 atum B-DATE
 1877 I-DATE
 ba I-DATE
@@ -4744,7 +4744,7 @@ l’immeuble O
 , O
 batiment O
 
-Albatros B-LOC
+Albatros O
 ak O
 Habiibul B-PER
 Xadiim I-PER
@@ -4840,7 +4840,7 @@ ga O
 muy O
 Keeñaa B-LOC
 di O
-Jibuti B-LOC
+Jibuti B-PER
 , O
 kenn O
 amu O
@@ -4985,7 +4985,7 @@ yi O
 demoon O
 xeexali O
 Farãas B-LOC
-Ak B-PER
+Ak O
 Mari B-PER
 Ñanjuru I-PER
 soxnas O
@@ -5004,9 +5004,9 @@ Niki O
 bisub O
 tay O
 bii O
-02 B-DATE
-suwe I-DATE
-1900 I-DATE
+02 O
+suwe O
+1900 B-DATE
 , O
 ci O
 la O
@@ -5091,11 +5091,11 @@ jamonoom O
 
 Ci O
 02 B-DATE
-awril I-DATE
+awril B-DATE
 1882 I-DATE
 ci O
 xareb O
-Woyowoyànko O
+Woyowoyànko B-LOC
 , O
 jàmbaari O
 xarekat O
@@ -5262,7 +5262,7 @@ sunu O
 mboor O
 , O
 sunu O
-Islaam B-LOC
+Islaam B-PER
 du O
 jag O
 sunu O
@@ -5550,8 +5550,8 @@ ak O
 juróom O
 ginnaaw O
 ba O
-Kàppiten B-LOC
-Mbay O
+Kàppiten B-PER
+Mbay I-PER
 ñàkkee O
 bakkanam O
 ca O
@@ -5565,15 +5565,15 @@ diggante O
 waaso O
 yi O
 di O
-Utu O
+Utu B-LOC
 ya O
 ak O
-Tutsi O
+Tutsi B-LOC
 ya O
 . O
 
 Kàppiten O
-Mbay B-PER
+Mbay O
 Jaañ O
 ab O
 ofise O
@@ -5602,7 +5602,7 @@ di O
 Utu B-ORG
 yi O
 ak O
-Tutsi B-ORG
+Tutsi B-LOC
 ya O
 dëkke O
 mooma O
@@ -5631,7 +5631,7 @@ mbootaayu O
 xeet O
 yi O
 di O
-MINUAR B-ORG
+MINUAR B-LOC
 . O
 
 Lako O
@@ -5658,19 +5658,19 @@ tànku O
 tubéyam O
 ci O
 wallu O
-Tutsi B-ORG
+Tutsi B-LOC
 ya O
 ak O
 lenn O
 ci O
-Utu O
+Utu B-LOC
 ya O
 bokkul O
 woon O
 ca O
 ñay O
 bóom O
-Tutsi O
+Tutsi B-LOC
 ya O
 . O
 
@@ -5688,7 +5688,7 @@ ci O
 ñoom O
 . O
 
-Fanweeri O
+Fanweeri B-DATE
 fan I-DATE
 ak O
 benn O
@@ -5736,8 +5736,8 @@ si O
 
 Fekkoon O
 booba O
-fukki O
-fan O
+fukki B-DATE
+fan I-DATE
 ak O
 ñaar O
 rekk O
@@ -5828,8 +5828,8 @@ bi O
 ngi O
 ko O
 duppe O
-Mbay O
-Jaañ O
+Mbay B-PER
+Jaañ I-PER
 . O
 
 Senegaal B-LOC
@@ -5838,7 +5838,7 @@ Dallaire I-PER
 mi O
 jiite O
 woon O
-Kureel O
+Kureel B-PER
 ga O
 mu O
 nekkon O
@@ -5848,7 +5848,7 @@ na O
 seede O
 bii O
 culture O
-Mbay O
+Mbay B-PER
 Jaañ I-PER
 : O
 Moom O
@@ -5873,7 +5873,7 @@ muccal O
 ci O
 loxoy O
 bóomkatu O
-Tutsi O
+Tutsi B-LOC
 ya O
 seen O
 i O
@@ -5913,10 +5913,10 @@ jëli O
 Mboor O
 / O
 Fàttaliku B-LOC
-31 I-DATE
-weeru I-DATE
-me I-DATE
-atum I-DATE
+31 O
+weeru O
+me O
+atum B-DATE
 1994 I-DATE
 31 I-DATE
 weeru I-DATE
@@ -5963,7 +5963,7 @@ askan O
 Ci O
 mboor O
 , O
-Ñaas O
+Ñaas B-LOC
 nekkoon O
 na O
 baax O
@@ -6417,7 +6417,7 @@ habitudes O
 / O
 
 Ngañ O
-Aaw B-PER
+Aaw O
 / O
 awdemba90 O
 @ O
@@ -6603,7 +6603,7 @@ Afirig B-LOC
 am O
 nanu O
 fi O
-Ranawalunaa O
+Ranawalunaa B-LOC
 3 O
 , O
 Ndaxte O
@@ -6722,7 +6722,7 @@ ay O
 paŋkaar O
 ñoo O
 gatandu O
-Degóol B-LOC
+Degóol O
 ci O
 atum B-DATE
 junni O
@@ -6945,7 +6945,7 @@ manatul O
 a O
 yéeg O
 ndax O
-Jaan B-PER
+Jaan B-LOC
 jaa O
 ngi O
 koy O
@@ -7151,7 +7151,7 @@ yi O
 tëju O
 . O
 
-Albatros B-LOC
+Albatros O
 ak O
 Habiibul B-PER
 Xadiim I-PER
@@ -7226,7 +7226,7 @@ fara O
 ba O
 woon O
 ca O
-Filaadelfi B-LOC
+Filaadelfi B-PER
 , O
 Frank B-PER
 Rizzo I-PER
@@ -7302,7 +7302,7 @@ at O
 bu O
 mu O
 mbootaayu O
-GEN B-LOC
+GEN O
 . O
 Robert B-PER
 E I-PER
@@ -7358,7 +7358,7 @@ suufus O
 dëkk O
 bii O
 di O
-Nashwil B-LOC
+Nashwil B-PER
 . O
 
 Ca O
@@ -7371,7 +7371,7 @@ ba O
 siiwal O
 na O
 ci O
-Tiwitéer O
+Tiwitéer B-ORG
 ay O
 naataali O
 tën O
@@ -7492,8 +7492,8 @@ tën O
 yooyu O
 … O
 ? O
-Lu O
-Feederbu O
+Lu B-ORG
+Feederbu I-ORG
 di O
 def O
 Ndar B-LOC
@@ -7522,7 +7522,7 @@ ko O
 . O
 
 Ngañ O
-Aaw B-PER
+Aaw O
 awdemba90 O
 @ O
 gmail O
@@ -7537,7 +7537,7 @@ xar O
 - O
 kanam O
 , O
-Naka B-PER
+Naka B-LOC
 Afrig B-LOC
 ? O
 
@@ -7556,16 +7556,16 @@ ca O
 ña O
 daaneel O
 tënu O
-Wiktoor O
-Solseer O
+Wiktoor B-LOC
+Solseer I-ORG
 ca O
 Martinig B-LOC
 : O
 
 Tën O
 bu O
-Wiktoor O
-Solseermu O
+Wiktoor B-LOC
+Solseermu B-ORG
 bon O
 mi O
 daaneel O
@@ -7659,7 +7659,7 @@ raciste O
 
 Ñaar O
 - O
-fukki O
+fukki B-DATE
 fan I-DATE
 ak O
 ñaar O
@@ -7711,7 +7711,7 @@ sàcc O
 bii O
 di O
 Wiktoor O
-Solseer O
+Solseer B-PER
 daaldi O
 jaar O
 ngir O
@@ -7734,7 +7734,7 @@ koy O
 màggal O
 ñaar O
 - O
-fukki O
+fukki B-DATE
 fan I-DATE
 ak O
 ñaar O
@@ -7762,7 +7762,7 @@ Farãas B-LOC
 bii O
 di O
 Wiktoor O
-Solseer O
+Solseer B-PER
 . O
 
 Doo O
@@ -7840,6 +7840,8 @@ Amoreŋ I-PER
 , O
 Seex B-PER
 Ahmadu I-PER
+Bàmba I-PER
+, O
 
 Walteer O
 Órotneey O
@@ -7922,14 +7924,14 @@ lim O
 : O
 Degóol O
 , O
-Gàndi B-LOC
+Gàndi B-PER
 , O
-Feederbu B-LOC
+Feederbu B-ORG
 iktoor O
 Solsëer B-PER
 , O
 Wiktoor B-PER
-Igóo I-PER
+Igóo B-LOC
 ak O
 Abraham B-PER
 Linkon I-PER
@@ -7958,7 +7960,7 @@ Martinig B-LOC
 , O
 lu O
 tax O
-Feederb O
+Feederb B-ORG
 wéy O
 di O
 taxaw O
@@ -7968,7 +7970,7 @@ Ndar B-LOC
 ? O
 
 Korite O
-Gaawu O
+Gaawu B-LOC
 walla O
 Dibéer B-ORG
 , O
@@ -7997,9 +7999,9 @@ Aale I-PER
 Lan O
 moo O
 tax O
-Singapuur O
+Singapuur B-PER
 , O
-Kore B-LOC
+Kore B-PER
 , O
 Taywaan B-PER
 ak O
@@ -8026,11 +8028,11 @@ la O
 ? O
 
 Daawuda B-PER
-Géy B-PER
+Géy I-PER
 Pikin I-PER
 FRAPP B-ORG
 France I-ORG
-Dégage I-ORG
+Dégage O
 
 Sama O
 jëkkër O
@@ -8623,7 +8625,7 @@ solo O
 
 Dangay O
 daw O
-DEE B-ORG
+DEE O
 , O
 tax O
 ngay O
@@ -8650,7 +8652,7 @@ LEKK O
 ngir O
 mëna O
 dundu O
-DEE O
+DEE B-ORG
 kese O
 la O
 ndax O
@@ -8692,7 +8694,7 @@ Nga O
 gis O
 kon O
 ne O
-DEE B-ORG
+DEE O
 gi O
 ngay O
 daw O
@@ -8710,12 +8712,12 @@ nag O
 DEE B-ORG
 googu O
 ngay O
-LEKK B-ORG
+LEKK O
 , O
 mooy O
 walbëtiku O
 di O
-LEKK B-ORG
+LEKK O
 bis O
 bu O
 Yàlla O
@@ -8763,7 +8765,7 @@ DEE B-ORG
 yitam O
 , O
 luy O
-DEE B-ORG
+DEE O
 moo O
 lay O
 fekk O
@@ -8778,8 +8780,8 @@ yi O
 LEKK O
 la O
 , O
-LEKK B-ORG
-DEE I-PER
+LEKK O
+DEE O
 gi O
 nga O
 doon O
@@ -8803,7 +8805,7 @@ DEE B-ORG
 moo O
 leen O
 di O
-LEKK B-ORG
+LEKK O
 , O
 maanaam O
 suuf O
@@ -8878,7 +8880,7 @@ Al I-PER
 Maqtuum I-PER
 faral O
 di O
-Baamoo O
+Baamoo B-LOC
 . O
 
 Yàlla O
@@ -8908,7 +8910,7 @@ wuute O
 ak O
 jëmm O
 jiy O
-DEE B-ORG
+DEE O
 , O
 maanaam O
 ban O
@@ -8961,12 +8963,12 @@ jii O
 Doomu O
 Aadama B-LOC
 da O
-Nu O
+Nu B-LOC
 koo O
 sàq O
 mu O
 niru O
-Nu O
+Nu B-LOC
 . O
 
 Kon O
@@ -8975,7 +8977,7 @@ ndekete O
 Yàlla O
 génnul O
 doomu O
-Aadama B-PER
+Aadama B-LOC
 ! O
 
 Waaye O
@@ -9002,7 +9004,7 @@ doomu O
 Aadama B-PER
 di O
 daw O
-DEE O
+DEE B-ORG
 gi O
 nga O
 xam O
@@ -9049,10 +9051,10 @@ Filosof O
 bu O
 ñuy O
 wax O
-Socrate B-ORG
+Socrate B-PER
 newoon O
 na O
-Filosof O
+Filosof B-PER
 mooy O
 rekk O
 jàng O
@@ -9292,8 +9294,8 @@ noppi O
 ko O
 . O
 
-Daawuda O
-Géy B-PER
+Daawuda B-PER
+Géy I-PER
 Pikin I-PER
 / O
 FRAPP O
@@ -9785,9 +9787,9 @@ ak O
 xàmmee O
 . O
 
-Wasalaam B-PER
-Sëydinaa I-PER
-Umar I-PER
+Wasalaam O
+Sëydinaa B-PER
+Umar B-PER
 ba O
 
 Tekkikat O
@@ -9799,8 +9801,8 @@ Jóob I-PER
 bindkat O
 yi O
 : O
-Habiibul B-PER
-Xadiim I-PER
+Habiibul O
+Xadiim B-PER
 Géy I-PER
 ak O
 Tuubaa B-LOC
@@ -9825,9 +9827,9 @@ Umar I-PER
 Ba I-PER
 ) O
 
-MBOOR O
+MBOOR B-ORG
 di O
-Histuwaar B-ORG
+Histuwaar O
 , O
 dafa O
 doy O
@@ -10017,9 +10019,9 @@ a O
 gën O
 jeng O
 
-Baabakar B-PER
-Mbay I-PER
-Ndaag I-PER
+Baabakar O
+Mbay O
+Ndaag O
 
 Yàlla O
 alagul O
@@ -10113,7 +10115,7 @@ gi O
 gëstukat O
 ya O
 ca O
-CSSE B-ORG
+CSSE O
 bu O
 daara O
 ju O
@@ -10221,7 +10223,7 @@ ji O
 bunu O
 ña O
 génnee O
-Hoŋkoŋ B-LOC
+Hoŋkoŋ O
 ak O
 Makaawo B-LOC
 . O
@@ -10409,7 +10411,7 @@ fukk O
 ak O
 juróom O
 ( O
-94 B-DATE
+94 O
 . O
 845 O
 ) O
@@ -10420,6 +10422,12 @@ am O
 juróom O
 ñaar O
 téemeer O
+ak O
+ñenti O
+junni O
+yu O
+teg O
+juróom O
 
 ñatti O
 téemeer O
@@ -10437,7 +10445,7 @@ juróom O
 ) O
 . O
 
-Albatros B-PER
+Albatros O
 ak O
 Tuubaa B-PER
 Silla I-PER
@@ -10485,7 +10493,7 @@ nii O
 👇 O
 
 Mbootaayug O
-WAX O
+WAX B-ORG
 ( O
 Wolpf O
 Ak O
@@ -10496,7 +10504,7 @@ leen O
 ko O
 baaxe O
 … O
-763178317 B-DATE
+763178317 O
 
 saabal O
 . O
@@ -10536,7 +10544,7 @@ am O
 ci O
 àllarba O
 jii O
-04 B-DATE
+04 I-DATE
 maars I-DATE
 2020 I-DATE
 ci O
@@ -10601,7 +10609,7 @@ faatu O
 gi O
 . O
 
-Saabal O
+Saabal B-LOC
 . O
 net O
 mu O
@@ -11352,7 +11360,7 @@ moo O
 fi O
 doonoon O
 njiitu O
-OLEMPIGU B-PER
+OLEMPIGU B-ORG
 MARSEY I-PER
 amoon O
 it O
@@ -11476,7 +11484,7 @@ benn O
 1951 B-DATE
 ) O
 ca O
-Càdd B-LOC
+Càdd B-PER
 daaldi O
 faatu O
 bi O
@@ -11499,9 +11507,9 @@ juróom O
 FAATUG O
 MA O
 - O
-BAABA B-PER
-JUUF I-PER
-TE I-PER
+BAABA O
+JUUF O
+TE O
 NU O
 KOY O
 WOOWEE O
@@ -11511,12 +11519,12 @@ PAAB B-PER
 JUUF I-PER
 MOOY I-PER
 JARAG I-PER
-JI I-PER
-ÑUY I-PER
-DIMBALI I-PER
+JI O
+ÑUY O
+DIMBALI O
 NGIR O
-MUY I-PER
-NOYYNjiitu I-PER
+MUY O
+NOYYNjiitu O
 OM B-ORG
 bi O
 fi O
@@ -11590,14 +11598,14 @@ ca O
 Farãas B-LOC
 . O
 
-OM O
+OM B-ORG
 : O
 barug O
 futbal O
 la O
 ca O
 Farãas B-LOC
-Bar I-PER
+Bar I-LOC
 g O
 : O
 nit O
@@ -11628,7 +11636,7 @@ amaat O
 na O
 ndam O
 ca O
-MMA O
+MMA B-ORG
 … O
 
 Doxe O
@@ -11639,7 +11647,7 @@ ngir O
 jàngi O
 Wolof B-ORG
 ca O
-1975 I-DATE
+1975 B-DATE
 
 Ñaxtu O
 ya O
@@ -11730,7 +11738,7 @@ tawatoon O
 Dëkk O
 bii O
 di O
-Maddrit B-ORG
+Maddrit B-PER
 amna O
 133i O
 nit O
@@ -11763,9 +11771,9 @@ dëkk O
 ba O
 . O
 
-Ba O
+Ba B-PER
 ci O
-àjjuma O
+àjjuma B-DATE
 jii O
 ci O
 bëccëg O
@@ -11942,7 +11950,7 @@ Galiisiyaa B-PER
 Loos I-PER
 Osteris I-PER
 ak O
-Kàntaabri O
+Kàntaabri B-PER
 . O
 
 Dëkk O
@@ -11969,7 +11977,7 @@ soxla O
 . O
 
 Réewum O
-Baskk B-LOC
+Baskk O
 moom O
 dogal O
 na O
@@ -12087,7 +12095,7 @@ jamono O
 jii O
 . O
 
-Donaal O
+Donaal B-PER
 Toromp B-LOC
 ci O
 ak O
@@ -12113,10 +12121,10 @@ El B-ORG
 País I-ORG
 
 SEEN B-PER
-XIBAAR I-PER
-I I-PER
-BITIM I-PER
-RÉEW I-PER
+XIBAAR O
+I O
+BITIM O
+RÉEW O
 
 Benn O
 Móodu O
