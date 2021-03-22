@@ -97,7 +97,7 @@ python3 genHtml.py 	--data_list ${datasets[*]} \
 			--path_holistic_file ./$path_fig/${models[0]}"-"${models[1]}/holistic.results \
 			--path_aspect_conf ../$path_aspect_conf \
 			--path_bucket_range ./$path_fig/${models[0]}"-"${models[1]}/bucket.range \
-			> tEval-$task_type.html
+			> tEval-$task_type-masakhane-$langcode.html
 
 
 #sz tEval-$task_type.html
