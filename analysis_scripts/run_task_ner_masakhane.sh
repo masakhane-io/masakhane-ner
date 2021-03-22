@@ -7,7 +7,7 @@ base_dir="./data/"
 
 
 # path of conf file
-path_aspect_conf=$base_dir$task_type"/conf."$task_type"-attributes"
+path_aspect_conf="../../conf.ner-masakhane"
 
 langcode=$1
 
