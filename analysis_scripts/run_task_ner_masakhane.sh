@@ -10,6 +10,8 @@ base_dir="./data/"
 path_aspect_conf="../../conf.ner-masakhane"
 
 langcode=$1
+model0=$2
+model1=$3
 
 # Part1: Dataset Name:  you should put your training and test set in the directory, for example, ./data/conll03/ and name them as train.txt, test.txt, like this:
 # ./data/ner/conll03/data/train.txt
@@ -17,8 +19,8 @@ langcode=$1
 datasets[0]="masakhane-$langcode"
 
 # Part2: Model Name： Two model should be input. If only one, just copy it twice. e.g., model1 = "lstm"  model2 = "lstm"
-models[0]="xlmr"
-models[1]="bilstmcrf"
+models[0]=$model0
+models[1]=$model1
 
 # Part3: Path of result files
 # ./data/ner/conll03/results/connl03_CflairWglove_lstmCrf_9303.txt
@@ -97,7 +99,7 @@ python3 genHtml.py 	--data_list ${datasets[*]} \
 			--path_holistic_file ./$path_fig/${models[0]}"-"${models[1]}/holistic.results \
 			--path_aspect_conf ../$path_aspect_conf \
 			--path_bucket_range ./$path_fig/${models[0]}"-"${models[1]}/bucket.range \
-			> tEval-$task_type-masakhane-$langcode.html
+			> tEval-$task_type-masakhane-$langcode-$model0-$model1.html
 
 
 #sz tEval-$task_type.html
