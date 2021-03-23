@@ -12,7 +12,7 @@ Imo B-LOC
 steeti I-LOC
 bụ O
 Odiziakụ B-PER
-Benson B-PER
+Benson I-PER
 ajụjụọnụ O
 mana O
 o O
@@ -21,7 +21,7 @@ na O
 ihe O
 ahụ O
 ka O
-Ibeawuchi B-PER
+Ibeawuchi O
 kwuru O
 . O
 
@@ -76,13 +76,13 @@ mere O
 
 Udo O
 alọghachịla O
-n'Oshodi B-PER
+n'Oshodi B-LOC
 na O
 Okota B-PER
 dika O
 Ndịgbo O
 bi O
-n'Oshodi B-PER
+n'Oshodi B-LOC
 nakwa O
 ndị O
 na O
@@ -136,7 +136,7 @@ BBC B-ORG
 Igbo O
 rutere O
 n'ehihie B-DATE
-Mọnde B-DATE
+Mọnde I-DATE
 , O
 ọtụtụ O
 n'ime O
@@ -336,7 +336,7 @@ ike O
 ndị O
 agboro O
 kpasoro O
-Ndigbo O
+Ndigbo B-LOC
 na O
 Legos B-LOC
 . O
@@ -383,7 +383,7 @@ agbanyeghị O
 na O
 oku O
 otu O
-Afenifere B-ORG
+Afenifere B-PER
 kpọrọ O
 ndị O
 Yoroba O
@@ -478,9 +478,9 @@ Naịjirịa B-LOC
 
 Ndigbo O
 bi O
-n'Okota B-PER
+n'Okota B-LOC
 na O
-Oshodi B-PER
+Oshodi B-LOC
 chị O
 obi O
 ha O
@@ -622,7 +622,7 @@ enye O
 ya O
 Buhari B-PER
 na O
-Osote B-PER
+Osote B-LOC
 ya O
 bụ O
 Yemi B-PER
@@ -634,8 +634,8 @@ Abụọ I-DATE
 nke I-DATE
 ehihie I-DATE
 taa I-DATE
-bụ I-DATE
-Wenezde I-DATE
+bụ O
+Wenezde B-DATE
 . O
 
 BBC B-ORG
@@ -705,14 +705,14 @@ Liverpool B-ORG
 site O
 n'afọ B-DATE
 2012 I-DATE
-ruo O
-2015 B-DATE
+ruo I-DATE
+2015 I-DATE
 n'ọrụ O
 , O
 ha O
 kpọbatakwara O
-Kolo B-LOC
-Toure I-LOC
+Kolo B-PER
+Toure I-PER
 gbaburu O
 bọọlụ O
 ọtụtụ O
@@ -784,7 +784,7 @@ Cheta O
 na O
 Rogers B-PER
 na O
-Toure O
+Toure B-PER
 rụkọrọ O
 ọrụ O
 n'otu O
@@ -849,7 +849,7 @@ alọghachịla O
 Naịjirịa B-LOC
 afọ B-DATE
 anọ I-DATE
-ọzọ I-DATE
+ọzọ O
 . O
 
 N'okwu O
@@ -1050,7 +1050,7 @@ nyere O
 na O
 otu O
 nke O
-Meunier B-LOC
+Meunier B-ORG
 gbakpuru O
 , O
 nyere O
@@ -1352,10 +1352,10 @@ ha O
 ndị O
 a O
 bụ O
-Kingdom B-PER
+Kingdom B-ORG
 Blue I-ORG
-, O
-Kings B-PER
+, I-ORG
+Kings I-ORG
 & I-ORG
 Queens I-ORG
 na O
@@ -1376,7 +1376,7 @@ ha O
 
 Ụlọụka O
 ụkọchukwu O
-Lukau B-PER
+Lukau B-LOC
 bụ O
 Alleluia B-ORG
 Ministries I-ORG
@@ -1490,7 +1490,7 @@ ekwu O
 na O
 ego O
 niile O
-Dangote O
+Dangote B-PER
 nwere O
 jiri O
 ihe O
@@ -1552,8 +1552,8 @@ onye O
 chiburu O
 Rivers B-LOC
 Steeti I-LOC
-n'etiti B-DATE
-afọ I-DATE
+n'etiti O
+afọ B-DATE
 2007 I-DATE
 na O
 2015 B-DATE
@@ -1603,7 +1603,7 @@ Rotimi B-PER
 Amaechi I-PER
 nakwa O
 Babatunde B-PER
-Fashola B-PER
+Fashola I-PER
 . O
 
 Ikuku O
@@ -1704,7 +1704,7 @@ Akụkọ O
 BBC B-ORG
 Igbo O
 na O
-nkeji O
+nkeji B-DATE
 
 Olisa B-PER
 Agbakoba I-PER
@@ -1741,8 +1741,8 @@ si O
 mee O
 ntuliaka O
 nke O
-afọ O
-a O
+afọ B-DATE
+a I-DATE
 na O
 mpụtara O
 ya O
@@ -2075,7 +2075,7 @@ Jung I-PER
 Un I-PER
 , O
 abanyela O
-ụbọchị O
+ụbọchị B-DATE
 abụọ I-DATE
 bụ O
 ụbọchị O
@@ -2360,7 +2360,7 @@ iduniyi O
 ọrụ O
 nke O
 Jọstịs O
-Ijem B-PER
+Ijem I-PER
 Onwuamaegbu I-PER
 
 Ndị O
@@ -2418,11 +2418,11 @@ ndị O
 eze O
 ọdịnala O
 
-Ohaneze O
+Ohaneze B-ORG
 , O
 NEF B-ORG
 , O
-Afenifere B-LOC
+Afenifere B-ORG
 , O
 MBF B-ORG
 na O
@@ -2471,7 +2471,7 @@ atụm O
 vootu O
 emere O
 ụbọchị B-DATE
-satọde I-DATE
+satọde O
 nke O
 ha O
 kwenyere O
@@ -2511,8 +2511,8 @@ na O
 Dkt O
 . O
 
-Pogu B-LOC
-Bitrus I-LOC
+Pogu O
+Bitrus B-LOC
 . O
 
 Buhari B-PER
@@ -2792,7 +2792,7 @@ mbụ O
 bụ O
 Okaikpe B-PER
 n'Anambara B-LOC
-steeti O
+steeti I-LOC
 
 Gọvanọ O
 Willie B-PER
@@ -2829,7 +2829,7 @@ Falcons I-ORG
 4 O
 - O
 3 O
-Solvakia B-PER
+Solvakia B-LOC
 
 Chikwelu B-PER
 Oparanozie I-PER
@@ -2861,7 +2861,7 @@ ndị O
 Slovakịa B-LOC
 na O
 asọmpi O
-Cyprus O
+Cyprus B-LOC
 Women's O
 Cup O
 . O
@@ -2966,7 +2966,7 @@ agha O
 , O
 bishọp O
 ndị O
-ụka B-ORG
+ụka O
 katọlik O
 na O
 Sokoto B-LOC
@@ -3228,7 +3228,7 @@ ji O
 etinye O
 ego O
 n'oge O
-Ekeresimesi O
+Ekeresimesi B-PER
 - O
 Ekeson B-PER
 
@@ -3280,7 +3280,7 @@ ehi O
 ma O
 i O
 rue O
-Alabekee B-LOC
+Alabekee B-PER
 . O
 
 Ọ O
@@ -3686,7 +3686,7 @@ njem O
 nke O
 a O
 kpọrọ O
-'Oyster O
+'Oyster B-ORG
 card' O
 ma O
 tinye O
@@ -3711,7 +3711,7 @@ mfe O
 ga O
 - O
 eji O
-Oyster B-PER
+Oyster B-ORG
 kaadị O
 kwụọ O
 ụgwọ O
@@ -3835,8 +3835,8 @@ Alabekee B-PER
 . O
 
 Akwammiri O
-'Wobbling B-LOC
-Bridge' I-LOC
+'Wobbling B-ORG
+Bridge' I-ORG
 e O
 si O
 agafe O
@@ -3848,14 +3848,14 @@ bụrụ O
 na O
 Lọndọn B-LOC
 , O
-Osimiri B-LOC
-Thames I-LOC
+Osimiri O
+Thames B-LOC
 , O
 Nu B-LOC
 Yọk I-LOC
 ; O
-Liberty O
-Statue O
+Liberty B-ORG
+Statue I-ORG
 , O
 
 Ebe O
@@ -3933,7 +3933,7 @@ Na O
 Briten B-LOC
 , O
 Sentralụ B-LOC
-Lọndọn I-LOC
+Lọndọn B-LOC
 bụ O
 ebe O
 aha O
@@ -4159,13 +4159,13 @@ bụkwa O
 Atiku B-PER
 ụbọchị B-DATE
 Satode I-DATE
-, O
-abali B-DATE
+, I-DATE
+abali I-DATE
 abụọ I-DATE
 nke I-DATE
 ọnwa I-DATE
 Maachị I-DATE
-n'Abuja I-DATE
+n'Abuja B-LOC
 . O
 
 N'akwụkwọ O
@@ -4364,8 +4364,8 @@ n'ihi O
 mmeri O
 Buhari B-PER
 - O
-Miyetti B-PER
-Allah I-PER
+Miyetti B-ORG
+Allah I-ORG
 
 Nsogbu O
 dị O
@@ -4450,8 +4450,8 @@ ha O
 na O
 ụlọ O
 ntaakụkọ O
-'Sun' O
-nwere O
+'Sun' B-PER
+nwere I-PER
 , O
 onyeisi O
 otu O
@@ -4461,8 +4461,8 @@ Bello B-PER
 Abdullahi I-PER
 Bodejo I-PER
 kwuru O
-na O
-'Kemgbe O
+na B-LOC
+'Kemgbe I-LOC
 izu O
 abụo O
 , O
@@ -4479,7 +4479,7 @@ mee O
 ụghara O
 maka O
 mmeri O
-Baba B-PER
+Baba O
 Buhari B-PER
 . O
 """" O
@@ -4860,11 +4860,11 @@ akụkọ O
 BBC B-ORG
 n'otu B-DATE
 nkeji I-DATE
-ebe I-DATE
+ebe O
 a O
 . O
 
-Accord B-ORG
+Accord O
 na O
 - O
 akwado O
@@ -5001,7 +5001,7 @@ n'otu O
 ihe O
 bụ O
 ịkagbu O
-Papa B-PER
+Papa O
 ukwu O
 na O
 ndọrọ O
@@ -5071,7 +5071,7 @@ NTA B-ORG
 , O
 AIT B-ORG
 , O
-Channels B-LOC
+Channels B-ORG
 na O
 ndị O
 ọzọ O
@@ -5309,7 +5309,7 @@ Bekee O
 kpọrọ O
 Cyber O
 Crime O
-Act O
+Act I-ORG
 megide O
 , O
 jide O
@@ -5375,12 +5375,12 @@ Bouteflika B-PER
 bụ O
 onye O
 gbara O
-afọ O
-iri O
-asatọ O
-na O
-abụọ O
-( O
+afọ B-DATE
+iri I-DATE
+asatọ I-DATE
+na I-DATE
+abụọ I-DATE
+( I-DATE
 82 O
 ) O
 kwuru O
@@ -5662,7 +5662,7 @@ ihe O
 ọjọọ O
 . O
 
-Barca B-ORG
+Barca B-PER
 tụrụ O
 Madrid B-ORG
 ọkpọ O
@@ -5685,7 +5685,7 @@ n'ime O
 anọ I-DATE
 . O
 
-Barca B-ORG
+Barca B-PER
 ji O
 otu O
 ọkpụ O
@@ -5693,8 +5693,8 @@ goolu O
 merie O
 Madrid B-ORG
 n'asọmpi O
-El O
-Classico O
+El B-ORG
+Classico I-ORG
 ha O
 gbara O
 n'abalị B-DATE
@@ -5728,7 +5728,7 @@ na O
 ha O
 kwụ O
 Babajide B-PER
-Sanwo I-PER
+Sanwo B-PER
 - I-PER
 Olu I-PER
 n'azụ O
@@ -5784,7 +5784,7 @@ obi O
 
 Sanwo B-PER
 - I-PER
-Olu O
+Olu I-PER
 mechara O
 kelee O
 ha O
@@ -6079,7 +6079,7 @@ ahụ O
 suru O
 . O
 
-Enweghi B-PER
+Enweghi O
 onye O
 meriri O
 ibe O
@@ -6089,7 +6089,7 @@ Liverpool B-ORG
 na O
 Everton B-ORG
 zutere O
-n'abalị O
+n'abalị B-DATE
 . O
 
 Nke O
@@ -6351,7 +6351,7 @@ Imo B-LOC
 steeti I-LOC
 chọrọ O
 ikwatu O
-Oshiomhole B-PER
+Oshiomhole B-LOC
 
 Fr O
 Mbaka B-PER
@@ -6397,9 +6397,9 @@ Pati B-ORG
 Action I-ORG
 Alliance I-ORG
 bụ O
-Onwuasoanya O
+Onwuasoanya B-PER
 FCC B-ORG
-Jones B-PER
+Jones I-ORG
 akatọla O
 akụkọ O
 na O
@@ -6665,7 +6665,7 @@ pati O
 PDP B-ORG
 vootu O
 n'okpuruọchịchị O
-Isu B-LOC
+Isu B-DATE
 , O
 zutere O
 ihe O
@@ -6734,8 +6734,8 @@ Orlando B-PER
 Ikeokwu I-PER
 , O
 kụrụ O
-afọ O
-n'ala O
+afọ B-DATE
+n'ala I-DATE
 , O
 ebe O
 o O
@@ -6754,7 +6754,7 @@ nzukọ O
 Lee O
 ka O
 Inec B-ORG
-Ebonyi B-LOC
+Ebonyi I-LOC
 , O
 Imo B-LOC
 nakwa O
@@ -6777,8 +6777,8 @@ na O
 - O
 eme O
 - O
-FCC B-PER
-Jones I-PER
+FCC B-ORG
+Jones I-ORG
 
 Mmadụ O
 atọ O
@@ -6844,7 +6844,7 @@ na O
 agbasasị O
 n'ogige O
 Satellite B-LOC
-Town I-ORG
+Town I-LOC
 . O
 
 Ndị O
@@ -7006,8 +7006,8 @@ na O
 - O
 atatu O
 ụzọ O
-na B-LOC
-'Canal' O
+na B-ORG
+'Canal' B-ORG
 . O
 
 Akwapụla O
@@ -7223,8 +7223,8 @@ efere O
 ha O
 ọkọlọtọ O
 na O
-Krọs B-LOC
-Riva I-LOC
+Krọs B-PER
+Riva I-PER
 . O
 
 Ụlọikpe O
@@ -7572,7 +7572,7 @@ anyị O
 ntị O
 taa B-DATE
 bụ O
-Tọzde O
+Tọzde B-DATE
 , O
 Maachị B-DATE
 7 I-DATE
@@ -7607,7 +7607,7 @@ gaara O
 adị O
 ka O
 nke O
-Rivas B-PER
+Rivas B-LOC
 ma O
 ọ O
 bụghị O
@@ -7732,7 +7732,7 @@ Nwosu I-PER
 ọkwa O
 gọvanọ O
 na O
-Satọde B-LOC
+Satọde B-DATE
 ? O
 
 Dike O
@@ -7873,8 +7873,8 @@ onye O
 chiburu O
 Rivers B-LOC
 Steeti I-LOC
-n'etiti B-DATE
-afọ I-DATE
+n'etiti O
+afọ B-DATE
 2007 I-DATE
 na O
 2015 B-DATE
@@ -8023,7 +8023,7 @@ meriri O
 n'ike O
 . O
 
-Ngige B-PER
+Ngige O
 chịrị O
 Anambra B-LOC
 mgbe O
@@ -8037,7 +8037,7 @@ PDP B-ORG
 n'afọ B-DATE
 2003 I-DATE
 ruo O
-2006 B-DATE
+2006 I-DATE
 . O
 
 Ugbua O
@@ -8064,8 +8064,8 @@ steeti I-LOC
 site O
 n'afọ B-DATE
 2007 I-DATE
-rue O
-afọ B-DATE
+rue I-DATE
+afọ I-DATE
 2015 I-DATE
 . O
 
@@ -8166,15 +8166,15 @@ niile O
 Ọ O
 nọchịrị O
 anya O
-Akwa B-PER
+Akwa B-LOC
 Ibom I-LOC
-Saụt I-PER
+Saụt I-LOC
 n'ụlọomeiwu O
 ukwu O
 site O
 n'afọ B-DATE
 1999 I-DATE
-rue O
+rue I-DATE
 afọ I-DATE
 2007 I-DATE
 . O
@@ -8207,8 +8207,8 @@ West I-LOC
 site O
 n'afọ B-DATE
 2007 I-DATE
-rue O
-2015 B-DATE
+rue I-DATE
+2015 I-DATE
 n'okpuru O
 PDP B-ORG
 . O
@@ -8236,13 +8236,13 @@ Nwosu I-PER
 ọkwa O
 gọvanọ O
 na O
-Satọde B-LOC
+Satọde B-DATE
 ? O
 
 Lee O
 ka O
 Inec B-ORG
-Ebonyi B-LOC
+Ebonyi I-LOC
 , O
 Imo B-LOC
 nakwa O
@@ -8319,7 +8319,7 @@ Sokoto B-LOC
 , O
 Bauchi B-LOC
 nakwa O
-Platu B-LOC
+Platu I-LOC
 steeti I-LOC
 . O
 
@@ -8487,7 +8487,7 @@ n'isi O
 dịka O
 Agbakoba B-LOC
 na O
-Ulumma B-LOC
+Ulumma B-PER
 siri O
 kwuo O
 bụ O
@@ -8560,7 +8560,7 @@ nakwa O
 Platu B-LOC
 steeti I-LOC
 , O
-Ulumma B-LOC
+Ulumma B-PER
 na O
 Agbakọba B-PER
 rụtụrụ O
@@ -8869,8 +8869,8 @@ Inec B-ORG
 ụlọikpe O
 . O
 
-Uche B-PER
-Ekwuinife I-PER
+Uche O
+Ekwuinife B-PER
 natara O
 ikike O
 mmeri O
@@ -8882,7 +8882,7 @@ anọchite O
 anya O
 ndị O
 Anambara B-LOC
-sentralụ O
+sentralụ I-LOC
 . O
 
 Ike B-PER
@@ -8966,7 +8966,7 @@ nke I-DATE
 ehihie I-DATE
 taa I-DATE
 bụ I-DATE
-Maachi I-DATE
+Maachi B-DATE
 iri I-DATE
 na I-DATE
 abụọ I-DATE
@@ -8984,7 +8984,7 @@ mmadụ O
 
 Barcelona B-ORG
 edulaala O
-Lyon B-ORG
+Lyon B-LOC
 mmụọ O
 , O
 Liverpool B-ORG
@@ -9152,7 +9152,7 @@ rụọ O
 ụlọ O
 , O
 ọkanmụta O
-n'injinịa B-LOC
+n'injinịa O
 na O
 - O
 arụ O
@@ -9189,7 +9189,7 @@ ntọala O
 ụlọ O
 bụ O
 ikikere O
-aja I-DATE
+aja O
 siri O
 na O
 arọ O
@@ -9542,20 +9542,20 @@ Ihe O
 ruru O
 mmadụ O
 narị O
-otu B-DATE
-iri I-DATE
-itoolu I-DATE
+otu O
+iri O
+itoolu O
 na O
 itoolu O
 n'ụlọ O
-anọ I-DATE
+anọ O
 na O
 Naịjirịa B-LOC
 site O
 n'afọ B-DATE
 2014 I-DATE
-ruo O
-afọ B-DATE
+ruo I-DATE
+afọ I-DATE
 2016 I-DATE
 dịka O
 ụlọọrụ O
@@ -9563,9 +9563,9 @@ dịka O
 Nigerian B-ORG
 Buliding I-ORG
 and I-ORG
-road I-ORG
-research I-ORG
-Institute O
+road O
+research O
+Institute I-ORG
 """" O
 . O
 
@@ -9732,9 +9732,9 @@ ya O
 O O
 ji O
 ụlọụka O
-Synagogue B-ORG
+Synagogue I-ORG
 nke O
-TB O
+TB B-ORG
 Joshua B-PER
 bụ O
 onye O
@@ -9913,7 +9913,7 @@ ntị O
 . O
 
 Ka O
-ụbọchị O
+ụbọchị B-DATE
 abụọ O
 gachara O
 ụlọ O
@@ -9948,7 +9948,7 @@ Rufai I-PER
 
 Arsenal B-ORG
 na O
-Rennes B-ORG
+Rennes B-LOC
 : O
 Ndị O
 mmadụ O
@@ -9957,7 +9957,7 @@ ogbo O
 na O
 ncha O
 saa O
-Iwobi B-PER
+Iwobi O
 ahụ O
 
 Uche B-PER
@@ -10050,7 +10050,7 @@ itoolu O
 nke O
 mere O
 n'ụlọụka O
-Alakuba B-PER
+Alakuba I-LOC
 abụọ O
 na O
 mba O
@@ -10087,7 +10087,7 @@ Alakụba O
 abụọ O
 dị O
 n'obodo O
-ChristChurch B-LOC
+ChristChurch B-ORG
 dị O
 na O
 mba O
@@ -10225,11 +10225,11 @@ na O
 - O
 agbasasi O
 egbe O
-n'ụlọụka O
-Alakụba O
-Al B-LOC
-Noor I-LOC
-Mosque O
+n'ụlọụka B-ORG
+Alakụba I-ORG
+Al I-ORG
+Noor I-PER
+Mosque I-ORG
 . O
 
 Mapụ O
@@ -10396,8 +10396,8 @@ Molete B-LOC
 dị O
 n'Ibadan B-LOC
 nke O
-Oyo B-PER
-Steeti I-LOC
+Oyo B-LOC
+Steeti O
 . O
 
 Dịka O
@@ -10421,7 +10421,7 @@ n'ebe O
 ahụ O
 dịka O
 @ O
-TopsyAshaolu O
+TopsyAshaolu B-PER
 siri O
 kwuo O
 n'akara O
@@ -10508,7 +10508,7 @@ abụ O
 ọtọ O
 ekene O
 eze O
-n'Uefa B-ORG
+n'Uefa O
 Champịọns O
 ? O
 
@@ -10609,7 +10609,7 @@ anọchịte O
 anya O
 mpaghara O
 Ọlụ O
-n' B-LOC
+n' I-LOC
 Ụlọomeiwu I-LOC
 Ukwu I-LOC
 . O
@@ -10674,7 +10674,7 @@ Tọzde I-DATE
 . O
 
 N'egwuregwuEintrachcht O
-Franfurt B-LOC
+Franfurt I-PER
 ( O
 entrank O
 frankfot O
@@ -10791,7 +10791,7 @@ ya O
 . O
 
 Ntuliaka O
-Rivas B-PER
+Rivas B-LOC
 tara O
 isi O
 ọkammụta O
@@ -10876,7 +10876,7 @@ uweojii O
 gbapụrụ O
 , O
 tụrụ O
-Gberegbe O
+Gberegbe B-PER
 bụ O
 onye O
 nkuzi O
@@ -10988,8 +10988,8 @@ n'akwamozu O
 ya O
 . O
 
-Uche B-PER
-Secondus I-PER
+Uche O
+Secondus B-PER
 bụ O
 onyeisioche O
 PDP B-ORG
@@ -11006,7 +11006,7 @@ ihe O
 a O
 tara O
 isi O
-Gberegbe O
+Gberegbe B-LOC
 , O
 bụ O
 makana O
@@ -11074,7 +11074,7 @@ a O
 Ndị O
 mmadụ O
 anwụọla O
-n'IDP B-ORG
+n'IDP O
 camp O
 , O
 
@@ -11264,7 +11264,7 @@ Daniel B-PER
 chịrị O
 Ogun B-LOC
 steeti I-LOC
-afọ O
+afọ B-DATE
 asatọ I-DATE
 , O
 site O
@@ -11272,7 +11272,7 @@ n'afọ B-DATE
 2003 I-DATE
 ruo O
 afọ O
-2011 B-DATE
+2011 I-DATE
 
 N'akwụkwọ O
 ozi O
@@ -11346,7 +11346,7 @@ ntuliaka O
 Rivas B-LOC
 steeti I-LOC
 
-'Komiti B-ORG
+'Komiti O
 Inec B-ORG
 hiwere O
 ilebanye O
@@ -11436,7 +11436,7 @@ n'ozi O
 o O
 wepụtara O
 na O
-Fraide B-DATE
+Fraide B-LOC
 na O
 komiti O
 ahụ O
@@ -11488,7 +11488,7 @@ na O
 e O
 mere O
 na O
-Rivas B-PER
+Rivas B-LOC
 n'abali B-DATE
 10 I-DATE
 nke I-DATE
@@ -11739,7 +11739,7 @@ itoolu O
 nke O
 mere O
 n'ụlọụka O
-Alakuba B-PER
+Alakuba I-LOC
 abụọ O
 na O
 mba O
@@ -11780,7 +11780,7 @@ nleta O
 n'ụlọọgwụ O
 . O
 
-Fifa B-PER
+Fifa B-ORG
 ga O
 - O
 amalite O
@@ -11813,7 +11813,7 @@ afọ B-DATE
 2021 I-DATE
 n'agbanyeghị O
 na O
-Europrean O
+Europrean B-ORG
 league O
 ekwuola O
 na O
@@ -11938,7 +11938,7 @@ na O
 adị O
 ire O
 
-Ụka O
+Ụka B-ORG
 Katọliki O
 n'Enugwu B-LOC
 enweela O
@@ -11956,7 +11956,7 @@ Bishops I-ORG
 Conference I-ORG
 of I-ORG
 Nigeria I-ORG
-CBCN B-ORG
+CBCN I-ORG
 """" O
 , O
 gwara O
@@ -12041,7 +12041,7 @@ mee O
 mmemme O
 ụka O
 nke O
-abụọ I-DATE
+abụọ O
 na O
 Lent I-DATE
 . O
@@ -12192,9 +12192,9 @@ ka O
 ọ O
 chịchara O
 ha O
-afọ B-DATE
-iri I-DATE
-atọ I-DATE
+afọ O
+iri O
+atọ O
 . O
 
 Nazarbayev B-PER
@@ -12203,7 +12203,7 @@ afọ O
 78 O
 kwuru O
 na O
-Kassym B-PER
+Kassym B-LOC
 - O
 Jomart B-PER
 Tokayev I-PER
@@ -12927,7 +12927,7 @@ n'ụlọụka O
 ya O
 bụ O
 """" O
-Holy B-ORG
+Holy O
 Ghost I-ORG
 searchlight O
 and O
@@ -12993,7 +12993,7 @@ Maachị I-DATE
 a O
 mere O
 ya O
-Hummer O
+Hummer B-ORG
 Limousine O
 stretch O
 nke O
@@ -13120,7 +13120,7 @@ n'ala O
 Ọnịcha B-LOC
 , O
 Anambara B-LOC
-steeti O
+steeti I-LOC
 . O
 
 Ọ O
@@ -13133,12 +13133,12 @@ ma O
 dịka O
 """" O
 Jehovah B-ORG
-The I-ORG
-Mightier I-ORG
-Than I-ORG
-All I-ORG
-Prophetic I-ORG
-Church I-ORG
+The O
+Mightier O
+Than O
+All O
+Prophetic O
+Church O
 """" O
 . O
 

@@ -344,6 +344,7 @@ wa O
 2020 O
 / O
 21 O
+
 uzatangira O
 muri O
 Nyakanga O
@@ -27117,6 +27118,7 @@ imitwe O
 y’abaturage O
 babo O
 bakoresheje O
+
 imitekerereze O
 ishaje O
 . O
@@ -28838,6 +28840,7 @@ za O
 FPR B-ORG
 Inkotanyi I-ORG
 zari O
+
 ziyobowe O
 na O
 Perezida O
@@ -29543,6 +29546,7 @@ vétérinaire O
 Intebe O
 y’Abahoryo O
 ( O
+
 Agronome O
 ) O
 , O
@@ -34299,6 +34303,7 @@ n’amahanga O
 , O
 by’umwihariko O
 abakigabweho O
+
 b’Abanyankore O
 b’Abahinda O
 . O
@@ -41679,6 +41684,7 @@ impanuro O
 ze O
 biyubaka O
 ubwabo O
+
 banubaka O
 igihugu O
 mu O
@@ -75932,6 +75938,7 @@ huku O
 kukiwa O
 na O
 hatari O
+
 ya O
 kusambaa O
 katika O
@@ -95386,6 +95393,7 @@ demokrasia O
 huko O
 Hong B-LOC
 Kong I-LOC
+
 . O
 
 China B-LOC
@@ -95517,6 +95525,7 @@ ya O
 karibuni O
 imetumia O
 hatua O
+
 kandamizi O
 kuwakamata O
 waandamanaji O
@@ -97932,6 +97941,7 @@ ya O
 mifumo O
 inayoigiza O
 kile O
+
 ambacho O
 kinafanywa O
 na O
@@ -123964,6 +123974,7 @@ mwisho O
 ya O
 makundi O
 ya O
+
 waasi O
 . O
 
@@ -132893,6 +132904,7 @@ yeesiba O
 ku O
 bintu O
 bya O
+
 Ssemwanga B-PER
 abaana O
 ne O
@@ -134188,6 +134200,7 @@ enkuba O
 nga O
 ziva O
 mu O
+
 liyanja O
 lya O
 Buyindi B-LOC
@@ -134249,6 +134262,7 @@ wamu O
 nebitongole O
 byEkibiina B-ORG
 kyAmawanga I-ORG
+
 Amagatte I-ORG
 bibiri O
 ebivunaanyizibwa O
@@ -137561,6 +137575,7 @@ palamenti O
 . O
 Ekifo O
 kya O
+
 Qualicel B-LOC
 kimaze O
 emyakka O
@@ -141830,6 +141845,7 @@ ebyemikono O
 , O
 ebyobulimi O
 , O
+
 ebyobuweangwa O
 , O
 ebisomesebwa O
@@ -142117,6 +142133,7 @@ Mpigi B-LOC
 obutajjumbira O
 nkola O
 eno O
+
 . O
 Bino O
 Musenne B-PER
@@ -142175,6 +142192,7 @@ kitundu O
 kyabwe O
 okusinga O
 okulirekera O
+
 abava O
 mu O
 bitundu O
@@ -143078,6 +143096,7 @@ lumu O
 . O
 Nnagenze O
 okuwulira O
+
 ngebintu O
 bya O
 Mugisha B-PER
@@ -143142,6 +143161,7 @@ wa O
 bodaboda O
 era O
 alina O
+
 ekibinja O
 kyabantu O
 bakolagana O
@@ -143206,6 +143226,7 @@ aba O
 Flying B-ORG
 Squad I-ORG
 ayogere O
+
 baakolagana O
 nabo O
 mu O
@@ -145347,6 +145368,7 @@ poliisi O
 mu O
 Mpigi B-LOC
 Joab B-PER
+
 Wabwire I-PER
 nabatebuka O
 namuddusa O
@@ -145410,6 +145432,7 @@ nga O
 nnya O
 naye O
 nga O
+
 balemwa O
 okuwaako O
 obujulizi O
@@ -145516,6 +145539,7 @@ kwekwewaliriza O
 agende O
 mu O
 kinaabiro O
+
 okweyiwako O
 amazzi O
 kwekufunirayo O
@@ -145962,6 +145986,7 @@ abasuubuzi O
 100 O
 abatereka O
 ssente O
+
 okusinzira O
 ku O
 nfuna O
@@ -147857,6 +147882,7 @@ lumonde O
 , O
 muwogo O
 nebirala O
+
 . O
 
 Brian B-PER
@@ -150625,6 +150651,7 @@ ku O
 Centenary B-LOC
 park I-LOC
 weyali O
+
 akubye O
 olukungaana O
 lwabamawulire O
@@ -152443,6 +152470,7 @@ Bundibugyo B-LOC
 bonna O
 ba O
 NRM B-ORG
+
 awatali O
 kusosola O
 era O
@@ -153402,6 +153430,7 @@ mu O
 maaso O
 Fahad B-PER
 Bayo I-PER
+
 natandika O
 mu O
 nnamba O
@@ -153463,6 +153492,7 @@ Khalid B-PER
 Aucho I-PER
 , O
 Mike B-PER
+
 Azira I-PER
 ne O
 Farouk B-PER
@@ -155361,6 +155391,7 @@ Lumala B-PER
 Abdu I-PER
 Pyramids B-ORG
 FC I-ORG
+
 , O
 Egypt B-LOC
 , O
@@ -157931,6 +157962,7 @@ tebamanyiiyo O
 bizinensi O
 yonna O
 gyakola O
+
 era O
 ssente O
 ateekwa O
@@ -157999,6 +158031,7 @@ ate O
 wanene O
 era O
 enyumba O
+
 bweneeba O
 ewedde O
 ajja O
@@ -158054,6 +158087,7 @@ okumuyiira O
 ssente O
 ngeno O
 ye O
+
 bwakuba O
 enduulu O
 nokuyimba O
@@ -158719,6 +158753,7 @@ bantu O
 be O
 , O
 ennono O
+
 wamu O
 nobulombolombo O
 . O
@@ -158870,6 +158905,7 @@ zooni O
 20 O
 . O
 Asuubira O
+
 okubangula O
 abavubuka O
 mu O
@@ -158926,6 +158962,7 @@ ebikozesa O
 amaanyi O
 genjuba O
 . O
+
 AKYALIDDE O
 OMUKAMA O
 WA O

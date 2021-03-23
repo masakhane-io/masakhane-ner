@@ -6779,6 +6779,7 @@ nufin O
 a O
 yaki O
 ‘yan O
+
 ta’adda O
 ne O
 ko O
@@ -12975,6 +12976,7 @@ zarginsu O
 da O
 dukan O
 wani O
+
 malaminsu O
 . O
 
@@ -17923,6 +17925,7 @@ darakta O
 na O
 hukumar B-ORG
 kiwon I-ORG
+
 lafiya I-ORG
 ta I-ORG
 jahar I-ORG
@@ -18048,6 +18051,7 @@ da O
 yin O
 godiya O
 ga O
+
 gomnati O
 . O
 
@@ -22595,6 +22599,7 @@ iri O
 wadanda O
 ta O
 haifi O
+
 ‘yaya O
 8 O
 da O
@@ -22911,6 +22916,7 @@ kudiri O
 aniyar O
 kashewa O
 domin O
+
 yaki O
 da O
 ta’addanci O
@@ -27853,6 +27859,7 @@ rutsa O
 da O
 wasu O
 fulanin O
+
 kasar O
 Mali B-LOC
 a O
@@ -29215,6 +29222,7 @@ hanyar O
 shiga O
 zaben O
 shugaban O
+
 kasa O
 na O
 2021 B-DATE
@@ -30575,6 +30583,7 @@ China B-LOC
 , O
 India B-LOC
 , O
+
 Kazakhastan B-LOC
 , O
 Pakistan B-LOC

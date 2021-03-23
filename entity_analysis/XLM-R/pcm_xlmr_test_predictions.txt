@@ -259,7 +259,7 @@ actors O
 for O
 streaming O
 platform O
-Pornhub O
+Pornhub B-ORG
 2018 B-DATE
 . O
 
@@ -536,7 +536,7 @@ Kareem I-PER
 , O
 di O
 Nigerian O
-UK B-LOC
+UK B-ORG
 Police O
 officer O
 wey O
@@ -838,7 +838,7 @@ bad O
 name O
 to O
 di O
-Met B-ORG
+Met O
 weda O
 on O
 or O
@@ -1148,7 +1148,7 @@ nine O
 wey O
 be O
 - O
-Cruisetopia B-ORG
+Cruisetopia O
 and O
 Di O
 Icons O
@@ -1163,7 +1163,7 @@ by O
 demselves O
 . O
 
-Biggie O
+Biggie B-PER
 as O
 most O
 pipo O
@@ -1192,7 +1192,7 @@ eviction O
 . O
 
 Di O
-Icons O
+Icons B-PER
 later O
 lose O
 di O
@@ -1291,7 +1291,7 @@ Khafi B-PER
 di O
 policewoman O
 wey O
-Met O
+Met B-ORG
 police O
 for O
 UK B-LOC
@@ -1485,11 +1485,11 @@ transparent O
 moving O
 van O
 along O
-Lekki B-PER
-- I-PER
-Ikoyi I-PER
+Lekki B-LOC
+- I-LOC
+Ikoyi I-LOC
 link O
-Bridge B-PER
+Bridge O
 , O
 spread O
 for O
@@ -2345,7 +2345,7 @@ Gray O
 lawyer O
 Michael B-PER
 A I-PER
-. O
+. I-PER
 Kahn I-PER
 tok O
 . O
@@ -2460,7 +2460,7 @@ on O
 both O
 YouTube O
 and O
-Vevo B-ORG
+Vevo O
 . O
 
 Dem O
@@ -2538,9 +2538,9 @@ act O
 for O
 di O
 feem O
-'Aki O
+'Aki B-PER
 and O
-Pawpaw' O
+Pawpaw' B-PER
 . O
 
 No O
@@ -2599,8 +2599,8 @@ na O
 from O
 di O
 feem O
-Stubborn B-ORG
-Flies I-ORG
+Stubborn O
+Flies O
 wey O
 Iheme B-PER
 act O
@@ -2693,13 +2693,13 @@ acting O
 inside O
 many O
 Disney B-ORG
-Channel O
+Channel I-ORG
 shows O
 and O
 films O
 , O
 including O
-'Jessie' B-PER
+'Jessie' O
 and O
 the O
 'Descendants' O
@@ -2781,7 +2781,7 @@ grandfather O
 , O
 Muhammad B-PER
 Sanusi I-PER
-I O
+I I-PER
 , O
 sef O
 chop O
@@ -2911,7 +2911,7 @@ coronavirus O
 
 Nigeria B-LOC
 Punch B-ORG
-newspaper O
+newspaper I-ORG
 headline O
 say O
 : O
@@ -2993,11 +2993,11 @@ like O
 Side O
 Whiskers O
 and O
-Zappa B-PER
+Zappa O
 but O
 styles O
 like O
-Garibaldi B-PER
+Garibaldi O
 and O
 French O
 Fork O
@@ -3168,8 +3168,8 @@ Elijah I-PER
 , O
 from O
 di O
-Glorious B-ORG
-Mount I-ORG
+Glorious O
+Mount O
 of O
 Possibility O
 Church O
@@ -3281,7 +3281,7 @@ pipo O
 know O
 as O
 Pastor O
-Ajidara B-PER
+Ajidara I-PER
 , O
 wey O
 die O
@@ -3350,7 +3350,7 @@ location O
 . O
 
 Di O
-Ogun B-LOC
+Ogun B-ORG
 state I-ORG
 government I-ORG
 come O
@@ -3507,8 +3507,8 @@ Ikuenobe B-PER
 wey O
 follow O
 BBC B-ORG
-Yemisi B-PER
-Adegoke I-PER
+Yemisi I-ORG
+Adegoke I-ORG
 tok O
 say O
 di O
@@ -3568,7 +3568,7 @@ Nigeria B-LOC
 and O
 sub B-LOC
 - I-LOC
-Saharan I-LOC
+Saharan B-LOC
 Africa I-LOC
 first O
 confam O
@@ -3882,7 +3882,7 @@ infection O
 . O
 
 Lagos B-LOC
-State I-LOC
+State I-ORG
 goment O
 don O
 release O
@@ -4351,7 +4351,7 @@ wey O
 don O
 reach O
 her O
-thirties B-DATE
+thirties O
 tok O
 say O
 , O
@@ -4702,8 +4702,8 @@ join O
 bodi O
 togeda O
 with O
-African O
-Centre B-ORG
+African B-ORG
+Centre I-ORG
 of I-ORG
 Excellence I-ORG
 for I-ORG
@@ -4716,8 +4716,8 @@ Disease I-ORG
 ACEGID B-ORG
 ) O
 , O
-Nigerian O
-Institute B-ORG
+Nigerian B-ORG
+Institute I-ORG
 of I-ORG
 Medical I-ORG
 Research I-ORG
@@ -4802,7 +4802,7 @@ evening I-DATE
 . O
 
 Lagos B-LOC
-State I-LOC
+State I-ORG
 authorities O
 release O
 statement O
@@ -4892,9 +4892,9 @@ oga O
 Dr O
 Olufemi B-PER
 Damilola I-PER
-Oke O
-- O
-Osanyintolu B-PER
+Oke I-PER
+- I-PER
+Osanyintolu I-PER
 bin O
 release O
 . O
@@ -5005,8 +5005,8 @@ am O
 
 And O
 for O
-late B-DATE
-2019 I-DATE
+late O
+2019 B-DATE
 , O
 Lagos B-ORG
 State I-ORG
@@ -5063,7 +5063,7 @@ wey O
 go O
 first O
 last O
-three I-DATE
+three B-DATE
 months I-DATE
 go O
 begin O
@@ -5075,7 +5075,7 @@ di O
 number O
 6 B-DATE
 day I-DATE
-of O
+of I-DATE
 March B-DATE
 , I-DATE
 2020 I-DATE
@@ -5103,7 +5103,7 @@ current O
 President O
 of O
 di O
-Court B-ORG
+Court O
 of I-ORG
 Appeal I-ORG
 , O
@@ -5215,7 +5215,7 @@ Dongban B-PER
 Mensem I-PER
 attend O
 St B-ORG
-. O
+. I-ORG
 Theresa's I-ORG
 Girls I-ORG
 School I-ORG
@@ -5244,8 +5244,8 @@ for O
 and O
 then O
 attend O
-Nigerian O
-Law O
+Nigerian B-ORG
+Law I-ORG
 School I-ORG
 , O
 Lagos B-LOC
@@ -5261,7 +5261,7 @@ become O
 Justice O
 of O
 di O
-Court I-ORG
+Court O
 of I-ORG
 Appeal I-ORG
 and O
@@ -5529,9 +5529,9 @@ chairman O
 of O
 di O
 ruling O
-All B-ORG
-Progressive I-ORG
-Congress I-ORG
+All O
+Progressive O
+Congress O
 . O
 
 Justice O
@@ -5627,7 +5627,7 @@ for O
 April B-DATE
 7 I-DATE
 and O
-8 I-DATE
+8 B-DATE
 , I-DATE
 2020 I-DATE
 . O
@@ -5708,7 +5708,7 @@ North B-LOC
 East I-LOC
 part I-LOC
 of I-LOC
-Nigeria I-LOC
+Nigeria B-LOC
 . O
 
 Although O
@@ -5782,7 +5782,7 @@ na O
 part O
 of O
 di O
-American O
+American B-ORG
 goment O
 Department I-ORG
 of I-ORG
@@ -5837,7 +5837,7 @@ June I-DATE
 2012 I-DATE
 , O
 di O
-US B-ORG
+US B-LOC
 Department I-ORG
 of I-ORG
 State I-ORG
@@ -5954,9 +5954,9 @@ time O
 , O
 di O
 U B-ORG
-. O
+. I-ORG
 S I-ORG
-. O
+. I-ORG
 Department I-ORG
 of I-ORG
 State I-ORG
@@ -6176,7 +6176,7 @@ for O
 disease O
 control O
 ( O
-NCDC B-ORG
+NCDC B-LOC
 ) O
 , O
 say O
@@ -6560,8 +6560,8 @@ ruling O
 political O
 party O
 ; O
-All O
-Progressive B-ORG
+All B-ORG
+Progressive I-ORG
 Congress I-ORG
 ( O
 APC B-ORG
@@ -6634,7 +6634,7 @@ di O
 Appeal B-ORG
 Court I-ORG
 , O
-Comrade B-PER
+Comrade O
 Adams I-PER
 Oshiohmole I-PER
 , O
@@ -6680,7 +6680,7 @@ All B-ORG
 Progressives I-ORG
 Congress I-ORG
 ( O
-APC B-ORG
+APC O
 for O
 Nigeria B-LOC
 . O
@@ -6889,8 +6889,8 @@ of O
 APC B-ORG
 , O
 for O
-18 O
-Local B-LOC
+18 B-LOC
+Local O
 Goment I-LOC
 Areas I-LOC
 for O
@@ -6903,13 +6903,13 @@ no O
 confidence O
 for O
 Oga O
-Oshiomhole B-LOC
+Oshiomhole B-PER
 on O
 Tuesday B-DATE
 , O
 di O
-State O
-APC O
+State B-ORG
+APC I-ORG
 Chairman O
 , O
 Aslem B-PER
@@ -6938,7 +6938,7 @@ and O
 im O
 state O
 Govnor B-PER
-Godwin B-PER
+Godwin I-PER
 Obaseki I-PER
 dey O
 get O
@@ -6984,7 +6984,7 @@ All B-ORG
 Progressives I-ORG
 Congress I-ORG
 ( O
-APC B-ORG
+APC O
 for O
 Nigeria B-LOC
 . O
@@ -7080,7 +7080,7 @@ party O
 sometin O
 wey O
 di O
-APC B-ORG
+APC O
 leader O
 dismiss O
 say O
@@ -7180,7 +7180,7 @@ in O
 
 According O
 to O
-UK B-LOC
+UK B-ORG
 Health O
 Secretary O
 Matt B-PER
@@ -7573,8 +7573,8 @@ Zhang I-PER
 wey O
 be O
 'Wakilin B-PER
-Yan I-PER
-China' I-PER
+Yan O
+China' B-LOC
 leader O
 of O
 di O
@@ -7893,9 +7893,9 @@ dem O
 kill O
 for O
 Igabi B-LOC
-local O
+local I-LOC
 goment O
-area O
+area I-LOC
 . O
 
 But O
@@ -8552,9 +8552,9 @@ Di O
 Governorship O
 Election O
 Petition O
-Tribunal I-ORG
+Tribunal O
 and O
-Court I-ORG
+Court B-ORG
 of I-ORG
 Appeal I-ORG
 support O
@@ -8599,7 +8599,7 @@ of I-DATE
 January I-DATE
 . O
 
-Nigeria B-LOC
+Nigeria B-ORG
 Police O
 for O
 Taraba B-LOC
@@ -8726,7 +8726,7 @@ na O
 teacher O
 for O
 one O
-Primary B-ORG
+Primary O
 School O
 for O
 Bali B-LOC
@@ -8738,7 +8738,7 @@ inside O
 di O
 same O
 Bali B-LOC
-community I-LOC
+community O
 wey O
 she O
 dey O
@@ -8825,8 +8825,8 @@ give O
 dia O
 pikin O
 to O
-Madam O
-Mary B-PER
+Madam B-ORG
+Mary I-PER
 becos O
 school O
 no O
@@ -9001,7 +9001,7 @@ quarantine O
 
 Di O
 Health O
-Commissioner O
+Commissioner I-ORG
 tok O
 dis O
 one O
@@ -9240,7 +9240,7 @@ verbally O
 . O
 
 """" O
-Weekends O
+Weekends B-DATE
 dey O
 always O
 worse O
@@ -9345,8 +9345,8 @@ fear O
 . O
 """" O
 
-Several O
-years O
+Several B-DATE
+years I-DATE
 don O
 pass O
 now O
@@ -9807,7 +9807,7 @@ house O
 , O
 di O
 Ark B-LOC
-Shelter I-LOC
+Shelter I-ORG
 , O
 director O
 Nana B-PER
@@ -10401,7 +10401,7 @@ Divisional I-ORG
 Police I-ORG
 Commander I-ORG
 , O
-ACP B-PER
+ACP B-ORG
 Kwaku I-PER
 Buah I-PER
 talk O
@@ -10465,7 +10465,7 @@ Ebenezer B-PER
 Bonsu I-PER
 appear O
 before O
-Kumasi B-LOC
+Kumasi B-ORG
 circuit I-ORG
 court I-ORG
 today B-DATE
@@ -10683,10 +10683,10 @@ if O
 you O
 add O
 the O
-Obuasi O
+Obuasi B-LOC
 market O
 and O
-Tema O
+Tema B-LOC
 factory O
 incident O
 , O
@@ -10735,7 +10735,7 @@ health O
 officials O
 shut O
 down O
-Obuasi B-LOC
+Obuasi B-ORG
 Market I-ORG
 sake O
 of O
@@ -10746,7 +10746,7 @@ infections O
 , O
 wey O
 de O
-Tema O
+Tema B-ORG
 industrial O
 factory O
 reduce O
@@ -11172,10 +11172,10 @@ dem O
 get O
 from O
 de O
-Covid O
+Covid B-ORG
 - O
 19 O
-Trust B-ORG
+Trust I-ORG
 Fund I-ORG
 for O
 de O
@@ -11305,7 +11305,7 @@ law O
 . O
 
 Govnor B-PER
-Babajide B-PER
+Babajide I-PER
 Sanwo I-PER
 - I-PER
 Olu I-PER
@@ -11331,7 +11331,7 @@ mask O
 
 Di O
 Lagos B-LOC
-State I-LOC
+State I-ORG
 goment O
 bin O
 pass O
@@ -11512,7 +11512,7 @@ Post I-ORG
 , O
 CNN B-ORG
 , O
-Politico B-PER
+Politico B-ORG
 and O
 other O
 tori O
@@ -11674,8 +11674,8 @@ on O
 residents O
 of O
 Accra B-LOC
-den O
-Kumasi B-LOC
+den I-LOC
+Kumasi I-LOC
 as O
 part O
 of O
@@ -11861,7 +11861,7 @@ more O
 people O
 . O
 
-Govment B-ORG
+Govment O
 get O
 support O
 from O
@@ -11903,7 +11903,7 @@ Teaching I-ORG
 Hospital I-ORG
 , O
 Greater B-ORG
-Accra I-ORG
+Accra B-ORG
 Regional I-ORG
 Hospital I-ORG
 , O
@@ -12045,7 +12045,7 @@ contact O
 tracing O
 efforts O
 by O
-Ghana B-ORG
+Ghana B-LOC
 Health I-ORG
 Officials I-ORG
 , O
@@ -12085,8 +12085,8 @@ closely O
 . O
 
 Govment B-ORG
-of I-ORG
-Ghana I-ORG
+of O
+Ghana B-LOC
 say O
 den O
 also O
@@ -12350,7 +12350,7 @@ residents O
 of O
 Accra B-LOC
 den O
-Kumasi B-LOC
+Kumasi I-LOC
 as O
 part O
 of O
@@ -12442,7 +12442,7 @@ think O
 tank O
 , O
 IMANI B-ORG
-Africa I-ORG
+Africa B-LOC
 , O
 Franklin B-PER
 Cudjoe I-PER
@@ -12726,7 +12726,7 @@ religiously O
 Di O
 President O
 of O
-Chad B-LOC
+Chad B-PER
 , O
 Idriss B-PER
 Deby I-PER
@@ -12769,7 +12769,7 @@ announcement O
 dey O
 come O
 afta O
-Chad B-PER
+Chad B-LOC
 military O
 say O
 dem O
@@ -13439,7 +13439,7 @@ tourists O
 . O
 
 But O
-Kruger B-PER
+Kruger B-LOC
 , O
 like O
 oda O
@@ -13488,7 +13488,7 @@ game O
 reserves O
 , O
 Mr O
-Sowry B-PER
+Sowry I-PER
 dey O
 perform O
 essential O
@@ -13660,7 +13660,7 @@ of O
 lion O
 dey O
 about O
-14 O
+14 B-DATE
 , O
 """" O
 Dis O
@@ -13698,9 +13698,9 @@ park O
 roads O
 during O
 cold O
-nights O
+nights I-DATE
 for O
-winter O
+winter B-DATE
 , O
 wen O
 di O
@@ -14011,9 +14011,9 @@ and O
 apartments O
 for O
 China B-LOC
-southern O
-city O
-of O
+southern I-LOC
+city I-LOC
+of I-LOC
 Guangzhou B-LOC
 as O
 local O
@@ -14344,8 +14344,8 @@ oda O
 armed O
 groups O
 for O
-Anglophone B-LOC
-regions I-LOC
+Anglophone O
+regions O
 drop O
 dia O
 guns O
@@ -14377,8 +14377,8 @@ break O
 for O
 fighting O
 for O
-Anglophone B-LOC
-regions I-LOC
+Anglophone O
+regions O
 . O
 
 UN B-ORG
@@ -14473,8 +14473,8 @@ call O
 separatist O
 fighters O
 for O
-Anglophone B-LOC
-regions I-LOC
+Anglophone O
+regions O
 for O
 drop O
 dia O
@@ -14503,8 +14503,8 @@ groups O
 separatist O
 groups O
 for O
-Anglophone B-LOC
-regions I-LOC
+Anglophone O
+regions O
 say O
 deh O
 go O
@@ -14525,7 +14525,7 @@ Covid O
 
 Ebenezer B-PER
 Akwanga I-PER
-SOCADEF B-ORG
+SOCADEF I-ORG
 leader O
 say O
 deh O
@@ -15431,7 +15431,7 @@ starting O
 April B-DATE
 , I-DATE
 May I-DATE
-den I-DATE
+den O
 June I-DATE
 . O
 
@@ -15454,7 +15454,7 @@ months I-DATE
 that O
 be O
 April B-DATE
-, I-DATE
+, O
 May B-DATE
 , O
 and O
@@ -16216,8 +16216,8 @@ During O
 one O
 debate O
 ontop O
-French B-ORG
-TV I-ORG
+French O
+TV O
 channel O
 LCI B-ORG
 , O
@@ -16257,8 +16257,8 @@ of O
 intensive O
 care O
 for O
-Cochin B-LOC
-hospital O
+Cochin B-ORG
+hospital I-ORG
 for O
 Paris B-LOC
 , O

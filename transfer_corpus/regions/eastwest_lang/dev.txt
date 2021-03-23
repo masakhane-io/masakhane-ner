@@ -1862,6 +1862,7 @@ bude O
 kafar O
 cutar O
 dasu O
+
 tare O
 da O
 sasu O
@@ -2294,6 +2295,7 @@ alhakin O
 da O
 kundin O
 tsarin O
+
 mulki O
 ya O
 dora O
@@ -5391,6 +5393,7 @@ daya O
 , O
 wato O
 lambar O
+
 Zinari O
 . O
 
@@ -6494,6 +6497,7 @@ da O
 Steele B-PER
 ya O
 gudanar O
+
 ba O
 , O
 ko O
@@ -13310,6 +13314,7 @@ onye O
 ọkwọụgbọala O
 ahụ O
 gawa O
+
 n'ụlọọgwụ O
 makana O
 ọ O
@@ -18409,6 +18414,7 @@ kugaragara O
 mu O
 bintu O
 nk’ibyo O
+
 [ O
 ibibazo O
 Gasingwa B-PER
@@ -26827,6 +26833,7 @@ Teni B-PER
 · O
 Killertunes B-PER
 - O
+
 'Fake O
 Love' O
 by O
@@ -26991,6 +26998,7 @@ Funbi B-PER
 'UyoMeyo' O
 - O
 Teni B-PER
+
 'Wishes O
 and O
 Butterflies' O
@@ -27075,6 +27083,7 @@ Ft O
 . O
 Alpha B-PER
 Ojini I-PER
+
 'Gang O
 Gang' O
 - O
@@ -27157,6 +27166,7 @@ di O
 Roll O
 YCEE B-PER
 - O
+
 'Balance' O
 Boogey B-PER
 - O
@@ -27235,6 +27245,7 @@ Gold I-PER
 Burna B-PER
 Boy I-PER
 · O
+
 'Moral O
 Instruction' O
 - O
@@ -27327,6 +27338,7 @@ AFRICA I-LOC
 Afro B-PER
 B I-PER
 - O
+
 Drogba B-PER
 ( O
 Joanna B-PER
@@ -36015,7 +36027,6 @@ in O
 prison O
 . O
 
-​ O
 Iwapo O
 atakutikana O
 na O
@@ -41846,6 +41857,7 @@ bóyá O
 erékùṣù O
 - O
 ìbejì O
+
 olómìnira O
 náà O
 ní O
@@ -42273,6 +42285,7 @@ láti O
 fínnífínní O
 sí O
 bí O
+
 ẹlẹ́yàmẹyà O
 nínú O
 ilé O
@@ -56489,7 +56502,6 @@ a O
 🤭 O
 🏃 O
 🏿 O
-‍ O
 ♂ O
 ️ O
 ) O

@@ -1,0 +1,542 @@
+Namespace(autoencoder=True, batch_size=16, crf_feats=False, dev='data/wol/dev.txt', dev_feats='data/wol/dev.txt.softgazfeats.npz', embed=128, feat_func='tanh', lr=0.015, lstm_feats=False, no_decay=False, output_name='wol_model', restart=False, test='data/wol/test.txt', test_feats='data/wol/test.txt.softgazfeats.npz', testing=False, train='data/wol/train.txt', train_feats='data/wol/train.txt.softgazfeats.npz', trainer='sgd', word_hidden_size=256)
+
+Epoch: 0
+Validation F1: 1.150000
+Saved!
+Validation F1: 0.000000
+Validation F1: 0.000000
+Validation F1: 0.000000
+Validation F1: 0.000000
+Validation F1: 0.000000
+Training loss: 16216.293739
+
+
+Epoch: 1
+Validation F1: 0.000000
+Validation F1: 0.000000
+Validation F1: 8.770000
+Saved!
+Validation F1: 44.830000
+Saved!
+Validation F1: 51.960000
+Saved!
+Validation F1: 49.430000
+Training loss: 7486.320238
+
+
+Epoch: 2
+Validation F1: 48.890000
+Validation F1: 55.340000
+Saved!
+Validation F1: 46.510000
+Validation F1: 58.540000
+Saved!
+Validation F1: 43.330000
+Validation F1: 55.320000
+Training loss: 4813.974231
+
+
+Epoch: 3
+Validation F1: 56.000000
+Validation F1: 58.760000
+Saved!
+Validation F1: 62.220000
+Saved!
+Validation F1: 57.890000
+Validation F1: 61.860000
+Validation F1: 68.720000
+Saved!
+Training loss: 4172.404863
+
+
+Epoch: 4
+Validation F1: 65.180000
+Validation F1: 58.940000
+Validation F1: 65.020000
+Validation F1: 55.210000
+Validation F1: 63.250000
+Validation F1: 64.410000
+Training loss: 3834.160712
+
+
+Epoch: 5
+Validation F1: 64.370000
+Validation F1: 69.770000
+Saved!
+Validation F1: 66.370000
+Validation F1: 65.730000
+Validation F1: 70.530000
+Saved!
+Validation F1: 63.740000
+Training loss: 3319.553912
+
+
+Epoch: 6
+Validation F1: 60.240000
+Validation F1: 70.140000
+Validation F1: 65.740000
+Validation F1: 69.480000
+Validation F1: 70.320000
+Validation F1: 74.070000
+Saved!
+Training loss: 2974.718711
+
+
+Epoch: 7
+Validation F1: 73.000000
+Validation F1: 68.750000
+Validation F1: 71.840000
+Validation F1: 70.810000
+Validation F1: 76.060000
+Saved!
+Validation F1: 72.640000
+Training loss: 2678.790612
+
+
+Epoch: 8
+Validation F1: 72.460000
+Validation F1: 74.420000
+Validation F1: 74.290000
+Validation F1: 74.420000
+Validation F1: 75.350000
+Validation F1: 76.700000
+Saved!
+Training loss: 2433.572001
+
+
+Epoch: 9
+Validation F1: 74.640000
+Validation F1: 70.810000
+Validation F1: 73.930000
+Validation F1: 75.700000
+Validation F1: 74.040000
+Validation F1: 74.670000
+Training loss: 2320.810129
+
+
+Epoch: 10
+Validation F1: 73.870000
+Validation F1: 66.670000
+Validation F1: 73.390000
+Validation F1: 73.240000
+Validation F1: 75.760000
+Validation F1: 75.350000
+Training loss: 2110.684748
+
+
+Epoch: 11
+Validation F1: 74.650000
+Validation F1: 73.730000
+Validation F1: 74.420000
+Validation F1: 75.380000
+Validation F1: 72.480000
+Validation F1: 76.150000
+Training loss: 2061.020678
+
+
+Epoch: 12
+Validation F1: 76.150000
+Validation F1: 75.830000
+Validation F1: 77.140000
+Saved!
+Validation F1: 77.360000
+Saved!
+Validation F1: 71.680000
+Validation F1: 75.000000
+Training loss: 1871.920721
+
+
+Epoch: 13
+Validation F1: 76.360000
+Validation F1: 75.800000
+Validation F1: 76.290000
+Validation F1: 78.870000
+Saved!
+Validation F1: 77.780000
+Validation F1: 77.270000
+Training loss: 1758.224845
+
+
+Epoch: 14
+Validation F1: 77.270000
+Validation F1: 76.640000
+Validation F1: 77.730000
+Validation F1: 77.140000
+Validation F1: 73.490000
+Validation F1: 75.000000
+Training loss: 1734.711015
+
+
+Epoch: 15
+Validation F1: 77.390000
+Validation F1: 78.260000
+Validation F1: 76.580000
+Validation F1: 80.180000
+Saved!
+Validation F1: 74.890000
+Validation F1: 78.300000
+Training loss: 1670.576606
+
+
+Epoch: 16
+Validation F1: 78.500000
+Validation F1: 78.260000
+Validation F1: 76.710000
+Validation F1: 80.190000
+Saved!
+Validation F1: 75.700000
+Validation F1: 74.640000
+Training loss: 1601.849896
+
+
+Epoch: 17
+Validation F1: 74.640000
+Validation F1: 77.780000
+Validation F1: 78.610000
+Validation F1: 78.470000
+Validation F1: 77.060000
+Validation F1: 73.850000
+Training loss: 1536.389452
+
+
+Epoch: 18
+Validation F1: 72.820000
+Validation F1: 77.930000
+Validation F1: 75.120000
+Validation F1: 77.730000
+Validation F1: 78.670000
+Validation F1: 78.340000
+Training loss: 1510.855145
+
+
+Epoch: 19
+Validation F1: 75.680000
+Validation F1: 78.300000
+Validation F1: 77.730000
+Validation F1: 77.140000
+Validation F1: 77.780000
+Validation F1: 75.730000
+Training loss: 1516.745190
+
+
+Epoch: 20
+Validation F1: 76.100000
+Validation F1: 79.070000
+Validation F1: 78.670000
+Validation F1: 78.140000
+Validation F1: 78.900000
+Validation F1: 77.670000
+Training loss: 1465.635258
+
+
+Epoch: 21
+Validation F1: 79.230000
+Validation F1: 78.820000
+Validation F1: 78.850000
+Validation F1: 79.810000
+Validation F1: 79.190000
+Validation F1: 79.620000
+Training loss: 1428.243523
+
+
+Epoch: 22
+Validation F1: 78.260000
+Validation F1: 79.400000
+Validation F1: 80.000000
+Validation F1: 78.640000
+Validation F1: 80.370000
+Saved!
+Validation F1: 79.230000
+Training loss: 1437.427902
+
+
+Epoch: 23
+Validation F1: 78.640000
+Validation F1: 78.390000
+Validation F1: 78.870000
+Validation F1: 80.980000
+Saved!
+Validation F1: 77.780000
+Validation F1: 79.020000
+Training loss: 1416.671749
+
+
+Epoch: 24
+Validation F1: 78.470000
+Validation F1: 78.100000
+Validation F1: 77.670000
+Validation F1: 80.000000
+Validation F1: 79.020000
+Validation F1: 79.430000
+Training loss: 1388.433449
+
+
+Epoch: 25
+Validation F1: 80.190000
+Validation F1: 81.770000
+Saved!
+Validation F1: 78.430000
+Validation F1: 78.610000
+Validation F1: 78.500000
+Validation F1: 79.810000
+Training loss: 1405.668413
+
+
+Epoch: 26
+Validation F1: 79.610000
+Validation F1: 81.550000
+Validation F1: 75.230000
+Validation F1: 77.510000
+Validation F1: 76.280000
+Validation F1: 78.870000
+Training loss: 1377.302695
+
+
+Epoch: 27
+Validation F1: 79.250000
+Validation F1: 79.230000
+Validation F1: 80.400000
+Validation F1: 77.670000
+Validation F1: 80.390000
+Validation F1: 79.610000
+Training loss: 1375.803009
+
+
+Epoch: 28
+Validation F1: 77.880000
+Validation F1: 79.810000
+Validation F1: 80.400000
+Validation F1: 78.350000
+Validation F1: 79.250000
+Validation F1: 77.230000
+Training loss: 1375.373655
+
+
+Epoch: 29
+Validation F1: 77.610000
+Validation F1: 78.430000
+Validation F1: 76.280000
+Validation F1: 80.390000
+Validation F1: 78.260000
+Validation F1: 77.140000
+Training loss: 1333.155720
+
+
+Epoch: 30
+Validation F1: 77.140000
+Validation F1: 77.510000
+Validation F1: 78.640000
+Validation F1: 79.230000
+Validation F1: 79.810000
+Validation F1: 78.430000
+Training loss: 1357.132514
+
+
+Epoch: 31
+Validation F1: 78.430000
+Validation F1: 78.850000
+Validation F1: 79.020000
+Validation F1: 78.820000
+Validation F1: 80.000000
+Validation F1: 80.390000
+Training loss: 1335.471190
+New learning rate: 0.014285713966403688
+
+
+Epoch: 32
+Validation F1: 81.770000
+Validation F1: 82.180000
+Saved!
+Validation F1: 77.930000
+Validation F1: 80.190000
+Validation F1: 76.500000
+Validation F1: 78.870000
+Training loss: 1361.895676
+
+
+Epoch: 33
+Validation F1: 78.670000
+Validation F1: 80.600000
+Validation F1: 79.430000
+Validation F1: 78.670000
+Validation F1: 78.470000
+Validation F1: 77.450000
+Training loss: 1346.094602
+
+
+Epoch: 34
+Validation F1: 77.670000
+Validation F1: 75.120000
+Validation F1: 79.000000
+Validation F1: 78.390000
+Validation F1: 79.230000
+Validation F1: 76.700000
+Training loss: 1368.233550
+
+
+Epoch: 35
+Validation F1: 77.070000
+Validation F1: 76.330000
+Validation F1: 75.350000
+Validation F1: 77.450000
+Validation F1: 77.670000
+Validation F1: 77.670000
+Training loss: 1361.673730
+
+
+Epoch: 36
+Validation F1: 77.670000
+Validation F1: 78.430000
+Validation F1: 80.390000
+Validation F1: 79.400000
+Validation F1: 78.430000
+Validation F1: 78.610000
+Training loss: 1350.220394
+
+
+Epoch: 37
+Validation F1: 78.610000
+Validation F1: 79.410000
+Validation F1: 74.070000
+Validation F1: 74.880000
+Validation F1: 77.140000
+Validation F1: 78.260000
+Training loss: 1322.333543
+
+
+Epoch: 38
+Validation F1: 78.260000
+Validation F1: 79.230000
+Validation F1: 76.470000
+Validation F1: 75.960000
+Validation F1: 74.530000
+Validation F1: 78.640000
+Training loss: 1324.732074
+New learning rate: 0.01360544225289708
+
+
+Epoch: 39
+Validation F1: 82.180000
+Validation F1: 79.230000
+Validation F1: 79.070000
+Validation F1: 80.390000
+Validation F1: 78.850000
+Validation F1: 76.850000
+Training loss: 1383.807433
+New learning rate: 0.01295756371248336
+
+
+Epoch: 40
+Validation F1: 82.180000
+Validation F1: 81.550000
+Validation F1: 78.340000
+Validation F1: 75.700000
+Validation F1: 75.730000
+Validation F1: 76.420000
+Training loss: 1368.429842
+New learning rate: 0.012340536784558069
+
+
+Epoch: 41
+Validation F1: 82.180000
+Validation F1: 81.370000
+Validation F1: 74.650000
+Validation F1: 78.850000
+Validation F1: 77.140000
+Validation F1: 80.580000
+Training loss: 1358.087208
+New learning rate: 0.011752891753401074
+
+
+Epoch: 42
+Validation F1: 82.180000
+Validation F1: 79.620000
+Validation F1: 80.750000
+Validation F1: 79.430000
+Validation F1: 79.800000
+Validation F1: 76.920000
+Training loss: 1362.533316
+New learning rate: 0.011193229861202693
+
+
+Epoch: 43
+Validation F1: 82.180000
+Validation F1: 80.380000
+Validation F1: 78.850000
+Validation F1: 75.350000
+Validation F1: 78.140000
+Validation F1: 78.390000
+Training loss: 1379.314739
+New learning rate: 0.010660218873194285
+
+
+Epoch: 44
+Validation F1: 82.180000
+Validation F1: 80.580000
+Validation F1: 78.260000
+Validation F1: 79.430000
+Validation F1: 79.610000
+Validation F1: 76.240000
+Training loss: 1385.371902
+New learning rate: 0.010152589529752731
+
+
+Epoch: 45
+Validation F1: 82.180000
+Validation F1: 80.750000
+Validation F1: 77.570000
+Validation F1: 79.810000
+Validation F1: 81.370000
+Validation F1: 79.050000
+Training loss: 1392.041247
+New learning rate: 0.009669132885478791
+
+
+Epoch: 46
+Validation F1: 82.180000
+Validation F1: 77.630000
+Validation F1: 75.450000
+Validation F1: 78.050000
+Validation F1: 79.000000
+Validation F1: 80.000000
+Training loss: 1358.954280
+New learning rate: 0.009208697648275466
+
+
+Epoch: 47
+Validation F1: 82.180000
+Validation F1: 80.000000
+Validation F1: 78.500000
+Validation F1: 75.450000
+Validation F1: 79.810000
+Validation F1: 80.380000
+Training loss: 1368.035941
+New learning rate: 0.00877018840540023
+
+
+Epoch: 48
+Validation F1: 82.180000
+Validation F1: 80.190000
+Validation F1: 81.160000
+Validation F1: 77.930000
+Validation F1: 80.980000
+Validation F1: 81.160000
+Training loss: 1371.553935
+New learning rate: 0.008352560301621754
+
+
+Epoch: 49
+Validation F1: 82.180000
+Validation F1: 80.770000
+Validation F1: 75.800000
+Validation F1: 77.670000
+Validation F1: 80.000000
+Validation F1: 77.670000
+Training loss: 1365.116840
+New learning rate: 0.007954819039219902
+
+
+Training time: 3078.0827
+
+Test F1: 56.570000
+

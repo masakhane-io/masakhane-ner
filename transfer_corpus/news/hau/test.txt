@@ -2847,6 +2847,7 @@ shekara O
 ta O
 dubu O
 biyu O
+
 da O
 goma O
 sha O
@@ -3643,6 +3644,7 @@ Trump B-PER
 din O
 ya O
 kore O
+
 shi O
 daga O
 mukaminsa O
@@ -4796,6 +4798,7 @@ suke O
 kunshe O
 a O
 takardar O
+
 kidayar O
 . O
 
@@ -5817,6 +5820,7 @@ musamman O
 Mueller B-PER
 hadin O
 kai O
+
 a O
 binciken O
 da O
@@ -6193,6 +6197,7 @@ miliyoyin O
 daloli O
 da O
 gwamnatin O
+
 Amurka B-LOC
 zata O
 taimakawa O
@@ -6277,6 +6282,7 @@ da O
 kasa O
 a O
 cikin O
+
 Afrika B-LOC
 . O
 
@@ -15211,6 +15217,7 @@ Nassarawa I-LOC
 , O
 Cross B-LOC
 Rivers I-LOC
+
 , O
 Oyo B-LOC
 , O

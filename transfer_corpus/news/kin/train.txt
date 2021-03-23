@@ -344,6 +344,7 @@ wa O
 2020 O
 / O
 21 O
+
 uzatangira O
 muri O
 Nyakanga O
@@ -27117,6 +27118,7 @@ imitwe O
 y’abaturage O
 babo O
 bakoresheje O
+
 imitekerereze O
 ishaje O
 . O
@@ -28838,6 +28840,7 @@ za O
 FPR B-ORG
 Inkotanyi I-ORG
 zari O
+
 ziyobowe O
 na O
 Perezida O
@@ -29543,6 +29546,7 @@ vétérinaire O
 Intebe O
 y’Abahoryo O
 ( O
+
 Agronome O
 ) O
 , O
@@ -34299,6 +34303,7 @@ n’amahanga O
 , O
 by’umwihariko O
 abakigabweho O
+
 b’Abanyankore O
 b’Abahinda O
 . O
@@ -41679,6 +41684,7 @@ impanuro O
 ze O
 biyubaka O
 ubwabo O
+
 banubaka O
 igihugu O
 mu O

@@ -6779,6 +6779,7 @@ nufin O
 a O
 yaki O
 ‘yan O
+
 ta’adda O
 ne O
 ko O
@@ -12975,6 +12976,7 @@ zarginsu O
 da O
 dukan O
 wani O
+
 malaminsu O
 . O
 
@@ -17923,6 +17925,7 @@ darakta O
 na O
 hukumar B-ORG
 kiwon I-ORG
+
 lafiya I-ORG
 ta I-ORG
 jahar I-ORG
@@ -18048,6 +18051,7 @@ da O
 yin O
 godiya O
 ga O
+
 gomnati O
 . O
 
@@ -22595,6 +22599,7 @@ iri O
 wadanda O
 ta O
 haifi O
+
 ‘yaya O
 8 O
 da O
@@ -22911,6 +22916,7 @@ kudiri O
 aniyar O
 kashewa O
 domin O
+
 yaki O
 da O
 ta’addanci O
@@ -27853,6 +27859,7 @@ rutsa O
 da O
 wasu O
 fulanin O
+
 kasar O
 Mali B-LOC
 a O
@@ -29215,6 +29222,7 @@ hanyar O
 shiga O
 zaben O
 shugaban O
+
 kasa O
 na O
 2021 O
@@ -30575,6 +30583,7 @@ China B-LOC
 , O
 India B-LOC
 , O
+
 Kazakhastan B-LOC
 , O
 Pakistan B-LOC
@@ -82263,6 +82272,7 @@ iri O
 na O
 abụọ O
 , O
+
 iri O
 anọ O
 na O
@@ -84609,6 +84619,7 @@ patu O
 ha O
 isi O
 ọtụtụ O
+
 oge O
 . O
 
@@ -102209,6 +102220,7 @@ wa O
 2020 O
 / O
 21 O
+
 uzatangira O
 muri O
 Nyakanga O
@@ -128982,6 +128994,7 @@ imitwe O
 y’abaturage O
 babo O
 bakoresheje O
+
 imitekerereze O
 ishaje O
 . O
@@ -130703,6 +130716,7 @@ za O
 FPR B-ORG
 Inkotanyi I-ORG
 zari O
+
 ziyobowe O
 na O
 Perezida O
@@ -131408,6 +131422,7 @@ vétérinaire O
 Intebe O
 y’Abahoryo O
 ( O
+
 Agronome O
 ) O
 , O
@@ -136164,6 +136179,7 @@ n’amahanga O
 , O
 by’umwihariko O
 abakigabweho O
+
 b’Abanyankore O
 b’Abahinda O
 . O
@@ -143544,6 +143560,7 @@ impanuro O
 ze O
 biyubaka O
 ubwabo O
+
 banubaka O
 igihugu O
 mu O
@@ -182147,6 +182164,7 @@ Senegal B-LOC
 Senegal B-LOC
 ) O
 Djamel B-PER
+
 Belmadi I-PER
 ( O
 Algeria B-LOC
@@ -209571,6 +209589,7 @@ Best O
 performance O
 by O
 an O
+
 actress O
 for O
 television O
@@ -210347,6 +210366,7 @@ NG B-LOC
 ] O
 Rayvanny B-PER
 [ O
+
 TZ B-LOC
 ] O
 Naira B-PER
@@ -210455,6 +210475,7 @@ Ozedikus B-PER
 ( O
 NG B-LOC
 ) O
+
 Pheelz B-PER
 ( O
 NG B-LOC
@@ -210569,6 +210590,7 @@ GH B-LOC
 DJ B-PER
 Zinhle I-PER
 ( O
+
 SA B-LOC
 ) O
 Cassper B-PER
@@ -210677,6 +210699,7 @@ NG B-LOC
 99 O
 - O
 Tiwa B-PER
+
 Savage I-PER
 ( O
 NG B-LOC
@@ -210790,6 +210813,7 @@ Rex B-PER
 GH B-LOC
 ) O
 Jealous O
+
 - O
 FireBoy B-PER
 DML I-PER
@@ -210898,6 +210922,7 @@ SA B-LOC
 Tiwa B-PER
 Savage I-PER
 ( O
+
 NG B-LOC
 ) O
 Wizkid B-PER
@@ -215380,6 +215405,7 @@ POP O
 Innos B-PER
 B I-PER
 ( O
+
 CNG B-LOC
 ) O
 Joeboy B-PER
@@ -215488,6 +215514,7 @@ KE B-LOC
 ) O
 Show B-PER
 Dem I-PER
+
 Camp I-PER
 ( O
 NG B-LOC
@@ -215589,6 +215616,7 @@ Daniel I-PER
 Mr I-PER
 Eazi I-PER
 Yemi I-PER
+
 Alade I-PER
 Wizkid I-PER
 VIDEO O
@@ -215689,6 +215717,7 @@ Shaker B-PER
 ( O
 GH B-LOC
 ) O
+
 Kainama B-PER
 - O
 Harmonize B-PER
@@ -215791,6 +215820,7 @@ Marley I-PER
 ( O
 NG B-LOC
 ) O
+
 Tetema O
 - O
 Rayvanny B-PER
@@ -215899,6 +215929,7 @@ Rema B-PER
 ( O
 NG B-LOC
 ) O
+
 Fetch O
 Your O
 Life O
@@ -216000,6 +216031,7 @@ SA B-LOC
 Tiwa B-PER
 Savage I-PER
 ( O
+
 NG B-LOC
 ) O
 Wizkid B-PER
@@ -221334,6 +221366,7 @@ Ozedikus B-PER
 by O
 Rema B-PER
 · O
+
 Spellz B-PER
 - O
 'Askamaya' O
@@ -221506,6 +221539,7 @@ Funbi B-PER
 'UyoMeyo' O
 - O
 Teni B-PER
+
 'Wishes O
 and O
 Butterflies' O
@@ -221590,6 +221624,7 @@ Ft O
 . O
 Alpha B-PER
 Ojini I-PER
+
 'Gang O
 Gang' O
 - O
@@ -221668,6 +221703,7 @@ Boogey B-PER
 'Implode' O
 Paybac B-PER
 - O
+
 'Implode' O
 Ghost B-PER
 - O
@@ -221749,6 +221785,7 @@ Falz B-PER
 Bad O
 Songz' O
 - O
+
 Kizz B-PER
 Daniel I-PER
 Artiste O
@@ -221844,6 +221881,7 @@ COAST I-LOC
 Sauti B-PER
 Sol I-PER
 - O
+
 Melanin O
 ( O
 KENYA B-LOC
@@ -223290,6 +223328,7 @@ Malik I-PER
 11 O
 . O
 Sam B-PER
+
 Smith I-PER
 , O
 27 O
@@ -223429,6 +223468,7 @@ Boyega I-PER
 6m O
 ) O
 22 O
+
 . O
 Sam B-PER
 Faiers I-PER
@@ -223568,6 +223608,7 @@ Holland I-PER
 5m O
 ) O
 - O
+
 new O
 entry O
 
@@ -232501,6 +232542,7 @@ huku O
 kukiwa O
 na O
 hatari O
+
 ya O
 kusambaa O
 katika O
@@ -251955,6 +251997,7 @@ demokrasia O
 huko O
 Hong B-LOC
 Kong I-LOC
+
 . O
 
 China B-LOC
@@ -252086,6 +252129,7 @@ ya O
 karibuni O
 imetumia O
 hatua O
+
 kandamizi O
 kuwakamata O
 waandamanaji O
@@ -254501,6 +254545,7 @@ ya O
 mifumo O
 inayoigiza O
 kile O
+
 ambacho O
 kinafanywa O
 na O
@@ -280533,6 +280578,7 @@ mwisho O
 ya O
 makundi O
 ya O
+
 waasi O
 . O
 
@@ -285072,6 +285118,7 @@ gbogboògbò O
 ìbáṣepọ̀ O
 orílẹ̀ O
 - O
+
 èdèe O
 Nàìjíríà B-LOC
 pẹ̀lú O
@@ -285213,6 +285260,7 @@ tí O
 bá O
 gba O
 òpópónà O
+
 ẹ̀rọ O
 ayélukára O
 bí O
@@ -285986,6 +286034,7 @@ Times I-ORG
 ṣe O
 tẹ̀ O
 ẹ́ O
+
 jáde O
 . O
 
@@ -286187,6 +286236,7 @@ iléeṣẹ́ O
 Aṣọ́bodè I-ORG
 Nàìjíríà I-ORG
 tí O
+
 wọ́n O
 kóra O
 jọ O
@@ -288351,6 +288401,7 @@ lóríi O
 “ O
 gba O
 """" O
+
 àwọn O
 ètò O
 tí O
@@ -291843,6 +291894,7 @@ ju O
 ti O
 ìgbà O
 kan O
+
 lọ O
 . O
 
@@ -292197,6 +292249,7 @@ kan O
 ní O
 orílẹ̀ O
 - O
+
 èdèe O
 South B-LOC
 Africa I-LOC
@@ -295221,6 +295274,7 @@ láti O
 Ìpele O
 Ìkíni O
 """" O
+
 , O
 gbogbo O
 ojú O
@@ -297373,6 +297427,7 @@ sí O
 àwọn O
 orílẹ̀ O
 - O
+
 èdè O
 tí O
 ó O
@@ -297720,6 +297775,7 @@ Leone I-LOC
 , O
 fún O
 àpẹẹrẹ O
+
 , O
 láti O
 ṣe O
@@ -299726,6 +299782,7 @@ lásìkò O
 ìbò O
 ààrẹ O
 2019 O
+
 . O
 
 A O
@@ -299972,6 +300029,7 @@ jí O
 padà O
 sáyé O
 . O
+
 """" O
 
 Ìjọba O
@@ -300632,6 +300690,7 @@ Ethiopia B-LOC
 , O
 Mozambique B-LOC
 , O
+
 Nàìjíríà B-LOC
 , O
 Tunisia B-LOC
@@ -301831,6 +301890,7 @@ ní O
 fèrèsé O
 tí O
 ìmọ́lẹ̀ O
+
 oòrùn O
 ń O
 tàn O
@@ -302266,6 +302326,7 @@ Adúláwọ̀ I-LOC
 fẹ́ràn O
 - O
 an O
+
 rẹ̀ O
 dé O
 góńgó O
@@ -302965,6 +303026,7 @@ Mùsùlùmí O
 ọmọ O
 Hausa O
 - O
+
 Fulani O
 ) O
 . O
@@ -303246,6 +303308,7 @@ orílẹ̀ O
 , O
 oṣù O
 Erénà O
+
 ( O
 láti O
 yan O
@@ -304823,6 +304886,7 @@ dí O
 tí O
 ó O
 yẹ O
+
 kí O
 ó O
 lọ O
@@ -304980,6 +305044,7 @@ apá O
 àríwá B-LOC
 - I-LOC
 ìlà I-LOC
+
 oòrùn I-LOC
 orílẹ̀ I-LOC
 - I-LOC
@@ -305563,6 +305628,7 @@ kan O
 nípa O
 ìkéde O
 àti O
+
 ìgbéròyìnjáde O
 ṣe O
 sọ O
@@ -305973,6 +306039,7 @@ Oòrùn O
 tí O
 ó O
 jẹ́ O
+
 agbègbè O
 àwọn O
 aráa O
@@ -306076,6 +306143,7 @@ yóò O
 ṣe O
 àmúpapọ̀ O
 àwọn O
+
 nǹkan O
 ọrọ̀ O
 àti O
@@ -306322,6 +306390,7 @@ ti O
 Ilẹ̀ B-LOC
 - I-LOC
 Adúláwọ̀ I-LOC
+
 """" O
 fún O
 ọdún O
@@ -307060,6 +307129,7 @@ máa O
 lò O
 nítorí O
 ó O
+
 lágbára O
 láti O
 dé O
@@ -307219,6 +307289,7 @@ aláràa O
 gbàyídá O
 inúu O
 wọn O
+
 Bond B-ORG
 92 I-ORG
 . I-ORG
@@ -308797,6 +308868,7 @@ máa O
 lò O
 fún O
 kíkọ O
+
 èdè O
 Yorùbá O
 . O
@@ -309232,6 +309304,7 @@ bí O
 Jésù B-PER
 , O
 àti O
+
 alífábẹ́ẹ̀tì O
 Vai O
 ni O
@@ -309963,6 +310036,7 @@ béèrè O
 fún O
 àtìlẹ́yìn O
 fún O
+
 alífábẹ́ẹ̀tì O
 Odùduwà B-PER
 tuntun O
@@ -310114,6 +310188,7 @@ akọ́nilọ́gbọ́n O
 kàtúùnù O
 fún O
 àwọn O
+
 èwe O
 tí O
 kò O
@@ -311889,6 +311964,7 @@ wa O
 aṣiṣẹ́ O
 Ìtumọ̀ O
 Google B-ORG
+
 lọ́fẹ̀ẹ́ O
 , O
 ecent O
@@ -312685,6 +312761,7 @@ fi O
 ẹnu O
 gbà O
 lọ́wọ́ O
+
 àlùfáà O
 . O
 
@@ -313976,6 +314053,7 @@ iṣẹ́ O
 náà O
 Lyudmila B-PER
 Shabuyeva I-PER
+
 sọ̀rọ̀ O
 nínú O
 àkọsílẹ̀ O
@@ -316315,6 +316393,7 @@ ní O
 tí O
 ó O
 pọ̀ O
+
 nínú O
 . O
 
@@ -318861,6 +318940,7 @@ nínú O
 láti O
 jà O
 fún O
+
 ẹ̀tọ́ọ O
 wọn O
 . O
@@ -321716,6 +321796,7 @@ gbàgbé O
 ẹgbẹẹ̀gbẹ̀rún O
 alátìlẹ́yìn O
 orí O
+
 ẹ̀rọ O
 - O
 ayélujára O
@@ -322614,6 +322695,7 @@ wọ́n O
 ń O
 dúró O
 de O
+
 ìsìnkú O
 tí O
 ó O
@@ -323689,6 +323771,7 @@ han O
 ayé O
 kí O
 gbogbo O
+
 ènìyàn O
 lè O
 rántí O
@@ -325103,6 +325186,7 @@ Abódiakọ O
 akọ́diabo O
 Ènìyàn O
 wọlé O
+
 nínú O
 oṣù O
 Ẹrẹ́nà O
@@ -325800,6 +325884,7 @@ NADRA B-ORG
 láti O
 kàwé O
 , O
+
 iṣẹ́ O
 nínú O
 káràkátà O
@@ -327321,6 +327406,7 @@ bí O
 ọ̀rọ̀ O
 lọ́kọláya O
 ṣe O
+
 rí O
 nìyẹn O
 … O
@@ -328810,6 +328896,7 @@ a O
 dé O
 sínú O
 ìṣèlú O
+
 orílẹ̀ O
 - O
 èdè O
@@ -333177,6 +333264,7 @@ fa O
 aṣọ O
 iyì O
 àti O
+
 ìtẹ̀síwájú O
 orílè O
 - O
@@ -333828,6 +333916,7 @@ tí O
 ó O
 ní O
 ìrírí O
+
 ìgbàlódé O
 . O
 
@@ -334574,6 +334663,7 @@ pẹ̀lú O
 àti O
 àgbékalẹ̀ O
 ètò O
+
 mìíràn O
 tí O
 ó O
@@ -335499,6 +335589,7 @@ gẹ́gẹ́ O
 bíi O
 aṣiṣẹ́ O
 bíi O
+
 Adájọ́ O
 Àgbà O
 Orílẹ̀ O
@@ -336850,6 +336941,7 @@ yọ́ O
 ìgbàgbọ́ O
 wípé O
 Ìwọ́de O
+
 Ojúnà O
 jẹ́ O
 ohun O
@@ -337940,6 +338032,7 @@ tí O
 ó O
 ń O
 bá O
+
 òṣìṣẹ́ O
 akọrin O
 kiri O
@@ -347860,6 +347953,7 @@ yeesiba O
 ku O
 bintu O
 bya O
+
 Ssemwanga B-PER
 abaana O
 ne O
@@ -349155,6 +349249,7 @@ enkuba O
 nga O
 ziva O
 mu O
+
 liyanja O
 lya O
 Buyindi B-LOC
@@ -349216,6 +349311,7 @@ wamu O
 nebitongole O
 byEkibiina B-ORG
 kyAmawanga I-ORG
+
 Amagatte I-ORG
 bibiri O
 ebivunaanyizibwa O
@@ -352528,6 +352624,7 @@ palamenti O
 . O
 Ekifo O
 kya O
+
 Qualicel B-LOC
 kimaze O
 emyakka O
@@ -356797,6 +356894,7 @@ ebyemikono O
 , O
 ebyobulimi O
 , O
+
 ebyobuweangwa O
 , O
 ebisomesebwa O
@@ -357084,6 +357182,7 @@ Mpigi B-LOC
 obutajjumbira O
 nkola O
 eno O
+
 . O
 Bino O
 Musenne B-PER
@@ -357142,6 +357241,7 @@ kitundu O
 kyabwe O
 okusinga O
 okulirekera O
+
 abava O
 mu O
 bitundu O
@@ -358045,6 +358145,7 @@ lumu O
 . O
 Nnagenze O
 okuwulira O
+
 ngebintu O
 bya O
 Mugisha B-PER
@@ -358109,6 +358210,7 @@ wa O
 bodaboda O
 era O
 alina O
+
 ekibinja O
 kyabantu O
 bakolagana O
@@ -358173,6 +358275,7 @@ aba O
 Flying B-ORG
 Squad I-ORG
 ayogere O
+
 baakolagana O
 nabo O
 mu O
@@ -360314,6 +360417,7 @@ poliisi O
 mu O
 Mpigi B-LOC
 Joab B-PER
+
 Wabwire I-PER
 nabatebuka O
 namuddusa O
@@ -360377,6 +360481,7 @@ nga O
 nnya O
 naye O
 nga O
+
 balemwa O
 okuwaako O
 obujulizi O
@@ -360483,6 +360588,7 @@ kwekwewaliriza O
 agende O
 mu O
 kinaabiro O
+
 okweyiwako O
 amazzi O
 kwekufunirayo O
@@ -360929,6 +361035,7 @@ abasuubuzi O
 100 O
 abatereka O
 ssente O
+
 okusinzira O
 ku O
 nfuna O
@@ -362824,6 +362931,7 @@ lumonde O
 , O
 muwogo O
 nebirala O
+
 . O
 
 Brian B-PER
@@ -365592,6 +365700,7 @@ ku O
 Centenary B-LOC
 park I-LOC
 weyali O
+
 akubye O
 olukungaana O
 lwabamawulire O
@@ -367410,6 +367519,7 @@ Bundibugyo B-LOC
 bonna O
 ba O
 NRM B-ORG
+
 awatali O
 kusosola O
 era O
@@ -368369,6 +368479,7 @@ mu O
 maaso O
 Fahad B-PER
 Bayo I-PER
+
 natandika O
 mu O
 nnamba O
@@ -368430,6 +368541,7 @@ Khalid B-PER
 Aucho I-PER
 , O
 Mike B-PER
+
 Azira I-PER
 ne O
 Farouk B-PER
@@ -370328,6 +370440,7 @@ Lumala B-PER
 Abdu I-PER
 Pyramids B-ORG
 FC I-ORG
+
 , O
 Egypt B-LOC
 , O
@@ -372898,6 +373011,7 @@ tebamanyiiyo O
 bizinensi O
 yonna O
 gyakola O
+
 era O
 ssente O
 ateekwa O
@@ -372966,6 +373080,7 @@ ate O
 wanene O
 era O
 enyumba O
+
 bweneeba O
 ewedde O
 ajja O
@@ -373021,6 +373136,7 @@ okumuyiira O
 ssente O
 ngeno O
 ye O
+
 bwakuba O
 enduulu O
 nokuyimba O
@@ -373686,6 +373802,7 @@ bantu O
 be O
 , O
 ennono O
+
 wamu O
 nobulombolombo O
 . O
@@ -373837,6 +373954,7 @@ zooni O
 20 O
 . O
 Asuubira O
+
 okubangula O
 abavubuka O
 mu O
@@ -373893,6 +374011,7 @@ ebikozesa O
 amaanyi O
 genjuba O
 . O
+
 AKYALIDDE O
 OMUKAMA O
 WA O

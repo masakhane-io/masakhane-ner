@@ -14082,6 +14082,7 @@ turimo O
 kureba O
 uko O
 ryakwirakwizwa O
+
 n’ahandi O
 ritaragera O
 kugira O
@@ -15128,6 +15129,7 @@ ni O
 to O
 ne O
 pok O
+
 ondike O
 ayanga O
 gi O
@@ -24360,6 +24362,7 @@ haya O
 Meghan B-PER
 amejibu O
 : O
+
 “ O
 Ukweli O
 ni O
@@ -30229,6 +30232,7 @@ katika O
 kura O
 ya O
 urais O
+
 iliyofanyika O
 siku O
 hiyo O
@@ -39631,6 +39635,7 @@ olina O
 okumanya O
 akatale O
 bwe O
+
 kayimiriddel O
 Mmanya O
 eddagala O
@@ -40797,6 +40802,7 @@ bwe O
 beekozemu O
 omulimu O
 okukunganya O
+
 ebikozesebwa O
 mu O
 kuzimba O
@@ -43771,6 +43777,7 @@ nebifo O
 ebibadde O
 bimanyiddwa O
 ennyo O
+
 mu O
 kukungaanya O
 abalambuzi O
@@ -44250,6 +44257,7 @@ Rashid I-PER
 Ssebukyu I-PER
 abawakanya O
 engeri O
+
 ssentebe O
 nakakiike O
 gyebabulankanyamu O
@@ -44312,6 +44320,7 @@ mmotoka O
 ya O
 stage O
 nga O
+
 tabagambye O
 lwadde O
 ba O
@@ -44371,6 +44380,7 @@ bebakwata O
 ssente O
 zayo O
 era O
+
 ono O
 yasabye O
 olukiiko O
