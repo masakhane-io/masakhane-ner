@@ -1,18 +1,20 @@
-# [MasakhaNER: Named Entity Recognition for African Languages](https://arxiv.org/abs/2103.11811)
+## [MasakhaNER: Named Entity Recognition for African Languages](https://arxiv.org/abs/2103.11811)
 
-This repository consist of the code for [training NER models](https://github.com/masakhane-io/masakhane-ner/tree/main/code), scripts to [analyze the NER model predictions](https://github.com/masakhane-io/masakhane-ner/tree/main/analysis_scripts) and the [NER datasets](https://github.com/masakhane-io/masakhane-ner/tree/main/data) for all the ten languages. 
+This repository contains the code for [training NER models](https://github.com/masakhane-io/masakhane-ner/tree/main/code), scripts to [analyze the NER model predictions](https://github.com/masakhane-io/masakhane-ner/tree/main/analysis_scripts) and the [NER datasets](https://github.com/masakhane-io/masakhane-ner/tree/main/data) for all the 10 languages listed below. 
 
-The code is based on HuggingFace implementation, please install the following modules
+The code is based on HuggingFace implementation.
+
+### Required dependencies
+* python
+  * [transformers](https://pypi.org/project/transformers/) : state-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch
+  * [seqeval](https://pypi.org/project/seqeval/) : testing framework for sequence labeling
+  * [ptvsd]()
+
+```bash
+pip install transformers seqeval ptvsd
 ```
-pip install transformers
 
-pip install seqeval
-
-pip install ptvsd
-```
-
-
-# Volunteers
+### Volunteers
 ----------------
 | Language | Volunteer names |
 |----------|-----------------|
