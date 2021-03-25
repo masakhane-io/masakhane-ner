@@ -6,9 +6,9 @@ The code is based on HuggingFace implementation.
 
 ### Required dependencies
 * python
-  * [transformers](https://pypi.org/project/transformers/) : state-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch
-  * [seqeval](https://pypi.org/project/seqeval/) : testing framework for sequence labeling
-  * [ptvsd]()
+  * [transformers](https://pypi.org/project/transformers/) : state-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+  * [seqeval](https://pypi.org/project/seqeval/) : testing framework for sequence labeling.
+  * [ptvsd](https://pypi.org/project/ptvsd/) : remote debugging server for Python support in Visual Studio and Visual Studio Code.
 
 ```bash
 pip install transformers seqeval ptvsd
