@@ -3,12 +3,13 @@
 This repository consist of the code for [training NER models](https://github.com/masakhane-io/masakhane-ner/tree/main/code), scripts to [analyze the NER model predictions](https://github.com/masakhane-io/masakhane-ner/tree/main/analysis_scripts) and the [NER datasets](https://github.com/masakhane-io/masakhane-ner/tree/main/data) for all the ten languages. 
 
 The code is based on HuggingFace implementation, please install the following modules
-
+```
 pip install transformers
 
 pip install seqeval
 
 pip install ptvsd
+```
 
 
 # Volunteers
