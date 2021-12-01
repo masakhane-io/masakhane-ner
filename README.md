@@ -2,7 +2,8 @@
 
 This repository contains the code for [training NER models](https://github.com/masakhane-io/masakhane-ner/tree/main/code), scripts to [analyze the NER model predictions](https://github.com/masakhane-io/masakhane-ner/tree/main/analysis_scripts) and the [NER datasets](https://github.com/masakhane-io/masakhane-ner/tree/main/data) for all the 10 languages listed below. 
 
-The code is based on HuggingFace implementation (License: Apache 2.0). 
+The code is based on HuggingFace implementation (License: Apache 2.0).
+
 The license of the NER dataset is in [CC-BY-4.0-NC](https://creativecommons.org/licenses/by-nc/4.0/), the monolingual data have difference licenses depending on the news website license. 
 
 ### Required dependencies
