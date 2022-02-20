@@ -1,4 +1,4 @@
-## [MasakhaNER: Named Entity Recognition for African Languages](https://arxiv.org/abs/2103.11811)
+## [MasakhaNER: Named Entity Recognition for African Languages](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00416/107614/MasakhaNER-Named-Entity-Recognition-for-African)
 
 This repository contains the code for [training NER models](https://github.com/masakhane-io/masakhane-ner/tree/main/code), scripts to [analyze the NER model predictions](https://github.com/masakhane-io/masakhane-ner/tree/main/analysis_scripts) and the [NER datasets](https://github.com/masakhane-io/masakhane-ner/tree/main/data) for all the 10 languages listed below. 
 
