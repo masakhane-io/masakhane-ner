@@ -85,7 +85,7 @@ def read_examples_from_file(data_dir, mode):
         for line in f:
             line = line.strip()
             if len(line) < 2  or line == "\n":
-                print(line, words)
+                #print(line, words)
                 if words:
                     examples.append(InputExample(guid="{}-{}".format(mode, guid_index), words=words, labels=labels))
                     guid_index += 1

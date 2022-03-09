@@ -19,28 +19,16 @@ import argparse
 import glob
 import logging
 import os
-import random
-
 import numpy as np
-import torch
 from seqeval.metrics import f1_score, precision_score, recall_score, classification_report
 from torch.nn import CrossEntropyLoss
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler, TensorDataset
 from torch.utils.data.distributed import DistributedSampler
 from tqdm import tqdm, trange
-from scipy.sparse import save_npz, load_npz
-import seqeval.metrics
-from collections import defaultdict, Counter
 from torch.utils.data import TensorDataset
-from torch.utils.data import Dataset, DataLoader
 from transformers import AutoModelForSequenceClassification, AutoModelForTokenClassification, \
     AutoConfig, AutoTokenizer, AutoModel
-from transformers import AdamW, get_constant_schedule_with_warmup
-from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
-from torch import LongTensor
 import torch
-from torch import nn, optim
-from torch.nn import functional as F
 from tqdm import tqdm
 import random
 
@@ -85,23 +73,6 @@ MODEL_CLASSES = {
 }
 
 
-class NERDataset(Dataset):
-    """
-    All the information for a sentence needed by BERT, i.e.
-    token_id, label_id + token_type, padding, masking, domain_ids
-    """
-
-    def __init__(self, encodings, domain_ids):
-        self.encodings = encodings
-        self.domain_ids = domain_ids
-
-    def __len__(self):
-        return len(self.domain_ids)
-
-    def __getitem__(self, idx):
-        return self.encodings[idx], self.domain_ids[idx]
-
-
 def set_seed(args):
     random.seed(args.seed)
     np.random.seed(args.seed)
@@ -139,14 +110,6 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
         optimizer, num_warmup_steps=args.warmup_steps, num_training_steps=t_total
     )
 
-    # Check if saved optimizer or scheduler states exist
-    if os.path.isfile(os.path.join(args.model_name_or_path, "optimizer.pt")) and os.path.isfile(
-            os.path.join(args.model_name_or_path, "scheduler.pt")
-    ):
-        # Load in optimizer and scheduler states
-        optimizer.load_state_dict(torch.load(os.path.join(args.model_name_or_path, "optimizer.pt")))
-        scheduler.load_state_dict(torch.load(os.path.join(args.model_name_or_path, "scheduler.pt")))
-
     # multi-gpu training (should be after apex fp16 initialization)
     if args.n_gpu > 1:
         model = torch.nn.DataParallel(model)
@@ -174,20 +137,6 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
     global_step = 0
     epochs_trained = 0
     steps_trained_in_current_epoch = 0
-    # Check if continuing training from a checkpoint
-    if os.path.exists(args.model_name_or_path):
-        # set global_step to gobal_step of last saved checkpoint from model path
-        try:
-            global_step = int(args.model_name_or_path.split("-")[-1].split("/")[0])
-        except ValueError:
-            global_step = 0
-        epochs_trained = global_step // (len(train_dataloader) // args.gradient_accumulation_steps)
-        steps_trained_in_current_epoch = global_step % (len(train_dataloader) // args.gradient_accumulation_steps)
-
-        logger.info("  Continuing training from checkpoint, will skip to saved global_step")
-        logger.info("  Continuing training from epoch %d", epochs_trained)
-        logger.info("  Continuing training from global step %d", global_step)
-        logger.info("  Will skip the first %d steps in the first epoch", steps_trained_in_current_epoch)
 
     tr_loss, logging_loss = 0.0, 0.0
     model.zero_grad()
@@ -195,6 +144,8 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
         epochs_trained, int(args.num_train_epochs), desc="Epoch", disable=args.local_rank not in [-1, 0]
     )
     set_seed(args)  # Added here for reproductibility
+    eval_fones = []
+    max_f1 = 0.0
     for _ in train_iterator:
         epoch_iterator = tqdm(train_dataloader, desc="Iteration", disable=args.local_rank not in [-1, 0])
         for step, batch in enumerate(epoch_iterator):
@@ -231,39 +182,32 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
                 model.zero_grad()
                 global_step += 1
 
-                if args.local_rank in [-1, 0] and args.logging_steps > 0 and global_step % args.logging_steps == 0:
-                    # Log metrics
-                    if (
-                            args.local_rank == -1 and args.evaluate_during_training
-                    ):  # Only evaluate when single GPU otherwise metrics may not average well
-                        results, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="dev")
-                        for key, value in results.items():
-                            tb_writer.add_scalar("eval_{}".format(key), value, global_step)
-                    tb_writer.add_scalar("lr", scheduler.get_lr()[0], global_step)
-                    tb_writer.add_scalar("loss", (tr_loss - logging_loss) / args.logging_steps, global_step)
-                    logging_loss = tr_loss
-
-                if args.local_rank in [-1, 0] and args.save_steps > 0 and global_step % args.save_steps == 0:
-                    # Save model checkpoint
-                    output_dir = os.path.join(args.output_dir, "checkpoint-{}".format(global_step))
-                    if not os.path.exists(output_dir):
-                        os.makedirs(output_dir)
-                    model_to_save = (
-                        model.module if hasattr(model, "module") else model
-                    )  # Take care of distributed/parallel training
-                    model_to_save.save_pretrained(output_dir)
-                    tokenizer.save_pretrained(output_dir)
-
-                    torch.save(args, os.path.join(output_dir, "training_args.bin"))
-                    logger.info("Saving model checkpoint to %s", output_dir)
-
-                    torch.save(optimizer.state_dict(), os.path.join(output_dir, "optimizer.pt"))
-                    torch.save(scheduler.state_dict(), os.path.join(output_dir, "scheduler.pt"))
-                    logger.info("Saving optimizer and scheduler states to %s", output_dir)
-
             if args.max_steps > 0 and global_step > args.max_steps:
                 epoch_iterator.close()
                 break
+
+        # EVALUATE + SELECT BEST MODEL WITH BEST VALIDATION ACCURACY
+        if global_step > 500:  # and global_step % args.save_steps == 0:
+            eval_results, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="dev", print_result=False)
+            f1_step = round(eval_results["f1"], 5)
+            eval_fones.append(f1_step)
+            print("eval result: ", global_step, f1_step)
+
+            max_f1 = max(eval_fones)
+
+            if f1_step == max_f1:
+                output_dir = args.output_dir
+                if not os.path.exists(output_dir):
+                    os.makedirs(output_dir)
+                model_to_save = (
+                    model.module if hasattr(model, "module") else model
+                )  # Take care of distributed/parallel training
+                model_to_save.save_pretrained(output_dir)
+                tokenizer.save_pretrained(output_dir)
+
+                torch.save(args, os.path.join(output_dir, "training_args.bin"))
+                logger.info("Saving model checkpoint to %s", output_dir)
+
         if args.max_steps > 0 and global_step > args.max_steps:
             train_iterator.close()
             break
@@ -271,10 +215,10 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
     if args.local_rank in [-1, 0]:
         tb_writer.close()
 
-    return global_step, tr_loss / global_step
+    return global_step, tr_loss / global_step, max_f1
 
 
-def evaluate(args, model, tokenizer, labels, pad_token_label_id, mode, prefix=""):
+def evaluate(args, model, tokenizer, labels, pad_token_label_id, mode, prefix="", print_result=True):
     eval_dataset = load_and_cache_examples(args, tokenizer, labels, pad_token_label_id, mode=mode)
 
     args.eval_batch_size = args.per_gpu_eval_batch_size * max(1, args.n_gpu)
@@ -341,9 +285,10 @@ def evaluate(args, model, tokenizer, labels, pad_token_label_id, mode, prefix=""
         'report': classification_report(out_label_list, preds_list),
     }
 
-    logger.info("***** Eval results %s *****", prefix)
-    for key in sorted(results.keys()):
-        logger.info("  %s = %s", key, str(results[key]))
+    if print_result:
+        logger.info("***** Eval results %s *****", prefix)
+        for key in sorted(results.keys()):
+            logger.info("  %s = %s", key, str(results[key]))
 
     return results, preds_list
 
@@ -397,21 +342,6 @@ def load_and_cache_examples(args, tokenizer, labels, pad_token_label_id, mode):
     all_label_ids = torch.tensor([f.label_ids for f in features], dtype=torch.long)
 
     dataset = TensorDataset(all_input_ids, all_input_mask, all_segment_ids, all_label_ids)
-    return dataset
-
-
-def load_examples(args, mode):
-    '''
-    if args.local_rank not in [-1, 0] and not evaluate:
-        torch.distributed.barrier()  # Make sure only the first process in distributed training process the dataset, and the others will use the cache
-
-    if args.local_rank == 0 and not evaluate:
-        torch.distributed.barrier()
-    '''
-    data = load_npz(args.data_dir + mode + ".npz")
-    data = data.toarray()
-    dataset = NERDataset(data[:, :-1], data[:, -1])
-
     return dataset
 
 
@@ -647,9 +577,9 @@ def main():
     # Training
     if args.do_train:
         train_dataset = load_and_cache_examples(args, tokenizer, labels, pad_token_label_id, mode="train")
-        #train_dataset = load_examples(args, mode="train")
-        global_step, tr_loss = train(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
-        #global_step, tr_loss = train_ner(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
+        global_step, tr_loss, max_f1 = train(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
+        eval_results, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="dev", print_result=False)
+        f1_step = round(eval_results["f1"], 5)
         logger.info(" global_step = %s, average loss = %s", global_step, tr_loss)
 
     # Fine-tuning
@@ -660,9 +590,9 @@ def main():
         result, predictions = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="test")
         train_dataset = load_and_cache_examples(args, tokenizer, labels, pad_token_label_id, mode="train")
 
-        # train_dataset = load_examples(args, mode="train")
-        global_step, tr_loss = train(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
-        # global_step, tr_loss = train_ner(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
+        global_step, tr_loss, max_f1 = train(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
+        eval_results, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="dev", print_result=False)
+        f1_step = round(eval_results["f1"], 5)
         logger.info(" global_step = %s, average loss = %s", global_step, tr_loss)
 
     # Saving best-practices: if you use defaults names for the model, you can reload it using from_pretrained()
@@ -671,17 +601,18 @@ def main():
         if not os.path.exists(args.output_dir) and args.local_rank in [-1, 0]:
             os.makedirs(args.output_dir)
 
-        logger.info("Saving model checkpoint to %s", args.output_dir)
-        # Save a trained model, configuration and tokenizer using `save_pretrained()`.
-        # They can then be reloaded using `from_pretrained()`
-        model_to_save = (
-            model.module if hasattr(model, "module") else model
-        )  # Take care of distributed/parallel training
-        model_to_save.save_pretrained(args.output_dir)
-        tokenizer.save_pretrained(args.output_dir)
+        if f1_step >= max_f1:
+            logger.info("Saving model checkpoint to %s", args.output_dir)
+            # Save a trained model, configuration and tokenizer using `save_pretrained()`.
+            # They can then be reloaded using `from_pretrained()`
+            model_to_save = (
+                model.module if hasattr(model, "module") else model
+            )  # Take care of distributed/parallel training
+            model_to_save.save_pretrained(args.output_dir)
+            tokenizer.save_pretrained(args.output_dir)
 
-        # Good practice: save your training arguments together with the trained model
-        torch.save(args, os.path.join(args.output_dir, "training_args.bin"))
+            # Good practice: save your training arguments together with the trained model
+            torch.save(args, os.path.join(args.output_dir, "training_args.bin"))
 
     # Evaluation
     results = {}
@@ -719,8 +650,8 @@ def main():
                 writer.write("{} = {}\n".format(key, str(result[key])))
         # Save predictions
         output_test_predictions_file = os.path.join(args.output_dir, args.test_prediction_file)
-        with open(output_test_predictions_file, "w") as writer:
-            with open(os.path.join(args.data_dir, "test.txt"), "r") as f:
+        with open(output_test_predictions_file, "w", encoding='utf-8') as writer:
+            with open(os.path.join(args.data_dir, "test.txt"), "r", encoding='utf-8') as f:
                 example_id = 0
                 for line in f:
                     if line.startswith("-DOCSTART-") or line == "" or line == "\n":
@@ -740,113 +671,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-'''
-export MAX_LENGTH=164
-export BERT_MODEL=bert-base-multilingual-cased
-export OUTPUT_DIR=wol_bert
-export BATCH_SIZE=32
-export NUM_EPOCHS=50
-export SAVE_STEPS=10000
-export SEED=1
-
-CUDA_VISIBLE_DEVICES=2 python3 train_ner.py --data_dir conll_format/wolof/ \
---model_type bert \
---model_name_or_path $BERT_MODEL \
---output_dir $OUTPUT_DIR \
---max_seq_length  $MAX_LENGTH \
---num_train_epochs $NUM_EPOCHS \
---per_gpu_train_batch_size $BATCH_SIZE \
---save_steps $SAVE_STEPS \
---seed $SEED \
---do_train \
---do_eval \
---do_predict
-
-
-export MAX_LENGTH=164
-export BERT_MODEL=xlm-roberta-base
-export INPUT_DIR=conll_tranf
-export OUTPUT_DIR=eng_yor100
-export BATCH_SIZE=32
-export NUM_EPOCHS=10
-export SAVE_STEPS=10000
-export SEED=1
-
-CUDA_VISIBLE_DEVICES=2 python3 train_ner.py --data_dir news/yoruba100/ \
---model_type bert \
---model_name_or_path $BERT_MODEL \
---input_dir $INPUT_DIR \
---output_dir $OUTPUT_DIR \
---max_seq_length  $MAX_LENGTH \
---num_train_epochs $NUM_EPOCHS \
---per_gpu_train_batch_size $BATCH_SIZE \
---save_steps $SAVE_STEPS \
---seed $SEED \
---do_finetune \
---do_eval \
---do_predict
-
-
-export MAX_LENGTH=164
-export BERT_MODEL=xlm-roberta-base
-export OUTPUT_DIR=conll_tranf
-export BATCH_SIZE=32
-export NUM_EPOCHS=10
-export SAVE_STEPS=10000
-export SEED=1
-
-CUDA_VISIBLE_DEVICES=3 python3 train_ner.py --data_dir news/igbo/ \
---model_type bert \
---model_name_or_path $BERT_MODEL \
---output_dir $OUTPUT_DIR \
---max_seq_length  $MAX_LENGTH \
---num_train_epochs $NUM_EPOCHS \
---per_gpu_train_batch_size $BATCH_SIZE \
---save_steps $SAVE_STEPS \
---seed $SEED \
---do_predict
-
-
-export MAX_LENGTH=164
-export BERT_MODEL=xlm-roberta-large
-export OUTPUT_DIR=ibo_xlmrlarge
-export BATCH_SIZE=32
-export NUM_EPOCHS=50
-export SAVE_STEPS=10000
-export SEED=1
-
-CUDA_VISIBLE_DEVICES=0,1,3 python3 train_ner.py --data_dir conll_format/igbo/ \
---model_type xlmroberta \
---model_name_or_path $BERT_MODEL \
---output_dir $OUTPUT_DIR \
---max_seq_length  $MAX_LENGTH \
---num_train_epochs $NUM_EPOCHS \
---per_gpu_train_batch_size $BATCH_SIZE \
---save_steps $SAVE_STEPS \
---seed $SEED \
---do_train \
---do_eval \
---do_predict
-
-
-yor
-bert
-f1 = 0.7777286787450287
-xlmr
-f1 = 0.7187916481563749
-
-luo
-bert
-f1 = 0.5938650306748466
-xlmr
-f1 = 0.43446601941747576
-
-igbo
-bert
-
-xlmr
-
-
-'''
