@@ -1946,8 +1946,8 @@ Jacob B-PER
 Zuma I-PER
 siwo O
 ka O
-ɣleti ADJ
-15 ADJ
+ɣleti B-DATE
+15 I-DATE
 na O
 la O
 ƒe O
@@ -2773,9 +2773,9 @@ Italie B-LOC
 . O
 
 """" O
-Shine ADJ
-your ADJ
-light ADJ
+Shine O
+your O
+light O
 """" O
 nye O
 hadzidzi O
@@ -3590,12 +3590,12 @@ LSI B-ORG
 Afrika I-ORG
 gblɔ O
 be O
-Afrika ADJ
-fɔbɔlƒoha ADJ
-hatsotso ADJ
-( ADJ
-CAF ADJ
-) ADJ
+Afrika B-ORG
+fɔbɔlƒoha I-ORG
+hatsotso I-ORG
+( O
+CAF B-ORG
+) O
 kplɔla O
 Afrique B-LOC
 du I-LOC
