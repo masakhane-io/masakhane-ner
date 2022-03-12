@@ -2,7 +2,7 @@ LANG=nya
 for j in 1 2 3 4 5
 do
 	export MAX_LENGTH=164
-	export BERT_MODEL=bert-base-multilingual-uncased
+	export BERT_MODEL=bert-base-multilingual-cased
 	export OUTPUT_DIR=${LANG}_mbert
 	export TEXT_RESULT=test_result$j.txt
 	export TEXT_PREDICTION=test_predictions$j.txt
