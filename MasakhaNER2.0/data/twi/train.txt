@@ -209,7 +209,7 @@ Roger B-PER
 Nkodo I-PER
 Dang I-PER
 , O
-Cameroon ADJ
+Cameroon O
 Manpanin O
 . O
 
@@ -1233,9 +1233,9 @@ mu O
 . O
 
 """" O
-Asante ADJ
-Mantam ADJ
-Apueɛ ADJ
+Asante B-LOC
+Mantam I-LOC
+Apueɛ O
 fa O
 mu O
 Zoomlion B-ORG
@@ -2106,7 +2106,7 @@ ntɛm O
 sɛnea O
 ɛbɛyɛ O
 a O
-anɔpa ADJ
+anɔpa O
 kar O
 no O
 mfa O
@@ -2680,7 +2680,7 @@ mu O
 sɛ O
 nnipa O
 sɔree O
-anɔpa ADJ
+anɔpa O
 paa O
 bɛyɛ O
 nɔn O
@@ -3272,7 +3272,7 @@ akɔnnɔ O
 
 Adeɛ O
 bɛkye O
-anɔpa ADJ
+anɔpa O
 a O
 wobɛbano O
 , O
@@ -3890,10 +3890,10 @@ Dr O
 . O
 Adutwum B-PER
 wɔ O
-Metro ADJ
-TV ADJ
-. ADJ
-Dwumadie ADJ
+Metro B-ORG
+TV I-ORG
+. O
+Dwumadie O
 a O
 wɔato O
 din O
@@ -6729,9 +6729,9 @@ too O
 atena O
 mu O
 wɔ O
-Nana ADJ
-Ameyaw ADJ
-agoprama ADJ
+Nana B-LOC
+Ameyaw I-LOC
+agoprama I-LOC
 so O
 nti O
 . O
@@ -8412,10 +8412,10 @@ Read2skill O
 mu O
 , O
 wɔresɔ O
-Nwomasua ADJ
-Asoeɛ ADJ
-( ADJ
-MoE ADJ
+Nwomasua B-ORG
+Asoeɛ I-ORG
+( I-ORG
+MoE I-ORG
 ) O
 ne O
 Ghana B-ORG
@@ -11399,10 +11399,10 @@ enum O
 % O
 ) O
 afe O
-2020 ADJ
-, ADJ
-ɔsram ADJ
-Ɔbɛnem ADJ
+2020 B-DATE
+, O
+ɔsram B-DATE
+Ɔbɛnem I-DATE
 mu O
 , O
 berɛ O
@@ -12521,9 +12521,9 @@ dwuma O
 a O
 wɔato O
 din O
-Good ADJ
-Evening ADJ
-Ghana ADJ
+Good B-ORG
+Evening I-ORG
+Ghana I-ORG
 Benada B-DATE
 no O
 , O
@@ -15354,9 +15354,9 @@ Berɛ O
 a O
 ɔrekasa O
 wɔ O
-Mime ADJ
-Africa ADJ
-Abasobɔ ADJ
+Mime B-ORG
+Africa I-ORG
+Abasobɔ I-ORG
 ho O
 Ntomapa O
 Dwumadie O
@@ -15653,9 +15653,9 @@ a O
 wɔn O
 TIN O
 , O
-Ghana ADJ
-Post ADJ
-GPS ADJ
+Ghana B-LOC
+Post O
+GPS O
 akwankyerɛ O
 , O
 ɛna O
@@ -18028,14 +18028,14 @@ Lehman B-ORG
 Brothers I-ORG
 , O
 
-Bank ADJ
-of ADJ
-Credit ADJ
-and ADJ
-Commerce ADJ
-International ADJ
-( ADJ
-BCCI ADJ
+Bank B-ORG
+of I-ORG
+Credit I-ORG
+and I-ORG
+Commerce I-ORG
+International I-ORG
+( I-ORG
+BCCI I-ORG
 ) O
 nyinaa O
 ara O
@@ -18390,9 +18390,9 @@ adwuma O
 nhyɛ O
 aseɛ O
 wɔ O
-Ghana ADJ
-Mmara ADJ
-Sukuu ADJ
+Ghana B-ORG
+Mmara I-ORG
+Sukuu I-ORG
 foforɔ O
 a O
 yɛfrɛ O
@@ -22852,8 +22852,8 @@ amane O
 Sɛ O
 metena O
 ase O
-simma ADJ
-15 ADJ
+simma O
+15 O
 , O
 na O
 manhwɛ O
@@ -26459,8 +26459,8 @@ no O
 kyerɛɛ O
 mu O
 sɛ O
-Law ADJ
-Village ADJ
+Law B-ORG
+Village I-ORG
 dansie O
 boɔ O
 no O
@@ -26489,8 +26489,8 @@ dollar O
 ɔpepem O
 nnan O
 . O
-Law ADJ
-Village ADJ
+Law B-ORG
+Village I-ORG
 foforɔ O
 a O
 wɔresi O
@@ -30394,18 +30394,18 @@ nti O
 sɛ O
 kraman O
 hua O
-biribi ADJ
-a ADJ
-, ADJ
+biribi O
+a O
+, O
 otumi O
-hu ADJ
-nneɛma ADJ
-a ADJ
-ɛwom ADJ
-nyinaa ADJ
-. ADJ
+hu O
+nneɛma O
+a O
+ɛwom O
+nyinaa O
+. O
 
-Ɔpanyin ADJ
+Ɔpanyin O
 no O
 ne O
 onipa O
@@ -34853,7 +34853,7 @@ biara O
 . O
 
 Wɔ O
-Amerika ADJ
+Amerika O
 no O
 , O
 wobetumi O
@@ -39599,7 +39599,7 @@ wobɛtumi O
 afom O
 ! O
 
-Ɔsram ADJ
+Ɔsram O
 a O
 edi O
 hɔ O
@@ -41694,7 +41694,7 @@ mpɔn O
 
 Central O
 Regional O
-Police ADJ
+Police O
 akyɛ O
 feki O
 ( O
@@ -44008,10 +44008,10 @@ $ O
 , O
 000 O
 ama O
-Ghana ADJ
-Power ADJ
-Generation ADJ
-company ADJ
+Ghana B-ORG
+Power I-ORG
+Generation I-ORG
+company I-ORG
 ( O
 GCGP B-ORG
 ) O
@@ -44674,7 +44674,7 @@ a O
 ɔhwɛ O
 ogyahoɔden O
 gyina O
-PPA ADJ
+PPA O
 Kɔmitee O
 a O
 Dr O
@@ -44842,11 +44842,11 @@ tenaa O
 hɔ O
 saa O
 kɔsi O
-Oforisuo ADJ
-da ADJ
-a ADJ
-ɛdi ADJ
-kan ADJ
+Oforisuo B-DATE
+da O
+a O
+ɛdi O
+kan O
 , O
 2021 B-DATE
 ansa O
@@ -45579,15 +45579,15 @@ kɔɔ O
 opirehyin O
 . O
 
-Kɔtɔnima ADJ
-da ADJ
-a ADJ
-ɛtɔ ADJ
-so ADJ
-aduonu ADJ
-mmiɛnsa ADJ
-wɔ ADJ
-2021 ADJ
+Kɔtɔnima B-DATE
+da I-DATE
+a I-DATE
+ɛtɔ I-DATE
+so I-DATE
+aduonu I-DATE
+mmiɛnsa I-DATE
+wɔ O
+2021 B-DATE
 mu O
 no O
 , O
@@ -46272,8 +46272,8 @@ n'aberɛ O
 atwa O
 mu O
 , O
-Iain ADJ
-Walker ADJ
+Iain B-ORG
+Walker I-ORG
 ne O
 EIB B-ORG
 Network I-ORG
@@ -50946,7 +50946,7 @@ too O
 dwa O
 ansa O
 na O
-2016 ADJ
+2016 O
 abatoɔ O
 no O
 rebɛkɔ O
@@ -52181,11 +52181,11 @@ Guiness B-ORG
 Ghana I-ORG
 Limited I-ORG
 ne O
-Coca ADJ
-- ADJ
-Cola ADJ
-Bottling ADJ
-company ADJ
+Coca B-ORG
+- I-ORG
+Cola I-ORG
+Bottling I-ORG
+company O
 kwan O
 sɛ O
 wɔn O
@@ -54386,18 +54386,18 @@ a O
 ɔwiee O
 sukuu O
 wɔ O
-Adeiso ADJ
-Presbyterian ADJ
-Senior ADJ
-High ADJ
-School ADJ
+Adeiso B-LOC
+Presbyterian O
+Senior O
+High O
+School O
 a O
 ɔnyaa O
 sokɔlahyip O
 afiri O
-Ghana ADJ
-Sɔholarships ADJ
-Secretariat ADJ
+Ghana B-LOC
+Sɔholarships O
+Secretariat O
 hɔ O
 no O
 ada O
@@ -57556,7 +57556,7 @@ panin O
 kyerɛ O
 sɛ O
 , O
-Interpol ADJ
+Interpol O
 kyee O
 Mr O
 Kanu B-PER
@@ -57730,7 +57730,7 @@ no O
 Indigenous O
 People O
 of O
-Biafra ADJ
+Biafra O
 ( O
 Ipobɔ O
 a O
@@ -57981,9 +57981,9 @@ Mr O
 Dogbegah B-PER
 kyerɛ O
 sɛ O
-IoD ADJ
-- ADJ
-Gh ADJ
+IoD O
+- O
+Gh O
 de O
 nhyehyɛeɛ O
 regu O
@@ -59603,7 +59603,7 @@ du O
 - O
 wɔtwe O
 na O
-ɛimenez ADJ
+ɛimenez O
 bɛhunu O
 sɛ O
 ɔbɛtumi O
@@ -60454,7 +60454,7 @@ apolisifoɔ O
 akye O
 wɔn O
 ne O
-ɔhamisa ADJ
+ɔhamisa O
 abadiakyire O
 mmienu O
 , O
@@ -60550,7 +60550,7 @@ abɔ O
 wɔn O
 . O
 
-ɔhamisa ADJ
+ɔhamisa O
 MDɔ O
 kasamafoɔ O
 Fadzai B-PER
@@ -60682,8 +60682,8 @@ sɛ O
 , O
 Robert B-PER
 Mugabe I-PER
-amammuo ADJ
-na ADJ
+amammuo O
+na O
 ɛhyɛɛ O
 wɔn O
 maa O
@@ -60724,8 +60724,8 @@ kuo O
 ho O
 , O
 Dr O
-Viɔtor ADJ
-ɔhimhutu ADJ
+Viɔtor B-PER
+ɔhimhutu I-PER
 kyerɛ O
 sɛ O
 , O
@@ -60889,16 +60889,16 @@ no O
 anim O
 sɛ O
 , O
-ɔpɛnimma ADJ
-bosome ADJ
-no ADJ
-kɔ ADJ
-awieeɛ ADJ
-na ADJ
-sɛ ADJ
-aban ADJ
-no ADJ
-antuaa ADJ
+ɔpɛnimma B-DATE
+bosome O
+no O
+kɔ O
+awieeɛ O
+na O
+sɛ O
+aban O
+no O
+antuaa O
 wɔn O
 ka O
 a O
@@ -60933,9 +60933,9 @@ sɛ O
 Zimbabwe B-LOC
 anɛɛsefoɔ O
 kuo O
-no ADJ
-nso ADJ
-hyɛ ADJ
+no O
+nso O
+hyɛ O
 wɔn O
 ase O
 no O
@@ -60946,12 +60946,12 @@ akɔma O
 aban O
 no O
 wɔ O
-deɛ ADJ
-wɔpɛ ADJ
+deɛ O
+wɔpɛ O
 sɛ O
-wɔyɛ ADJ
-no ADJ
-ho ADJ
+wɔyɛ O
+no O
+ho O
 . O
 
 Dr O
@@ -61931,9 +61931,9 @@ a O
 ɔsan O
 nso O
 ka O
-Itai ADJ
-Dzamara ADJ
-Trust ADJ
+Itai B-PER
+Dzamara I-PER
+Trust O
 bɔɔdo O
 no O
 ho O
@@ -63673,7 +63673,7 @@ afie O
 mu O
 . O
 
-Sikhala ADJ
+Sikhala O
 a O
 na O
 ɔyɛ O
@@ -63687,7 +63687,7 @@ polisi O
 a O
 wɔfrɛ O
 no O
-ɛabangwe ADJ
+ɛabangwe O
 repɛ O
 amanyɔkuo O
 no O
@@ -63774,7 +63774,7 @@ nyinaa O
 mu O
 . O
 
-Sikhala ADJ
+Sikhala O
 a O
 wɔkyee O
 no O
@@ -64035,7 +64035,7 @@ kɔɔ O
 sikakorabea O
 sɛ O
 wɔreyi O
-ɔhamisa ADJ
+ɔhamisa O
 akyitaafoɔ O
 afiri O
 wɔn O
@@ -64119,7 +64119,7 @@ de O
 bɛtoo O
 dwa O
 sɛ O
-ɔhamisa ADJ
+ɔhamisa O
 amfa O
 amanyɔkuo O
 anni O
@@ -64173,7 +64173,7 @@ kaa O
 sɛ O
 ɛwɔ O
 sɛ O
-ɔhamisa ADJ
+ɔhamisa O
 ne O
 afoforɔ O
 no O
@@ -64287,7 +64287,7 @@ de O
 sika O
 no O
 bɛma O
-ɔhamisa ADJ
+ɔhamisa O
 MDɔ B-ORG
 . O
 
@@ -64862,9 +64862,9 @@ na O
 wɔwɔ O
 abenfoɔ O
 wɔ O
-South ADJ
-Africa ADJ
-atifi ADJ
+South B-LOC
+Africa I-LOC
+atifi I-LOC
 afam O
 a O
 wɔtumi O
@@ -65582,13 +65582,13 @@ baabi O
 ɔmampanin O
 abadiakyire O
 ɔonstantino O
-ɔhiwenga ADJ
+ɔhiwenga O
 regye O
 ayarehwɛ O
 . O
 Wɔkyerɛ O
 sɛ O
-ɔhiwenga ADJ
+ɔhiwenga O
 nkɔ O
 ne O
 man O
@@ -65673,7 +65673,7 @@ sɛ O
 ɛyɛ O
 ampa O
 sɛ O
-ɔhiwenga ADJ
+ɔhiwenga O
 wɔ O
 ayaresabea O
 a O
@@ -65823,7 +65823,7 @@ a O
 mu O
 no O
 , O
-ɔhiwenga ADJ
+ɔhiwenga O
 hyɛɛ O
 amanfoɔ O
 no O
@@ -66736,8 +66736,8 @@ aman O
 bi O
 a O
 ɛwɔ O
-Abibirem ADJ
-atifi ADJ
+Abibirem B-LOC
+atifi I-LOC
 fam O
 a O
 Botswana B-LOC
@@ -67026,7 +67026,7 @@ no O
 baeɛ O
 . O
 
-FUZ ADJ
+FUZ O
 de O
 ato O
 dwa O
@@ -67380,14 +67380,14 @@ nti O
 a O
 ɛfiri O
 sɛ O
-King ADJ
-Zyimba ADJ
+King B-PER
+Zyimba B-LOC
 asoma O
 no O
 . O
 
-Leo ADJ
-Mugabe ADJ
+Leo O
+Mugabe B-PER
 kaa O
 sɛ O
 amu O
@@ -68069,9 +68069,9 @@ wɔnka O
 ho O
 ɛfiri O
 sɛ O
-Al ADJ
-Ahli ADJ
-Tripoli ADJ
+Al B-ORG
+Ahli I-ORG
+Tripoli B-LOC
 a O
 wɔfiri O
 Lybia B-LOC
@@ -68139,7 +68139,7 @@ mu O
 no O
 , O
 Harare B-LOC
-Citya ADJ
+Citya O
 na O
 wɔwɔ O
 akansie O
@@ -68842,7 +68842,7 @@ deɛ O
 asi O
 biara O
 wɔ O
-AmErica ADJ
+AmErica O
 abakɔsɛm O
 mu O
 . O
@@ -70028,9 +70028,9 @@ yɛn O
 anim O
 yi O
 kɔsi O
-Kɔtɔnima ADJ
-, ADJ
-2020 ADJ
+Kɔtɔnima B-DATE
+, I-DATE
+2020 I-DATE
 . O
 
 Nnipa O
@@ -71780,7 +71780,7 @@ a O
 ɔmampanin O
 abadiakyire O
 ɔonstantino O
-ɔhiwenga ADJ
+ɔhiwenga O
 de O
 ato O
 dwa O
@@ -71973,7 +71973,7 @@ Aman O
 a O
 wɔbɔ O
 ɔopa O
-AmErica ADJ
+AmErica O
 no O
 nyinaa O
 wɔ O
@@ -72076,7 +72076,7 @@ mfaa O
 Argentina B-LOC
 nnyee O
 ɔopa O
-AmErica ADJ
+AmErica O
 anaa O
 World O
 ɔup O
@@ -72676,10 +72676,10 @@ mampanin O
 Robert B-PER
 Mugabe I-PER
 wɔ O
-United ADJ
-Nations ADJ
-General ADJ
-Assembly ADJ
+United B-ORG
+Nations I-ORG
+General I-ORG
+Assembly I-ORG
 ɛrebɛba O
 so O
 wɔ O
@@ -72902,8 +72902,8 @@ akyerɛkyerɛfoɔ O
 so O
 . O
 
-Obert ADJ
-Masaure ADJ
+Obert O
+Masaure B-PER
 a O
 ɔyɛ O
 ARTUZ B-ORG
@@ -73817,7 +73817,7 @@ bebree O
 no O
 , O
 wɔde O
-AmErica ADJ
+AmErica O
 dɔla O
 no O
 na O
@@ -74113,7 +74113,7 @@ MDC B-ORG
 - I-ORG
 T I-ORG
 north O
-Amɛrika ADJ
+Amɛrika O
 amanyɔkuo O
 no O
 mu O
@@ -74551,7 +74551,7 @@ a O
 ɔmanpanin O
 dada O
 ɔonstantino O
-ɔhiwenga ADJ
+ɔhiwenga O
 kaa O
 sɛ O
 adɔkota O
@@ -75322,7 +75322,7 @@ no O
 wɔkyerɛ O
 sɛ O
 saa O
-ɔhamisa ADJ
+ɔhamisa O
 abadiakyirefoɔ O
 mmienu O
 yi O
@@ -76095,8 +76095,8 @@ no O
 
 Ms O
 . O
-Sibanda ADJ
-kaa ADJ
+Sibanda B-PER
+kaa O
 sɛ O
 wɔgu O
 so O
@@ -76158,9 +76158,9 @@ kan O
 ahan O
 kaa O
 de O
-refi ADJ
-Kariba ADJ
-akɔ ADJ
+refi O
+Kariba B-LOC
+akɔ O
 ɔhinhoyi B-LOC
 a O
 ɛyɛ O
@@ -76189,9 +76189,9 @@ wɔ O
 ɔhinhoyi B-LOC
 ayaresabea O
 a O
-wɔgye ADJ
-nnipa ADJ
-firi ADJ
+wɔgye O
+nnipa O
+firi O
 mmeaeɛ O
 bi O
 te O
@@ -76760,7 +76760,7 @@ bɛyɛ O
 adwuma O
 . O
 
-Madhuku ADJ
+Madhuku O
 kaa O
 sɛ O
 wɔde O
@@ -76981,8 +76981,8 @@ a O
 agodie O
 so O
 , O
-Kirsty ADJ
-kovɛntri ADJ
+Kirsty O
+kovɛntri O
 ne O
 n'adwumayɛfoɔ O
 , O
@@ -77347,14 +77347,14 @@ firi O
 ɛkɔnomiste O
 a O
 ɔka O
-Labor ADJ
-and ADJ
-Eɔonomiɔ ADJ
-Development ADJ
-Researɔh ADJ
-Institute ADJ
-of ADJ
-Zimbabwe ADJ
+Labor O
+and O
+Eɔonomiɔ O
+Development O
+Researɔh O
+Institute O
+of O
+Zimbabwe B-LOC
 , O
 Nyasha B-PER
 Muɔhiɔhwa I-PER
@@ -77707,8 +77707,8 @@ Ayaresabea O
 no O
 . O
 
-Mathilda ADJ
-ɔhimbi ADJ
+Mathilda O
+ɔhimbi O
 a O
 ɔka O
 Banquetfoɔ O
@@ -78221,9 +78221,9 @@ wɔka O
 ho O
 asɔre O
 atia O
-Mpilo ADJ
-Sɛntetera ADJ
-Hostpial ADJ
+Mpilo B-ORG
+Sɛntetera I-ORG
+Hostpial I-ORG
 a O
 ɛwɔ O
 Bulwayo B-LOC
@@ -78351,9 +78351,9 @@ wɔhyee O
 lɔɔre O
 tae O
 wɔ O
-Putini ADJ
-High ADJ
-Schoola ADJ
+Putini B-LOC
+High O
+Schoola O
 ɛwɔ O
 Mangweni B-LOC
 , O
@@ -79304,8 +79304,8 @@ fidie O
 so O
 
 Atɔni O
-ɛim ADJ
-Biɔkerton ADJ
+ɛim O
+Biɔkerton B-PER
 , O
 kaa O
 sɛ O
@@ -79551,7 +79551,7 @@ wɔn O
 sɛ O
 wɔmma O
 IFP B-ORG
-kansela ADJ
+kansela O
 baako O
 a O
 wɔayi O
@@ -79581,7 +79581,7 @@ no O
 akyɛ O
 no O
 . O
-Nnawɔtwe ADJ
+Nnawɔtwe O
 a O
 ɛtwaam O
 mu O
@@ -79761,7 +79761,7 @@ akyɛ O
 . O
 
 """" O
-Nnawɔtwe ADJ
+Nnawɔtwe O
 a O
 ɛtwaam O
 no O
@@ -80341,13 +80341,13 @@ osuani O
 bi O
 a O
 ɔdaa O
-Durban ADJ
-Tvet ADJ
-ɔollege ADJ
+Durban B-ORG
+Tvet I-ORG
+ɔollege O
 a O
 ɛwɔ O
 ɔato O
-Manor ADJ
+Manor O
 abɔntene O
 nnanu O
 wuu O
@@ -80696,7 +80696,7 @@ sika O
 kakraa O
 bi O
 
-Sambu ADJ
+Sambu O
 kyerɛ O
 sɛ O
 hwee O
@@ -80860,7 +80860,7 @@ nyinaa O
 kɔ O
 strike O
 . O
-Nnawɔtwe ADJ
+Nnawɔtwe O
 mmienu O
 a O
 adɔkotafoɔ O
@@ -81284,10 +81284,10 @@ no O
 deɛ O
 wɔnyɛ O
 
-ɔonfederation ADJ
-of ADJ
-Zimbabwe ADJ
-Retailers ADJ
+ɔonfederation O
+of O
+Zimbabwe B-LOC
+Retailers O
 panin O
 Denford B-PER
 Matashu I-PER
@@ -81298,11 +81298,11 @@ sikasɛm O
 akɔ O
 aduru O
 
-Zimbabwe ADJ
-National ADJ
-chamber ADJ
-of ADJ
-ɔommerɔe ADJ
+Zimbabwe B-LOC
+National O
+chamber O
+of O
+ɔommerɔe O
 , O
 ɔhris B-PER
 Mugaga I-PER
@@ -81354,8 +81354,8 @@ atom O
 
 ZCTU B-ORG
 twerɛtwerɛfoɔ O
-ɛaphet ADJ
-Moyo ADJ
+ɛaphet O
+Moyo B-PER
 nso O
 de O
 ato O
@@ -81439,10 +81439,10 @@ mu O
 yi O
 ara O
 
-Zimbabwe ADJ
-Vulnerability ADJ
-Assessment ADJ
-Committee ADJ
+Zimbabwe B-LOC
+Vulnerability O
+Assessment O
+Committee O
 , O
 zimvaɔ B-ORG
 susu O
@@ -81509,7 +81509,7 @@ a O
 aduane O
 so O
 , O
-Fewsnet ADJ
+Fewsnet O
 de O
 ato O
 dwa O
@@ -81580,8 +81580,8 @@ wɔde O
 wɔn O
 ho O
 abɔ O
-Red ADJ
-ɔross ADJ
+Red O
+ɔross O
 kuo O
 no O
 
@@ -82084,8 +82084,8 @@ Adɔkotafoɔ O
 mpaninfoɔ O
 a O
 wɔwɔ O
-Zimbabwe ADJ
-Medicalassociationmu ADJ
+Zimbabwe B-LOC
+Medicalassociationmu O
 no O
 ama O
 aban O
@@ -82112,10 +82112,10 @@ no O
 ɔpanin O
 a O
 ɔda O
-Zimbabwe ADJ
-Hospital ADJ
-Doctors ADJ
-associationano ADJ
+Zimbabwe B-LOC
+Hospital O
+Doctors O
+associationano O
 , O
 Dr O
 Elias B-PER
@@ -82144,9 +82144,9 @@ kakyerɛɛ O
 no O
 sɛ O
 ɛyɛ O
-Health ADJ
-Services ADJ
-Board ADJ
+Health O
+Services O
+Board O
 na O
 adi O
 wɔn O
@@ -82315,10 +82315,10 @@ anaasɛ O
 wɔntena O
 fie O
 
-Warriors ADJ
-national ADJ
-soɔɔer ADJ
-bɔɔlɔkuo ADJ
+Warriors B-ORG
+national I-ORG
+soɔɔer O
+bɔɔlɔkuo O
 no O
 afiri O
 South B-LOC
@@ -82478,8 +82478,8 @@ sɛ O
 Tendai B-PER
 Darikwa I-PER
 , O
-Admiral ADJ
-Muskwe ADJ
+Admiral B-PER
+Muskwe I-PER
 , O
 ne O
 Aleɔ B-PER
@@ -82682,8 +82682,8 @@ akan O
 Egypt B-LOC
 wɔ O
 ɔaf O
-Champions ADJ
-League ADJ
+Champions O
+League O
 akansie O
 no O
 mu O
@@ -82713,7 +82713,7 @@ dusahel O
 so O
 nkoguo O
 
-Sweswe ADJ
+Sweswe O
 se O
 wɔbɛyɛ O
 adwuma O
@@ -82767,10 +82767,10 @@ annye O
 kuruwa O
 no O
 . O
-Zimbabwe ADJ
+Zimbabwe B-LOC
 
-Olympiɔ ADJ
-Committee ADJ
+Olympiɔ O
+Committee O
 panin O
 Anna B-PER
 Mguni I-PER
@@ -82798,8 +82798,8 @@ no O
 ara O
 nanso O
 ɔrekɔ O
-Masvingo ADJ
-Triangle ADJ
+Masvingo B-ORG
+Triangle I-ORG
 kookyi O
 Taurayi B-ORG
 Mangwiro I-ORG
@@ -82849,9 +82849,9 @@ ani O
 Nanso O
 titenani O
 ma O
-Zimbabwe ADJ
-Volleyball ADJ
-Assoɔiation ADJ
+Zimbabwe B-LOC
+Volleyball O
+Assoɔiation O
 , O
 Ringisai B-PER
 Mapondera I-PER
@@ -82962,13 +82962,13 @@ faa O
 Service O
 , O
 the O
-Public ADJ
-Service ADJ
-Commission ADJ
+Public O
+Service O
+Commission O
 ne O
-Ministry ADJ
-of ADJ
-Finanɔe ADJ
+Ministry O
+of O
+Finanɔe O
 so O
 de O
 wɔn O
@@ -83164,8 +83164,8 @@ wɔntua O
 $ O
 million O
 
-Kazembe ADJ
-Kazembe ADJ
+Kazembe B-PER
+Kazembe O
 a O
 ɔyɛ O
 amandwoeɛ O
@@ -83494,8 +83494,8 @@ mu O
 Warriors B-ORG
 no O
 rewura O
-Rufaro ADJ
-stadium ADJ
+Rufaro B-LOC
+stadium O
 wɔ O
 agokansie O
 a O
@@ -83513,10 +83513,10 @@ a O
 Warriors B-ORG
 no O
 ne O
-Indomitable ADJ
-Lionesses ADJ
-of ADJ
-Cameroon ADJ
+Indomitable O
+Lionesses O
+of O
+Cameroon B-LOC
 no O
 rehyia O
 no O
@@ -83528,9 +83528,9 @@ akɔ O
 Olympiɔ O
 Games O
 wɔ O
-Rio ADJ
-de ADJ
-ɛaneiro ADJ
+Rio B-LOC
+de O
+ɛaneiro O
 wɔ O
 afe O
 a O
@@ -83680,9 +83680,9 @@ adi O
 nkonim O
 bio O
 
-Zimbabwe ADJ
-Football ADJ
-associationno ADJ
+Zimbabwe B-LOC
+Football O
+associationno O
 ahunu O
 hia O
 a O
@@ -83793,8 +83793,8 @@ no O
 bɛhyia O
 Lesotho B-LOC
 wɔ O
-Bourfields ADJ
-stadium ADJ
+Bourfields B-LOC
+stadium O
 wɔ O
 African O
 Nations O
@@ -83814,8 +83814,8 @@ mmiɛnsa O
 Hardlife B-PER
 Zvirekwi I-PER
 ne O
-Justice ADJ
-ɛangano ADJ
+Justice B-PER
+ɛangano I-PER
 wɔ O
 nna O
 mu O
@@ -83903,9 +83903,9 @@ adeɛ O
 wɔ O
 Harare B-LOC
 ne O
-Taɛamuka ADJ
-/ ADJ
-Sesiɛikile ADJ
+Taɛamuka B-LOC
+/ O
+Sesiɛikile B-LOC
 movement O
 kuo O
 mma O
@@ -83948,9 +83948,9 @@ wɔtɔn O
 nnoɔma O
 no O
 
-Taɛamuka ADJ
-/ ADJ
-Sesiɛikile ADJ
+Taɛamuka B-LOC
+/ O
+Sesiɛikile B-LOC
 movement O
 kasamafoɔ O
 Makomborero B-PER
@@ -84348,12 +84348,12 @@ pii O
 na O
 aka O
 sɛ O
-afe ADJ
-mpem ADJ
-mmienu ADJ
-ne ADJ
-du ADJ
-nkron ADJ
+afe O
+mpem O
+mmienu O
+ne O
+du O
+nkron O
 bɛhyɛ O
 ɔhaw O
 kɛseɛ O
@@ -84626,9 +84626,9 @@ biara O
 Ablakwa B-PER
 asɛnhia O
 
-Foreign ADJ
-Affairs ADJ
-Committee ADJ
+Foreign O
+Affairs O
+Committee O
 panin O
 Mr O
 . O
@@ -84861,8 +84861,8 @@ yɛɛ O
 saa O
 dwumadie O
 a O
-Commonwealth ADJ
-Secretariat ADJ
+Commonwealth O
+Secretariat O
 sɔɔ O
 wɔn O
 asene O
@@ -85557,7 +85557,7 @@ ara O
 nim O
 no O
 sɛ O
-NAM ADJ
+NAM O
 ama O
 watua O
 ɔmanfoɔ O
@@ -85592,7 +85592,7 @@ no O
 ɛmfa O
 ho O
 sɛ O
-NAM ADJ
+NAM O
 agye O
 ɔmanfoɔ O
 no O
@@ -85613,7 +85613,7 @@ sɛ O
 ɛdeɛn O
 na O
 ɛwɔ O
-NAM ADJ
+NAM O
 ho O
 a O
 ɛma O
@@ -85640,9 +85640,9 @@ no O
 so O
 aberɛ O
 a O
-NAM ADJ
-- ADJ
-1 ADJ
+NAM O
+- O
+1 O
 nam O
 hɔ O
 kwa O
@@ -85652,7 +85652,7 @@ bɔ O
 sɛ O
 n'aban O
 bɛyɛ O
-NAM ADJ
+NAM O
 ne O
 ne O
 mpaninfoɔ O
@@ -85674,13 +85674,13 @@ a O
 ɔtenaa O
 Menzgold B-ORG
 panin O
-NAM ADJ
+NAM O
 asɛm O
 so O
 sɛ O
-Nkran ADJ
-Circuit ADJ
-kɔɔto ADJ
+Nkran B-ORG
+Circuit I-ORG
+kɔɔto I-ORG
 atu O
 asɛm O
 no O
@@ -85704,7 +85704,7 @@ no O
 adi O
 kan O
 abɔ O
-NAM ADJ
+NAM O
 soboɔ O
 wɔ O
 Kotonimaa B-DATE
@@ -85717,9 +85717,9 @@ aduonu O
 no O
 mu O
 wɔ O
-Nkran ADJ
-Circuit ADJ
-kɔɔto ADJ
+Nkran B-ORG
+Circuit I-ORG
+kɔɔto I-ORG
 
 Polisi O
 sɔpretɛnɛnt O
@@ -85742,7 +85742,7 @@ sɛ O
 soboɔ O
 foforɔ O
 ne O
-NAM ADJ
+NAM O
 akyɛwpa O
 nto O
 hɔ O
@@ -85842,7 +85842,7 @@ kɔɔto O
 tiee O
 wɔn O
 
-NAM ADJ
+NAM O
 a O
 wɔabɔ O
 no O
@@ -85875,7 +85875,7 @@ Nkran B-ORG
 Circuit I-ORG
 kɔɔto I-ORG
 maa O
-NAM ADJ
+NAM O
 bail O
 GHS O
 billion O
@@ -86127,7 +86127,7 @@ Services O
 . O
 Afei O
 wɔhyɛɛ O
-DVLA ADJ
+DVLA O
 sɛ O
 ɛnni O
 kwan O
@@ -86278,12 +86278,12 @@ ho O
 Nnwumakuo O
 bebree O
 a O
-Ghana ADJ
-Medicalassociationne ADJ
-National ADJ
-Road ADJ
-Safety ADJ
-Authority ADJ
+Ghana B-LOC
+Medicalassociationne O
+National O
+Road O
+Safety O
+Authority O
 ka O
 ho O
 na O
@@ -87149,11 +87149,11 @@ biara O
 nni O
 hɔ O
 nsene O
-Kitawonsa ADJ
-da ADJ
-a ADJ
-ɛtɔ ADJ
-dubaakob ADJ
+Kitawonsa B-DATE
+da O
+a O
+ɛtɔ O
+dubaakob O
 a O
 yɛtu O
 sii O
@@ -88510,8 +88510,8 @@ yie O
 Ayarefoɔ O
 a O
 ɛwɔ O
-Parirenyatwa ADJ
-Ayaresabea ADJ
+Parirenyatwa B-LOC
+Ayaresabea O
 ka O
 kyerɛɛ O
 Studio7 B-ORG
@@ -88553,8 +88553,8 @@ nan O
 mu O
 abu O
 da O
-Parirenyatwa ADJ
-Ayaresabea ADJ
+Parirenyatwa B-LOC
+Ayaresabea O
 . O
 Ms O
 Gachitawa B-PER
@@ -89298,9 +89298,9 @@ mu O
 
 Ɔ O
 soafoɔ O
-abɛdiakyire ADJ
-a ADJ
-ɔhwɛ ADJ
+abɛdiakyire O
+a O
+ɔhwɛ O
 Kuayɛ O
 so O
 , O
@@ -89697,13 +89697,13 @@ nnipa O
 aduasa O
 - O
 a O
-al ADJ
-- ADJ
-Qaeda ADJ
-in ADJ
-the ADJ
-Islamic ADJ
-Maghreb ADJ
+al O
+- O
+Qaeda O
+in O
+the O
+Islamic O
+Maghreb O
 ( O
 AQIM B-ORG
 ) O
@@ -89725,9 +89725,9 @@ mu O
 Ansar B-PER
 Dine I-PER
 ne O
-al ADJ
-- ADJ
-Mourabitoum ADJ
+al O
+- O
+Mourabitoum O
 ate O
 GSIM B-ORG
 
@@ -90375,9 +90375,9 @@ ntama O
 Ɔ O
 rekasa O
 wɔ O
-Human ADJ
-Rights ADJ
-Watch ADJ
+Human O
+Rights O
+Watch O
 mmara O
 a O
 ɔpaa O
@@ -93270,10 +93270,10 @@ kuo O
 ahodoɔ O
 a O
 aba O
-Sub ADJ
-- ADJ
-Saharan ADJ
-Africa ADJ
+Sub O
+- O
+Saharan O
+Africa O
 no O
 na O
 ama O
@@ -93300,10 +93300,10 @@ mu O
 pa O
 ara O
 wɔ O
-Sub ADJ
-- ADJ
-Saharan ADJ
-Africa ADJ
+Sub O
+- O
+Saharan O
+Africa O
 ne O
 Burkina B-LOC
 Faso I-LOC
@@ -93331,10 +93331,10 @@ mu O
 no O
 , O
 """" O
-sub ADJ
-- ADJ
-Saharan ADJ
-Africa ADJ
+sub O
+- O
+Saharan O
+Africa O
 na O
 ISIS O
 basabasaeɛ O
@@ -93430,9 +93430,9 @@ rekɔ O
 soro O
 . O
 
-US ADJ
-State ADJ
-Department ADJ
+US B-LOC
+State O
+Department O
 for O
 ɔounter O
 - O
@@ -94442,8 +94442,8 @@ fam O
 IS B-ORG
 nyaa O
 wɔnyaa O
-atifi ADJ
-mansini ADJ
+atifi O
+mansini O
 mu O
 wɔ O
 ɔapo B-LOC
@@ -94505,8 +94505,8 @@ basabasaeɛ O
 a O
 ɛsiiɛ O
 wɔ O
-ɔabo ADJ
-Delgado ADJ
+ɔabo O
+Delgado O
 wɔ O
 IS B-ORG
 din O
@@ -94652,10 +94652,10 @@ ma O
 Jihadfoɔ O
 a O
 wɔwɔ O
-North ADJ
-ne ADJ
-West ADJ
-Africa ADJ
+North B-LOC
+ne O
+West B-LOC
+Africa I-LOC
 a O
 wɔkyekye O
 nkorɔfoɔ O
@@ -96341,9 +96341,9 @@ Cobbina I-PER
 mmarahyɛbɛdwani O
 a O
 ɔwɔ O
-Weiɛa ADJ
-- ADJ
-Gbawe ADJ
+Weiɛa B-LOC
+- I-LOC
+Gbawe I-LOC
 , O
 Tina B-PER
 Naa I-PER
@@ -98997,7 +98997,7 @@ mmara O
 a O
 wɔhyɛɛ O
 no O
-1989 ADJ
+1989 O
 no O
 nyɛ O
 adwuma O
@@ -102893,12 +102893,12 @@ Breakfast O
 Daily O
 show O
 so O
-Benada ADJ
-, ADJ
-Oforisuo ADJ
-29 ADJ
-, ADJ
-2021 ADJ
+Benada B-DATE
+, O
+Oforisuo B-DATE
+29 I-DATE
+, I-DATE
+2021 I-DATE
 no O
 ɔkaa O
 sɛ O
@@ -103212,7 +103212,7 @@ retu O
 anammɔn O
 pii O
 
-Aban ADJ
+Aban O
 no O
 ahyɛ O
 nnipa O
@@ -103407,12 +103407,12 @@ ano O
 Wɔgyae O
 asraafoɔ O
 ahaanu O
-Wukuada ADJ
-, ADJ
-Oforisuo ADJ
-28 ADJ
-, ADJ
-2021 ADJ
+Wukuada B-DATE
+, O
+Oforisuo B-DATE
+28 I-DATE
+, I-DATE
+2021 I-DATE
 sɛ O
 wɔn O
 sɛ O
@@ -103579,10 +103579,10 @@ mantam I-LOC
 no O
 
 Ghana B-LOC
-asraafoɔ ADJ
-ahaanu ADJ
-na ADJ
-wɔde ADJ
+asraafoɔ O
+ahaanu O
+na O
+wɔde O
 wɔn O
 redi O
 saa O
@@ -103673,17 +103673,17 @@ kwan O
 
 ɛno O
 nti O
-na ADJ
-Ghana ADJ
-manpaninahyɛ ADJ
+na O
+Ghana B-LOC
+manpaninahyɛ O
 asraafoɔ O
 sɛ O
 ɔnyi O
 obibiara O
 ne O
 nneɛma O
-biara ADJ
-a ADJ
+biara O
+a O
 wɔde O
 reyɛ O
 amenamutu O
@@ -103714,17 +103714,17 @@ nneɛma O
 soɔ O
 no O
 , O
-Inusah ADJ
-Fuseini ADJ
-, ADJ
+Inusah B-PER
+Fuseini I-PER
+, O
 se O
 ɔmanpanin O
-Addo ADJ
-Dankwa ADJ
-Akufo ADJ
-- ADJ
-Addo ADJ
-bɛtumi ADJ
+Addo B-PER
+Dankwa I-PER
+Akufo I-PER
+- I-PER
+Addo I-PER
+bɛtumi O
 agya O
 din O
 papa O
@@ -103734,16 +103734,16 @@ sɛ O
 ɔtumi O
 si O
 galamsey O
-ano ADJ
-a ADJ
-. ADJ
+ano O
+a O
+. O
 
-Deɛ ADJ
-ɔreka ADJ
+Deɛ O
+ɔreka O
 ne O
-sɛ ADJ
-, ADJ
-ɛnnɛ ADJ
+sɛ O
+, O
+ɛnnɛ O
 mma O
 ne O
 daaky O
@@ -103754,8 +103754,8 @@ ne O
 so O
 , O
 sɛ O
-ɔtumi ADJ
-si ADJ
+ɔtumi O
+si O
 saa O
 ɔhaw O
 yi O
@@ -103775,8 +103775,8 @@ deɛ O
 ɔmanpanin O
 Akufo B-PER
 Addo I-PER
-kae ADJ
-wɔ ADJ
+kae O
+wɔ O
 ne O
 ho O
 a O
@@ -103810,23 +103810,23 @@ asɛe O
 , O
 ne O
 saa O
-nti ADJ
-no ADJ
-ɔde ADJ
-nneɛma ADJ
-guu ADJ
-akwan ADJ
-mu ADJ
-de ADJ
-see ADJ
-ɛbɛyɛ ADJ
-na ADJ
+nti O
+no O
+ɔde O
+nneɛma O
+guu O
+akwan O
+mu O
+de O
+see O
+ɛbɛyɛ O
+na O
 fagudeɛ O
 a O
-aka ADJ
-no ADJ
-nhwere ADJ
-nkyirimma ADJ
+aka O
+no O
+nhwere O
+nkyirimma O
 
 Owura O
 Fuseni B-PER
@@ -104193,8 +104193,8 @@ so I-DATE
 aduonu I-DATE
 mmiɛnsa I-DATE
 wɔ O
-afe ADJ
-2021 ADJ
+afe B-DATE
+2021 I-DATE
 mu O
 . O
 
@@ -104264,15 +104264,15 @@ no O
 mede O
 nneɛma O
 bɛgu O
-akwan ADJ
-mu ADJ
-de ADJ
-ko ADJ
-tia ADJ
-sika ADJ
-kɔkɔɔ ADJ
-tuo ADJ
-sɛdeɛ ADJ
+akwan O
+mu O
+de O
+ko O
+tia O
+sika O
+kɔkɔɔ O
+tuo O
+sɛdeɛ O
 ɛbɛyɛ O
 na O
 sika O
@@ -104291,9 +104291,9 @@ no O
 na O
 yɛn O
 nso O
-de ADJ
-begya ADJ
-nkyirimma ADJ
+de O
+begya O
+nkyirimma O
 . O
 
 Ɔkaa O
@@ -104428,24 +104428,24 @@ ani O
 rete O
 no O
 asan O
-resɛe ADJ
-bio ADJ
-ɛnam ADJ
-sɛ ADJ
-galamsey ADJ
-no ADJ
-asan ADJ
-aka ADJ
-ne ADJ
-ho ADJ
-wɔ ADJ
-mmeae ADJ
-ahodoɔ ADJ
-wɔ ADJ
-ɔman ADJ
-no ADJ
-mu ADJ
-nti ADJ
+resɛe O
+bio O
+ɛnam O
+sɛ O
+galamsey O
+no O
+asan O
+aka O
+ne O
+ho O
+wɔ O
+mmeae O
+ahodoɔ O
+wɔ O
+ɔman O
+no O
+mu O
+nti O
 no O
 
 ɔmanpanin O
@@ -104482,8 +104482,8 @@ Aban O
 no O
 nam O
 nsaase O
-ne ADJ
-abɔdeɛ ADJ
+ne O
+abɔdeɛ O
 mu O
 nneɛma O
 asoeɛ O
@@ -105995,8 +105995,8 @@ abɛdi O
 afra O
 mu O
 
-A ADJ
-Roɔha ADJ
+A O
+Roɔha B-ORG
 nsɛnkae O
 mu O
 no O
@@ -106160,8 +106160,8 @@ no O
 ho O
 ban O
 
-A ADJ
-Roɔha ADJ
+A O
+Roɔha B-ORG
 san O
 de O
 too O
@@ -106419,8 +106419,8 @@ sɛn O
 anaasɛ O
 ɛsoa O
 wɔ O
-Atewa ADJ
-kwae ADJ
+Atewa B-LOC
+kwae O
 no O
 mu O
 a O
@@ -106442,8 +106442,8 @@ a O
 mu O
 no O
 
-Atewa ADJ
-kwae ADJ
+Atewa B-LOC
+kwae O
 no O
 ho O
 hia O
@@ -106708,8 +106708,8 @@ wɔtu O
 fɔm O
 agudie O
 nwura O
-Atiwa ADJ
-Kwaeɛ ADJ
+Atiwa B-LOC
+Kwaeɛ I-LOC
 no O
 mu O
 nkɔseɛ O
@@ -113403,8 +113403,8 @@ abom O
 a O
 wɔfrɛ O
 wɔn O
-Operation ADJ
-Vanguard ADJ
+Operation B-ORG
+Vanguard I-ORG
 no O
 ho O
 ntoma O
@@ -113477,8 +113477,8 @@ wɔnhwɛ O
 na O
 ɔntene O
 tene O
-Operation ADJ
-Vanguardfoɔ ADJ
+Operation B-ORG
+Vanguardfoɔ I-ORG
 no O
 na O
 wɔmma O
@@ -114078,7 +114078,7 @@ nkurowtoa O
 amenamutuo O
 adwuma O
 baa O
-2019 ADJ
+2019 O
 no O
 sɛnea O
 ɛbɛboa O
@@ -116049,8 +116049,8 @@ nsuo O
 no O
 . O
 
-Shama ADJ
-mansin ADJ
+Shama B-LOC
+mansin O
 no O
 mu O
 nko O
@@ -116557,8 +116557,8 @@ no O
 so O
 mmiɛnsa O
 
-Shama ADJ
-mansin ADJ
+Shama B-LOC
+mansin O
 no O
 asɛmbili O
 no O
@@ -117630,8 +117630,8 @@ ne O
 FredErick B-PER
 Ewusi I-PER
 , O
-ɛoel ADJ
-Asamoah ADJ
+ɛoel B-PER
+Asamoah I-PER
 , O
 Adam B-PER
 Haruna I-PER
@@ -118164,10 +118164,10 @@ sɛ O
 yɛnnyae O
 Galamsey O
 tuo O
-no ADJ
-a ADJ
+no O
+a O
 
-Onipa ADJ
+Onipa O
 a O
 ɔda O
 Atɔe B-LOC
@@ -118329,11 +118329,11 @@ ne O
 porɔeɛɛ O
 a O
 ɛwɔ O
-ɔman ADJ
-yi ADJ
-mu ADJ
-no ADJ
-nsesaa ADJ
+ɔman O
+yi O
+mu O
+no O
+nsesaa O
 koraa O
 na O
 mmom O
@@ -120532,7 +120532,7 @@ Nyabor O
 de O
 too O
 dwa O
-2019 ADJ
+2019 O
 kyerɛkyerɛ O
 ɔman O
 Ghana B-LOC
@@ -122925,8 +122925,8 @@ ne O
 mmaasɛm O
 mu O
 wɔ O
-ɔape ADJ
-ɔoast ADJ
+ɔape O
+ɔoast O
 ayaresabea O
 . O
 MTN B-ORG

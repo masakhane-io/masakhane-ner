@@ -2368,7 +2368,7 @@ aturuturasɛm O
 sɛnea O
 yɛhunuu O
 wɔ O
-2020 ADJ
+2020 O
 abatoɔ O
 mu O
 no O
@@ -3185,9 +3185,9 @@ nneɛma O
 akɛsea O
 mfitiaseɛ O
 ma O
-Ghana ADJ
-Mmaranim ADJ
-Sukuu ADJ
+Ghana B-LOC
+Mmaranim O
+Sukuu O
 no O
 . O
 Aban O
@@ -3626,18 +3626,18 @@ a O
 Atoye B-LOC
 Mantam I-LOC
 mu O
-Fiada ADJ
-, ADJ
-Kɔtɔnima ADJ
-bosome ADJ
-da ADJ
-a ADJ
-ɛtɔ ADJ
-so ADJ
-aduonu ADJ
-baako ADJ
-wɔ ADJ
-2021 ADJ
+Fiada B-DATE
+, I-DATE
+Kɔtɔnima I-DATE
+bosome I-DATE
+da I-DATE
+a I-DATE
+ɛtɔ I-DATE
+so I-DATE
+aduonu I-DATE
+baako I-DATE
+wɔ I-DATE
+2021 I-DATE
 mu O
 . O
 
@@ -4097,7 +4097,7 @@ ayɔnkofa O
 a O
 ɛda O
 ɔne O
-Mmarahyɛbɛdwafie ADJ
+Mmarahyɛbɛdwafie O
 mu O
 ne O
 titire O
@@ -4561,9 +4561,9 @@ fagudie O
 a O
 , O
 """" O
-Operation ADJ
-Halt ADJ
-taskforce ADJ
+Operation B-ORG
+Halt I-ORG
+taskforce O
 """" O
 na O
 wodi O
@@ -4583,8 +4583,8 @@ mu O
 ma O
 . O
 
-Ghana ADJ
-polisi ADJ
+Ghana B-LOC
+polisi O
 asoeɛ O
 a O
 wɔhwɛ O
@@ -5676,8 +5676,8 @@ no O
 so O
 . O
 
-Joy ADJ
-Adwadie ADJ
+Joy O
+Adwadie O
 de O
 wɔn O
 aso O
@@ -5787,7 +5787,7 @@ Nnwuma O
 , O
 Eni O
 ne O
-Vitol ADJ
+Vitol O
 se O
 , O
 wɔnntia O
@@ -6714,9 +6714,9 @@ intanɛt O
 so O
 . O
 
-Tongu ADJ
-Anaafoɔ ADJ
-Mansini ADJ
+Tongu O
+Anaafoɔ O
+Mansini O
 Kuayɔ O
 Kwankyerɛfoɔ O
 , O
@@ -7019,8 +7019,8 @@ adi O
 . O
 """" O
 
-Abosome ADJ
-mmienu ADJ
+Abosome O
+mmienu O
 de O
 rekɔ O
 mmiɛnsa O
@@ -7731,9 +7731,9 @@ yɛn O
 . O
 """" O
 
-Kasoa ADJ
-Apolisifoɔ ADJ
-DOVVSU ADJ
+Kasoa B-ORG
+Apolisifoɔ I-ORG
+DOVVSU O
 nkorabata O
 akyere O
 papa O
@@ -8630,7 +8630,7 @@ a O
 Adwumayɛ O
 ne O
 Adwumayɛfoɔ O
-Ho ADJ
+Ho O
 nsɛm O
 mu O
 sɛ O
@@ -9951,7 +9951,7 @@ da O
 koro O
 . O
 
-Aba ADJ
+Aba O
 hwehwɛ O
 telefon O
 no O
@@ -10546,9 +10546,9 @@ yɛ O
 Ɔsoafoɔ O
 Abadiakyire O
 wɔ O
-Ministry ADJ
-of ADJ
-Finance ADJ
+Ministry O
+of O
+Finance O
 no O
 , O
 ɔmaa O
@@ -12577,7 +12577,7 @@ na O
 mekenkan O
 nhoma O
 biako O
-ɔsram ADJ
+ɔsram O
 biara O
 . O
 
@@ -13380,8 +13380,8 @@ GHS O
 432 O
 billion O
 wɔ O
-afe ADJ
-2021 ADJ
+afe O
+2021 B-DATE
 mu O
 . O
 
@@ -13756,7 +13756,7 @@ baanu O
 no O
 . O
 
-Hubtel ADJ
+Hubtel O
 bɛma O
 aba O
 mu O
@@ -13767,7 +13767,7 @@ afa O
 abɛɛfo O
 Kwantempɔnso O
 de O
-Hubtel ADJ
+Hubtel O
 app O
 a O
 ɛwɔ O
@@ -15769,8 +15769,8 @@ nyansafoɔ O
 . O
 Yei O
 ne O
-Apɔmuden ADJ
-Adwumayɛfoɔ ADJ
+Apɔmuden O
+Adwumayɛfoɔ O
 . O
 Me O
 a O
@@ -15810,8 +15810,8 @@ ada O
 nadi O
 sɛ O
 na O
-galamsey ADJ
-adwumayɛfoɔ ADJ
+galamsey O
+adwumayɛfoɔ O
 yi O
 reyɛ O
 adwuma O
@@ -17108,7 +17108,7 @@ a O
 so O
 mmienu O
 wɔ O
-Mmarahyɛbɛdwafie ADJ
+Mmarahyɛbɛdwafie O
 a O
 ɛtɔ O
 so O
@@ -17975,9 +17975,9 @@ foforo O
 Mebɛduruu O
 ha O
 bɛyɛ O
-anɔpa ADJ
-nɔn ADJ
-num ADJ
+anɔpa B-DATE
+nɔn O
+num O
 . O
 Ɛkɔ O
 bɔ O
@@ -20385,15 +20385,15 @@ ankonam O
 da O
 . O
 
-Huawi ADJ
+Huawi O
 Day O
 with O
 the O
 Media O
 """" O
 yi O
-Huawei ADJ
-Ghana ADJ
+Huawei B-ORG
+Ghana B-LOC
 na O
 ɛhyehyɛeɛ O
 sɛdeɛ O
@@ -21056,12 +21056,12 @@ da O
 
 Mr O
 . O
-Amar ADJ
-Deep ADJ
-S ADJ
-. ADJ
-Hari ADJ
-, ADJ
+Amar B-PER
+Deep I-PER
+S I-PER
+. I-PER
+Hari I-PER
+, O
 panin O
 paa O
 a O
@@ -21081,8 +21081,8 @@ Kramodan O
 a O
 agye O
 din O
-Dargah ADJ
-Nizamuddin ADJ
+Dargah O
+Nizamuddin O
 a O
 ɛwɔ O
 New B-LOC
@@ -22114,8 +22114,8 @@ sii O
 2021 I-DATE
 , O
 nanso O
-Ambulance ADJ
-adwumakuo ADJ
+Ambulance O
+adwumakuo O
 adwene O
 baa O
 so O
@@ -22227,9 +22227,9 @@ yi O
 mu O
 no O
 yɛ O
-Mobile ADJ
-Money ADJ
-Adwuma ADJ
+Mobile O
+Money O
+Adwuma O
 no O
 . O
 
@@ -22305,15 +22305,15 @@ ne O
 asɛm O
 ɔkaaeɛ O
 wɔ O
-Ɛbɔ ADJ
-bosome ADJ
-wɔ ADJ
-afe ADJ
-mpem ADJ
-mmienu ADJ
-ne ADJ
-aduowɔtwe ADJ
-mu ADJ
+Ɛbɔ B-DATE
+bosome I-DATE
+wɔ I-DATE
+afe I-DATE
+mpem I-DATE
+mmienu I-DATE
+ne I-DATE
+aduowɔtwe I-DATE
+mu I-DATE
 wɔ O
 Atɛnmuafoɔ O
 Nkabomkuo O
@@ -23871,9 +23871,9 @@ pa O
 ara O
 . O
 
-Germany ADJ
-Development ADJ
-Coorporation ADJ
+Germany B-ORG
+Development I-ORG
+Coorporation I-ORG
 a O
 ɛwɔ O
 Ghana B-LOC
@@ -23893,10 +23893,10 @@ mu O
 de O
 reboa O
 ma O
-Ghana ADJ
-Digital ADJ
-Transformation ADJ
-Dwumadie ADJ
+Ghana B-ORG
+Digital I-ORG
+Transformation I-ORG
+Dwumadie I-ORG
 no O
 atu O
 apɔn O

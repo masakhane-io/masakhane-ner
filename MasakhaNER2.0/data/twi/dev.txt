@@ -2306,10 +2306,10 @@ aduonu O
 num O
 wɔ O
 afe O
-mpem ADJ
-mmienu ADJ
-ne ADJ
-dunum ADJ
+mpem O
+mmienu B-DATE
+ne I-DATE
+dunum I-DATE
 mu O
 . O
 
@@ -2552,11 +2552,11 @@ yɛde O
 naba O
 Ghana B-LOC
 , O
-H ADJ
-. ADJ
-E ADJ
-Sugandh ADJ
-Rajaram ADJ
+H O
+. O
+E O
+Sugandh B-PER
+Rajaram I-PER
 ahyɛ O
 da O
 a O
@@ -2883,10 +2883,10 @@ hia O
 no O
 . O
 
-Afe ADJ
-2021 ADJ
-, ADJ
-Ɔpɛpɔn ADJ
+Afe B-DATE
+2021 I-DATE
+, O
+Ɔpɛpɔn B-DATE
 bosome O
 mu O
 no O
@@ -3179,14 +3179,14 @@ nyinaa O
 Akannifoɔ O
 a O
 wɔda O
-Senior ADJ
-Staff ADJ
-Association ADJ
-of ADJ
-Universities ADJ
-a ADJ
-ɛwɔ ADJ
-Ghana ADJ
+Senior B-ORG
+Staff I-ORG
+Association I-ORG
+of I-ORG
+Universities I-ORG
+a I-ORG
+ɛwɔ I-ORG
+Ghana I-ORG
 ano O
 se O
 wɔredwene O
@@ -5861,7 +5861,7 @@ den O
 wiɑse O
 . O
 
-Wukuada ADJ
+Wukuada O
 berɛ O
 a O
 ɔne O
@@ -6600,7 +6600,7 @@ mpɛn O
 pii O
 . O
 
-PEF ADJ
+PEF O
 panin O
 , O
 Nana B-PER
@@ -8007,7 +8007,7 @@ sɛ O
 Nwomasua O
 Soafoɔ O
 afe O
-2015 ADJ
+2015 O
 mu O
 , O
 adesuafoɔ O
@@ -10943,8 +10943,8 @@ no O
 so O
 . O
 
-Oforisuo ADJ
-bosome ADJ
+Oforisuo B-DATE
+bosome I-DATE
 mu O
 nso O
 no O
