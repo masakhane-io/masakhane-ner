@@ -8147,9 +8147,7 @@ mulimu O
 FDC B-ORG
 , O
 Uganda B-ORG
-People I-ORG
-" I-ORG
-����s I-ORG
+People's I-ORG
 Congress I-ORG
 , O
 Justice B-ORG
@@ -14825,9 +14823,7 @@ omukolerere O
 . O
 
 Autoblog O
-Green O
-" O
-����s O
+Green's O
 Frank B-PER
 Filipponio I-PER
 anokolayo O
@@ -23614,7 +23610,7 @@ okuvaayo O
 nalyo O
 liri O
 " O
-����media O
+media O
 predator' O
 . O
 
@@ -26632,7 +26628,7 @@ poliisi O
 kigamba O
 nti O
 waliwo O
-enku����aana O
+enkungaana O
 ezimu O
 mwe O
 kyayitira O
@@ -26687,7 +26683,7 @@ bye O
 bakitegeeza O
 . O
 
-Oluku����aana O
+Olukungaana O
 olwo O
 lwali O
 lwa O
@@ -26713,7 +26709,7 @@ Kampala B-LOC
 . O
 
 Mu O
-luku����aana O
+lukungaana O
 olwo O
 aba O
 ADF B-ORG
@@ -26744,7 +26740,7 @@ Okusinziira O
 ku O
 byali O
 mu O
-luku����aana O
+lukungaana O
 olwo O
 , O
 abo O
@@ -27118,7 +27114,7 @@ Noovemba B-DATE
 , O
 waaliwo O
 ebyali O
-biyiti����ana O
+biyitingana O
 nti O
 abantu O
 bangi O
@@ -27462,7 +27458,7 @@ okuketta O
 bannaabwe O
 , O
 ku O
-luku����aana O
+lukungaana O
 baagenda O
 bakulembeddwamu O
 eyali O
@@ -62695,7 +62691,7 @@ bw'ati O
 Ng'ayogera O
 ku O
 ngeri O
-y'okwa����anga O
+y'okwanganga O
 embeera O
 oluvannyuma O
 lw'obulumbaganyi O
@@ -62742,7 +62738,7 @@ Nga O
 Okitobba I-DATE
 2008 I-DATE
 , O
-oluku����aana O
+olukungaana O
 olwalimu O
 abaaliko O
 abayeekera O
@@ -62762,7 +62758,7 @@ Munyangondo I-PER
 lwatuula O
 . O
 
-Oluku����aana O
+Olukungaana O
 olwo O
 era O
 lwategekebwa O
@@ -62800,7 +62796,7 @@ lwali O
 lukwata O
 ne O
 ku O
-luku����aana O
+lukungaana O
 olwalimu O
 abakulembezee O
 b'amawanga O
@@ -63297,7 +63293,7 @@ kubanga O
 balwanagana O
 era O
 ne O
-batti����aana O
+battingaana O
 awatali O
 nsonga O
 . O
@@ -63983,7 +63979,7 @@ ya O
 Collin B-PER
 Powell I-PER
 eyali O
-ennu����aamu O
+ennungaamu O
 ku O
 bikwata O
 ku O
@@ -64308,7 +64304,7 @@ yaffe O
 Bannayuganda O
 abaali O
 mu O
-buwa����anguse O
+buwanganguse O
 baawa O
 Julius B-PER
 Nyerere I-PER
@@ -64647,7 +64643,7 @@ mu O
 kkooti O
 naye O
 ne O
-ba����amba O
+bangamba O
 nti O
 ssalina O
 musango O
@@ -64657,7 +64653,7 @@ gwonna O
 Mu O
 kifo O
 ky'okundeka O
-����ende O
+ngende O
 , O
 nnazibwayo O
 mu O
@@ -65916,7 +65912,7 @@ akulemberera O
 ekibiina O
 kino O
 mu O
-buwa����anguse O
+buwanganguse O
 . O
 
 Ng'oggyeko O
@@ -66225,7 +66221,7 @@ ebitundu O
 eby'omukyalo O
 era O
 ng'akuba O
-enku����aana O
+enkungaana O
 z'ekibiina O
 kya O
 UPC B-ORG
@@ -66459,7 +66455,7 @@ Besiggye I-PER
 nga O
 ye O
 ssentebe O
-w'oluku����aana O
+w'olukungaana O
 olugatta O
 bannabyabufuzi O
 okuva O
@@ -66623,7 +66619,7 @@ k'eby'okulonda O
 . O
 
 Mu O
-luku����ana O
+lukungana O
 lw'abamawulire O
 olwaliwo O
 nga O
@@ -66634,7 +66630,7 @@ ekikulu O
 eky'akakiiko O
 k'eby'okulonda O
 era O
-ng'oluku����aana O
+ng'olukungaana O
 nga O
 luno O
 lubaawo O
@@ -67713,7 +67709,7 @@ gyegyo O
 egyayogerwako O
 mu O
 alipoota O
-y'oluku����aana O
+y'olukungaana O
 lw'abakulembeze O
 b'amawanga O
 agali O
@@ -67868,7 +67864,7 @@ eyaliko O
 pulezidenti O
 w'Amerika B-LOC
 yateekateeka O
-oluku����aana O
+olukungaana O
 mu O
 kibuga O
 Tunis B-LOC
@@ -67879,7 +67875,7 @@ Rwanda B-LOC
 . O
 
 Ekigendererwa O
-ky'oluku����aana O
+ky'olukungaana O
 olwo O
 kwali O
 okumatiza O
@@ -67897,7 +67893,7 @@ Abahutu O
 . O
 
 Mu O
-luku����aana O
+lukungaana O
 olwo O
 mwalimu O
 baliraanwa O
@@ -68125,7 +68121,7 @@ nti O
 " O
 Kati O
 olwo O
-oluku����aana O
+olukungaana O
 luno O
 lwaki O
 ? O
@@ -68512,7 +68508,7 @@ abantu O
 ababa O
 bali O
 mu O
-luku����aana O
+lukungaana O
 lw'ekibiina O
 ky'eby'obufuzi O
 ekivuganya O
@@ -68570,7 +68566,7 @@ nnenva O
 e O
 Kigali B-LOC
 ne O
-����enda O
+ngenda O
 e O
 Kirehe B-LOC
 okumpi O
@@ -68591,7 +68587,7 @@ ebigere O
 nga O
 bagenda O
 mu O
-luku����aana O
+lukungaana O
 lwa O
 Kagame B-PER
 . O
@@ -68599,7 +68595,7 @@ Kagame B-PER
 Nga O
 ndi O
 mu O
-luku����aana O
+lukungaana O
 lwa O
 Kagame B-PER
 nneeyongera O
@@ -68927,7 +68923,7 @@ tabirina O
 Ate O
 era O
 mu O
-luku����aana O
+lukungaana O
 olwo O
 olwali O
 mu O
@@ -70204,7 +70200,7 @@ bibaamu O
 
 Enteekateeka O
 etaali O
-nnu����amu O
+nnungamu O
 ekwata O
 ku O
 kusunsulibwa O
@@ -70605,7 +70601,7 @@ Nkubiriza O
 abo O
 abataayitamu O
 mu O
-kaku����unta O
+kakungunta O
 obutalowooza O
 ku O
 kya O
@@ -70645,7 +70641,7 @@ baali O
 baatuuse O
 dda O
 ku O
-luku����aana O
+lukungaana O
 . O
 
 Yagattako O
@@ -70781,7 +70777,7 @@ baali O
 balina O
 obuvunaanyizibwa O
 ku O
-luku����aana O
+lukungaana O
 lwonna O
 . O
 
@@ -70796,7 +70792,7 @@ ku O
 buli O
 kimu O
 ku O
-luku����aana O
+lukungaana O
 olwo O
 okuviira O
 ddala O
@@ -70807,12 +70803,12 @@ ani O
 akkirizibwa O
 okujja O
 mu O
-luku����aana O
+lukungaana O
 olwo O
 . O
 
 Abaateekateeka O
-oluku����aana O
+olukungaana O
 olwo O
 baagamba O
 nti O
@@ -71203,7 +71199,7 @@ Yayogera O
 ku O
 lunaku O
 olwasooka O
-olw'oluku����aana O
+olw'olukungaana O
 era O
 buli O
 lunaku O
@@ -71755,7 +71751,7 @@ Nze O
 nzikkiririza O
 mu O
 nkola O
-ennu����aamu O
+ennungamu O
 era O
 kino O
 kikwatagana O
@@ -71941,7 +71937,7 @@ era O
 bajja O
 kukola O
 enteekateeka O
-ennu����amu O
+ennungamu O
 . O
 
 Ennyonyi O
@@ -72009,7 +72005,7 @@ obulala O
 Tulina O
 okuba O
 abeetegefu O
-okwa����aanga O
+okwangaanga O
 okuvuganya O
 okw'amaanyi O
 . O
@@ -72359,7 +72355,7 @@ ebikolwa O
 eby'obukambwe O
 era O
 nga O
-batti����aana O
+battingaana O
 , O
 tulina O
 okugendayo O
@@ -72390,7 +72386,7 @@ bajja O
 mu O
 bungi O
 mu O
-nku����aana O
+nkungaana O
 zino O
 ? O
 " O
@@ -72611,7 +72607,7 @@ ki O
 Abakulembeze O
 baleetera O
 abantu O
-okutti����ana O
+okuttingana O
 , O
 ensi O
 yaffe O
@@ -72666,7 +72662,7 @@ okukaka O
 abantu O
 okubaawo O
 ku O
-nku����aana O
+nkungaana O
 z'eby'obufuzi O
 
 Naye O
@@ -72716,7 +72712,7 @@ okukunga O
 abantu O
 okujja O
 ku O
-nku����aana O
+nkungaana O
 zo O
 ez'eby'obufuzi O
 ng'oyita O
@@ -73066,7 +73062,7 @@ ebikumi O
 bibiri O
 , O
 ne O
-baku����aana O
+bakungaana O
 wamu O
 ne O
 batuuza O
@@ -73414,13 +73410,13 @@ bulamu O
 bwabwe O
 
 Tulina O
-en����ombo O
+engombo O
 mu O
 lulimi O
 lwaffe O
 . O
 
-E����ombo O
+Engombo O
 eyo O
 egamba O
 nti O
@@ -73519,7 +73515,7 @@ polisi O
 
 Ng'ali O
 mu O
-luku����aana O
+lukungaana O
 lw'abannamawulire O
 abamu O
 ku O
@@ -73799,7 +73795,7 @@ byombi O
 yabikola O
 
 Okwekalakaasa O
-n'okutti����ana O
+n'okuttingana O
 bye O
 byaliwo O
 nga O
@@ -75452,7 +75448,7 @@ okuyitamu O
 Bino O
 by'afunye O
 mu O
-nku����aana O
+nkungaana O
 nga O
 zino O
 . O
@@ -76078,7 +76074,7 @@ gye O
 bali O
 . O
 
-����ambiddwa O
+Ngambiddwa O
 nti O
 kiri O
 bwe O
@@ -76377,12 +76373,12 @@ Abantu O
 abasukka O
 mu O
 kakadde O
-baattibwa O
+battibwa O
 era O
 tulinawo O
 abantu O
 abatannaba O
-kuddi����aana O
+kuddingana O
 olw'okuttibwa O
 kw'abantu O
 baabwe O
@@ -76502,7 +76498,7 @@ Abakugu O
 be O
 bagamba O
 nti O
-enku����aana O
+enkungaana O
 z'abo O
 abali O
 ku O
@@ -79062,7 +79058,7 @@ okutereezebwa O
 okuyitira O
 mu O
 nkola O
-ennu����amu O
+ennungamu O
 . O
 
 Enkola O
@@ -79241,7 +79237,7 @@ n'amuwangula O
 Bannakibiina O
 abaaliwo O
 mu O
-luku����ana O
+lukungaana O
 e O
 Mbale B-LOC
 bagamba O
@@ -79250,7 +79246,7 @@ sente O
 Sebaggala B-PER
 ze O
 yagaba O
-ng'oluku����aana O
+ng'olukungaana O
 terunatandika O
 era O
 nga O
@@ -79321,7 +79317,7 @@ yawaayo O
 emifaliso O
 gyayo O
 okuvujjirira O
-oluku����aana O
+olukungaana O
 lw'abo O
 bali O
 ku O
@@ -79370,7 +79366,7 @@ kye O
 kyagwa O
 butaka O
 mu O
-luku����aana O
+lukungaana O
 olwali O
 e O
 Mbale B-LOC
@@ -81075,7 +81071,7 @@ egyazaabu O
 ebiri O
 ( O
 mu O
-misin'de O
+misinde O
 egya O
 mita O
 10 O
@@ -81090,8 +81086,8 @@ mita O
 mu O
 Mizannya O
 egy'Amawanga O
-
 g'Omukago O
+
 gwa O
 Bungereza B-LOC
 mu O
@@ -82476,7 +82472,7 @@ takirabangako O
 oba O
 okukiwulirako O
 okuva O
-Okutobba B-DATE
+Okitobba B-DATE
 7 I-DATE
 lwe O
 yava O
@@ -89980,11 +89976,11 @@ pulezidenti O
 , O
 ye O
 yategeka O
-oluku����aana O
+olukungaana O
 olwo O
 
 Ekigendererwa O
-ky'oluku����aana O
+ky'olukungaana O
 olwo O
 kwali O
 okumatiza O
@@ -90908,7 +90904,7 @@ nti O
 bwe O
 baali O
 ku O
-luku����aana O
+lukungaana O
 ku O
 kitebbe O
 ekikulu O
@@ -90971,7 +90967,7 @@ independent O
 Agamba O
 nti O
 baabanga O
-n'enku����aana O
+n'enkungaana O
 nnyingi O
 nga O
 zikubirizibwa O
@@ -92303,7 +92299,7 @@ ku O
 abo O
 abaali O
 mu O
-luku����aana O
+lukungaana O
 olwo O
 bagamba O
 nti O
@@ -96321,6 +96317,7 @@ obwakolebwa O
 e O
 Buseruka B-LOC
 , O
+
 yasibibwa O
 mu O
 kkomero B-LOC
@@ -96329,7 +96326,6 @@ Luzira I-LOC
 gye O
 yasanga O
 Muzafali B-PER
-
 Muhindo I-PER
 , O
 Muganura B-PER
@@ -96558,8 +96554,8 @@ ssentebe O
 waakyo O
 Gen O
 . O
-Hakan B-PER
 
+Hakan B-PER
 Syren I-PER
 okuva O
 e O

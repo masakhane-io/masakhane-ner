@@ -59,6 +59,7 @@ takk O
 seen O
 fit O
 , O
+
 fésal O
 seen O
 gis O
@@ -67,7 +68,6 @@ gis O
 ci O
 li O
 Maki B-PER
-
 Sàll I-PER
 mënul O
 a O
@@ -18537,6 +18537,7 @@ yu O
 leen O
 yoreel O
 ; O
+
 ci O
 kayit O
 gi O
@@ -18545,7 +18546,6 @@ depite O
 bi O
 Mamadu B-PER
 Jóob I-PER
-
 Dëkurwaa I-PER
 , O
 ni O
@@ -56398,6 +56398,7 @@ fa O
 ab O
 eskaneer O
 , O
+
 ab O
 masin O
 buy O
@@ -56440,7 +56441,6 @@ ak I-ORG
 koppar I-ORG
 yi I-ORG
 ci I-ORG
-
 réewi I-ORG
 Afrig I-ORG
 sowu I-ORG
@@ -106506,6 +106506,7 @@ TER O
 , O
 mbënd O
 . O
+
 Ca O
 ndajem O
 réem O
@@ -106517,7 +106518,6 @@ tey O
 bile O
 di O
 Sàncagoo B-PER
-
 Pedaraas I-PER
 dina O
 laaj O
@@ -116577,12 +116577,12 @@ sell O
 la O
 ) O
 , O
+
 yu O
 bind O
 Seex O
 A B-PER
 . I-PER
-
 Bàmba I-PER
 wala O
 yeneen O

@@ -5820,6 +5820,7 @@ gasa O
 ta O
 Yuropa O
 , O
+
 inda O
 bayan O
 anyi O
@@ -5864,7 +5865,6 @@ inda O
 ta O
 doke O
 Manchester B-ORG
-
 United I-ORG
 da O
 ci O

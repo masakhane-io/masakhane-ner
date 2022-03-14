@@ -36420,6 +36420,7 @@ yaseCookhouse I-ORG
 uTshepo B-PER
 Kgoloane I-PER
 , O
+
 uthi O
 iinjongo O
 zale O
@@ -36444,7 +36445,6 @@ East I-LOC
 Cookhouse B-LOC
 , O
 Bedford B-LOC
-
 naseAdelaide I-LOC
 . O
 

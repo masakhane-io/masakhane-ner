@@ -119,6 +119,7 @@ tí O
 ààrẹ O
 àná O
 ; O
+
 Olóògbé O
 Tajudeen B-PER
 Adétòrò I-PER
@@ -133,7 +134,6 @@ oyè O
 ààrẹ O
 , O
 lẹ́yìn B-DATE
-
 oṣù I-DATE
 mẹ́sàn I-DATE
 - I-DATE
@@ -205,7 +205,6 @@ mẹ́jọ I-DATE
 gẹ́gẹ́ O
 bí O
 akọ̀wé O
-
 Sùúrùlérè B-LOC
 Branch O
 , O
@@ -221,6 +220,7 @@ iléeṣẹ́ O
 ẹgbẹ́ O
 wa O
 lábẹ́ O
+
 Àlàájì O
 Tati B-PER
 Useeni I-PER
@@ -242,7 +242,6 @@ Adétòrò I-PER
 , O
 pẹ̀lú O
 gbogbo O
-
 ìrìnàjò O
 mi O
 nínú O
@@ -270,6 +269,7 @@ awakọ̀ O
 taksí O
 Èkó B-LOC
 ; O
+
 kìí O
 ṣàìmò O
 fólóko O
@@ -288,7 +288,6 @@ eéjì O
 ni O
 wọ́n O
 bá O
-
 lémi O
 nipò O
 ààrẹ O
@@ -396,7 +395,6 @@ tóó O
 wáá O
 parí O
 HND O
-
 nínú O
 ètò O
 ẹ̀kọ́ O
@@ -451,7 +449,6 @@ rìnrìnàjò O
 lọ O
 sílùú O
 London B-LOC
-
 , O
 South B-LOC
 Africa I-LOC
@@ -609,7 +606,6 @@ san O
 án O
 tán O
 , O
-
 gbogbo O
 ohun O
 tí O
@@ -626,6 +622,7 @@ o O
 ṣé O
 ẹ O
 mọ̀ O
+
 pé O
 mọ́tò O
 náà O
@@ -657,7 +654,6 @@ pé O
 iṣẹ́ O
 awakọ̀ O
 taksí O
-
 nínú O
 àwọn O
 estate O
@@ -716,7 +712,6 @@ pé O
 taksí O
 ti O
 ń O
-
 kú O
 l'Ékòó B-LOC
 . O
@@ -898,7 +893,6 @@ òfúrufú O
 Airport O
 wa O
 , O
-
 pàápàá O
 Ọ̀gbẹ́ni O
 Rótìmí B-PER
@@ -919,6 +913,7 @@ mọ̀ O
 pé O
 láìpẹ́ O
 ; O
+
 a O
 ó O
 débẹ̀ O
@@ -1102,7 +1097,6 @@ rántí O
 , O
 nígbà O
 tí O
-
 Fáṣọlá B-PER
 kó O
 àwọn O
@@ -1118,6 +1112,7 @@ wọn O
 ń O
 wá O
 á O
+
 , O
 nítorí O
 ó O
@@ -1166,7 +1161,6 @@ máá O
 ṣèpolongo O
 fún O
 , O
-
 láti O
 wáá O
 darapọ̀ O
@@ -1179,6 +1173,7 @@ iṣẹ́ O
 owó O
 tó O
 níye O
+
 lórí O
 àti O
 wípé O
@@ -1243,7 +1238,6 @@ oníìwé O
 ìròyìn O
 yìí O
 , O
-
 láìpẹ́ O
 a O
 tún O
@@ -1544,7 +1538,6 @@ gẹ́gẹ́ O
 bí O
 Amọ́sùn B-PER
 àti O
-
 AbdulFatai B-PER
 ṣe O
 ṣe O
@@ -1781,7 +1774,6 @@ òfin O
 àti O
 pé O
 kí O
-
 wọn O
 lè O
 mọ̀ O
@@ -1796,6 +1788,7 @@ nǹkan O
 tí O
 wọ́n O
 bá O
+
 kówó O
 lé O
 , O
@@ -1849,7 +1842,6 @@ á O
 wọ́n O
 gbọ́dọ̀ O
 rí O
-
 ìtẹ́lọ́rùn O
 nínú O
 ẹ̀ O
@@ -1980,6 +1972,7 @@ adarí O
 ọjà O
 wọn O
 ; O
+
 ìyálọ́jà O
 àti O
 bàbálọ́jà O
@@ -2103,7 +2096,6 @@ tà O
 á O
 lọ́jà O
 , O
-
 ṣùgbọ́n O
 wọ́n O
 fún O
@@ -2116,6 +2108,7 @@ ní O
 owó O
 gbà O
 má O
+
 bínú O
 . O
 
@@ -2292,7 +2285,6 @@ òfin O
 ló O
 gbé O
 iléeṣẹ́ O
-
 yìí O
 kalẹ̀ O
 . O
@@ -2453,6 +2445,7 @@ míìn O
 Ẹnìkan O
 náà O
 ; O
+
 àwọn O
 VIO B-ORG
 mú O
@@ -2889,7 +2882,6 @@ láti O
 sàmì O
 ayẹyẹ O
 ọjọ́ọ̀bí O
-
 ogójì B-DATE
 ọdún I-DATE
 òun O
@@ -2935,7 +2927,6 @@ náà O
 fún O
 àwọn O
 obìnrin O
-
 tó O
 kù O
 díẹ̀ O
@@ -2994,7 +2985,6 @@ náà O
 ni O
 adarí O
 iléègbìmọ̀ O
-
 aṣòfin O
 àná O
 , O
@@ -3004,6 +2994,7 @@ Sàràkí I-PER
 náà O
 pe O
 òun O
+
 àtàwọn O
 olóṣèlú O
 ẹgbẹ́ O
@@ -3024,7 +3015,6 @@ tó O
 ń O
 ṣẹlẹ̀ O
 lọ́wọ́ O
-
 níìpínlẹ̀ O
 Ọ̀yọ́ B-LOC
 . O
@@ -3089,7 +3079,6 @@ Túndé B-PER
 Rahman I-PER
 sọ O
 fáwọn O
-
 oníròyìn O
 pé O
 kò O
@@ -3099,6 +3088,7 @@ nínú O
 náà O
 , O
 bàbá O
+
 kàn O
 lọ O
 fún O
@@ -3147,13 +3137,13 @@ gba O
 àwọn O
 àlejò O
 lóríṣìíríṣìí O
-
 , O
 pàápàá O
 àwọn O
 àgbààgbà O
 nínú O
 ètò O
+
 òṣèlú O
 . O
 
@@ -3191,7 +3181,6 @@ ní O
 Òkè B-LOC
 Ògùn I-LOC
 , O
-
 pàápàá O
 nínú O
 Ìgàngàn B-LOC
@@ -3203,6 +3192,7 @@ Ìgbòho I-PER
 ti O
 ní O
 káwọn O
+
 fúlàní O
 kẹ́ru O
 wọn O
@@ -3282,7 +3272,6 @@ wọ́n O
 tóó O
 bẹ̀rẹ̀ O
 sí O
-
 í O
 sọ̀rọ̀ O
 , O
@@ -3293,6 +3282,7 @@ gan O
 an O
 làwọn O
 ọmọ O
+
 Nàíjíríà B-LOC
 ń O
 retí O
@@ -3345,7 +3335,6 @@ àná O
 , O
 àtàwọn O
 ọ̀gá O
-
 ológun O
 tó O
 ti O
@@ -3359,6 +3348,7 @@ wọn O
 jíròòrò O
 lórí O
 bí O
+
 àlááfíà O
 yóò O
 ṣe O
@@ -3421,7 +3411,6 @@ gáàsì O
 ìdáná O
 láwọn O
 àdùgbò O
-
 níìpínlẹ̀ O
 Èkó B-LOC
 . O
@@ -3488,7 +3477,6 @@ ìgbésẹ̀ O
 tó O
 nípọn O
 lórí O
-
 àwọn O
 tó O
 ń O
@@ -3498,6 +3486,7 @@ ìdáná O
 kírú O
 ìjàmbá O
 bẹ́ẹ̀ O
+
 máa O
 ba O
 à O
@@ -3539,7 +3528,6 @@ tìjọba O
 òun O
 kò O
 le O
-
 gbàgbé O
 láéláé O
 ni O
@@ -3578,7 +3566,6 @@ Èkó B-LOC
 , O
 Gbénga B-PER
 Ọmọ́tọ́ṣọ̀ I-PER
-
 , O
 ní O
 ọkùnrin O
@@ -3591,6 +3578,7 @@ sí O
 títí O
 di O
 àkókò O
+
 tí O
 a O
 ń O
@@ -3618,7 +3606,6 @@ ń O
 ṣiṣẹ́ O
 títa O
 afẹ́fẹ́ O
-
 gáàsì O
 ìdáná O
 láwọn O
@@ -3674,7 +3661,6 @@ ní O
 èèyàn O
 mẹ́jọ O
 ló O
-
 wà O
 ní O
 ọsibítù O
@@ -3687,6 +3673,7 @@ ní O
 Gbàgádà B-LOC
 , O
 ilé O
+
 mẹ́ẹ̀ẹ́dọ́gbọ̀n O
 ló O
 bá O
@@ -3711,7 +3698,6 @@ i O
 , O
 òtẹ́ẹ̀lì O
 kan O
-
 náà O
 jóná O
 ráú O
@@ -3778,7 +3764,6 @@ ń O
 pè O
 ní O
 Sunday B-PER
-
 Ìgbòho I-PER
 , O
 ti O
@@ -3789,6 +3774,7 @@ sáwọn O
 pé O
 ẹ̀rù O
 ò O
+
 bodò O
 òun O
 o O
@@ -3885,7 +3871,6 @@ rárá O
 , O
 digbí O
 lóun O
-
 wà O
 , O
 nítorí O
@@ -3899,6 +3884,7 @@ jà O
 , O
 àti O
 pé O
+
 kí O
 àlááfíà O
 baà O
@@ -4070,7 +4056,6 @@ tó O
 mílíọ́nù O
 méje O
 sí O
-
 mẹ́wàá O
 ni O
 wọ́n O
@@ -4086,6 +4071,7 @@ wa O
 o O
 ! O
 " O
+
 Bí O
 ẹ O
 bá O
@@ -4120,7 +4106,6 @@ fún O
 mi O
 , O
 ṣùgbọ́n O
-
 ìbọn O
 wọn O
 kò O
@@ -4156,6 +4141,7 @@ bá O
 wá O
 ni O
 , O
+
 wọn O
 kò O
 le O
@@ -4213,7 +4199,6 @@ á O
 sílẹ̀ O
 , O
 a O
-
 níláti O
 ṣọ́ra O
 , O
@@ -4257,6 +4242,7 @@ Fúlàní O
 láàárò B-DATE
 Mọ́ńdè I-DATE
 , O
+
 bẹ́ẹ̀ O
 lọwọ́ O
 ti O
@@ -4268,7 +4254,6 @@ tí O
 wọ́n O
 ká O
 àwọn O
-
 ohun O
 ìjà O
 olóró O
@@ -4309,7 +4294,6 @@ léèrè O
 ọ̀rọ̀ O
 nípa O
 àwọn O
-
 jàǹdùkú O
 tọ́wọ́ O
 àwọn O
@@ -4535,7 +4519,6 @@ Olúmọ I-PER
 , O
 ti O
 sọ O
-
 pé O
 bẹ́ẹ̀ O
 lọ̀rọ̀ O
@@ -4590,7 +4573,6 @@ owó O
 fún O
 lórúkọ O
 ìjọba B-ORG
-
 ìpínlẹ̀ I-ORG
 Èkó I-ORG
 . O
@@ -4866,6 +4848,7 @@ àwọn O
 rẹ̀ O
 pé O
 ; O
+
 " O
 Ta O
 ló O
@@ -4886,7 +4869,6 @@ yìí O
 nítorí O
 gbogbo O
 ọjà O
-
 ló O
 ti O
 gbówó O
@@ -5019,7 +5001,6 @@ Abímbọ́lá B-PER
 Ọlálẹ́yẹ I-PER
 ọmọ O
 Abọ́dúnrìn B-PER
-
 , O
 nínú O
 ọgbà O
@@ -5168,7 +5149,6 @@ Dayọ̀ B-PER
 Adéyẹyè I-PER
 , O
 Sẹ́nétọ̀ O
-
 Adésọjí B-PER
 Àkànbí I-PER
 àti O
@@ -5181,6 +5161,7 @@ ti O
 bẹ̀rẹ̀ O
 ìpolongo O
 ìbò O
+
 fún O
 Tinúbú B-PER
 . O
@@ -5260,7 +5241,6 @@ kí O
 ìgbésẹ̀ O
 náà O
 ba O
-
 à O
 le O
 so O
@@ -5299,7 +5279,6 @@ àti O
 akọ̀wé O
 ìjọba B-ORG
 ìpínlẹ̀ I-ORG
-
 Òǹdó I-ORG
 tẹ́lẹ̀ O
 , O
@@ -5436,7 +5415,6 @@ á O
 lérò O
 láti O
 mú O
-
 ìrìnàjò O
 náà O
 pọ̀n O
@@ -5764,7 +5742,6 @@ sí O
 , O
 à O
 ní O
-
 àwọn O
 manṣíǹnì O
 táa O
@@ -5776,6 +5753,7 @@ fi O
 ṣe O
 àyẹ̀wò O
 ilé O
+
 yẹn O
 , O
 láti O
@@ -5811,7 +5789,6 @@ wọ́n O
 fẹ́ẹ́ O
 ṣe O
 sórí O
-
 ilẹ̀ O
 yẹn O
 . O
@@ -5898,7 +5875,6 @@ bí O
 ẹ O
 bá O
 gbé O
-
 sìmẹ́ntì O
 àti O
 òkúta O
@@ -5910,6 +5886,7 @@ sílẹ̀ O
 gbọdọ̀ O
 fi O
 omi O
+
 kún O
 un O
 láti O
@@ -6007,7 +5984,6 @@ yẹn O
 wà O
 , O
 bẹ́ẹ̀ O
-
 náà O
 ló O
 sì O
@@ -6022,6 +5998,7 @@ fẹ́ẹ́ O
 lò O
 lára O
 ilé O
+
 yẹn O
 , O
 nítorí O
@@ -6090,7 +6067,6 @@ oníyẹ̀pẹ̀ O
 , O
 ó O
 gbọ́dọ̀ O
-
 mọ́ O
 tónítóní O
 . O
@@ -6237,7 +6213,6 @@ àwọn O
 tó O
 ń O
 ta O
-
 irin O
 , O
 tí O
@@ -6249,6 +6224,7 @@ búlọ́ọ̀kù O
 àtàwọn O
 dìfẹ́lọ́pà O
 àti O
+
 bẹ́ẹ̀ O
 bẹ́ẹ̀ O
 lọ O
@@ -6378,7 +6354,6 @@ le O
 ṣiṣẹ́ O
 pẹ̀lú O
 ilé O
-
 kíkọ́ O
 , O
 a O
@@ -6393,6 +6368,7 @@ táa O
 fí O
 n O
 ṣe O
+
 àwọn O
 àyẹ̀wò O
 yẹn O
@@ -6538,7 +6514,6 @@ a O
 lè O
 mọ O
 ibi O
-
 tí O
 a O
 máa O
@@ -6634,7 +6609,6 @@ àwọn O
 òṣìṣẹ́ O
 wa O
 máa O
-
 dé O
 ibi O
 iṣẹ́ O
@@ -6648,6 +6622,7 @@ láàrin B-DATE
 ọ̀sẹ̀ I-DATE
 méjì I-DATE
 , O
+
 kìí O
 ṣe O
 ohun O
@@ -6732,7 +6707,6 @@ láti O
 lọọ O
 bá O
 wọn O
-
 ṣèpàdé O
 , O
 kí O
@@ -6750,6 +6724,7 @@ bí O
 wọn O
 bá O
 fẹ́ẹ́ O
+
 kọ́ O
 iléètajà O
 ńlá O
@@ -6933,7 +6908,6 @@ Èkó I-ORG
 LASU B-ORG
 , O
 Ọ̀mọ̀wé O
-
 Fatimat B-PER
 Olúwatóyìn I-PER
 Bákàrè I-PER
@@ -7123,7 +7097,6 @@ òyìnbó O
 nítorí O
 oṣooṣù O
 ní O
-
 LASU B-ORG
 ń O
 sanwó O
@@ -7179,7 +7152,6 @@ oṣù I-DATE
 kẹsàn I-DATE
 án I-DATE
 , I-DATE
-
 ọdún I-DATE
 náà I-DATE
 , O
@@ -7222,7 +7194,6 @@ sí I-DATE
 ọjọ́ I-DATE
 kejìdínlọ́gbọ̀n I-DATE
 , I-DATE
-
 oṣú I-DATE
 kejí I-DATE
 , I-DATE
@@ -7476,7 +7447,6 @@ onígbàgbó O
 òdodo O
 nínú O
 ìjọ O
-
 Deeper B-ORG
 Life I-ORG
 Bible I-ORG
@@ -7494,6 +7464,7 @@ láti O
 máa O
 pọfọ̀ O
 tàbí O
+
 máa O
 ṣágbẹ́rẹ́ O
 . O
@@ -7567,6 +7538,7 @@ ọ̀dọ̀ O
 ọ̀gá O
 mi O
 ; O
+
 ìyen O
 Alaaji O
 Saka B-PER
@@ -7793,7 +7765,6 @@ pátápátá O
 ni O
 èyí O
 , O
-
 àrùn O
 yìí O
 gbóògùn O
@@ -7807,6 +7778,7 @@ fi O
 wò O
 ẹni O
 tó O
+
 bá O
 ní O
 àìsàn O
@@ -7882,7 +7854,6 @@ ẹ̀jẹ̀ O
 ríru O
 tàbí O
 ìtọ̀ O
-
 súgà O
 , O
 ògùn O
@@ -7895,6 +7866,7 @@ fún O
 ọgbẹ́ O
 inú O
 àti O
+
 ìpákè O
 , O
 àwon O
@@ -8112,7 +8084,6 @@ orin O
 ìdajì O
 ọdún O
 táwọn O
-
 èèyàn O
 ń O
 jù O
@@ -8629,7 +8600,6 @@ sílẹ̀ O
 , O
 àwọn O
 ohun O
-
 ìwúrí O
 mi O
 nìyẹn O
@@ -8689,7 +8659,6 @@ n O
 lọọ O
 wáṣẹ́ O
 mí O
-
 ìn O
 ṣe O
 . O
@@ -8753,7 +8722,6 @@ fi O
 máa O
 gbọ́ O
 àdúrà O
-
 , O
 kí O
 wọ́n O
@@ -8768,6 +8736,7 @@ kí O
 ẹ̀bùn O
 Ọlọ́run O
 túbọ̀ O
+
 gbèrú O
 sí O
 i O
@@ -8844,7 +8813,6 @@ akòọ̀ròyìn O
 tó O
 wà O
 nílùú O
-
 Èkó B-LOC
 . O
 
@@ -9166,7 +9134,6 @@ irúfẹ́ O
 bẹ́ẹ̀ O
 yálà O
 nínú O
-
 ìlú O
 ni O
 tabí O
@@ -9180,6 +9147,7 @@ gbígbé O
 pẹ́lú O
 èdè O
 àwọn O
+
 elédè O
 ati O
 onírúurú O
@@ -9454,7 +9422,6 @@ àwọn O
 àti O
 àwọn O
 ọlọ́làjú O
-
 àgbáyé O
 . O
 
@@ -9778,7 +9745,6 @@ tí O
 wọ́n O
 ń O
 ṣe O
-
 àfikún O
 lóòrè O
 kóòrè O
@@ -9866,7 +9832,6 @@ kọ́ O
 àwọn O
 akẹ́kọ̀ọ́ O
 àti O
-
 àwọn O
 olùkọ́ O
 nípa O
@@ -9883,6 +9848,7 @@ pẹpẹ O
 ọ̀fẹ́ O
 Wikimedia B-ORG
 yì O
+
 fún O
 àǹfaní O
 àti O
@@ -9992,7 +9958,6 @@ pẹpẹ O
 - O
 ọ̀fẹ́ O
 Wikipedia B-ORG
-
 Yorùbá I-ORG
 ló O
 ni O
@@ -10168,7 +10133,6 @@ di O
 ìmẹ́ẹ́rí O
 tabí O
 parẹ́ O
-
 láwùjọ O
 agbáyé O
 . O
@@ -10316,7 +10280,6 @@ tún O
 ló O
 ń O
 gba O
-
 àwọn O
 ọmọ O
 rẹ̀ O
@@ -10328,6 +10291,7 @@ èyí O
 tí O
 kò O
 bá O
+
 ẹ̀sìn O
 Islam O
 lára O
@@ -10591,13 +10555,13 @@ Èkó I-LOC
 ó O
 ní O
 ; O
+
 àwọn O
 olóṣèlú O
 ilẹ̀ O
 wa O
 ló O
 jẹ̀bi O
-
 . O
 
 Ó O
@@ -10634,7 +10598,6 @@ nínú O
 èyí O
 tí O
 àwọn O
-
 mínísítà O
 tó O
 jẹ́ O
@@ -10687,7 +10650,6 @@ ìwọ́de O
 náà O
 , O
 àwọn O
-
 olóṣèlú O
 ló O
 jẹ̀bi O
@@ -10699,6 +10661,7 @@ láti O
 ró O
 àwọn O
 ọ̀dọ́ O
+
 lágbára O
 . O
 
@@ -10740,7 +10703,6 @@ ààfin O
 òun O
 , O
 bẹ́ẹ̀ O
-
 lòuń O
 sì O
 ti O
@@ -10821,7 +10783,6 @@ sì O
 tún O
 ń O
 fìyà O
-
 jẹ O
 wọ́n O
 lọ́nà O
@@ -11012,7 +10973,6 @@ níbi O
 ìpàdé O
 ìpolongo O
 ìbò O
-
 tó O
 wáyé O
 nípínlẹ̀ O
@@ -11080,7 +11040,6 @@ kọluu O
 ọ̀gá O
 òun O
 , O
-
 bẹ́ẹ̀ O
 ló O
 sì O
@@ -11093,6 +11052,7 @@ wọ́n O
 kìlọ̀ O
 fún O
 àwọn O
+
 olóṣèlú O
 méjèèjì O
 yìí O
@@ -11118,7 +11078,6 @@ ní O
 ààfin B-LOC
 Ọọ̀ni I-LOC
 ní O
-
 Iléefẹ̀ B-LOC
 náà O
 nìyẹn O
@@ -11313,7 +11272,6 @@ i O
 nǹkan O
 yóò O
 sì O
-
 máa O
 lọ O
 dédé O
@@ -11329,6 +11287,7 @@ le O
 maa O
 lọ O
 títí O
+
 . O
 
 Báwọn O
@@ -11469,7 +11428,6 @@ tí O
 fẹ́ẹ́ O
 fi O
 kún O
-
 owó O
 iná O
 lọ O
@@ -11557,7 +11515,6 @@ wà O
 níbẹ̀ O
 , O
 àwa O
-
 kọ́ O
 ló O
 máa O
@@ -11758,7 +11715,6 @@ gbogbo O
 gbọdọ̀ O
 hàn O
 sáwọn O
-
 aráàlú O
 . O
 
@@ -11813,6 +11769,7 @@ ni O
 táwọn O
 ìjọba O
 ; O
+
 ìpínlẹ̀ O
 , O
 ìbílẹ̀ O
@@ -11858,7 +11815,6 @@ àwọn O
 tó O
 ń O
 gba O
-
 àbẹ̀tẹ́lẹ̀ O
 lọ́wọ́ O
 àwọn O
@@ -11868,6 +11824,7 @@ ìkẹta O
 ni O
 pé O
 àwọn O
+
 aráàlú O
 kìí O
 fẹ́ẹ́ O
@@ -12079,7 +12036,6 @@ tẹlifóònù O
 , O
 àwọn O
 mítà O
-
 yìí O
 sì O
 tún O
@@ -12325,7 +12281,6 @@ ní O
 làwọn O
 náà O
 ń O
-
 ní O
 . O
 
@@ -12515,7 +12470,6 @@ aráàlú O
 pé O
 a O
 máa O
-
 fún O
 àwọn O
 èèyàn O
@@ -12768,7 +12722,6 @@ nígbèríko O
 àwọn O
 tí O
 kò O
-
 lánfààní O
 sí O
 àwọn O
@@ -12816,7 +12769,6 @@ ń O
 sọ O
 wọ́n O
 di O
-
 owó O
 . O
 
@@ -13013,7 +12965,6 @@ bẹ́ẹ̀ O
 ni O
 mo O
 mọ O
-
 rírì O
 oore O
 tí O
@@ -13128,7 +13079,6 @@ láti O
 fi O
 ró O
 àwọn O
-
 obìnrin O
 lágbára O
 nìyẹn O
@@ -13211,7 +13161,6 @@ dowó O
 , O
 àti O
 bẹ́ẹ̀ O
-
 bẹ́ẹ̀ O
 lọ O
 . O
@@ -13539,7 +13488,6 @@ bẹ̀rẹ̀ O
 láti O
 ibi O
 kékeré O
-
 , O
 tí O
 a O
@@ -13556,6 +13504,7 @@ tí O
 wọ́n O
 kọ́ O
 wọn O
+
 yé O
 wọn O
 , O
@@ -13747,7 +13696,6 @@ Ògùn B-LOC
 Àlàájì O
 Rasak B-PER
 Olúsọlá I-PER
-
 Ṣótáyọ̀ I-PER
 tọ́pọ̀ O
 mọ̀ O
@@ -13758,6 +13706,7 @@ gẹ́gẹ́ O
 bí O
 aṣáájú O
 rere O
+
 tí O
 Ọlọ́run O
 rán O
@@ -13803,7 +13752,6 @@ pé O
 ki O
 Ọlọ́run O
 lọ́ra O
-
 ẹ̀mí O
 ẹ̀ O
 fáwọn O
@@ -13866,7 +13814,6 @@ Ògùn B-LOC
 Mukaila B-PER
 Oníyídé I-PER
 , O
-
 akọ̀wé O
 ìṣúná O
 owó O
@@ -13875,6 +13822,7 @@ Arábìnrin O
 Ọmọlọlá B-PER
 Olúmídé I-PER
 , O
+
 àtàwọn O
 olóyè O
 mí O
@@ -13965,7 +13913,6 @@ ni O
 rẹ̀ O
 wà O
 , O
-
 ọkọ O
 rẹ̀ O
 yìí O
@@ -13979,6 +13926,7 @@ ránṣẹ́ O
 sí O
 i O
 ní O
+
 Nàíjíríà B-LOC
 níbí O
 . O
@@ -14021,7 +13969,6 @@ ń O
 dá O
 àwọn O
 ọmọge O
-
 Sùúrùlérè B-LOC
 lóhùn O
 , O
@@ -14078,7 +14025,6 @@ fún O
 àwọn O
 òṣìṣẹ́ O
 rẹ̀ O
-
 lóṣooṣù O
 múlẹ̀ O
 , O
@@ -14087,6 +14033,7 @@ yàtọ̀ O
 sáwọn O
 tóbìnrin O
 náà O
+
 ń O
 sanwó O
 fún O
@@ -14116,7 +14063,6 @@ lọ́ṣọ̀ọ́ O
 bẹ́ẹ̀ O
 ló O
 sì O
-
 tún O
 ń O
 ṣiṣẹ́ O
@@ -14161,7 +14107,6 @@ Juliana B-PER
 kò O
 dín O
 ní O
-
 méjìlélógún O
 . O
 
@@ -14206,7 +14151,6 @@ àwọn O
 ẹrù O
 tó O
 wà O
-
 nínú O
 rẹ̀ O
 , O
@@ -14220,6 +14164,7 @@ tí O
 wọn O
 ń O
 lò O
+
 fáwọn O
 kọ́sítọ́mà O
 pátá O
@@ -14372,7 +14317,6 @@ gbé O
 , O
 ṣe O
 ni O
-
 wọ́n O
 bà O
 á O
@@ -14387,6 +14331,7 @@ fi O
 ní O
 i O
 látùńṣe O
+
 rárá O
 . O
 
@@ -14448,7 +14393,6 @@ wọn O
 , O
 ńìpínlẹ̀ O
 Delta B-LOC
-
 lọ́hùn O
 ún O
 , O
@@ -14466,6 +14410,7 @@ ni O
 wọ́n O
 sáré O
 ti O
+
 ọmọ O
 náà O
 kúrò O
@@ -14521,7 +14466,6 @@ pọ̀jù O
 lopó O
 náà O
 ti O
-
 bẹ̀rẹ̀ O
 sí O
 í O
@@ -14622,6 +14566,7 @@ ara O
 kò O
 rokùn O
 ; O
+
 ara O
 kò O
 rọ O
@@ -14749,7 +14694,6 @@ náà O
 yọ O
 , O
 àwọn O
-
 jàǹdùkù O
 kò O
 láwọn O
@@ -14812,7 +14756,6 @@ ti O
 ń O
 ṣèwọ́de O
 , O
-
 ní O
 tóólú B-LOC
 geètì I-LOC
@@ -14860,6 +14803,7 @@ wà O
 níbẹ̀ O
 ni O
 ; O
+
 wọ́n O
 yìnbọn O
 pa O
@@ -14934,7 +14878,6 @@ àárọ̀ B-DATE
 Wẹ́sdè I-DATE
 , O
 àwọn O
-
 jàǹdùkú O
 ti O
 gbìnàyá O
@@ -14947,6 +14890,7 @@ wọ́n O
 ti O
 bẹ̀rẹ̀ O
 sí O
+
 í O
 dáná O
 sunlé O
@@ -15066,7 +15010,6 @@ wọ́n O
 ti O
 ní O
 káwọn O
-
 òṣìṣẹ́ O
 wọn O
 sì O
@@ -15080,6 +15023,7 @@ èyí O
 sì O
 túnmọ̀ O
 sí O
+
 ni O
 pé O
 kò O
@@ -15290,7 +15234,6 @@ olóró O
 , O
 tí O
 wọ́n O
-
 sì O
 ń O
 lérí O
@@ -15305,6 +15248,7 @@ táwọn O
 bá O
 fi O
 tipátipá O
+
 bá O
 á O
 lájọṣepọ̀ O
@@ -15359,6 +15303,7 @@ ni O
 Jimoh B-PER
 Kamoru I-PER
 , O
+
 tí O
 kò O
 ju O
@@ -15371,7 +15316,6 @@ Basit I-PER
 , O
 tí O
 kò O
-
 ju O
 ọdún B-DATE
 mẹ́rìndínlógún I-DATE
@@ -15443,7 +15387,6 @@ fi O
 àwọn O
 ọmọ O
 náà O
-
 ránṣẹ́ O
 síléeṣẹ́ O
 àwọn O
@@ -15452,6 +15395,7 @@ àwọn O
 kí O
 wọ́n O
 túbọ̀ O
+
 wádìí O
 wọn O
 dáadáa O
@@ -15512,7 +15456,6 @@ Sanwó B-PER
 Olú I-PER
 ní O
 , O
-
 inú O
 oṣù B-DATE
 kẹwàá I-DATE
@@ -15523,6 +15466,7 @@ niṣẹ́ O
 máa O
 parí O
 , O
+
 nítorí O
 àrùn O
 Kòrónà O
@@ -15569,7 +15513,6 @@ kódà O
 wọ́n O
 ń O
 tọ́ka O
-
 sí O
 ìlérí O
 tí O
@@ -15579,6 +15522,7 @@ nígbà O
 tó O
 ṣàbẹ̀wò O
 síbi O
+
 iṣẹ́ O
 ọ̀hún O
 láìpẹ́ O
@@ -15608,7 +15552,6 @@ iṣẹ́ O
 máa O
 parí O
 lọ́dún B-DATE
-
 yìí I-DATE
 rárá O
 . O
@@ -15799,7 +15742,6 @@ nínú O
 oṣù B-DATE
 kẹjọ I-DATE
 táa O
-
 fẹ́ẹ́ O
 mú O
 yìí O
@@ -16036,7 +15978,6 @@ lẹ́nu O
 iṣẹ́ O
 ọba O
 lọ́jọ́ B-DATE
-
 kẹtàlélógún I-DATE
 , I-DATE
 oṣù I-DATE
@@ -16078,7 +16019,6 @@ yọ̀nda O
 sọ̀wédowó O
 náà O
 fún O
-
 àwọn O
 mọ̀lẹ́bí O
 ọkùnrin O
@@ -16086,6 +16026,7 @@ olóògbé O
 náà O
 ní O
 ọ́fíìsì O
+
 àwọn O
 KAI B-ORG
 tó O
@@ -16132,7 +16073,6 @@ iṣẹ́ O
 ṣe O
 kókó O
 fún O
-
 ìjọba O
 Gómìnà O
 Babájídé B-PER
@@ -16144,6 +16084,7 @@ Olú I-PER
 Ó O
 ní O
 ; O
+
 " O
 Ó O
 ṣe O
@@ -16180,7 +16121,6 @@ ipò O
 bẹ́ẹ̀ O
 , O
 pàápàá O
-
 àwọn O
 mọ̀lẹ́bí O
 tírú O
@@ -16299,7 +16239,6 @@ pàdánù O
 ẹ̀mí O
 wọn O
 lẹ́nu O
-
 iṣẹ́ O
 ọba O
 . O
@@ -16345,7 +16284,6 @@ tún O
 ń O
 fìyà O
 jẹ O
-
 àwọn O
 òṣìṣẹ́ O
 ọba O
@@ -16486,7 +16424,6 @@ ni O
 àwọn O
 tí O
 wọn O
-
 kó O
 sí O
 pańpẹ́ O
@@ -16649,7 +16586,6 @@ náà O
 bá O
 tún O
 wá O
-
 tẹnubọ O
 oúnjẹ O
 yẹn O
@@ -16801,7 +16737,6 @@ èèyàn O
 díẹ̀ O
 la O
 bá O
-
 pàdé O
 níbẹ̀ O
 , O
@@ -16981,7 +16916,6 @@ wọn O
 ń O
 kó O
 ọjà O
-
 wá O
 láti O
 ọ̀dọ̀ O
@@ -16994,6 +16928,7 @@ lọ O
 sílùú O
 wọn O
 lọọ O
+
 kó O
 ọjà O
 wá O
@@ -17040,7 +16975,6 @@ Àbáyọ̀mí I-PER
 sì O
 fi O
 tó O
-
 àwọn O
 oníròyìn O
 létí O
@@ -17050,6 +16984,7 @@ pé O
 ẹnìkan O
 ti O
 lùgbàdì O
+
 àrùn O
 náà O
 ńìpínlẹ̀ O
@@ -17074,7 +17009,6 @@ l'Ékòó I-LOC
 , O
 ṣùgbọ́n O
 ọkùnrin O
-
 náà O
 ní O
 kò O
@@ -17139,6 +17073,7 @@ o O
 kọmíṣánnà O
 ní O
 ; O
+
 gbogbo O
 ohun O
 tó O
@@ -17172,7 +17107,6 @@ fọ O
 ọwọ́ O
 wọn O
 lóòrèkóòrè O
-
 . O
 
 Yàtọ̀ O
@@ -17220,7 +17154,6 @@ dáadáa O
 àti O
 pé O
 bí O
-
 ẹnikẹ́ni O
 bá O
 nílò O
@@ -17230,6 +17163,7 @@ ìtọ́jú O
 kó O
 pè O
 àwọn O
+
 nọ́mbà O
 yìí O
 : O
@@ -17283,7 +17217,6 @@ fi O
 ń O
 dá O
 wa O
-
 lójú O
 pé O
 kò O
@@ -17297,6 +17230,7 @@ láwọn O
 ti O
 pèsè O
 gbogbo O
+
 nǹkan O
 tó O
 yẹ O
@@ -17439,7 +17373,6 @@ Hope I-ORG
 Foundation I-ORG
 pẹ̀lú O
 àjọṣepọ̀ O
-
 iléeṣẹ́ O
 ìjọba O
 àpapọ̀ O
@@ -17448,6 +17381,7 @@ ń O
 ró O
 àwọn O
 oníléeṣẹ́ O
+
 kéèkèké O
 lágbára O
 , O
@@ -17482,7 +17416,6 @@ ran O
 ẹgbẹ̀rún O
 márùn O
 ún O
-
 obìnrin O
 lọ́wọ́ O
 . O
@@ -17521,7 +17454,6 @@ kù O
 díẹ̀ O
 káàtó O
 fún O
-
 làjọ O
 òun O
 , O
@@ -17573,6 +17505,7 @@ àgbègbè O
 náà O
 ni O
 ; O
+
 Ìwàyà B-LOC
 , O
 Òwòrònṣòkí B-LOC
@@ -17673,7 +17606,6 @@ lè O
 ìnáwó O
 wọn O
 lọ́nà O
-
 ìgbàlọ́dé O
 , O
 bí O
@@ -17774,7 +17706,6 @@ bọ̀ O
 sípò O
 , O
 pẹ̀lú O
-
 nǹkan O
 tí O
 àrùn O
@@ -17783,6 +17714,7 @@ fojú O
 àwọn O
 èèyàn O
 , O
+
 pàápàá O
 àwọn O
 obìnrin O
@@ -17892,7 +17824,6 @@ Àárọ̀ B-DATE
 Sátidé I-DATE
 ni O
 wọ́n O
-
 forúkọ O
 àwọn O
 èèyàn O
@@ -17987,7 +17918,6 @@ àwọn O
 èèyàn O
 lórí O
 íntánẹ́ẹ̀tì O
-
 . O
 
 Ṣùgbọ́n O
@@ -18098,7 +18028,6 @@ ń O
 rí O
 sí O
 iṣẹ́ O
-
 ìdàgbàsókè O
 ìlú O
 tó O
@@ -18110,6 +18039,7 @@ kí O
 ọ̀la O
 dára O
 , O
+
 èyí O
 tí O
 wọn O
@@ -18145,7 +18075,6 @@ òun O
 ti O
 kọ́ O
 àwọn O
-
 òṣìṣẹ́ O
 méjìdínláàádọ́ta O
 lẹ́kọ̀ọ́ O
@@ -18158,6 +18087,7 @@ omi O
 pàápàá O
 lásìkò O
 àrùn O
+
 Kòrónà O
 yìí O
 . O
@@ -18198,7 +18128,6 @@ LASWA B-ORG
 Ọ̀gbẹ́ni O
 Dámilọ́lá B-PER
 Emmanuel I-PER
-
 dúpẹ́ O
 lọ́wọ́ O
 àwọn O
@@ -18211,6 +18140,7 @@ láti O
 ṣiṣẹ́ O
 fún O
 ètò O
+
 ààbò O
 ojú O
 omi O
@@ -18239,7 +18169,6 @@ tó O
 ń O
 jà O
 ràìn O
-
 - O
 ràìn O
 . O
@@ -18284,7 +18213,6 @@ tóo O
 di O
 pé O
 wọn O
-
 wọkọ̀ O
 ojú O
 omi O
@@ -18330,7 +18258,6 @@ wọn O
 láti O
 máa O
 ṣètò O
-
 ààbò O
 fún O
 àwọn O
@@ -18382,7 +18309,6 @@ gbà O
 àṣẹ O
 lọ́wọ́ O
 ìjọba O
-
 má O
 ṣe O
 ṣílẹ̀kùn O
@@ -18472,7 +18398,6 @@ sọ O
 nípa O
 rẹ̀ O
 mọ́ O
-
 nítorí O
 láti O
 inú O
@@ -18486,6 +18411,7 @@ fún O
 orílẹ̀ O
 - O
 èdè O
+
 Nàíjíríà B-LOC
 . O
 
@@ -18617,7 +18543,6 @@ nítorí O
 Ọlọ́run O
 ti O
 fi O
-
 jínǹkí O
 Nàíjíríà B-LOC
 . O
@@ -18693,7 +18618,6 @@ tó O
 ti O
 wà O
 nínú O
-
 oyún O
 , O
 gẹ́gẹ́ O
@@ -18754,7 +18678,6 @@ ẹ O
 ò O
 le O
 rí O
-
 ìkùnà O
 yẹn O
 lọ́jú O
@@ -18960,7 +18883,6 @@ káàkiri O
 orílẹ̀ O
 - O
 èdè O
-
 yìí O
 . O
 
@@ -19087,7 +19009,6 @@ tó O
 wà O
 nílùú O
 Zaria B-LOC
-
 àti O
 University B-ORG
 of I-ORG
@@ -19216,7 +19137,6 @@ sẹ̀ríà O
 fẹ́nikẹ́ni O
 , O
 ṣùgbọ́n O
-
 láti O
 bá O
 àwọn O
@@ -19374,7 +19294,6 @@ adìrẹ O
 bẹ̀rẹ̀ O
 láti O
 sáà O
-
 ọdún B-DATE
 tó I-DATE
 ń I-DATE
@@ -19451,7 +19370,6 @@ orílẹ̀ O
 èdè O
 wa O
 káàkiri O
-
 àgbáyé O
 , O
 yàtọ̀ O
@@ -19536,7 +19454,6 @@ bọ́ O
 sí O
 ọjọ́ B-DATE
 Fráìde I-DATE
-
 , O
 ṣùgbọ́n O
 ó O
@@ -19546,6 +19463,7 @@ àwọn O
 ọmọléèwé O
 náà O
 láti O
+
 ọdún B-DATE
 tó I-DATE
 ń I-DATE
@@ -19604,7 +19522,6 @@ pátákó O
 ìpolongo O
 tí O
 a O
-
 mọ̀ O
 sí O
 Lagos B-ORG
@@ -19618,6 +19535,7 @@ LASAA B-ORG
 àti O
 iléeṣẹ́ O
 ọlọ́pàá O
+
 ọ̀tẹlẹ̀múyẹ́ O
 tó O
 wà O
@@ -19746,7 +19664,6 @@ ti O
 àwọn O
 ayédèrú O
 tó O
-
 wà O
 lẹ́ka O
 náà O
@@ -19852,7 +19769,6 @@ máa O
 ṣèdájọ́ O
 irú O
 àwọn O
-
 aláyédèrú O
 bẹ́ẹ̀ O
 , O
@@ -19863,6 +19779,7 @@ wà O
 lọ́wọ́ O
 àwọn O
 iléẹjọ́ O
+
 májísréètì O
 ti O
 pọ̀ O
@@ -20126,7 +20043,6 @@ owó O
 ọ̀hún O
 mọ́ O
 wọn O
-
 lọ́wọ́ O
 , O
 tó O
@@ -20145,6 +20061,7 @@ tán O
 ibo O
 ni O
 kí O
+
 wọ́n O
 ti O
 bẹ̀rẹ̀ O
@@ -20357,7 +20274,6 @@ ń O
 tún O
 ùn O
 tá O
-
 , O
 ṣe O
 ni O
@@ -20369,6 +20285,7 @@ lọ O
 fún O
 ẹbí O
 wọn O
+
 . O
 
 Èyí O
@@ -20679,10 +20596,10 @@ ò O
 níle O
 gba O
 owó O
-
 yìí O
 o O
 ; O
+
 títí O
 dìgbà O
 tí O
@@ -21122,7 +21039,6 @@ má O
 bẹ̀rẹ̀ O
 láti O
 Abraham B-LOC
-
 Adésànyà I-LOC
 sí O
 Ẹlẹ́kọ B-LOC
@@ -21277,13 +21193,13 @@ Gómìnà O
 Ìpínlẹ̀ O
 Ọ̀yọ́ B-LOC
 , O
-
 Ṣèyí B-PER
 Mákindé I-PER
 fún O
 ìfọwọ́sowọ́pọ̀ O
 wọn O
 lórí O
+
 ìdàgbàsókè O
 àwọn O
 ọjà O
@@ -21420,6 +21336,7 @@ mo O
 bá O
 kà O
 ; O
+
 ó O
 di O
 dandan O
@@ -21433,7 +21350,6 @@ ní O
 títà O
 , O
 ní O
-
 ìgbẹ̀yìn O
 ni O
 ọ̀rọ̀ O
@@ -21501,7 +21417,6 @@ mo O
 jókòó O
 sí O
 ìdí O
-
 iṣẹ́ O
 tí O
 wọ́n O
@@ -21513,6 +21428,7 @@ láti O
 máa O
 jùmọ̀ O
 ṣiṣẹ́ O
+
 náà O
 gẹ́gẹ́ O
 bí O
@@ -21742,6 +21658,7 @@ fi O
 Ọlọ́run O
 ṣíwájú O
 ; O
+
 asán O
 ni O
 gbogbo O
@@ -21771,6 +21688,7 @@ ènìyàn O
 bá O
 ṣe O
 ; O
+
 a O
 máa O
 yọrí O
@@ -21903,7 +21821,6 @@ mi O
 náà O
 lójoojúmọ́ O
 pẹ̀lú O
-
 ìfọwọ́sowọ́pọ̀ O
 àwọn O
 èèyàn O
@@ -21968,7 +21885,6 @@ Ìbàdàn B-LOC
 ní O
 gbogbo O
 Ọjọ́bọ̀ B-DATE
-
 nínú I-DATE
 ọ̀sẹ̀ I-DATE
 làwa O
@@ -21979,6 +21895,7 @@ máa O
 ń O
 lọọ O
 láti O
+
 tún O
 gbogbo O
 àyíká O
@@ -22045,7 +21962,6 @@ ìdòtí O
 nínú O
 àwọn O
 ọjà O
-
 pẹ̀lú O
 owó O
 péréte O
@@ -22119,7 +22035,6 @@ sì O
 máa O
 ní O
 i O
-
 lọ́kàn O
 pé O
 ìbùkún O
@@ -22134,6 +22049,7 @@ là O
 pẹ̀lú O
 èyí O
 ; O
+
 èrè O
 ni O
 ọlọ́jà O
@@ -22249,6 +22165,7 @@ alága O
 tẹ́lẹ̀ O
 rí O
 ; O
+
 Ọmọọba O
 Jacob B-PER
 Adéjọńrí I-PER
@@ -22313,7 +22230,6 @@ yìí O
 báwo O
 lọwọ́ O
 búrẹ́dì O
-
 ṣe O
 rí O
 lásìkò O
@@ -22365,7 +22281,6 @@ lọ O
 , O
 nítorí O
 láti O
-
 bíi O
 oṣù B-DATE
 kejì I-DATE
@@ -22381,6 +22296,7 @@ ni O
 mo O
 ti O
 pe O
+
 gbogbo O
 àwa O
 oníbúrẹ́dì O
@@ -22454,7 +22370,6 @@ oníbúrẹ́dì O
 yòówù O
 pẹ̀lú O
 omi O
-
 , O
 ọṣẹ O
 àti O
@@ -22464,6 +22379,7 @@ apakòkòrò O
 gbogbo O
 àwọn O
 òṣìṣẹ́ O
+
 gbọdọ̀ O
 máa O
 fọ O
@@ -22522,6 +22438,7 @@ yìí O
 débii O
 pé O
 ; O
+
 ìgbà O
 mẹ́ta O
 lójúmọ́ O
@@ -22544,7 +22461,6 @@ pẹ̀lú O
 apa O
 - O
 kòkòrò O
-
 . O
 
 Àṣejèrè B-ORG
@@ -22615,7 +22531,6 @@ palliative O
 , O
 ṣùgbọ́n O
 kìí O
-
 ṣe O
 jákèjádò O
 ìpínlẹ̀ O
@@ -22691,12 +22606,12 @@ orílẹ̀ O
 èdè O
 yìí O
 ; O
+
 Ọ̀jọ̀gbọ́n O
 Yẹmí B-PER
 Ọ̀ṣínbàjò I-PER
 ti O
 pe O
-
 àwa O
 oníbúrẹ́dì O
 sí O
@@ -22730,13 +22645,13 @@ kejì I-DATE
 ṣùgbọ́n O
 pẹ̀lú O
 ìṣẹ̀lẹ̀ O
-
 Kòrónà O
 kò O
 tí O
 ì O
 jẹ́ O
 kí O
+
 á O
 le O
 tẹ̀ O
@@ -22802,7 +22717,6 @@ bó O
 máa O
 rí O
 nìyẹn O
-
 . O
 
 Àṣejèrè B-ORG
@@ -22868,7 +22782,6 @@ o O
 wá O
 , O
 fún O
-
 ìdí O
 èyí O
 fúláwà O
@@ -22924,6 +22837,7 @@ bíi O
 oṣù B-DATE
 mẹ́ta I-DATE
 ; O
+
 kò O
 tíẹ̀ O
 sí O
@@ -22965,6 +22879,7 @@ wa O
 jọ O
 pé O
 ; O
+
 a O
 ní O
 láti O
@@ -23001,7 +22916,6 @@ ti O
 wálẹ̀ O
 , O
 ṣúgà O
-
 Dangote B-ORG
 ti O
 wálẹ̀ O
@@ -23021,6 +22935,7 @@ ìfẹ́ O
 táa O
 ní O
 sí O
+
 àwọn O
 mẹ̀kúnnù O
 àti O
@@ -23039,7 +22954,6 @@ a O
 ò O
 ní O
 fowó O
-
 kún O
 owó O
 búrẹ́dì O
@@ -23114,7 +23028,6 @@ fáwọn O
 àgbẹ O
 wa O
 , O
-
 nítorí O
 ilẹ̀ O
 wa O
@@ -23238,6 +23151,7 @@ ì O
 sí O
 wíìtì O
 ; O
+
 kò O
 leè O
 sí O
@@ -23462,7 +23376,6 @@ gbogbo O
 wa O
 láti O
 le O
-
 tẹ̀ O
 síwájú O
 nínú O
@@ -23475,6 +23388,7 @@ bá O
 wa O
 wo O
 owó O
+
 sísan O
 sínú O
 àpò O
@@ -23511,7 +23425,6 @@ pọ̀ O
 jù O
 , O
 ti O
-
 elétò O
 ìlera O
 wà O
@@ -23634,7 +23547,6 @@ olóògbé O
 méjì O
 ní O
 ẹ̀kọ́ O
-
 ọ̀fẹ́ O
 , O
 àwa O
@@ -23647,6 +23559,7 @@ owó O
 tíye O
 rẹ̀ O
 tó O
+
 mílíọ̀nù O
 náírà O
 . O
@@ -23692,6 +23605,7 @@ Bí O
 bá O
 ṣàkíyèsí O
 ; O
+
 gbogbo O
 ohun O
 èèlò O
@@ -23785,7 +23699,6 @@ tó O
 ṣe O
 fi O
 Àláájì O
-
 Wasiu B-PER
 Àlàbí I-PER
 Pàsúmà I-PER
@@ -23899,7 +23812,6 @@ lọ́ọ̀tún O
 lósì O
 àti O
 láti O
-
 òkè O
 òkun O
 , O
@@ -23910,6 +23822,7 @@ kónílé O
 - O
 ó O
 - O
+
 gbélé O
 Covid O
 - O
@@ -23926,6 +23839,7 @@ àti O
 màmá O
 ẹ̀ O
 ; O
+
 Olúfúnmiláyọ̀ B-PER
 sọ O
 pé O
@@ -23955,7 +23869,6 @@ Ìjọba O
 àpapọ̀ O
 tó O
 wà O
-
 ní O
 Ìlarò B-LOC
 . O
@@ -24057,12 +23970,12 @@ ti O
 Ààrẹ O
 àná O
 ; O
+
 Goodluck B-PER
 Jonathan I-PER
 táwọn O
 èèyàn O
 ní O
-
 kò O
 jáde O
 wáá O
@@ -24111,7 +24024,6 @@ kódà O
 láìpẹ́ O
 yìí O
 làwọn O
-
 àgbààgbà O
 ẹgbẹ́ O
 òṣèlú O
@@ -24120,6 +24032,7 @@ tẹnumọ́ O
 ọn O
 pé O
 ẹgbẹ́ O
+
 àwọn O
 lọ́kùnrin O
 ará O
@@ -24271,6 +24184,7 @@ ààrẹ O
 sọ O
 pé O
 ; O
+
 àsìkò O
 kò O
 tí O
@@ -24484,7 +24398,6 @@ fẹ́ẹ́ O
 ni O
 ìṣòro O
 àwọn O
-
 ọ̀dọ́ O
 wa O
 . O
@@ -24541,7 +24454,6 @@ kó O
 pín O
 fáwọn O
 èèyàn O
-
 agbègbè O
 rẹ̀ O
 , O
@@ -24555,6 +24467,7 @@ àwọn O
 èèyàn O
 tó O
 wá O
+
 síbi O
 ọjọ́ọ̀bí O
 náà O
@@ -24639,7 +24552,6 @@ máa O
 rí O
 lórí O
 fóònù O
-
 náà O
 kìí O
 ṣe O
@@ -24689,7 +24601,6 @@ ohun O
 táwọn O
 èèyàn O
 ń O
-
 tẹnumọ́ O
 ni O
 pé O
@@ -24702,6 +24613,7 @@ di O
 tó O
 pín O
 lọ́jọ́ O
+
 ọjọ́ọ̀bí O
 rẹ̀ O
 . O
@@ -25029,5 +24941,2541 @@ rí O
 bẹ́ẹ̀ O
 fún O
 erin O
+. O
+
+Oṣù B-DATE
+méjìlélógún I-DATE
+lòun O
+máa O
+lò O
+nínú O
+ìyá O
+ẹ̀ O
+kó O
+tóó O
+jáde O
+. O
+
+Ó O
+yẹ O
+kó O
+ti O
+yé O
+e O
+yín O
+pé O
+irú O
+iṣẹ́ O
+ńlá O
+báyìí O
+, O
+ọ̀pọ̀lọpọ̀ O
+àkókò O
+àti O
+nǹkan O
+ló O
+máa O
+gbà O
+lọ́wọ́ O
+wa O
+. O
+
+Àṣejèrè B-ORG
+: O
+Kí O
+làwọn O
+ìpèníjà O
+yín O
+lásìkò O
+tíṣẹ́ O
+náà O
+ń O
+lọ O
+lọ́wọ́ O
+? O
+
+Kẹ́hìndé B-PER
+Fájánà I-PER
+: O
+Olórí O
+nínú O
+àwọn O
+ìpèníjà O
+wa O
+ni O
+ọ̀rọ̀ O
+báǹkì O
+. O
+
+Ó O
+pẹ́ O
+kí O
+wọ́n O
+tóó O
+gbà O
+pé O
+iṣẹ́ O
+yìí O
+ṣeé O
+ṣe O
+, O
+ẹ̀rù O
+ọ̀rọ̀ O
+òṣèlú O
+pẹ̀lú O
+nǹkan O
+tó O
+ń O
+bà O
+wọ́n O
+lẹ́rù O
+, O
+pàápàá O
+bí O
+ọ̀rọ̀ O
+òṣèlú O
+ilẹ̀ O
+wa O
+ṣe O
+rí O
+, O
+bẹ́ẹ̀ O
+náà O
+ni O
+bí O
+ètò O
+ọrọ̀ O
+ajé O
+wa O
+ṣe O
+rí O
+, O
+ṣé O
+ẹ̀yin O
+náà O
+mọ̀ O
+pé O
+ṣe O
+ló O
+máa O
+ń O
+ṣe O
+ségesège O
+. O
+
+Àṣejèrè B-ORG
+: O
+Ǹjẹ́ O
+ẹ O
+tiẹ̀ O
+ń O
+ní O
+àjọsọ O
+pẹ̀lú O
+ìjọba O
+láti O
+ṣe O
+irú O
+nǹkan O
+báyìí O
+sáwọn O
+ọjọ́ O
+yòókù O
+káàkiri O
+? O
+
+Kẹ́hìndé B-PER
+Fájánà I-PER
+: O
+Bẹ́ẹ̀ O
+ni O
+o O
+, O
+ìjọba O
+ti O
+ń O
+ránṣẹ́ O
+pè O
+wá O
+, O
+pàápàá O
+láwọn O
+ìpínlẹ̀ O
+tó O
+yí O
+ìpínlẹ̀ O
+Èkó B-LOC
+ká O
+, O
+wọ́n O
+ní O
+kí O
+á O
+wáá O
+bá O
+wọn O
+ṣe O
+irú O
+nǹkan O
+táa O
+ṣe O
+sí O
+Ọgbà B-LOC
+yìí O
+náà O
+. O
+
+Àṣejèrè B-ORG
+: O
+Àwọn O
+tó O
+wà O
+lọ́jà O
+tí O
+wọ́n O
+ní O
+ìsọ̀ O
+tí O
+wọ́n O
+ń O
+lò O
+tẹ́lẹ̀ O
+, O
+ǹjẹ́ O
+ẹ O
+ti O
+fún O
+wọn O
+ní O
+ìsọ̀ O
+wọn O
+padà O
+? O
+
+Kẹ́hìndé B-PER
+Fájánà I-PER
+: O
+Ohun O
+tí O
+a O
+kọ́kọ́ O
+ṣe O
+nìyẹn O
+, O
+kí O
+á O
+tiẹ̀ O
+tóó O
+wọ O
+ìsọ̀ O
+wọn O
+. O
+
+Iléeṣẹ́ O
+wa O
+ló O
+kọ́kọ́ O
+ṣe O
+irú O
+nǹkan O
+bẹ́ẹ̀ O
+lórílẹ̀ O
+- O
+èdè O
+yìí O
+. O
+
+Àṣejèrè B-ORG
+: O
+Kín O
+ni O
+iléeṣẹ́ O
+Eliezer B-ORG
+tún O
+ń O
+ronú O
+ẹ̀ O
+lẹ́yìn O
+ti O
+Ọ̀gbà O
+yìí O
+, O
+àwọn O
+wo O
+ló O
+sì O
+tún O
+ń O
+lọ O
+lọ́wọ́ O
+? O
+
+Kẹ́hìndé B-PER
+Fájánà I-PER
+: O
+Ọ̀pọ̀lọpọ̀ O
+irú O
+iṣẹ́ O
+ọjà B-LOC
+Ọ̀gbà I-LOC
+yìí O
+lọ́ O
+ń O
+lọ́wọ́ O
+, O
+kódà O
+ọ̀pọ̀ O
+wọn O
+ti O
+dé O
+ìpele O
+tó O
+ti O
+fẹ́rẹ̀ O
+parí O
+báyìí O
+, O
+àwọn O
+kan O
+náà O
+sì O
+ṣẹ̀ṣẹ̀ O
+fẹ́ẹ́ O
+bẹ̀rẹ̀ O
+ni O
+. O
+
+Àṣejèrè B-ORG
+: O
+Ẹ O
+jẹ́ O
+ká O
+mọ̀ O
+yín O
+lẹ́ẹ̀kan O
+si O
+i O
+? O
+
+Kẹ́hìndé B-PER
+Fájánà I-PER
+: O
+Orúkọ O
+mi O
+ni O
+Fájánà B-PER
+Kẹ́hìndé I-PER
+, O
+èmi O
+ni O
+aláṣẹ O
+iléeṣẹ́ O
+Eliezer B-ORG
+investments I-ORG
+limited I-ORG
+. O
+
+Mo O
+níyàwó O
+, O
+mo O
+bímọ O
+. O
+
+Ohun O
+tó O
+jẹ O
+mí O
+lógún O
+jù O
+ni O
+láti O
+mú O
+kí O
+ayé O
+rọrùn O
+láti O
+gbé O
+fáwọn O
+èèyàn O
+tó O
+wà O
+láyìká O
+mi O
+. O
+
+Ẹ O
+fura O
+o O
+! O
+
+Wọ́n O
+fẹ́ẹ́ O
+kọlu O
+ṣọ́ọ̀ṣì O
+, O
+mọ́ṣálááṣí O
+, O
+àtàwọn O
+olórí O
+ẹ̀lẹ̀sin O
+
+Iléeṣẹ́ O
+ọ̀tẹlẹ̀múyẹ́ O
+ilẹ̀ O
+wa O
+, O
+táa O
+mọ̀ O
+sí O
+Department B-ORG
+of I-ORG
+State I-ORG
+Services I-ORG
+( O
+DSS B-ORG
+) O
+ti O
+kéde O
+fún O
+gbogbo O
+àwọn O
+ọmọ O
+Nàíjíríà B-LOC
+pé O
+kí O
+wọ́n O
+kíyèsára O
+fún O
+àwọn O
+ọ̀bàyéjẹ́ O
+kan O
+tí O
+wọ́n O
+fẹ́ẹ́ O
+dá O
+ìjà O
+ẹ̀sìn O
+sílẹ̀ O
+láàrín O
+àwọn O
+aráàlú O
+. O
+
+Agbẹnusọ O
+àwọn O
+ọ̀tẹlẹ̀múyẹ́ O
+náà O
+, O
+Ọ̀mọ̀wé O
+Peter B-PER
+Afunanya I-PER
+, O
+nínú O
+àtẹ̀jáde O
+tó O
+fi O
+ránṣẹ́ O
+sí O
+Àṣejèrè B-ORG
+, O
+sọ O
+pé O
+lára O
+àwọn O
+ìpínlẹ̀ O
+tí O
+wọ́n O
+ti O
+fẹ́ẹ́ O
+ṣọṣẹ́ O
+ọ̀hún O
+ni O
+Sokoto B-LOC
+, O
+Kano B-LOC
+, O
+Kaduna B-LOC
+, O
+Plateau B-LOC
+, O
+Rivers B-LOC
+, O
+Òyó B-LOC
+, O
+Èkó B-LOC
+àtàwọn O
+ilẹ̀ O
+Íbò O
+. O
+
+Ohun O
+tí O
+wọ́n O
+sì O
+fẹ́ẹ́ O
+ṣe O
+ni O
+láti O
+dá O
+ìjà O
+ẹ̀sìn O
+sílẹ̀ O
+, O
+wọ́n O
+fẹ́ẹ́ O
+kọlu O
+àwọn O
+iléèjọsìn O
+kan O
+, O
+bẹ́ẹ̀ O
+ni O
+wọ́n O
+sì O
+tún O
+fẹ́ẹ́ O
+kọlu O
+àwọn O
+olórí O
+ẹlẹ́sìn O
+kan O
+náà O
+, O
+àtàwọn O
+èèyàn O
+ńlá O
+ńlá O
+láwùjọ O
+wa O
+, O
+láwọn O
+ibi O
+tí O
+ìṣẹ̀lẹ̀ O
+ọ̀hún O
+tí O
+máa O
+ṣẹlẹ̀ O
+. O
+
+Èyí O
+ló O
+mú O
+kí O
+iléeṣẹ́ O
+náà O
+máa O
+ta O
+àwọn O
+ọmọ O
+orílẹ̀ O
+- O
+èdè O
+yìí O
+lólobó O
+pé O
+kí O
+ẹnikẹ́ni O
+má O
+ṣe O
+dá O
+sí O
+wọn O
+, O
+kóníkálukú O
+sì O
+tọwọ́ O
+ọmọ O
+rẹ̀ O
+baṣọ O
+, O
+kí O
+wọ́n O
+má O
+rí O
+wọn O
+lò O
+rárá O
+. O
+
+Ẹ̀sùn O
+àgbèrè O
+gbé O
+ọ̀gá O
+báǹkì O
+FCMB B-ORG
+ṣubú O
+lulẹ̀ O
+, O
+obìnrin O
+tó O
+wà O
+nídìí O
+ẹ̀ O
+rèé O
+
+Láídé B-PER
+Gold I-PER
+
+Ìròyìn O
+tó O
+ṣeni O
+láàánú O
+tó O
+yọ O
+omi O
+lójú O
+àwọn O
+èèyàn O
+pòròpòrò O
+nìròyìn O
+ikú O
+Olóògbé O
+Túndé B-PER
+Thomas I-PER
+kódà O
+bí O
+ènìyàn O
+gbé O
+odidi O
+ahun O
+mìn O
+, O
+ó O
+di O
+dandan O
+kó O
+sunkún O
+bó O
+bá O
+gbọ́ O
+nǹkan O
+tó O
+ṣẹlẹ̀ O
+sọ́mọkùnrin O
+náà O
+, O
+kò O
+sẹ́ni O
+tó O
+mọ O
+òkòlò O
+ọkùnrin O
+yìí O
+l O
+" O
+
+Ọ́yọ̀ọ́ O
+tẹ́lẹ̀ O
+, O
+yàtọ̀ O
+sí O
+àwọn O
+ọ̀rẹ́ O
+àti O
+ojúlùmọ̀ O
+rẹ̀ O
+, O
+àfìgbà O
+tí O
+ìyàwó O
+ẹ̀ O
+; O
+
+Moyọ̀ B-PER
+Thomas I-PER
+kó O
+o O
+síta O
+bí O
+ọmọ O
+ọjọ́ B-DATE
+- I-DATE
+mẹ́jọ I-DATE
+. O
+
+Ṣé O
+wọ́n O
+ní O
+; O
+
+kò O
+sí O
+nǹkan O
+tó O
+ba O
+àgbà O
+nínú O
+jẹ́ O
+bíkòṣe O
+ifá O
+tí O
+kò O
+létùtù O
+. O
+
+Tunde B-PER
+Thomas I-PER
+táwọn O
+ọ̀rẹ́ O
+ẹ̀ O
+máa O
+ń O
+pè O
+ní O
+Túndé B-PER
+Gentle I-PER
+torípé O
+wọ́n O
+ní O
+onínú O
+tútù O
+abìwàpẹ̀lẹ́ O
+lọmọkùnrin O
+náà O
+, O
+ó O
+fẹ́ O
+Moyọ̀ B-PER
+Òjó I-PER
+níṣu O
+lọ́kà O
+gẹ́gẹ́ O
+bí O
+ìyàwó O
+ọ̀sìngín O
+, O
+òṣìṣẹ́ O
+báǹkì O
+First B-ORG
+City I-ORG
+Monument I-ORG
+Bank I-ORG
+FCMB I-ORG
+, O
+báǹkì O
+Ṣùbòmí B-PER
+Balógun I-PER
+ni O
+Moyọ̀ B-PER
+Thomas I-PER
+, O
+ìròyìn O
+burúkú O
+
+tó O
+fún O
+ọkọ O
+rẹ̀ O
+lọ́dún B-DATE
+2017 I-DATE
+ló O
+sọ O
+ọmọkùnrin O
+náà O
+di O
+ẹni O
+tó O
+ń O
+ronú O
+rìn O
+táwọn O
+ọ̀rẹ́ O
+ẹ̀ O
+sì O
+láwọn O
+ń O
+pàrọwà O
+fún O
+un O
+pé O
+kó O
+ṣarajọ O
+torípé O
+kìí O
+dé O
+báni O
+ká O
+yẹrí O
+, O
+ṣùgbọ́n O
+títí O
+tẹ́lẹ́mì O
+í O
+fi O
+gbà O
+á O
+, O
+ọmọkùnrin O
+náà O
+kò O
+rí O
+ara O
+ẹ̀ O
+ṣàjọ O
+. O
+
+Bó O
+tilẹ̀ O
+jẹ́ O
+pé O
+, O
+ó O
+dọ́rẹ̀ẹ́ O
+pẹ̀lú O
+ọmọbìnrin O
+agbẹjọ́rò O
+kan O
+tó O
+sì O
+kéde O
+fáwọn O
+ọ̀rẹ́ O
+ẹ̀ O
+pé O
+wọ́n O
+máa O
+lọọ O
+bá O
+òun O
+dọ̀bálẹ̀ O
+nílé O
+àwọn O
+ọmọbìnrin O
+náà O
+lọ́jọ́ B-DATE
+kejì I-DATE
+Kérésì I-DATE
+ọdún I-DATE
+tó I-DATE
+kọjá I-DATE
+, O
+torípé O
+ìyàwó O
+àfẹ́sọ́nà O
+rẹ̀ O
+tuntun O
+náà O
+ti O
+wà O
+nínú O
+oyún O
+, O
+ṣùgbọ́n O
+ikú O
+
+kò O
+jẹ́ O
+kó O
+dọ̀bálẹ̀ O
+, O
+ṣe O
+ló O
+kúkú O
+kùn O
+ún O
+lóorun O
+ayérayé O
+lọ́jọ́ B-DATE
+kẹẹ̀ẹ́dógún I-DATE
+, I-DATE
+oṣù I-DATE
+kejìlá I-DATE
+, I-DATE
+ọdún I-DATE
+tó I-DATE
+kọjá I-DATE
+. O
+
+Lẹ́yìn O
+tí O
+wọ́n O
+bò O
+ó O
+mọ́lẹ̀ O
+sínú O
+yàrá O
+ìkẹyìn O
+l O
+" O
+Ọ̀gbọnjọ́ B-DATE
+, I-DATE
+oṣù I-DATE
+kejìlá I-DATE
+làwọn O
+ọ̀rẹ́ O
+ẹ̀ O
+àtàwọn O
+tí O
+ọ̀rọ̀ O
+náà O
+dùn O
+kọ O
+ìwé O
+ẹ̀hónú O
+ránṣẹ́ O
+sí O
+báǹkì B-ORG
+ìjọba I-ORG
+àpapọ̀ I-ORG
+ilẹ̀ẹwa I-ORG
+CBN I-ORG
+àti O
+FCMB B-ORG
+pé O
+kí O
+wọ́n O
+yọ O
+adarí O
+iléèfowópamọ́ O
+FCMB B-ORG
+; O
+
+Ọ̀gbẹ́ni O
+Nuhu B-PER
+Adam I-PER
+kúrò O
+nípò O
+bí O
+ẹní O
+yọ O
+jìgá O
+. O
+
+Kí O
+ló O
+kan O
+Nuhu B-PER
+Adam I-PER
+nípa O
+ikú O
+Túndé B-PER
+? O
+
+Lóòótọ́ O
+òṣìṣẹ́ O
+báǹkì B-ORG
+Oceanic I-ORG
+tó O
+ti O
+kọ́gbá O
+wọlé O
+ni O
+Túndé B-PER
+, O
+torí O
+náà O
+ó O
+ṣeé O
+ṣe O
+kí O
+iṣẹ́ O
+ti O
+pa O
+òun O
+àti O
+Núhù B-PER
+pọ̀ O
+rí O
+, O
+ṣùgbọ́n O
+ọ̀gá O
+ìyàwó O
+ẹ̀ O
+; O
+
+Moyọ̀ B-PER
+lọkùnrin O
+náà O
+ni O
+iléèfowópamọ́ O
+FCMB B-ORG
+, O
+báǹkì O
+Ṣùbòmí B-PER
+Balógun I-PER
+. O
+
+Gẹ́gẹ́ O
+bí O
+ohun O
+táa O
+gbọ́ O
+, O
+kò O
+sí O
+òṣìṣẹ́ O
+báǹkì O
+FCMB B-ORG
+tí O
+kò O
+mọ̀ O
+pé O
+Nuhu B-PER
+àti O
+Moyọ̀ B-PER
+jọ O
+ń O
+ṣe O
+eré O
+tótómẹ̀lẹ́tò O
+, O
+táwọn O
+èèyàn O
+sì O
+mọ̀ O
+ọ́n O
+sí O
+ẹ̀mí O
+ọ̀gá O
+. O
+
+Ó O
+jọ O
+bí O
+ẹni O
+pé O
+iléèfowópamọ́ O
+ọ̀hún O
+fààyè O
+gbà O
+á O
+káwọn O
+òṣìṣẹ́ O
+wọn O
+máa O
+ṣeré O
+sìnkínrínmindìn O
+pẹ̀lú O
+ara O
+wọn O
+, O
+torípé O
+kò O
+ṣókùnkùn O
+sí O
+ẹnikẹ́ni O
+pé O
+ilé O
+ọkọ O
+ni O
+Moyọ̀ B-PER
+wà O
+, O
+ṣùgbọ́n O
+kò O
+sẹ́ni O
+tó O
+tako O
+ìbáṣepọ̀ O
+wọn O
+títí O
+tí O
+àlàbọrùn O
+fi O
+di O
+ẹ̀wù O
+. O
+
+Kí O
+ló O
+fa O
+àìlera O
+Túndé B-PER
+? O
+
+Látìgbà O
+tí O
+Túndé B-PER
+ti O
+gbọ́ O
+ìròyìn O
+burúkú O
+lẹ́nu O
+ìyàwó O
+rẹ̀ O
+pé O
+àwọn O
+ọmọ O
+méjèèjì O
+tóun O
+ti O
+ń O
+ṣe O
+wàhálà O
+lé O
+lórí O
+láti O
+ọdún O
+díẹ̀ O
+sẹ́yìn O
+torípé O
+àkọ́bí O
+wọn O
+ṣẹ̀ṣẹ̀ O
+pé O
+ọmọ O
+ọdún B-DATE
+mẹ́jọ I-DATE
+ni O
+, O
+táwọn O
+ọmọ O
+méjèèjì O
+sì O
+ń O
+pè O
+é O
+ní O
+Dádì O
+, O
+kìí O
+ṣe O
+tiẹ̀ O
+
+bíkòṣe O
+ti O
+Nuhu B-PER
+Adam I-PER
+; O
+
+ọ̀gá O
+ìyàwó O
+ẹ̀ O
+, O
+lara O
+ọmọkùnrin O
+náà O
+kò O
+ti O
+yá O
+gágá O
+, O
+tó O
+sì O
+máa O
+ń O
+kárísọ O
+káàkiri O
+. O
+
+Báwo O
+nìyàwó O
+ṣe O
+gbé O
+ìròyìn O
+náà O
+kalẹ̀ O
+? O
+
+Gbogbo O
+ìgbà O
+ni O
+Túndé B-PER
+máa O
+ń O
+kó O
+àwọn O
+ọmọ O
+rẹ̀ O
+lọ O
+sí O
+Amẹ́ríkà B-LOC
+àti O
+Dùbáí B-LOC
+láti O
+lọọ O
+ṣe O
+olidé O
+, O
+kódà O
+kò O
+sí O
+owó O
+tí O
+kò O
+le O
+ná O
+lé O
+àwọn O
+ọmọ O
+náà O
+lórí O
+torí O
+náà O
+, O
+kò O
+ṣàjèjì O
+nígbà O
+tí O
+ìyàwó O
+ẹ̀ O
+sọ O
+pé O
+àwọn O
+ọmọ O
+tún O
+fẹ́ẹ́ O
+lọọ O
+ṣe O
+olidé O
+l'Ámẹ́ríkà B-LOC
+
+. O
+
+Moyọ̀ B-PER
+kó O
+àwọn O
+ọmọ O
+méjèèjì O
+lọ O
+sí O
+ìlú O
+Amẹ́ríkà B-LOC
+fún O
+olidé O
+lóòótọ́ O
+, O
+ṣùgbọ́n O
+ó O
+kùnà O
+láti O
+dá O
+wọn O
+padà O
+nígbà O
+tí O
+olidé O
+tán O
+, O
+n O
+ni O
+bàbá O
+wọn O
+bá O
+béèrè O
+pé O
+kí O
+ló O
+dé O
+táwọn O
+ọmọ O
+kò O
+tí O
+ì O
+dé O
+láti O
+wá O
+wọlé O
+sùkúù O
+, O
+lọmọbìnrin O
+yìí O
+bá O
+ju O
+bọmbu O
+ọ̀rọ̀ O
+
+náà O
+sílẹ̀ O
+, O
+ó O
+ní O
+òrùka O
+nìkan O
+ni O
+Túndé B-PER
+ní O
+lọ́wọ́ O
+òun O
+, O
+ṣùgbọ́n O
+àwọn O
+ọmọ O
+méjèèjì O
+tóun O
+bí O
+kìí O
+ṣe O
+tiẹ̀ O
+, O
+ó O
+ní O
+ọ̀gá O
+òun O
+ní O
+báǹkì O
+, O
+ìyẹn O
+Nuhu B-PER
+Adam I-PER
+ló O
+ni O
+àwọn O
+ọmọ O
+náà O
+. O
+
+Àṣé O
+Moyọ̀ B-PER
+ti O
+kọ̀wé O
+fiṣẹ́ O
+sílẹ̀ O
+kó O
+tóó O
+lọ O
+, O
+kódà O
+ó O
+ti O
+káwọ́ O
+sókè O
+nílùú O
+Amẹ́ríkà B-LOC
+pé O
+ṣe O
+lọkọ O
+òun O
+máa O
+ń O
+fìyà O
+tó O
+nípọn O
+jẹ O
+òun O
+ní O
+Nàíjíríà B-LOC
+, O
+torí O
+náà O
+kí O
+wọn O
+máà O
+jẹ́ O
+kí O
+ọmọkùnrin O
+náà O
+rí O
+ọ̀nà O
+wọ O
+ìlú O
+Amẹ́ríkà B-LOC
+wá O
+. O
+
+Ohun O
+tí O
+wọ́n O
+ló O
+ṣẹlẹ̀ O
+rèé O
+tí O
+Túndé B-PER
+fi O
+ń O
+ronú O
+rìn O
+kiri O
+, O
+àbí O
+kín O
+ni O
+ká O
+ti O
+gbọ́ O
+pé O
+ṣe O
+ló O
+fi O
+gbogbo O
+ọjọ́ O
+ayé O
+rẹ̀ O
+tọ́ O
+àwọn O
+ọmọ O
+ọlọ́mọ O
+, O
+àṣé O
+ìyàwó O
+oníyàwó O
+lọmọbìnrin O
+tó O
+ki O
+òrùka O
+ìfẹ́ O
+bọ̀ O
+lọ́wọ́ O
+, O
+àṣé O
+ṣeni O
+ọmọbìnrin O
+náà O
+àti O
+ọ̀gá O
+rẹ̀ O
+ti O
+ń O
+wo O
+òun O
+gẹ́gẹ́ O
+
+bí O
+òmùgọ̀ O
+láti O
+ọdún O
+pípẹ́ O
+, O
+ó O
+sì O
+ṣeé O
+ṣe O
+káwọn O
+aláàbáṣiṣẹ́pọ̀ O
+ìyàwó O
+ọ̀hún O
+mọ̀ O
+, O
+káwọn O
+náà O
+máa O
+sọ O
+pé O
+ọlọ́rọ̀ O
+abi O
+etí O
+dídi O
+ni O
+gbogbo O
+ìgbà O
+tí O
+wọ́n O
+bá O
+rí O
+òun O
+. O
+
+Wọ̀nyí O
+àtàwọn O
+nǹkan O
+mí O
+ìn O
+ni O
+wọ́n O
+lọ́mọkùnrin O
+yìí O
+leè O
+máa O
+rò O
+lọ́kàn O
+ṣùgbọ́n O
+wọ́n O
+ní O
+kò O
+sí O
+ohun O
+tuntun O
+lábẹ́ O
+ọ̀run O
+àti O
+pé O
+kí O
+ọ̀rọ̀ O
+le O
+dùn O
+la O
+ṣe O
+ń O
+pariwo O
+kàyééfí O
+, O
+èyí O
+ló O
+jẹ́ O
+káwọn O
+ọ̀rẹ́ O
+rẹ̀ O
+bẹ̀ O
+ẹ́ O
+pé O
+kó O
+ṣarajọ O
+kó O
+tẹ̀ O
+síwájú O
+nínú O
+ìrìn O
+àjò O
+ìgbésí O
+
+ayé O
+ẹ̀ O
+, O
+torípé O
+bí O
+obìnrin O
+bá O
+kọ O
+ni O
+, O
+obìnrin O
+náà O
+lèèyàn O
+máa O
+fẹ́ O
+. O
+
+Ọjọ́ B-DATE
+kẹrìndínlọ́gbọ̀n I-DATE
+, I-DATE
+oṣù I-DATE
+kejìlá I-DATE
+tó I-DATE
+kọjá I-DATE
+ló O
+sọ O
+fáwọn O
+ọ̀rẹ́ O
+ẹ̀ O
+pé O
+kí O
+wọ́n O
+wá O
+lọọ O
+bá O
+òun O
+tọrọ O
+ìyàwó O
+tuntun O
+ṣùgbọ́n O
+ọlọ́jọ́ O
+kò O
+jẹ́ O
+kó O
+di O
+àsìkò O
+náà O
+tó O
+fi O
+pajúdé O
+lọ́jọ́ B-DATE
+kẹẹ̀dógún I-DATE
+, I-DATE
+oṣù I-DATE
+kejìlá I-DATE
+, O
+tí O
+wọ́n O
+sì O
+sin O
+ín O
+lọ́gbọ̀njọ́ B-DATE
+. O
+
+Lójú O
+ẹsẹ̀ O
+làwọn O
+tọ́rọ̀ O
+náà O
+dùn O
+ti O
+kòwé O
+ránṣẹ́ O
+sí O
+báǹkì O
+àpapọ̀ O
+ilẹ̀ẹwa O
+àti O
+olú O
+iléeṣẹ́ O
+báǹkì O
+FCMB B-ORG
+tọ́rọ̀ O
+náà O
+kàn O
+pé O
+kí O
+wọ́n O
+yọ O
+Nuhu B-PER
+Adam I-PER
+nípò O
+adarí O
+báǹkì O
+náà O
+dandan O
+torípé O
+kàkà O
+kó O
+darí O
+okoòwò O
+ṣe O
+ló O
+ń O
+darí O
+ìgbéyàwó O
+àwọn O
+ọmọ O
+abẹ́ O
+rẹ̀ O
+. O
+
+Lákòókọ́ O
+, O
+ó O
+dàbí O
+ẹni O
+pè O
+báǹkì O
+náà O
+kò O
+já O
+ọ̀rọ̀ O
+ọ̀hún O
+kúnra O
+, O
+wọ́n O
+kọ́kọ́ O
+dé O
+fìlà O
+máwobẹ̀ O
+ṣùgbọ́n O
+nígbà O
+tọ́rọ̀ O
+ọ̀hún O
+di O
+àsogbà O
+káàkiri O
+táwọn O
+aláwàdà O
+náà O
+sáré O
+wọ O
+yàrá O
+àkásílẹ̀ O
+tí O
+wọ́n O
+sọ O
+ọ̀rọ̀ O
+náà O
+di O
+àwàdà O
+, O
+kódà O
+wọ́n O
+ṣe O
+kìlọ̀kìlọ̀ O
+
+fáwọn O
+baálé O
+ilé O
+táwọn O
+ìyàwó O
+wọn O
+ń O
+ṣiṣẹ́ O
+ní O
+báǹkì O
+náà O
+pé O
+kí O
+wọ́n O
+lọọ O
+ṣe O
+àyẹ̀wò O
+àwọn O
+ọmọ O
+wọn O
+, O
+kó O
+má O
+lọọ O
+jẹ́ O
+pé O
+ọ̀gá O
+báǹkì O
+náà O
+ló O
+dáàsẹ́ O
+wọn O
+, O
+ó O
+jọ O
+bí O
+ẹni O
+pé O
+ìbanilórúkọjẹ́ O
+yìí O
+ni O
+wọ́n O
+rò O
+papọ̀ O
+tí O
+wọ́n O
+fi O
+ní O
+kí O
+ọ̀gá O
+ọlọ́mọyọyọ O
+Nuhu B-PER
+Adam I-PER
+
+lọọ O
+sinmi O
+sílé O
+ná O
+, O
+dìgbà O
+tí O
+ìgbìmọ̀ O
+yóò O
+ṣiṣẹ́ O
+ìwádìí O
+tán O
+lórí O
+ọ̀rọ̀ O
+náà O
+. O
+
+Òṣìṣẹ́ O
+báǹkì B-ORG
+Oceanic I-ORG
+tẹ́lẹ̀ O
+ni O
+Túndé B-PER
+Thomas I-PER
+, O
+ó O
+fẹ́ O
+Moyọ̀ B-PER
+Òjó I-PER
+gẹ́gẹ́ O
+bí O
+ìyàwó O
+, O
+ṣùgbọ́n O
+àwọn O
+ọ̀rẹ́ O
+ẹ̀ O
+kàn O
+sọ O
+pé O
+, O
+kò O
+sẹ́ni O
+tó O
+le O
+fìdí O
+ẹ̀ O
+múlẹ̀ O
+báyìí O
+pé O
+àwọn O
+ọmọ O
+méjèèjì O
+tí O
+Moyọ̀ B-PER
+bí O
+kìí O
+ṣe O
+ti O
+Túndé B-PER
+yàtọ̀ O
+sí O
+ọ̀rọ̀ O
+ẹnu O
+Moyọ̀ B-PER
+nìkan O
+, O
+Túndé B-PER
+dágbére O
+
+fáyé O
+lẹ́ni O
+ọdún B-DATE
+márùndínláàádọ́ta I-DATE
+látàrí O
+ọgbẹ́ O
+ọkàn O
+. O
+
+Kò O
+burú O
+, O
+bó O
+bá O
+jẹ́ O
+ẹ̀yin O
+ni O
+, O
+kí O
+lẹ O
+máa O
+ṣe O
+, O
+bí O
+ìyàwó O
+yín O
+bá O
+sọ O
+pé O
+àwọn O
+ọmọ O
+tẹ́yin O
+rò O
+pé O
+ẹ̀yin O
+ló O
+bí O
+wọn O
+fún O
+, O
+bó O
+bá O
+ní O
+ẹ̀yin O
+kọ́ O
+ló O
+ni O
+àwọn O
+ọmọ O
+náà O
+, O
+kí O
+lẹ O
+máa O
+ṣé O
+. O
+
+Àbi O
+, O
+ǹjẹ́ O
+ẹ O
+tiẹ̀ O
+leè O
+gba O
+kíyàwó O
+yín O
+ṣiṣẹ́ O
+ní O
+báǹkì O
+? O
+
+Ẹ O
+jẹ́ O
+ká O
+mọ̀ O
+, O
+ẹ O
+fì O
+ìdáhùn O
+yín O
+ránṣẹ́ O
+sí O
+8144565772 O
+. O
+
+Àwọn O
+ọlọ́jà O
+ti O
+láǹfààní O
+àti O
+ṣiṣẹ́ O
+daago B-DATE
+márùn I-DATE
+- I-DATE
+ún I-DATE
+ìrọ̀lẹ́ I-DATE
+- O
+Sanwó B-PER
+- I-PER
+Olú I-PER
+
+Àǹfààní O
+ti O
+wà O
+fún O
+gbogbo O
+àwọn O
+ọlọ́jà O
+tó O
+ń O
+ṣòwò O
+kárà O
+- O
+kátà O
+wọn O
+nípínlẹ̀ O
+Èkó B-LOC
+láti O
+máa O
+tìlẹ̀kùn O
+ṣọ́ọ̀bù O
+wọn O
+ní O
+aago B-DATE
+márùn I-DATE
+ún I-DATE
+ìrọ̀lẹ́ I-DATE
+báyìí O
+. O
+
+Gómìnà O
+Babájídé B-PER
+Sanwó I-PER
+- I-PER
+Olú I-PER
+ló O
+sọ̀rọ̀ O
+yìí O
+di O
+mímọ̀ O
+nírọ̀lẹ́ B-DATE
+òní I-DATE
+, O
+nígbà O
+tó O
+ń O
+bá O
+àwọn O
+oníròyìn O
+sọ̀rọ̀ O
+, O
+ó O
+sọ O
+pé O
+àǹfààní O
+ti O
+wà O
+fún O
+àwọn O
+ọlọ́ja O
+láti O
+ṣiṣẹ́ O
+di O
+aago B-DATE
+márùn I-DATE
+ún I-DATE
+ìrọ̀lẹ́ I-DATE
+. O
+
+Bẹ́ẹ́ O
+ò O
+bá O
+gbàgbé O
+, O
+aago B-DATE
+mẹ́ta I-DATE
+ni O
+wọ́n O
+fún O
+gbogbo O
+wọn O
+dà O
+láti O
+máa O
+tìlẹ̀kùn O
+ṣọ́ọ̀bù O
+wọn O
+, O
+bẹ́ẹ̀ O
+nìjọba O
+sì O
+tún O
+pín O
+ọjọ́ O
+ọjà O
+fún O
+àwọn O
+oníṣòwò O
+náà O
+. O
+
+Ẹ O
+ó O
+rántí O
+pé O
+àwọn O
+tó O
+ń O
+tajà O
+ouńjẹ O
+ni O
+wọ́n O
+ń O
+lo O
+ọjọ́ B-DATE
+Túsde I-DATE
+, O
+Tọ́sde B-DATE
+àti O
+Sátidé B-DATE
+, O
+nígbà O
+táwọn O
+tó O
+ń O
+tajà O
+tí O
+kò O
+ní O
+í O
+ṣe O
+pẹ̀lú O
+ouńjẹ O
+ń O
+ṣe O
+tiwọn O
+lọ́jọ́ B-DATE
+Mọ́ńdè I-DATE
+, O
+Wẹ́sde B-DATE
+àti O
+ọjọ́ B-DATE
+Fráìde I-DATE
+. O
+
+Bí O
+ètò O
+náà O
+yóò O
+sì O
+ṣe O
+máa O
+lọ O
+nìyí O
+lohun O
+tí O
+gómìnà O
+sọ O
+. O
+
+Oníṣòwò O
+kan O
+tó O
+bá O
+akọ̀ròyìn O
+wa O
+sọ̀rọ̀ O
+ní O
+kété O
+tí O
+gómìnà O
+parí O
+ọ̀rọ̀ O
+rẹ̀ O
+sọ O
+pé O
+oore O
+ńlá O
+ni O
+gómìnà O
+ṣe O
+fáwọn O
+pẹ̀lú O
+bó O
+ṣe O
+sún O
+wákàtí O
+táwọn O
+fi O
+ń O
+ṣiṣẹ́ O
+síwájú O
+di O
+aago B-DATE
+márùn I-DATE
+ún I-DATE
+. O
+
+Àlàájà O
+Tẹjúmọ́lá B-PER
+Àdìgún I-PER
+tó O
+ń O
+tajà O
+ní O
+Ìdúmọ̀tà B-LOC
+sọ O
+pé O
+, O
+yàtọ̀ O
+sí O
+ọ̀pọ́ O
+wákàtí O
+táwọn O
+fí O
+ń O
+ṣòfò O
+nínú O
+súnkẹrẹ O
+- O
+fàkẹrẹ O
+, O
+kò O
+fi O
+bẹ́ẹ̀ O
+sáǹfààní O
+fún O
+àwọn O
+láti O
+tajà O
+púpọ̀ O
+, O
+nítorí O
+káwọn O
+tóó O
+dé O
+ìsọ̀ O
+, O
+ọjọ́ O
+ti O
+lọ O
+, O
+
+bẹ́ẹ̀ O
+bí O
+aago B-DATE
+méjì I-DATE
+bá O
+ti O
+lù O
+, O
+àwọn O
+káńsù O
+áti O
+bẹ̀rẹ̀ O
+sí O
+í O
+yọ O
+àwọn O
+lẹ́nu O
+láti O
+bẹ̀rẹ̀ O
+sí O
+í O
+palẹ̀mọ́ O
+, O
+ṣùgbọ́n O
+ìrètí O
+wà O
+pé O
+ìgbésẹ̀ O
+gómìnà O
+yìí O
+yóò O
+túbọ̀ O
+mú O
+kí O
+ọrọ̀ O
+ajé O
+gbèrú O
+si O
+i O
+. O
+
+Ẹ̀kún O
+- O
+ún O
+- O
+rẹ́rẹ́ O
+ń O
+bọ̀ O
+lọ́nà O
+. O
+. O
+. O
+. O
+
+Ìfipábánilòpọ̀ O
+máa O
+dínkù O
+bíjọba O
+bá O
+ṣí O
+òtẹ́ẹ̀lì O
+àti O
+ilé O
+- O
+ìjọ O
+- O
+Olómidé B-PER
+
+Gómìnà O
+àwọn B-ORG
+òṣèré I-ORG
+olórin I-ORG
+tó I-ORG
+wà I-ORG
+nìpínlẹ̀ I-ORG
+Èkó I-ORG
+, O
+ìyẹn O
+ẹgbẹ́ O
+tí O
+wọ́n O
+ń O
+pè O
+ní O
+Performing B-ORG
+Musicians I-ORG
+Association I-ORG
+of I-ORG
+Nigeria I-ORG
+, O
+PMAN B-ORG
+, O
+Ọ̀gbẹ́ni O
+Kareem B-PER
+Àyìndé I-PER
+Olómidé I-PER
+, O
+tọ́pọ̀ O
+èèyàn O
+mọ̀ O
+sí O
+Kábíyèsí B-PER
+ti O
+rọ O
+ìjọba O
+àpapọ̀ O
+láti O
+ké O
+sí O
+àwọn O
+òjíṣẹ́ O
+Ọlọ́run O
+kí O
+wọ́n O
+kéde O
+ààwẹ̀ O
+àti O
+
+àdúrà O
+láti O
+fòpin O
+sí O
+wàhálà O
+àrùn O
+Kòrónà O
+nílẹ̀ O
+wa O
+. O
+
+Kábíyèsí B-PER
+tó O
+ṣe O
+ayẹyẹ O
+ọjọ́ọ̀bí O
+rẹ̀ O
+lóníbòńkẹ́lẹ́ O
+láìpẹ́ O
+yìí O
+pẹ̀lú O
+àwọn O
+mọ̀lẹ́bí O
+rẹ̀ O
+tún O
+sọ O
+pé O
+bí O
+ìjọba O
+bá O
+leè O
+gba O
+àwọn O
+ilé O
+ìjo O
+àti O
+àwọn O
+òtẹ́ẹ̀lì O
+láti O
+ṣílèkùn O
+wọn O
+sílẹ̀ O
+fún O
+àwọn O
+oníbáárà O
+wọn O
+, O
+ó O
+ní O
+èyí O
+yóò O
+túbọ̀ O
+mú O
+kí O
+
+ọ̀rọ̀ O
+ìfipábánilòpọ̀ O
+dínkù O
+nílẹ̀ O
+wa O
+. O
+
+" O
+Bí O
+ìjọba O
+bá O
+leè O
+ṣí O
+àwọn O
+ilé O
+ìgbafẹ́ O
+wa O
+, O
+pàápàá O
+àwọn O
+ilé O
+ìjọ O
+àti O
+òtẹ́ẹ̀lì O
+, O
+àwọn O
+ìfipábánilòpọ̀ O
+tó O
+wọ́pọ̀ O
+lásìkò O
+yìí O
+yóò O
+dínkù O
+. O
+
+" O
+Olómidé B-PER
+tún O
+ní O
+àsìkò O
+ti O
+tó O
+láti O
+kéde O
+ààwẹ̀ O
+àti O
+àdúrà O
+ọlọ́jọ́ B-DATE
+mẹ́ta I-DATE
+láti O
+kásẹ̀ O
+àrùn O
+náà O
+kúrò O
+nílẹ̀ O
+pátápátá O
+. O
+
+Ó O
+ní O
+ohun O
+kan O
+ṣoṣo O
+tó O
+le O
+ka O
+kinní O
+ọ̀hún O
+kúrò O
+nílẹ̀ O
+nìyí O
+. O
+
+Bákan O
+náà O
+ló O
+tún O
+pe O
+ìjọba O
+níjà O
+láti O
+túbọ̀ O
+sa O
+ipá O
+wọn O
+lọ́nà O
+tó O
+le O
+mú O
+kí O
+òpin O
+dé O
+bá O
+wàhálà O
+àrùn O
+náà O
+kíàkíà O
+, O
+nítorí O
+òfin O
+kónílé O
+- O
+ó O
+- O
+gbélé O
+tíjọba O
+ṣe O
+ń O
+mú O
+àkóbá O
+wá O
+fún O
+ọrọ̀ O
+ajé O
+wa O
+, O
+nítorí O
+àwọn O
+mẹ̀kúnnù O
+tí O
+iyà O
+ńjẹ O
+púpọ̀ O
+. O
+
+Jíìpù O
+tí O
+wọ́n O
+ní O
+kí O
+Ayọ̀kúnlé B-PER
+fọ̀ O
+ló O
+jí O
+gbé O
+, O
+lọwọ́ O
+bá O
+tẹ̀ O
+ẹ́ O
+
+Ọmọkùnrin O
+kan O
+tí O
+wọ́n O
+gbà O
+síṣẹ́ O
+láti O
+máa O
+bá O
+wọn O
+fọ O
+mọ́tò O
+ti O
+jí O
+ọ̀kan O
+nínú O
+mọ́tò O
+àwọn O
+oníbàárà O
+gbé O
+lọ O
+, O
+ṣùgbọ́n O
+ọwọ́ O
+àwọn O
+ọlọ́pàá O
+ti O
+tẹ O
+ọmọkùnrin O
+ọ̀hún O
+báyìí O
+. O
+
+Idris B-PER
+Ayọ̀kúnlé I-PER
+lorúkọ O
+rẹ̀ O
+, O
+ẹni O
+ọdún B-DATE
+méjìdínláàádọ́ta I-DATE
+lọmọkùnrin O
+náà O
+, O
+jíìpù O
+Ford B-ORG
+oníbàárà O
+kan O
+ló O
+jí O
+gbé O
+lọ O
+, O
+lẹ́yìn O
+tó O
+fọ O
+mọ́tò O
+náà O
+tán O
+. O
+
+Ohun O
+tí O
+Àṣejèrè B-ORG
+gbọ́ O
+gan O
+an O
+ni O
+pé O
+, O
+Ayọ̀kúnlé B-PER
+kò O
+tí O
+ì O
+lò O
+ju O
+oṣù B-DATE
+kan I-DATE
+lọ́dọ̀ O
+ọ̀gá O
+rẹ̀ O
+níbi O
+tó O
+ti O
+ń O
+fọ O
+mọ́tò O
+ní O
+ibùsọ̀ B-LOC
+Jímò I-LOC
+, O
+
+ní O
+Ṣáṣá B-LOC
+, O
+l'Ékòó B-LOC
+, O
+kí O
+jíìpù O
+ọ̀hún O
+tóó O
+ranjú O
+mọ́ O
+ọn O
+, O
+tóun O
+náà O
+sì O
+da O
+a O
+bí O
+ọgbọ́n O
+lọ́jọ́ B-DATE
+Fráìde I-DATE
+, I-DATE
+ọjọ́ I-DATE
+kẹrin I-DATE
+, I-DATE
+oṣù I-DATE
+yìí I-DATE
+ní I-DATE
+nǹkan I-DATE
+bíi I-DATE
+aago I-DATE
+mẹ́jọ I-DATE
+kọjá I-DATE
+díẹ̀ I-DATE
+lálẹ́́ I-DATE
 . O
 

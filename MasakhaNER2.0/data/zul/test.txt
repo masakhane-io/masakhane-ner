@@ -15283,6 +15283,7 @@ uMnuz O
 Bheki B-PER
 Cele I-PER
 , O
+
 obethula O
 umbiko O
 wekomiti O
@@ -15292,7 +15293,6 @@ athinta O
 ukubulawa O
 kosopolitiki O
 KwaZulu B-LOC
-
 - I-LOC
 Natal I-LOC
 eseThekwini I-LOC

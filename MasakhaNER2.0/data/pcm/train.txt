@@ -8349,7 +8349,9 @@ wey O
 dem O
 start O
 , O
-diopen O
+
+di O
+open O
 ceremony O
 wey O
 shake O
@@ -8358,7 +8360,6 @@ to O
 take O
 construct O
 Sterling B-ORG
-
 petrochemicals I-ORG
 and I-ORG
 Fertilizer I-ORG

@@ -69911,6 +69911,7 @@ ajira O
 wiki B-DATE
 iliyopita I-DATE
 , O
+
 kwa O
 mujibu O
 wa O
@@ -69931,7 +69932,6 @@ kiasi O
 nchini O
 Marekani B-LOC
 wiki B-DATE
-
 iliyopita I-DATE
 , O
 wizara O
@@ -97215,6 +97215,7 @@ Mawasiliano O
 , O
 TCRA B-ORG
 , O
+
 baada O
 ya O
 kumalizika O
@@ -97227,7 +97228,6 @@ na O
 mamlaka O
 hiyo O
 wiki B-DATE
-
 iliyopita I-DATE
 . O
 
@@ -140675,6 +140675,7 @@ kwa O
 raia O
 wake O
 , O
+
 """" O
 amesema O
 Adib B-PER
@@ -140702,7 +140703,6 @@ kumchagua O
 mwanasiasa O
 asiyejulikana O
 Kais B-PER
-
 Saied I-PER
 mwaka B-DATE
 jana I-DATE

@@ -167440,6 +167440,7 @@ karo O
 na O
 biyu O
 , O
+
 jihar B-LOC
 Kano I-LOC
 ta O
@@ -167470,7 +167471,6 @@ Janairu I-DATE
 Dakta O
 Sabitu B-PER
 Shuaibu I-PER
-
 Shanono I-PER
 ne O
 ya O

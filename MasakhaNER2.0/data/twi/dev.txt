@@ -5849,9 +5849,9 @@ horow O
 nyinɑɑ O
 ntɑm O
 . O
+
 Ɛbɛhyɛ O
 Amɑnɑmɑn B-ORG
-
 Nkɑbom I-ORG
 no O
 den O
