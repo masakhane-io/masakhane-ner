@@ -10425,6 +10425,7 @@ ndi O
 Azam B-PER
 Mwale I-PER
 . O
+
 MCP B-ORG
 idaimitsa O
 akuluakulu O
@@ -10445,7 +10446,6 @@ wina O
 wa O
 chipanicho O
 Joseph B-PER
-
 Njobvuyalema I-PER
 . O
 
@@ -11908,12 +11908,14 @@ mboma O
 la O
 Nkhotakota B-LOC
 . O
+
 Ndine O
 wachisanu O
 mwa O
 ana O
 7 O
 . O
+
 Ndine O
 wosakwatira O
 koma O
@@ -11940,6 +11942,7 @@ amavutika O
 akakumana O
 nane O
 . O
+
 Ndidayamba O
 kusewera O
 Bullets B-ORG
@@ -11948,9 +11951,9 @@ mu O
 kuchokera O
 ku O
 Dwangwa B-ORG
-
 United I-ORG
 . O
+
 Ndaseweranso O
 Carara B-ORG
 Kicks I-ORG
@@ -29372,98 +29375,5 @@ yekha O
 momwe O
 namwaliyu O
 amachitira O
-. O
-
-Iye O
-adatchera O
-mafainolo O
-a O
-chikho O
-cha O
-OG B-ORG
-Issa I-ORG
-pamene O
-timu O
-ya O
-Sindi B-PER
-, O
-Tigresses B-ORG
-, O
-inkakwapulana O
-ndi O
-Diamonds B-ORG
-. O
-Ndiyetu O
-ati O
-udalipolipo O
-. O
-
-Ardron B-PER
-atangofika O
-pabwalopo O
-, O
-akuti O
-adafunsa O
-anthu O
-kuti O
-amulozere O
-Sindi B-PER
-. O
-Atandilozera O
-kuti O
-Sindi B-PER
-ndi O
-uyo O
-, O
-ndidamuitana O
-ndi O
-kumupatsa O
-moni O
-. O
-Sindidathe O
-nthawi O
-chifukwa O
-amayenera O
-alowe O
-mbwalo O
-koma O
-akadandipatsa O
-nthawi O
-yaitali O
-, O
-ndimafuna O
-ndipemphe O
-nambala O
-yake O
-pomwepo O
-. O
-
-Masewero O
-atayamba O
-, O
-Ardron B-PER
-adasangalala O
-ndi O
-ntchito O
-za O
-Sindi B-PER
-. O
-Akuti O
-amati O
-akadumpha O
-, O
-kuthamanga O
-, O
-kuchinya O
-zigoli O
-, O
-mtima O
-wa O
-Ardron B-PER
-udakanika O
-kudzigwira O
-ndipo O
-adakalephera O
-kugona O
 . O
 

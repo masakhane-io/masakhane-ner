@@ -1,3 +1,177 @@
+Nawo O
+a O
+Talimbika B-ORG
+Agro I-ORG
+- I-ORG
+Processing I-ORG
+and I-ORG
+Marketing I-ORG
+Cooperative I-ORG
+Society I-ORG
+, O
+amene O
+amapanga O
+mafuta O
+ophikira O
+a O
+Sunpower O
+mboma O
+la O
+Salima B-LOC
+, O
+akuti O
+magetsi O
+akazima O
+, O
+amagulula O
+makina O
+awo O
+ndi O
+kuchotsa O
+mpendadzuwa O
+yense O
+. O
+
+Fanny B-PER
+Jodani I-PER
+ndi O
+mmodzi O
+mwa O
+akuluakulu O
+pa O
+Talimbika B-ORG
+ndipo O
+akuti O
+patha O
+miyezi O
+iwiri O
+magetsi O
+akuzimazima O
+ndipo O
+tsiku O
+lililonse O
+akumazima O
+isadakwane O
+4 B-DATE
+koloko I-DATE
+nkumayaka O
+6 B-DATE
+madzulo I-DATE
+. O
+
+Apapa O
+tayamba O
+kugwira O
+ntchito O
+usiku B-DATE
+, O
+komabe O
+zikuvuta O
+chifukwa O
+pena O
+kukumakhala O
+kopanda O
+magetsi O
+. O
+Magetsi O
+akazima O
+sitigwira O
+ntchito O
+ndipo O
+timagulula O
+makina O
+athu O
+, O
+kuchotsa O
+mpendadzuwawo O
+, O
+adatero O
+. O
+
+Talimbika B-ORG
+imapanga O
+malita O
+500 O
+patsiku O
+ngati O
+magetsi O
+akuyaka O
+, O
+koma O
+pano O
+tsiku O
+likutha O
+osapanga O
+mafuta O
+. O
+
+Ali O
+ndi O
+antchito O
+oposa O
+11 O
+amene O
+akufunika O
+malipiro O
+, O
+kodi O
+akumawalipira O
+bwanji O
+? O
+Mkulu O
+wa O
+Talimbika B-ORG
+, O
+Pharison B-PER
+Chiwoko I-PER
+, O
+akuti O
+ili O
+ndi O
+vuto O
+lalikulu O
+. O
+
+Magetsi O
+akamayaka O
+bwino O
+, O
+timapanga O
+ndalama O
+yoposa O
+K3 O
+miliyoni O
+pamwezi O
+. O
+Mwezi B-DATE
+unowo I-DATE
+ngakhale O
+K1 O
+miliyoni O
+sikwana O
+. O
+Timaononga O
+K700 O
+0 O
+kuti O
+tilipire O
+antchito O
+. O
+Mutha O
+kuona O
+kuti O
+mwezi O
+uno O
+ngati O
+anthu O
+alandire O
+ndi O
+mwayi O
+, O
+akutero O
+Chiwoko B-PER
+. O
+
 Nako O
 ku O
 Dowa B-LOC
@@ -22496,6 +22670,7 @@ chimangacho O
 pamtengo O
 wotsika O
 ? O
+
 Apa O
 mpamene O
 pakhota O
@@ -22525,12 +22700,12 @@ adanyambitapo O
 kena O
 kake O
 ! O
+
 Ndikukumbukira O
 nthawi O
 ina O
 yake O
 Joe B-PER
-
 Manduwa I-PER
 , O
 yemwe O
@@ -22558,6 +22733,7 @@ kale O
 limene O
 lija O
 . O
+
 Manduwa B-PER
 , O
 mwa O
@@ -22588,7 +22764,6 @@ jekete O
 ya O
 uminisitala O
 ) O
-
 . O
 
 Mwina O
@@ -51805,6 +51980,7 @@ sukulu O
 ya O
 Phalombe B-LOC
 , O
+
 mkulu O
 wa O
 bungwe O
@@ -51827,6 +52003,7 @@ Deaf I-ORG
 Manad B-ORG
 ) O
 , O
+
 mkulu O
 wa O
 mgwirizano O
@@ -51840,7 +52017,6 @@ Federation B-ORG
 of I-ORG
 Disability I-ORG
 Organisations I-ORG
-
 in I-ORG
 Malawi I-ORG
 ( O
@@ -52909,6 +53085,7 @@ ndizo O
 zidakunga O
 ndawalayo O
 , O
+
 yomwe O
 idakathera O
 pachipata O
@@ -52933,7 +53110,6 @@ zamalamulo O
 mNyumbayi O
 , O
 Kamlepo B-PER
-
 Kalua I-PER
 . O
 
@@ -66518,6 +66694,7 @@ pachitukuko O
 cha O
 ulimi O
 . O
+
 Ali O
 kuti O
 ndipo O
@@ -66526,6 +66703,7 @@ nawo O
 chiyani O
 pano O
 ? O
+
 Kugula O
 chakudya O
 kumaiko O
@@ -66566,7 +66744,6 @@ monga O
 North B-LOC
 ndi I-LOC
 South I-LOC
-
 Rukuru I-LOC
 , O
 Runyina B-LOC
@@ -66576,6 +66753,7 @@ kuchigawo O
 cha O
 kumpoto O
 ; O
+
 mitsinje O
 ya O
 Linthipe B-LOC
@@ -66587,6 +66765,7 @@ mchigawo O
 cha O
 pakati O
 ; O
+
 mitsinje O
 ya O
 Thutchira B-LOC
@@ -78949,6 +79128,7 @@ angaphulepo O
 kena O
 kake O
 . O
+
 Alimi O
 ochenjera O
 akuyesetsa O
@@ -78965,12 +79145,12 @@ ndi O
 yotenga O
 nthawi O
 . O
+
 STEVEN B-PER
 PEMBAMOYO I-PER
 adacheza O
 ndi O
 Lingilirani B-PER
-
 Chikhwaya I-PER
 , O
 mmodzi O
@@ -78989,7 +79169,6 @@ ikapanda O
 kuchita O
 chilungamo O
 . O
-
 Ndikudziweni O
 . O
 
@@ -81813,11 +81992,11 @@ Chigwirizano B-LOC
 sikuti O
 tidaphonyako O
 . O
+
 Mukanena O
 za O
 Bwalo B-LOC
 la I-LOC
-
 Njovu I-LOC
 ndiye O
 osanena O
@@ -109827,6 +110006,7 @@ a O
 mvula O
 zakaale O
 . O
+
 Izi O
 zapherezeka O
 ntchito O
@@ -109866,7 +110046,6 @@ kumangapo O
 sukuluyo O
 , O
 Michael B-PER
-
 Mkandawire I-PER
 . O
 
@@ -111594,6 +111773,7 @@ pakati O
 pa O
 Ayao O
 . O
+
 BOBBY B-PER
 KABANGO I-PER
 adali O
@@ -128234,9 +128414,9 @@ mwambo O
 wa O
 kupitakufawu O
 . O
+
 BOBBY B-PER
 KABANGO I-PER
-
 adali O
 mboma O
 la O
@@ -130870,10 +131050,12 @@ Patuma B-PER
 
 Kupitakufa O
 ? O
+
 Mbiri O
 yakale O
 imeneyo O
 ! O
+
 Matenda O
 a O
 HIV O
@@ -130907,6 +131089,7 @@ amachitika O
 katatu O
 patsiku O
 . O
+
 Chifukwa O
 cha O
 matendawa O
@@ -130921,8 +131104,8 @@ mwambo O
 wa O
 kupitakufawu O
 . O
-BOBBY B-PER
 
+BOBBY B-PER
 KABANGO I-PER
 adali O
 mboma O
@@ -130976,6 +131159,7 @@ Kodi O
 amfumu O
 tawapeza O
 ? O
+
 Ayi O
 , O
 iwowa O
@@ -155676,6 +155860,7 @@ chisamaliro O
 ichi O
 nchotani O
 ? O
+
 BOBBY B-PER
 KABANGO I-PER
 adakacheza O
@@ -166333,6 +166518,7 @@ munthu O
 wolimba O
 mtima O
 . O
+
 Pa O
 Golomoti B-LOC
 mboma O
@@ -166350,6 +166536,7 @@ ndi O
 kugulitsa O
 ziboliboli O
 . O
+
 Zefinati B-PER
 Alick I-PER
 nthawi O
@@ -166363,8 +166550,8 @@ uku O
 akupanga O
 wina O
 . O
-BOBBY B-PER
 
+BOBBY B-PER
 KABANGO I-PER
 adacheza O
 naye O
@@ -166417,6 +166604,7 @@ ziboliboli O
 mu O
 1998 B-DATE
 . O
+
 Panthawiyo O
 ndinkagwirira O
 ntchitoyi O
@@ -166427,6 +166615,7 @@ ndinkapangira O
 kunyumba O
 kwanga O
 . O
+
 Mu O
 2012 B-DATE
 mpamene O
@@ -166440,6 +166629,7 @@ zinthu O
 ziti O
 mumasema O
 ? O
+
 Timasema O
 mtundu O
 ulionse O
@@ -175604,6 +175794,7 @@ zawo O
 zothamanga O
 kwambiri O
 . O
+
 Kulitu O
 anyamata O
 monga O
@@ -175619,6 +175810,7 @@ amene O
 lusoli O
 lakhazikika O
 . O
+
 Komansotu O
 kuli O
 anyamata O
@@ -175632,6 +175824,7 @@ akhoza O
 kusadabuza O
 izi O
 . O
+
 Awa O
 ndi O
 monga O
@@ -175642,7 +175835,6 @@ amene O
 adacheza O
 ndi O
 CHIMWEMWE B-PER
-
 SEFASI I-PER
 motere O
 : O
@@ -175662,6 +175854,7 @@ la O
 ana O
 6 O
 . O
+
 Ndimachokera O
 chigawo O
 chakumwera O
@@ -175681,6 +175874,7 @@ ANatchereza B-PER
 Lipy I-PER
 G I-PER
 : O
+
 Ena O
 amatipondeleza O
 Kodi O
@@ -175688,6 +175882,7 @@ kuimba O
 zadansi O
 udayamba O
 liti O
+
 ? O
 Kuimba O
 ndidayamba O
@@ -201787,6 +201982,7 @@ awa O
 ndi O
 malodza O
 : O
+
 Wisiki B-PER
 Pofotokoza O
 nkhaniyi O
@@ -201826,7 +202022,6 @@ za O
 mtembo O
 wa O
 Maria B-PER
-
 Roja I-PER
 , O
 wa O
@@ -204073,6 +204268,7 @@ akukakamira O
 mtauni O
 bwanji O
 ? O
+
 Sindinganene O
 za O
 Mpando O
@@ -204095,13 +204291,13 @@ zina O
 ndi O
 zina O
 . O
+
 Abale O
 , O
 ndinganene O
 chiyani O
 za O
 Lazalo B-PER
-
 Chatsika I-PER
 wa O
 Male O
@@ -204124,6 +204320,7 @@ kwa O
 Kanduku B-LOC
 ku O
 Mwanza B-LOC
+
 ? O
 Ngati O
 simunamve O
@@ -204132,6 +204329,7 @@ mfunseni O
 Thursday B-PER
 Jumbo I-PER
 ! O
+
 Koma O
 inu O
 ! O
@@ -204150,6 +204348,7 @@ makatani O
 a O
 China B-LOC
 . O
+
 Makatani O
 ndi O
 onse O
@@ -204159,6 +204358,7 @@ pajatu O
 belo O
 siyinama O
 ! O
+
 Nanga O
 taonani O
 Adona O
@@ -204195,6 +204395,7 @@ akusimba O
 lokoma O
 apoooo O
 ! O
+
 Chifukwa O
 sabata B-DATE
 imeneyi I-DATE
@@ -204213,6 +204414,7 @@ zimene O
 ndakhala O
 ndikuona O
 . O
+
 Nkhani O
 yaikulu O
 ndi O
@@ -204221,6 +204423,7 @@ kuzimazima O
 kwa O
 magetsi O
 ! O
+
 Abale O
 inu O
 , O
@@ -204242,12 +204445,12 @@ pano O
 pa O
 Wenela B-LOC
 likadakhala O
-
 chakudya O
 bwenzi O
 ali O
 manyumwa O
 . O
+
 Musandifunse O
 kuti O
 chipatso O
@@ -204256,10 +204459,12 @@ nchiti O
 chifukwa O
 sindkuuzani O
 . O
+
 Kuzolowera O
 zipwete O
 eti O
 ? O
+
 Tsono O
 mmodzi O
 mwa O
@@ -204301,6 +204506,7 @@ ndi O
 mkazi O
 woyendayenda O
 . O
+
 Anapita O
 kunyumba O
 kumene O
@@ -204312,6 +204518,7 @@ nkuika O
 pa O
 cooker O
 . O
+
 Mkaziyo O
 adayatsa O
 cooker O
@@ -204319,6 +204526,7 @@ nkukagwira O
 ntchito O
 zina O
 . O
+
 Ntafika O
 sanafunse O
 kalikonse O
@@ -204328,6 +204536,7 @@ mafuta O
 aja O
 nkundikapiza O
 . O
+
 Samadziwa O
 kuti O
 nthawi O
@@ -204393,18 +204602,21 @@ Zibwenzi O
 Pa O
 Wenela B-LOC
 ! O
+
 Chodabwitsa O
 nchakuti O
 iyeyo O
 ali O
 pabanja O
 ! O
+
 Kodi O
 Facebook B-ORG
 yaphweketsa O
 chiwerewere O
 chomwechi O
 ? O
+
 Ndikumadabwanso O
 kuti O
 nkatsegula O
@@ -204418,12 +204630,13 @@ on O
 Your O
 Mind O
 ! O
+
 Akadziwa O
 ndiye O
 amafuna O
-
 nditani O
 ? O
+
 Nkhawa O
 zanga O
 si O
@@ -204431,6 +204644,7 @@ zotulira O
 anthu O
 osadziwa O
 ? O
+
 Ndiye O
 pali O
 ena O
@@ -204440,6 +204654,7 @@ zolaula O
 pa O
 Facebook B-ORG
 . O
+
 Akakhalakhala O
 , O
 umva O
@@ -204450,9 +204665,11 @@ wawalowera O
 kutsamba O
 lawo O
 ! O
+
 Mukunamiza O
 ndani O
 ? O
+
 Ngakhale O
 zandipeza O
 mochedwa O
@@ -204478,9 +204695,9 @@ ena O
 ! O
 Usawi O
 , O
-
 chichi O
 ? O
+
 Kukamba O
 za O
 Abiti O
@@ -204500,6 +204717,7 @@ oyandikira O
 pa O
 Wenela B-LOC
 . O
+
 Kudali O
 mwana O
 wa O
@@ -204521,6 +204739,7 @@ pa O
 foni O
 yake O
 . O
+
 Nanenso O
 ndidalowa O
 nawo O
@@ -204553,11 +204772,13 @@ kale O
 pa O
 Facebook B-ORG
 . O
+
 Kungoponya O
 kenako O
 nkupanga O
 like O
 . O
+
 Nthawi O
 yomweyo O
 nkudzaponya O
@@ -205133,6 +205354,7 @@ pusi O
 anagwa O
 chagada O
 . O
+
 Penanso O
 amati O
 mapanga O
@@ -205150,6 +205372,7 @@ imodzi O
 kuti O
 zikuyendere O
 . O
+
 Koma O
 Evance B-PER
 Masina I-PER
@@ -205165,8 +205388,8 @@ nkumachita O
 bwino O
 mzonse O
 ? O
-DAILES B-PER
 
+DAILES B-PER
 BANDA I-PER
 adacheza O
 naye O
