@@ -21,7 +21,7 @@ pip install transformers seqeval ptvsd
 | Language | Volunteer names |
 |----------|-----------------|
 | Amharic | Seid Muhie Yimam, Musie Meressa, Israel Abebe, Degaga Wolde, Henok Tilaye, Dibora Haile  |
-| Hausa  | Shamsudden Muhammad, Tajuddeen Rabiu Gwadabe, Emmanuel Anebi|
+| Hausa  | Shamsudden Muhammad, Tajuddeen Rabiu Gwadabe, Emmanuel Anebi, Idris Abdulmumin|
 | Igbo  | Ignatius Ezeani, Chris Emezue, Chukwuneke Chiamaka, Nkiru Odu, Amaka, Isaac |
 | Kinyarwanda | Rubungo Andre Niyongabo, Happy Buzaaba |
 |Luganda   |  Joyce Nabende, Jonathan Mukiibi, Eric Peter Kigaye, Ivan Ssenkungu, Ibrahim Mbabaali, Batista Tobius, Maurice Katusiime, Deborah Nabagereka, Tobius Saolo |
