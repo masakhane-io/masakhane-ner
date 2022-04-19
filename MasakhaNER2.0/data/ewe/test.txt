@@ -21430,3 +21430,14 @@ la O
 me O
 . O
 
+Bédié B-PER
+na O
+Gbagbo B-PER
+: O
+"""" O
+miewɔ O
+kalɛ O
+dukplɔtɔ O
+. O
+"""" O
+

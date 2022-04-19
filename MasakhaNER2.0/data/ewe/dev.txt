@@ -1,14 +1,3 @@
-Bédié B-PER
-na O
-Gbagbo B-PER
-: O
-"""" O
-miewɔ O
-kalɛ O
-dukplɔtɔ O
-. O
-"""" O
-
 Dukplɔtɔ O
 xoxo O
 eveawo O
@@ -9786,5 +9775,47 @@ kuɖe O
 eƒe O
 numekuku O
 ŋuti O
+. O
+
+Le O
+kuɖa B-DATE
+sia O
+la O
+, O
+Burkina B-LOC
+Faso I-LOC
+ƒe O
+dziɖuɖua O
+na O
+gbeteɖedzi O
+yeye O
+, O
+kuɖe O
+aʋawɔwɔ O
+si O
+va O
+eme O
+le O
+madidi O
+me O
+si O
+wu O
+ame O
+abe O
+alafa O
+le O
+Solhan B-LOC
+, O
+. O
+
+Niger B-LOC
+: O
+aɖitabasitsatsa O
+ƒe O
+hatsotso O
+aɖe O
+gbagbã O
+le O
+Niamey B-LOC
 . O
 

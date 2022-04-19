@@ -146,6 +146,7 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
     set_seed(args)  # Added here for reproductibility
     eval_fones = []
     max_f1 = 0.0
+    model_saved = False
     for _ in train_iterator:
         epoch_iterator = tqdm(train_dataloader, desc="Iteration", disable=args.local_rank not in [-1, 0])
         for step, batch in enumerate(epoch_iterator):
@@ -187,7 +188,8 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
                 break
 
         # EVALUATE + SELECT BEST MODEL WITH BEST VALIDATION ACCURACY
-        if global_step > 500:  # and global_step % args.save_steps == 0:
+        #if (args.local_rank == -1 and args.evaluate_during_training):
+        if args.n_gpu ==1 and global_step > 500:  # and global_step % args.save_steps == 0:
             eval_results, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="dev", print_result=False)
             f1_step = round(eval_results["f1"], 5)
             eval_fones.append(f1_step)
@@ -207,6 +209,7 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
 
                 torch.save(args, os.path.join(output_dir, "training_args.bin"))
                 logger.info("Saving model checkpoint to %s", output_dir)
+                model_saved = True
 
         if args.max_steps > 0 and global_step > args.max_steps:
             train_iterator.close()
@@ -215,7 +218,7 @@ def train(args, train_dataset, model, tokenizer, labels, pad_token_label_id):
     if args.local_rank in [-1, 0]:
         tb_writer.close()
 
-    return global_step, tr_loss / global_step, max_f1
+    return global_step, tr_loss / global_step, max_f1, model_saved
 
 
 def evaluate(args, model, tokenizer, labels, pad_token_label_id, mode, prefix="", print_result=True):
@@ -575,11 +578,14 @@ def main():
     logger.info("Training/evaluation parameters %s", args)
 
     # Training
+    model_saved = False
     if args.do_train:
         train_dataset = load_and_cache_examples(args, tokenizer, labels, pad_token_label_id, mode="train")
-        global_step, tr_loss, max_f1 = train(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
-        eval_results, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="dev", print_result=False)
-        f1_step = round(eval_results["f1"], 5)
+        global_step, tr_loss, max_f1, model_saved = train(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
+        f1_step = 0.0
+        if args.n_gpu == 1:
+            eval_results, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="dev", print_result=False)
+            f1_step = round(eval_results["f1"], 5)
         logger.info(" global_step = %s, average loss = %s", global_step, tr_loss)
 
     # Fine-tuning
@@ -587,12 +593,14 @@ def main():
         tokenizer = tokenizer_class.from_pretrained(args.input_dir, do_lower_case=args.do_lower_case)
         model = model_class.from_pretrained(args.input_dir)
         model.to(args.device)
-        result, predictions = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="test")
+        #result, predictions = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="test")
         train_dataset = load_and_cache_examples(args, tokenizer, labels, pad_token_label_id, mode="train")
 
-        global_step, tr_loss, max_f1 = train(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
-        eval_results, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="dev", print_result=False)
-        f1_step = round(eval_results["f1"], 5)
+        global_step, tr_loss, max_f1, model_saved = train(args, train_dataset, model, tokenizer, labels, pad_token_label_id)
+        f1_step = 0.0
+        if args.n_gpu == 1:
+            eval_results, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, mode="dev", print_result=False)
+            f1_step = round(eval_results["f1"], 5)
         logger.info(" global_step = %s, average loss = %s", global_step, tr_loss)
 
     # Saving best-practices: if you use defaults names for the model, you can reload it using from_pretrained()
@@ -601,7 +609,7 @@ def main():
         if not os.path.exists(args.output_dir) and args.local_rank in [-1, 0]:
             os.makedirs(args.output_dir)
 
-        if f1_step >= max_f1:
+        if f1_step >= max_f1 or not model_saved:
             logger.info("Saving model checkpoint to %s", args.output_dir)
             # Save a trained model, configuration and tokenizer using `save_pretrained()`.
             # They can then be reloaded using `from_pretrained()`
