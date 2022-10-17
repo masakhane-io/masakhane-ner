@@ -13551,7 +13551,7 @@ Saalif B-PER
 Saane I-PER
 ( O
 Salk B-ORG
-4 I-ORG
+04 I-ORG
 , O
 Almaañ B-LOC
 ) O
@@ -27879,9 +27879,7 @@ Lettres O
 classiques O
 ak O
 Diplôme O
-d O
-" O
-études O
+d'études O
 supérieures O
 ci O
 làmmeñal O
@@ -66708,7 +66706,7 @@ ci O
 Afrig B-LOC
 sowu I-LOC
 jant I-LOC
-" O
+' O
 
 Nguur O
 gi O
@@ -71464,7 +71462,7 @@ yoon O
 are O
 ) O
 limat O
-1 O
+01 O
 bu O
 juróom B-DATE
 - I-DATE
@@ -71873,10 +71871,10 @@ wees O
 ca O
 goxu O
 Amoo B-LOC
-4 I-LOC
+04 I-LOC
 ak O
 Amoo B-LOC
-5 I-LOC
+05 I-LOC
 . O
 
 Sama O
@@ -107924,7 +107922,7 @@ bu O
 depite O
 yi O
 dogal O
-1 O
+01 O
 / O
 2019 O
 bu O
@@ -127712,7 +127710,7 @@ ko O
 ci O
 dogal O
 limat O
-1 O
+01 O
 / O
 2019 O
 bu O

@@ -1329,7 +1329,7 @@ ya O
 wakimbizi O
 27 O
 , O
-0 O
+000 O
 wamekimbia O
 kutoka O
 Ethiopia B-LOC
@@ -1379,7 +1379,7 @@ na O
 wanaumme O
 4 O
 , O
-0 O
+000 O
 wanavuka O
 mpaka O
 wa O
@@ -2713,9 +2713,7 @@ maambukizo O
 ya O
 ugonjwa O
 wa O
-COVID O
-- O
-19 O
+COVID-19 O
 , O
 wakisema O
 kumekuwepo O
@@ -2723,7 +2721,7 @@ na O
 watu O
 15 O
 , O
-0 O
+000 O
 walioambukizwa O
 Jumapili B-DATE
 na O
@@ -3038,7 +3036,7 @@ zaidi O
 ya O
 350 O
 , O
-0 O
+000 O
 , O
 na O
 kufufua O
@@ -3183,7 +3181,7 @@ Press I-ORG
 limeripoti O
 kuwa O
 huenda O
-"""" O
+' O
 amejificha O
 sehemu O
 nyingine O
@@ -3196,7 +3194,7 @@ wa O
 kundi O
 hilo O
 . O
-"""" O
+' O
 
 Mashambulizi O
 ya O
@@ -3455,7 +3453,7 @@ zaidi O
 ya O
 340 O
 , O
-0 O
+000 O
 wamefarki O
 . O
 
@@ -4520,7 +4518,7 @@ ya O
 watu O
 400 O
 , O
-0 O
+000 O
 wakikimbilia O
 katika O
 nchi O
@@ -4772,7 +4770,7 @@ uchaguzi O
 Watu O
 3 O
 , O
-0 O
+000 O
 waliuawa O
 katika O
 ghasia O
@@ -4995,7 +4993,7 @@ zaidi O
 ya O
 319 O
 , O
-0 O
+000 O
 kufariki O
 . O
 
@@ -5019,15 +5017,13 @@ sasa O
 , O
 watu O
 milioni O
-1 O
-. O
-9 O
+1.99 O
 wameambukizwa O
 corona O
 na O
 22 O
 , O
-0 O
+000 O
 kufariki O
 kutokana O
 na O
@@ -6417,7 +6413,7 @@ mwezi O
 huo O
 . O
 
-"""" O
+' O
 Ni O
 mwanamme O
 pekee O
@@ -6426,9 +6422,9 @@ maisha O
 yangu O
 niliyekuwa O
 namwita O
-"""" O
+' O
 honey O
-"""" O
+' O
 Wote O
 wakiwa O
 wafanyabiashara O
@@ -6455,7 +6451,7 @@ alimuelezea O
 mdogo O
 wake O
 kuwa O
-"""" O
+" O
 mtu O
 mkimya O
 na O
@@ -6463,9 +6459,9 @@ mtulivu O
 kuliko O
 yeye O
 , O
-"""" O
+" O
 na O
-"""" O
+" O
 mwanamme O
 pekee O
 katika O
@@ -6473,12 +6469,12 @@ maisha O
 yangu O
 ambaye O
 namwita O
-"""" O
+' O
 honey O
 
 . O
-"""" O
-"""" O
+248 '
+248 "
 
 Robert B-PER
 Trump I-PER
@@ -6880,9 +6876,9 @@ lakini O
 ni O
 wafuasi O
 wa O
-"""" O
+' O
 kawaida O
-"""" O
+' O
 wa O
 Trump B-PER
 . O
@@ -7396,7 +7392,7 @@ watu O
 wengine O
 800 O
 , O
-0 O
+000 O
 wanaelekea O
 kukabiliwa O
 na O
@@ -11458,11 +11454,9 @@ kesi O
 mpya O
 300 O
 , O
-0 O
+000 O
 za O
-COVID O
-- O
-19 O
+COVID-19 O
 kila O
 siku O
 kwa O
@@ -13308,7 +13302,7 @@ Mahamat I-PER
 amesema O
 , O
 , O
-"""" O
+' O
 familia O
 ya O
 Umoja B-ORG
@@ -13373,8 +13367,7 @@ ametweet O
 hivi O
 leo B-DATE
 akisema O
-"""" O
-nina O
+'nina O
 masikitiko O
 makubwa O
 kusikia O
@@ -13476,7 +13469,7 @@ katika O
 taifa O
 hilo O
 . O
-"""" O
+' O
 
 Viongozi O
 mbali O
@@ -14036,9 +14029,7 @@ tetemeko O
 lenye O
 nguvu O
 za O
-6 O
-. O
-6 O
+6.6 O
 kwenye O
 kip O
 [ O
@@ -19754,7 +19745,7 @@ ya O
 kura O
 150 O
 , O
-0 O
+000 O
 . O
 
 Kura O
@@ -20945,7 +20936,7 @@ ya O
 wakimbizi O
 96 O
 , O
-0 O
+000 O
 wanaopatiwa O
 
 makazi O
@@ -21159,7 +21150,7 @@ karibu O
 watu O
 46 O
 , O
-0 O
+000 O
 sasa O
 wamewasili O
 . O
@@ -21263,7 +21254,7 @@ wakimbizi O
 hadi O
 100 O
 , O
-0 O
+000 O
 kwa O
 miezi O
 sita O
@@ -24827,7 +24818,7 @@ zaidi O
 ya O
 150 O
 , O
-0 O
+000 O
 nchini O
 Marekani B-LOC
 , O
@@ -25469,7 +25460,7 @@ wa O
 kilomita O
 28 O
 , O
-0 O
+000 O
 mraba O
 . O
 
@@ -26847,7 +26838,7 @@ watu O
 wapatao O
 350 O
 , O
-0 O
+000 O
 wanakabiliwa O
 na O
 njaa O
@@ -28995,7 +28986,7 @@ vya O
 watu O
 300 O
 , O
-0 O
+000 O
 miaka O
 miwili O
 baada O
@@ -29411,7 +29402,7 @@ za O
 Marekani B-LOC
 121 O
 , O
-0 O
+000 O
 kwa O
 waathiriwa O
 wa O
@@ -29476,7 +29467,7 @@ takriban O
 watu O
 430 O
 , O
-0 O
+000 O
 wamebaki O
 bila O
 makazi O
@@ -29787,7 +29778,7 @@ na O
 watu O
 40 O
 , O
-0 O
+000 O
 wanaohitaji O
 msaada O
 wanaweza O
@@ -29905,7 +29896,7 @@ ya O
 watu O
 75 O
 , O
-0 O
+000 O
 wameambukizwa O
 virusi O
 vya O
@@ -31490,7 +31481,7 @@ wanajeshi O
 wake O
 10 O
 , O
-0 O
+000 O
 , O
 pamoja O
 na O
@@ -32416,7 +32407,7 @@ ya O
 kura O
 23 O
 , O
-0 O
+000 O
 na O
 kupinga O
 ombi O
@@ -33368,7 +33359,7 @@ wafanyakazi O
 wapya O
 411 O
 , O
-0 O
+000 O
 waliopunguzwa O
 kazi O
 waliwasilisha O
@@ -33437,7 +33428,7 @@ wafanyakazi O
 wapya O
 411 O
 , O
-0 O
+000 O
 waliopunguzwa O
 kazi O
 waliwasilisha O
@@ -33862,7 +33853,7 @@ ya O
 wanajeshi O
 13 O
 , O
-0 O
+000 O
 wanaodhibiti O
 makundi O
 ya O
@@ -35173,7 +35164,7 @@ ya O
 ghasia O
 1 O
 , O
-0 O
+000 O
 yamelifanyika O
 katika O
 nusu O
@@ -35249,17 +35240,17 @@ Jumane B-DATE
 kuwaita O
 watenda O
 maovu O
-"""" O
+' O
 wahuni O
-"""" O
+' O
 na O
 wasio O
 muogopa O
-"""" O
+' O
 mwenyenzi O
 mungu O
 . O
-"""" O
+' O
 
 Lakini O
 haraka O
@@ -35977,7 +35968,7 @@ kura O
 , O
 851 O
 , O
-37 O
+037 O
 dhidi O
 ya O
 mpinzani O
@@ -36582,7 +36573,7 @@ ya O
 wanajeshi O
 83 O
 , O
-0 O
+000 O
 . O
 
 Imetayarishwa O
@@ -36877,7 +36868,7 @@ a O
 watu O
 1 O
 , O
-0 O
+000 O
 tangu O
 mwanzoni O
 mwa O
@@ -38450,11 +38441,11 @@ kutoka O
 shilingi O
 25 O
 , O
-0 O
+000 O
 hadi O
 100 O
 , O
-0 O
+000 O
 . O
 
 Anataka O
@@ -40225,7 +40216,7 @@ ya O
 watu O
 30 O
 , O
-0 O
+000 O
 na O
 kulazimisha O
 wengine O
@@ -45259,16 +45250,15 @@ njia O
 ya O
 mtandao O
 kwamba O
-"""" O
+" O
 hali O
 hiyo O
 inaelekea O
 kwenye O
 njia O
 mbaya O
-"""" O
+" O
 , O
-"""" O
 akimaanisha O
 pingamizi O
 kwenye O
@@ -48074,7 +48064,7 @@ iliyobeba O
 dozi O
 600 O
 , O
-0 O
+000 O
 za O
 chanjo O
 za O
@@ -48326,9 +48316,7 @@ zaidi O
 ya O
 shilingi O
 trilioni O
-36 O
-. O
-3 O
+36.3 O
 , O
 matumizi O
 ya O
@@ -48346,9 +48334,7 @@ ni O
 takribani O
 shilingi O
 trilioni O
-13 O
-. O
-3 O
+13.3 O
 Serikali O
 pia O
 katika O
@@ -48410,7 +48396,7 @@ hadi O
 shilingi O
 10 O
 , O
-0 O
+000 O
 kwa O
 kosa O
 . O
@@ -53883,7 +53869,7 @@ ya O
 nyumba O
 12 O
 , O
-0 O
+000 O
 ziliidhinishwa O
 kujengwa O
 mwaka B-DATE
@@ -54437,7 +54423,7 @@ ya O
 kura O
 10 O
 , O
-0 O
+000 O
 ya O
 alizopata O
 Trump B-PER
@@ -54619,13 +54605,11 @@ millioni O
 , O
 852 O
 , O
-0 O
+000 O
 sawa O
 na O
 asilimia O
-63 O
-. O
-9 O
+63.9 O
 , O
 naye O
 Bob B-PER
@@ -54635,13 +54619,11 @@ kura O
 laki O
 821 O
 , O
-0 O
+000 O
 sawa O
 na O
 asilimia O
-28 O
-. O
-4 O
+28.4 O
 , O
 tume O
 ya O
@@ -56156,7 +56138,7 @@ ya O
 watu O
 53 O
 , O
-0 O
+000 O
 waligunduliwa O
 kuambukizwa O
 virusi O
@@ -56206,7 +56188,7 @@ ilipokea O
 dozi O
 300 O
 , O
-0 O
+000 O
 za O
 chanjo O
 ya O
@@ -56376,7 +56358,7 @@ cha O
 Wasomali O
 130 O
 , O
-0 O
+000 O
 hadi O
 sasa O
 wamepatiwa O
@@ -56423,7 +56405,7 @@ wamepokea O
 simu O
 18 O
 , O
-0 O
+000 O
 kwa O
 siku O
 katika O
@@ -59468,7 +59450,7 @@ imepokea O
 dozi O
 964 O
 , O
-0 O
+000 O
 za O
 chanjo O
 kupitia O
@@ -59961,7 +59943,7 @@ ya O
 watu O
 800 O
 , O
-0 O
+000 O
 , O
 wao O
 wakiwa O
@@ -60027,7 +60009,7 @@ wahanga O
 wengine O
 250 O
 , O
-0 O
+000 O
 wa O
 mauaji O
 hayo O
@@ -60459,7 +60441,7 @@ na O
 takriban O
 33 O
 , O
-0 O
+000 O
 wanahitaji O
 lishe O
 maalum O
@@ -60592,7 +60574,7 @@ wa O
 ndani O
 750 O
 , O
-0 O
+000 O
 na O
 watu O
 walio O
@@ -62547,7 +62529,7 @@ ya O
 watu O
 25 O
 , O
-0 O
+000 O
 kukimbilia O
 Sudan B-LOC
 kutokeaEthiopia O
@@ -63032,7 +63014,7 @@ karibu O
 wanajeshi O
 140 O
 , O
-0 O
+000 O
 . O
 
 Imetayarishwa O
@@ -63579,12 +63561,10 @@ imevuka O
 vifo O
 600 O
 , O
-0 O
+000 O
 kutokana O
 na O
-COVID O
-- O
-19 O
+COVID-19 O
 kulingana O
 na O
 ripoti O
@@ -68863,7 +68843,7 @@ ya O
 watu O
 30 O
 , O
-0 O
+000 O
 na O
 kuwakosesha O
 makazi O
@@ -69610,7 +69590,7 @@ watu O
 , O
 45 O
 , O
-0 O
+000 O
 kukimbilia O
 Sudan B-LOC
 kama O
@@ -69631,7 +69611,7 @@ ya O
 watu O
 600 O
 , O
-0 O
+000 O
 walikuwa O
 wanategemea O
 msaada O
@@ -70712,7 +70692,7 @@ ya O
 watu O
 60 O
 , O
-0 O
+000 O
 wamekimbilia O
 nchi O
 jirani O
@@ -73197,7 +73177,7 @@ walikufa O
 na O
 10 O
 , O
-0 O
+000 O
 wakiachwa O
 bila O
 makazi O
@@ -74053,7 +74033,7 @@ Mukono B-LOC
 ( O
 354 O
 , O
-47 O
+047 O
 ) O
 Jinja B-LOC
 ( O
@@ -74100,8 +74080,8 @@ jeshi O
 kinachomlinda O
 Rais O
 Museveni B-PER
-Lt O
 
+Lt O
 . O
 Gen O
 . O
@@ -74111,14 +74091,14 @@ ameonya O
 wale O
 aliwataja O
 kama O
-"""" O
+" O
 wakoloni O
 wanaounga O
 mkono O
 upinzani O
 nchini O
 Uganda B-LOC
-"""" O
+" O
 akisema O
 kwamba O
 watashindwa O
@@ -74910,7 +74890,7 @@ ya O
 watu O
 65 O
 , O
-0 O
+000 O
 wa O
 kabila O
 la O
@@ -74921,7 +74901,7 @@ na O
 wengine O
 10 O
 , O
-0 O
+000 O
 kutoka O
 kabila O
 la O
@@ -81007,7 +80987,7 @@ sababu O
 watu O
 80 O
 , O
-0 O
+000 O
 pekee O
 ndio O
 wamefanyiwa O
@@ -83642,7 +83622,7 @@ ya O
 watu O
 46 O
 , O
-0 O
+000 O
 wakifariki O
 kutokana O
 na O
@@ -83978,7 +83958,7 @@ takriban O
 watu O
 300 O
 , O
-0 O
+000 O
 . O
 
 Imetayarishwa O
@@ -84329,7 +84309,7 @@ kuruhusu O
 wahamiaji O
 400 O
 , O
-0 O
+000 O
 kutoka O
 nchi12 O
 kuishi O
@@ -87774,7 +87754,7 @@ kuwa O
 watoto O
 33 O
 , O
-0 O
+000 O
 wenye O
 utapiamlo O
 wa O
@@ -89685,7 +89665,7 @@ Aprili B-DATE
 hadi O
 15 O
 , O
-0 O
+000 O
 , O
 hii O
 ikionyesha O
@@ -93093,7 +93073,7 @@ kuchimba O
 mapipa O
 230 O
 , O
-0 O
+000 O
 za O
 mafuta O
 ghafi O
@@ -93341,7 +93321,7 @@ takribani O
 watu O
 130 O
 , O
-0 O
+000 O
 na O
 kusababisha O
 maafa O
@@ -95341,7 +95321,7 @@ ambapo O
 watu O
 2 O
 , O
-0 O
+000 O
 wanaripotiwa O
 wameuliwa O
 na O
@@ -97857,7 +97837,7 @@ takriban O
 mara O
 1 O
 , O
-0 O
+000 O
 nchini O
 Afrika B-LOC
 Kusini I-LOC
@@ -97910,7 +97890,7 @@ zaidi O
 ya O
 53 O
 , O
-0 O
+000 O
 mwaka B-DATE
 jana I-DATE
 . O
@@ -98358,7 +98338,7 @@ karibu O
 watu O
 350 O
 , O
-0 O
+000 O
 katika O
 mkoa O
 wa O
@@ -98476,7 +98456,7 @@ wanaokadiriwa O
 kuwa O
 350 O
 , O
-0 O
+000 O
 kote O
 Tigray B-LOC
 wanaaminika O
@@ -98680,7 +98660,7 @@ zaidi O
 ya O
 1 O
 , O
-0 O
+000 O
 . O
 
 Kuna O
@@ -100122,7 +100102,7 @@ karibu O
 watu O
 10 O
 , O
-0 O
+000 O
 kukimbia O
 , O
 Jati B-PER
@@ -101018,7 +100998,7 @@ takriban O
 wasichana O
 2 O
 , O
-0 O
+000 O
 katika O
 pwani B-LOC
 ya O
@@ -102172,7 +102152,7 @@ ni O
 watu O
 10 O
 , O
-0 O
+000 O
 pekee O
 waliyoruhusiwa O
 kuhudhuria O
@@ -104594,7 +104574,7 @@ zaidi O
 ya O
 300 O
 , O
-0 O
+000 O
 Jumatatu B-DATE
 , O
 katika O
@@ -105782,7 +105762,7 @@ zaidi O
 ya O
 25 O
 , O
-0 O
+000 O
 mjini O
 Bobo B-PER
 - I-PER
@@ -106415,7 +106395,7 @@ ya O
 watu O
 30 O
 , O
-0 O
+000 O
 wamekimbia O
 Ethiopia B-LOC
 na O
@@ -108461,7 +108441,7 @@ mataifa I-ORG
 wanajeshi O
 4 O
 , O
-0 O
+000 O
 , O
 washauri O
 wa O
@@ -108500,7 +108480,7 @@ Sudan B-LOC
 Watu O
 300 O
 , O
-0 O
+000 O
 wameuawa O
 na O
 wengine O
@@ -110561,7 +110541,7 @@ imeongezeka O
 hadi O
 20 O
 , O
-0 O
+000 O
 , O
 shirika B-ORG
 la I-ORG
@@ -111550,9 +111530,9 @@ Marekani B-LOC
 amesema O
 mkakati O
 wa O
-"""" O
+' O
 B3W O
-"""" O
+' O
 kama O
 unavyoitwa O
 unalenga O
@@ -111669,7 +111649,7 @@ zaidi O
 ya O
 70 O
 , O
-0 O
+000 O
 . O
 
 Huku O
@@ -111929,7 +111909,7 @@ takriban O
 watu O
 800 O
 , O
-0 O
+000 O
 wamekoseshwa O
 makazi O
 kaskazini O
@@ -112301,7 +112281,7 @@ cha O
 wafungwa O
 5 O
 , O
-0 O
+000 O
 Wataliban O
 ili O
 kubadilishana O
@@ -112309,7 +112289,7 @@ na O
 mateka O
 1 O
 , O
-0 O
+000 O
 wa O
 vikosi O
 vya O
@@ -115502,7 +115482,7 @@ ya O
 Kondomu O
 17 O
 , O
-76 O
+076 O
 imeondolewa O
 sokoni O
 mara O
@@ -118312,7 +118292,7 @@ na O
 watu O
 20 O
 , O
-0 O
+000 O
 walioambukizwa O
 na O
 Brazil B-LOC
@@ -120551,7 +120531,7 @@ hatuwezi O
 kuvumilia O
 tena O
 , O
-"""" O
+" O
 alisema O
 Lewis B-PER
 , O
@@ -120562,7 +120542,7 @@ la O
 watu O
 250 O
 , O
-0 O
+000 O
 . O
 
 Nigeria B-LOC
@@ -120632,7 +120612,7 @@ ujao I-DATE
 Dozi O
 100 O
 , O
-0 O
+000 O
 za O
 chanjo O
 iliyotengenezwa O
@@ -120847,9 +120827,7 @@ Zaidi O
 ya O
 watu O
 milioni O
-1 O
-. O
-1 O
+1.1 O
 wameambukizwa O
 virusi O
 vya O
@@ -120862,7 +120840,7 @@ na O
 karibu O
 100 O
 , O
-0 O
+000 O
 nchini O
 Nigeria B-LOC
 . O
@@ -121781,9 +121759,9 @@ na O
 kujipatia O
 jina O
 la O
-"""" O
+' O
 Bulldozer B-PER
-"""" O
+' O
 na O
 pia O
 kuelezewa O
@@ -121823,8 +121801,7 @@ kwa O
 salaam O
 za O
 kumuombea O
-"""" O
-nguvu O
+'nguvu O
 , O
 faraja O
 na O
@@ -128228,13 +128205,13 @@ wasi O
 kuwa O
 yeye O
 ni O
-"""" O
+' O
 mwanamke O
 atashindwa O
 kutekeleza O
 majukumu O
+' O
 , O
-"""" O
 hiyo O
 dhana O
 ambayo O
@@ -128381,7 +128358,7 @@ na O
 vifo O
 345 O
 , O
-0 O
+000 O
 vya O
 virusi O
 vya O
@@ -128396,16 +128373,14 @@ India B-LOC
 ina O
 kesi O
 milioni O
-10 O
-. O
-2 O
+10.2 O
 na O
 zaidi O
 ya O
 vifo O
 148 O
 , O
-0 O
+000 O
 , O
 huku O
 Brazil B-LOC
@@ -128413,15 +128388,13 @@ ikiwa O
 na O
 kesi O
 milioni O
-7 O
-. O
-6 O
+7.6 O
 na O
 karibu O
 vifo O
 195 O
 , O
-0 O
+000 O
 kulingana O
 na O
 ripoti O
@@ -128813,7 +128786,7 @@ ni O
 wakimbizi O
 14 O
 , O
-0 O
+000 O
 pekee O
 , O
 ambao O
@@ -128980,7 +128953,7 @@ maambukizo O
 mapya O
 60 O
 , O
-0 O
+000 O
 kwa O
 siku O
 , O
@@ -129714,9 +129687,7 @@ WFP B-ORG
 inasema O
 watu O
 milioni O
-1 O
-. O
-14 O
+1.14 O
 huko O
 Madagascar B-LOC
 hawana O
@@ -129728,7 +129699,7 @@ na O
 watu O
 14 O
 , O
-0 O
+000 O
 wapo O
 katika O
 hali O
@@ -129844,9 +129815,7 @@ WFP B-ORG
 inasema O
 watu O
 milioni O
-1 O
-. O
-14 O
+1.14 O
 huko O
 Madagascar B-LOC
 hawana O
@@ -129858,7 +129827,7 @@ na O
 watu O
 14 O
 , O
-0 O
+000 O
 wapo O
 katika O
 hali O
@@ -131369,7 +131338,7 @@ na O
 dola O
 730 O
 , O
-0 O
+000 O
 katika O
 vifaa O
 vya O
@@ -133934,7 +133903,7 @@ majaribio O
 watu O
 80 O
 , O
-0 O
+000 O
 kutoka O
 maeneo O
 ya O
@@ -134543,7 +134512,7 @@ Msumbiji B-LOC
 Filipe B-PER
 Nyusi I-PER
 alisema O
-"""" O
+" O
 Tunatambua O
 na O
 kuridhia O
@@ -134575,7 +134544,7 @@ na O
 kanda O
 zima O
 . O
-"""" O
+" O
 
 Waraka O
 uliopatikana O
@@ -134591,7 +134560,7 @@ takriban O
 wanajeshi O
 3 O
 , O
-0 O
+000 O
 katika O
 mkoa O
 wa O
@@ -134693,7 +134662,7 @@ watu O
 takriban O
 800 O
 , O
-0 O
+000 O
 kukimbia O
 makazi O
 yao O
@@ -135450,7 +135419,7 @@ ya O
 raia O
 1 O
 , O
-0 O
+000 O
 wameuawa O
 na O
 kundi O
@@ -135745,16 +135714,14 @@ kuzungumzia O
 mwaka B-DATE
 uliopita I-DATE
 ambapo O
-COVID O
-- O
-19 O
+COVID-19 O
 imeua O
 zaidi O
 ya O
 watu O
 529 O
 , O
-0 O
+000 O
 na O
 kuambukiza O
 watu O
@@ -138134,7 +138101,7 @@ ya O
 watu O
 400 O
 , O
-0 O
+000 O
 na O
 vifo O
 vya O
@@ -138143,7 +138110,7 @@ ya O
 wengine O
 2 O
 , O
-0 O
+000 O
 katika O
 mkoa O
 wa O
@@ -138558,7 +138525,7 @@ alitoa O
 dola O
 121 O
 , O
-0 O
+000 O
 kusaidia O
 waathiriwa O
 wa O
@@ -139935,7 +139902,7 @@ Watu O
 wapatao O
 400 O
 , O
-0 O
+000 O
 wameukimbia O
 mji O
 wa O
@@ -139966,7 +139933,7 @@ wamesema O
 familia O
 80 O
 , O
-0 O
+000 O
 ambazo O
 ni O
 sawa O
@@ -139974,7 +139941,7 @@ na O
 watu O
 400 O
 , O
-0 O
+000 O
 waliondoka O
 Goma B-LOC
 Alhamisi B-DATE
@@ -140039,12 +140006,12 @@ takriban O
 watu O
 400 O
 , O
-0 O
+000 O
 kati O
 ya O
 600 O
 , O
-0 O
+000 O
 wa O
 mji O
 huo O
@@ -140109,7 +140076,7 @@ karibu O
 wanajeshi O
 2 O
 , O
-0 O
+000 O
 kutoka O
 Afghanistan B-LOC
 na O
@@ -143313,7 +143280,7 @@ ya O
 watu O
 290 O
 , O
-0 O
+000 O
 wameambukizwa O
 virusi O
 vya O
@@ -144031,7 +143998,7 @@ Karibu O
 watu O
 400 O
 , O
-0 O
+000 O
 wamekimbia O
 mashambulizi O
 ya O
@@ -144210,7 +144177,7 @@ watu O
 laki O
 424 O
 , O
-0 O
+000 O
 walitoroka O
 uasi O
 katika O
@@ -144898,7 +144865,7 @@ ya O
 wamarekani O
 176 O
 , O
-0 O
+000 O
 huku O
 akiwa O
 nyuma O
@@ -145234,7 +145201,7 @@ kuacha O
 wengine O
 10 O
 , O
-0 O
+000 O
 wakiwa O
 hawana O
 makazi O
@@ -145982,7 +145949,7 @@ ya O
 watu O
 25 O
 , O
-0 O
+000 O
 ambao O
 wamewasili O
 tangu O
@@ -146000,9 +145967,7 @@ wamethibitisha O
 kesi O
 kadhaa O
 za O
-COVID O
-- O
-19 O
+COVID-19 O
 katika O
 kambi O
 za O
@@ -146085,7 +146050,7 @@ ya O
 watu O
 25 O
 , O
-0 O
+000 O
 ambao O
 wamewasili O
 tangu O
@@ -146133,7 +146098,7 @@ takribani O
 wakimbizi O
 5 O
 , O
-0 O
+000 O
 . O
 
 Mkurugenzi O
@@ -146334,12 +146299,10 @@ ya O
 kesi O
 23 O
 , O
-0 O
+000 O
 zilizothibitishwa O
 za O
-COVID O
-- O
-19 O
+COVID-19 O
 , O
 tangu O
 mwishoni O
@@ -146352,7 +146315,7 @@ ya O
 vifo O
 2 O
 , O
-0 O
+000 O
 . O
 
 Wakati O
@@ -146480,7 +146443,7 @@ alipata O
 $ O
 340 O
 , O
-0 O
+000 O
 kwa O
 jina O
 la O
@@ -147156,7 +147119,7 @@ ya O
 watu O
 136 O
 , O
-30 O
+030 O
 wamefariki O
 kutokana O
 na O
@@ -148957,7 +148920,7 @@ ysa O
 kesi O
 1 O
 , O
-0 O
+000 O
 zilizothibitishwa O
 za O
 ugonjwa O
@@ -149160,13 +149123,9 @@ inasema O
 inapeleka O
 chanjo O
 milioni O
-2 O
-. O
-5 O
+2.5 O
 za O
-COVID O
-- O
-19 O
+COVID-19 O
 kwenda O
 Taiwan B-LOC
 , O
@@ -149183,7 +149142,7 @@ kutuma O
 dozi O
 750 O
 , O
-0 O
+000 O
 . O
 
 Rais O
@@ -149354,7 +149313,7 @@ kesi O
 mpya O
 58 O
 , O
-0 O
+000 O
 katika O
 kipindi O
 cha O
@@ -150160,13 +150119,13 @@ Mwaka O
 , O
 baada O
 ya O
-"""" O
+' O
 kipindi O
 cha O
 mpito O
 cha O
 kidemokrasia O
-"""" O
+' O
 Deby B-PER
 alichaguliwa O
 rais O
@@ -153502,13 +153461,13 @@ tofauti O
 serikalini O
 na O
 sasa O
-"""" O
+' O
 wanampigia O
 kelele O
 . O
-"""" O
+' O
 
-"""" O
+" O
 Wanajua O
 lengo O
 langu O
@@ -153986,11 +153945,11 @@ inakadiria O
 wakimbizi O
 15 O
 , O
-0 O
+000 O
 hadi O
 20 O
 , O
-0 O
+000 O
 walikimbia O
 kwenye O
 kambi O
@@ -154103,7 +154062,7 @@ wakimbizi O
 takribani O
 96 O
 , O
-0 O
+000 O
 wa O
 Eritrea B-LOC
 katika O
@@ -154168,7 +154127,7 @@ kuwapatia O
 wakaazi O
 26 O
 , O
-0 O
+000 O
 waliopo O
 kwenye O
 kambi O
@@ -154260,7 +154219,7 @@ Eritrea B-LOC
 wapatao O
 4 O
 , O
-0 O
+000 O
 walielekea O
 kambi O
 ya O
@@ -154365,17 +154324,17 @@ waliopo O
 katika O
 eneo O
 hilo O
-"""" O
+" O
 UNHCR B-ORG
 inakadiria O
 wakimbizi O
 15 O
 , O
-0 O
+000 O
 hadi O
 20 O
 , O
-0 O
+000 O
 walikimbia O
 kwenye O
 kambi O
@@ -156347,7 +156306,7 @@ ya O
 vifo O
 318 O
 , O
-0 O
+000 O
 kutokana O
 na O
 Covid O
@@ -156469,7 +156428,7 @@ umezidi O
 vifo O
 10 O
 , O
-0 O
+000 O
 na O
 imekuwa O
 na O
@@ -156892,7 +156851,7 @@ karibu O
 dola O
 4 O
 , O
-0 O
+000 O
 kwa O
 matibabu O
 fedha O
@@ -159342,7 +159301,7 @@ wa O
 taifa O
 25 O
 , O
-0 O
+000 O
 waliopangiwa O
 kulinda O
 sherehe O
@@ -161035,7 +160994,7 @@ na O
 wahamiaji O
 16 O
 , O
-0 O
+000 O
 . O
 
 Katika O
@@ -162761,7 +162720,7 @@ Karibu O
 watu O
 120 O
 , O
-0 O
+000 O
 wa O
 Gaza B-LOC
 wamepoteza O
@@ -164185,7 +164144,7 @@ kwamba O
 Watoto O
 6 O
 , O
-0 O
+000 O
 wengi O
 wao O
 wakiwa O
@@ -164947,7 +164906,7 @@ madarakani O
 Watu O
 3 O
 , O
-0 O
+000 O
 waliuawa O
 katika O
 machafuko O
@@ -167285,7 +167244,7 @@ ya O
 watu O
 950 O
 , O
-0 O
+000 O
 katika O
 eneo O
 la O
@@ -167308,7 +167267,7 @@ chakula O
 Watu O
 50 O
 , O
-0 O
+000 O
 walikimbia O
 makazi O
 yao O
@@ -169167,13 +169126,11 @@ imepokea O
 dozi O
 200 O
 , O
-0 O
+000 O
 za O
 chanjo O
 ya O
-Covid O
-- O
-19 O
+Covid-19 O
 aina O
 ya O
 Sinopham B-ORG
@@ -169380,7 +169337,7 @@ usalama O
 Familia O
 3 O
 , O
-0 O
+000 O
 ambazo O
 zimeorodeshwa O
 kuwa O
@@ -170915,7 +170872,7 @@ zaidi O
 ya O
 430 O
 , O
-0 O
+000 O
 waliokimbia O
 vita O
 mashariki O
@@ -171381,7 +171338,7 @@ wastani O
 watu O
 160 O
 , O
-0 O
+000 O
 wanaambukizwa O
 virusi O
 hivyo O
@@ -173025,7 +172982,7 @@ sasa O
 watu O
 55 O
 , O
-0 O
+000 O
 wameambukizwa O
 virusi O
 vya O
@@ -173033,7 +172990,7 @@ Corona O
 na O
 2 O
 , O
-0 O
+000 O
 kufariki O
 . O
 
@@ -173412,7 +173369,7 @@ karibu O
 wakazi O
 250 O
 , O
-0 O
+000 O
 kukimbia O
 makazi O
 yao O
@@ -174570,7 +174527,7 @@ karibu O
 watu O
 3 O
 , O
-0 O
+000 O
 hufariki O
 kwa O
 kutumia O
@@ -176059,13 +176016,13 @@ ya O
 watu O
 100 O
 , O
-0 O
+000 O
 kufa O
 na O
 watoto O
 60 O
 , O
-0 O
+000 O
 kutekwa O
 nyara O
 , O
@@ -176637,7 +176594,7 @@ karibu O
 watu O
 2 O
 , O
-0 O
+000 O
 kuzuia O
 magari O
 ya O
@@ -177579,9 +177536,9 @@ moja O
 
 Huu O
 ni O
-"""" O
+' O
 usaliti O
-"""" O
+' O
 kuwa O
 Idris B-PER
 Sultan I-PER
@@ -178530,7 +178487,7 @@ thelathini O
 Watu O
 15 O
 , O
-0 O
+000 O
 wameambukizwa O
 virusi O
 hivyo O
@@ -178816,7 +178773,7 @@ ya O
 watu O
 58 O
 , O
-0 O
+000 O
 wameambukizwa O
 virusi O
 vya O
@@ -179866,7 +179823,7 @@ ya O
 watu O
 250 O
 , O
-0 O
+000 O
 . O
 
 Wizara O
@@ -180035,7 +179992,7 @@ kutaka O
 kura O
 127 O
 , O
-0 O
+000 O
 zilizopigwa O
 na O
 wapiga O
@@ -180124,7 +180081,7 @@ ya O
 watu O
 5 O
 , O
-0 O
+000 O
 kujeruhiwa O
 katika O
 mlipuko O
@@ -180703,7 +180660,7 @@ ya O
 watu O
 5 O
 , O
-0 O
+000 O
 walio O
 jeruhiwa O
 katika O

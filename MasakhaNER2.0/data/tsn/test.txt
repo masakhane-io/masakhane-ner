@@ -1697,8 +1697,7 @@ di O
 le O
 pedi O
 kwa O
-Critics B-ORG
-"""" I-ORG
+Critics' B-ORG
 Choice I-ORG
 Documentary I-ORG
 Awards I-ORG
@@ -7288,11 +7287,11 @@ a O
 ona O
 . O
 
-"""" O
+' O
 Step O
 - O
 aside O
-"""" O
+' O
 ke O
 nngwe O
 ya O

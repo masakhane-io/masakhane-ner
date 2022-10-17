@@ -19328,9 +19328,7 @@ miliyɔn O
 ( O
 dɔrɔmɛ O
 208 O
-. O
 28 O
-. O
 757 O
 ) O
 ye O
@@ -19646,7 +19644,6 @@ se O
 sefawari O
 dɔrɔmɛ O
 190 O
-. O
 000 O
 ma O
 ani O
@@ -19710,7 +19707,6 @@ miliyɔn O
 sefawari O
 dɔrɔmɔ O
 53 O
-. O
 199 O
 950 O
 ) O
@@ -19730,20 +19726,18 @@ kɛ O
 u O
 kunna O
 , O
+
 k'a O
 hakɛ O
 mumɛ O
 kɛ O
-
 miliyɔn O
 10 O
 ( O
 sefawari O
 dɔrɔmɛ O
 10 O
-. O
 24 O
-. O
 850 O
 ) O
 ye O
@@ -19797,7 +19791,6 @@ miliyɔn O
 ( O
 dɔrɔmɛ O
 3 O
-. O
 175 O
 000 O
 ) O
@@ -20274,7 +20267,6 @@ jɔ O
 sefawari O
 dɔrɔmɛ O
 3 O
-. O
 175 O
 000 O
 la O
@@ -20332,7 +20324,6 @@ kan O
 ( O
 dɔrɔmɛ O
 1 O
-. O
 170 O
 000 O
 ) O
@@ -20348,7 +20339,6 @@ sɔrɔ O
 ni O
 sefawari O
 180 O
-. O
 000 O
 tɛ O
 . O
@@ -20637,7 +20627,6 @@ kan O
 sefawari O
 dɔrɔmɔ O
 5 O
-. O
 152 O
 000 O
 hakɛ O
@@ -20671,6 +20660,7 @@ sɔrɔtaw O
 musakamarayɔrɔ O
 la O
 , O
+
 ka O
 sɔrɔ O
 ka O
@@ -20679,10 +20669,7 @@ ni O
 sefawari O
 dɔrɔmɛ O
 1 O
-. O
-
 018 O
-. O
 000 O
 dili O
 seereyasɛbɛn O
@@ -20717,7 +20704,6 @@ ye O
 sefawari O
 dɔrɔmɔ O
 4 O
-. O
 004 O
 000 O
 ) O
@@ -21020,7 +21006,6 @@ ye O
 sefawari O
 24 O
 095 O
-. O
 950 O
 ye O
 , O
@@ -21164,7 +21149,6 @@ ma O
 Dɔrɔmɛ O
 208 O
 028 O
-. O
 757 O
 ) O
 , O
@@ -22580,7 +22564,7 @@ daɲɛ O
 kelen O
 dama O
 fɔ O
-"""" O
+» O
 Beyatirisi B-PER
 Jeje I-PER
 , I-PER
@@ -22598,7 +22582,7 @@ dɔ O
 minɛnen O
 a O
 bolo O
-"""" O
+« O
 k'a O
 kɛ O
 bɛn O
@@ -22607,7 +22591,7 @@ bɛnɲini O
 taamasiyɛn O
 ye O
 . O
-"""" O
+« O
 
 Mɔgɔ O
 ba O
@@ -31088,8 +31072,7 @@ b'i O
 kanto O
 , O
 
-a O
-"""" O
+a' O
 y'aw O
 jija O
 a O
@@ -32320,10 +32303,7 @@ ta O
 , O
 janko O
 jamanalafasakiritigɛla O
-an O
-"""" O
-"""" O
-an O
+an"an O
 ka O
 bolodiɲɔgɔnmakɛbagaw O
 u O

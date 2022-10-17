@@ -9332,10 +9332,10 @@ Sud I-PER
 Hamond B-PER
 Chic I-PER
 la O
-"""" O
+' O
 coach O
 caviar O
-"""" O
+' O
 wə́ O
 gɔ́ O
 sɔʼ O

@@ -8666,10 +8666,10 @@ Mu O
 Independent B-ORG
 w'omu O
 Gwomwenda B-DATE
-3 I-DATE
+03 I-DATE
 okutuusa I-DATE
 nga I-DATE
-9 I-DATE
+09 I-DATE
 , I-DATE
 2010 I-DATE
 , O
@@ -8870,10 +8870,10 @@ Independenti B-ORG
 w'omu O
 Gwomwenda B-DATE
 nga I-DATE
-3 I-DATE
+03 I-DATE
 okutuuka I-DATE
 nga I-DATE
-9 I-DATE
+09 I-DATE
 , I-DATE
 2010 I-DATE
 yawandiika O
@@ -11868,7 +11868,7 @@ Makas B-PER
 leero O
 mu O
 ssaawa O
-800 O
+0800 O
 , O
 nolwekyo O
 baanguwe O
@@ -15921,7 +15921,7 @@ poliisi O
 kigamba O
 nti O
 waliwo O
-enkungaana O
+enkuŋŋaana O
 ezimu O
 mwe O
 kyayitira O
@@ -23145,7 +23145,7 @@ ku O
 bayizi O
 44 O
 , O
-0 O
+000 O
 mu O
 2009 B-DATE
 . O
@@ -24957,7 +24957,6 @@ obulungi O
 firimu O
 ! O
 " O
-" O
 
 Obwesige O
 obwo O
@@ -26679,7 +26678,7 @@ abantu O
 nga O
 327 O
 , O
-0 O
+000 O
 abali O
 mu O
 by'obusuubuzi O
@@ -27246,7 +27245,7 @@ ba O
 yunivasite O
 2 O
 , O
-0 O
+000 O
 bokka O
 buli O
 mwaka O
@@ -33422,9 +33421,9 @@ zaabwe O
 ez'essimu O
 zitandika O
 ne O
-772 O
+0772 O
 oba O
-712 O
+0712 O
 , O
 n'ozaako O
 760786 O
@@ -36821,7 +36820,7 @@ ebifo O
 ebironderwamu O
 26 O
 , O
-0 O
+000 O
 era O
 kikozesa O
 obuwumbi O
@@ -37624,7 +37623,7 @@ bali O
 nga O
 32 O
 , O
-0 O
+000 O
 , O
 abo O
 abali O
@@ -40348,7 +40347,7 @@ ddoola O
 z'Amerika O
 6 O
 , O
-0 O
+000 O
 buli O
 mwezi O
 okusinga O
@@ -40961,7 +40960,7 @@ tutwale O
 abantu O
 3 O
 , O
-0 O
+000 O
 e O
 Kiryandongo B-LOC
 okumpi O
@@ -41500,7 +41499,7 @@ Bwe O
 basasula O
 2 O
 , O
-0 O
+000 O
 okuyingira O
 promosoni O
 etaliiko O
@@ -42126,14 +42125,14 @@ meturiki O
 taani O
 20 O
 , O
-0 O
+000 O
 . O
 
 Ebikolo O
 by'emmwanyi O
 60 O
 , O
-0 O
+000 O
 byasaanawo O
 ettaka O
 bwe O
@@ -42220,7 +42219,7 @@ metuliki O
 taani O
 198 O
 , O
-0 O
+000 O
 ez'emmwanyi O
 mu O
 mwaka O
@@ -42296,7 +42295,7 @@ z'emmwanyi O
 nga O
 100 O
 , O
-0 O
+000 O
 zigenda O
 kugabibwa O
 mu O
@@ -42623,7 +42622,7 @@ kirimu O
 bammemba O
 140 O
 , O
-0 O
+000 O
 abatunda O
 mu O
 maduuka O
@@ -47360,7 +47359,7 @@ emyaka O
 nga O
 3 O
 , O
-0 O
+000 O
 emabega O
 mu O
 kyasa O
@@ -50293,7 +50292,7 @@ b'obubudamo O
 nga O
 2 O
 , O
-0 O
+000 O
 era O
 ne O
 babazzaayo O
@@ -50417,7 +50416,7 @@ Abanoonyi O
 b'obubudamu O
 2 O
 , O
-0 O
+000 O
 kati O
 bakuumirwa O
 mu O
@@ -50500,7 +50499,7 @@ abanoonyi O
 b'obubudamo O
 3 O
 , O
-0 O
+000 O
 Abanyarwanda O
 bwe O
 bazzibwayo O
@@ -51323,7 +51322,7 @@ yazzaayo O
 Abanyarwanda O
 3 O
 , O
-0 O
+000 O
 e O
 Rwanda B-LOC
 mu O
@@ -51506,7 +51505,7 @@ abasukka O
 mu O
 5 O
 , O
-0 O
+000 O
 bajja O
 mu O
 Uganda B-LOC
@@ -51671,7 +51670,7 @@ abasirikale O
 abalala O
 20 O
 , O
-0 O
+000 O
 mu O
 Somalia B-LOC
 yakyogeza O
@@ -51872,12 +51871,13 @@ okuba O
 n'endowooza O
 egamba O
 nti O
-" O
+' O
 sigala O
 ng'oli O
 mukkakkamu O
 weeyongereyo O
 n'obulamu' O
+' O
 ate O
 abalala O
 bo O
@@ -68997,7 +68997,7 @@ ozudde O
 amanya O
 150 O
 , O
-0 O
+000 O
 agawandiikiddwa O
 emirundi O
 ebiri O
@@ -69009,7 +69009,7 @@ osangudde O
 amanya O
 150 O
 , O
-0 O
+000 O
 mu O
 nkalala O
 z'abalonzi O
@@ -69335,7 +69335,7 @@ abasukka O
 mu O
 130 O
 , O
-0 O
+000 O
 beefunye O
 mu O
 myaka B-DATE
@@ -70369,12 +70369,12 @@ egya O
 mita O
 10 O
 , O
-0 O
+000 O
 n'egya O
 mita O
 5 O
 , O
-0 O
+000 O
 ) O
 mu O
 Mizannya O
@@ -70535,7 +70535,7 @@ eya O
 ddoola O
 550 O
 , O
-0 O
+000 O
 enginiya O
 wa O
 kompyuta O
@@ -70696,7 +70696,7 @@ eya O
 ddoola O
 500 O
 , O
-0 O
+000 O
 gye O
 yawa O
 Katusiime B-PER
@@ -71007,7 +71007,7 @@ okuyungula O
 abalala O
 12 O
 , O
-0 O
+000 O
 
 Kino O
 Museveni B-PER
@@ -73413,7 +73413,7 @@ egya O
 mita O
 5 O
 , O
-0 O
+000 O
 era O
 omuddusi O
 eyakwata O
@@ -82653,7 +82653,7 @@ abasukka O
 mu O
 140 O
 , O
-0 O
+000 O
 be O
 baawandiisibwa O
 era O
@@ -82923,7 +82923,7 @@ kitundu O
 ky'abakiise O
 12 O
 , O
-0 O
+000 O
 abaali O
 basuubirwa O
 mu O
@@ -86523,7 +86523,7 @@ ssente O
 eziwera O
 160 O
 , O
-0 O
+000 O
 , O
 ssente O
 zino O
@@ -90960,7 +90960,7 @@ agawera O
 ebipimo O
 200 O
 , O
-0 O
+000 O
 buli O
 lunaku O
 

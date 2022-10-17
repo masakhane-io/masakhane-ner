@@ -3725,10 +3725,10 @@ ehurumende O
 , O
 kana O
 kuti O
-"""" O
+" O
 Cabinet O
 , O
-"""" O
+" O
 rakabvumirana O
 kumbomisa O
 vanhu O
@@ -3811,10 +3811,10 @@ dzavo O
 , O
 kana O
 kuti O
-"""" O
+" O
 lockdown O
 . O
-"""" O
+" O
 
 Mudzidzisa O
 wezvehupfumi O
@@ -4821,17 +4821,17 @@ dze O
 Women B-ORG
 Coalition I-ORG
 dzinoti O
-8080230 O
+08080230 O
 , O
 Musasa B-ORG
 Project I-ORG
-8080074 O
+08080074 O
 , O
 neZimbabwe B-ORG
 Women I-ORG
 Lawyers I-ORG
 Association I-ORG
-8080131 O
+08080131 O
 . O
 
 Amai O
@@ -7643,7 +7643,7 @@ manomwe O
 ezviuru O
 , O
 70 O
-0 O
+000 O
 , O
 vanobata O
 pamuri O
@@ -7773,8 +7773,7 @@ revarimi O
 , O
 reZimbabwe B-ORG
 Commercial I-ORG
-Farmers I-ORG
-"""" I-ORG
+Farmers' I-ORG
 Union I-ORG
 , O
 VaJeremiah B-PER
@@ -9364,7 +9363,7 @@ zvehurumende O
 kutanga O
 musi O
 wa O
-1 B-DATE
+01 B-DATE
 Ndira I-DATE
 . O
 
@@ -17503,7 +17502,7 @@ iri O
 rakakura O
 kupfuura O
 14 O
-0 O
+000 O
 square O
 kilometres O
 uye O
@@ -19809,8 +19808,7 @@ chigaro O
 chemutungamiri O
 weZimbabwe B-ORG
 Hospital I-ORG
-Doctors I-ORG
-"""" I-ORG
+Doctors' I-ORG
 Association I-ORG
 , O
 Dr O
@@ -19981,7 +19979,7 @@ shandisai O
 WhatsApp B-ORG
 nhamba O
 dzinoti O
-1 O
+001 O
 202 O
 465 O
 318 O

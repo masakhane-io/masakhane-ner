@@ -5712,10 +5712,10 @@ Lindell I-PER
 e O
 e O
 bidiwang O
-"""" O
+' O
 My O
 pillow O
-"""" O
+' O
 e O
 tlhophilwe O
 go O
@@ -38902,8 +38902,7 @@ go O
 lebelela O
 Moporesitente O
 Ramaphosa B-PER
-"""" O
-a O
+'a O
 neela O
 bosupi O
 . O
@@ -57651,9 +57650,9 @@ National O
 Council O
 of O
 Provinces O
-"""" O
+' O
 NCOP O
-"""" O
+' O
 ) O
 ka O
 Labone B-DATE
@@ -92337,7 +92336,7 @@ mathata O
 a O
 a O
 bedevilling O
-"""" O
+' O
 S O
 temokerasi O
 ya O

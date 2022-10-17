@@ -4559,11 +4559,11 @@ jo O
 bo O
 botlhokwa O
 jwa O
-"""" O
+' O
 E O
 dirilwe O
 Italy B-LOC
-"""" O
+' O
 mo O
 setlamong O
 sa O

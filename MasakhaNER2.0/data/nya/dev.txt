@@ -780,7 +780,7 @@ Trump I-PER
 . O
 Pajatu O
 K2 O
-0 O
+000 O
 ikutchedwa O
 Trump B-PER
 
@@ -1208,7 +1208,7 @@ kubwenza O
 ngongole O
 ya O
 K20 O
-0 O
+000 O
 adalandidwa O
 katundu O
 . O
@@ -1230,7 +1230,7 @@ ka O
 ngongole O
 ya O
 K250 O
-0 O
+000 O
 ndipo O
 padakalipano O
 umoyo O
@@ -2777,7 +2777,7 @@ adadya O
 ndalama O
 zokwana O
 K87 O
-0 O
+000 O
 atanamiza O
 achinyamata O
 6 O
@@ -2793,7 +2793,7 @@ aliyense O
 ayambe O
 wapereka O
 K10 O
-0 O
+000 O
 . O
 
 Chakwera B-PER
@@ -2866,7 +2866,7 @@ atawauza O
 kuti O
 apereke O
 K10 O
-0 O
+000 O
 aliyense O
 adangoona O
 ngati O
@@ -3495,7 +3495,7 @@ July I-DATE
 Aphunzitsi O
 pafupifupi O
 63 O
-0 O
+000 O
 akuchita O
 sitalaka O
 pofuna O
@@ -6397,7 +6397,7 @@ Patsiku O
 bwana O
 amafuna O
 K10 O
-0 O
+000 O
 ndipo O
 kutenga O
 atatu O
@@ -7961,7 +7961,7 @@ likamatha O
 , O
 anthu O
 5 O
-0 O
+000 O
 akhala O
 ndi O
 ziphaso O
@@ -7980,7 +7980,7 @@ ntchitoyi O
 , O
 anthu O
 95 O
-0 O
+000 O
 ndiwo O
 adzakhale O
 ndi O
@@ -9192,7 +9192,7 @@ zaka O
 kuti O
 alipire O
 K200 O
-0 O
+000 O
 kapena O
 akakhale O
 kundende O
@@ -10384,7 +10384,7 @@ muli O
 anthu O
 pafupifupi O
 850 O
-0 O
+000 O
 omwe O
 akuyenera O
 kumalandira O
@@ -11808,7 +11808,7 @@ limodzi O
 nkutsala O
 ndi O
 K1 O
-0 O
+000 O
 yapamwamba O
 . O
 
@@ -11918,7 +11918,7 @@ pakhomo O
 aziyenera O
 kuonjezera O
 K6 O
-0 O
+000 O
 kuti O
 agule O
 thumba O
@@ -12141,7 +12141,7 @@ la O
 ; O
 Kasungu B-LOC
 K9 O
-0 O
+000 O
 , O
 kwa O
 Che B-LOC
@@ -12150,11 +12150,11 @@ ku O
 Blantyre B-LOC
 ndi O
 K13 O
-0 O
+000 O
 , O
 Zingwangwa B-LOC
 K14 O
-0 O
+000 O
 ndipo O
 Mzuzu B-LOC
 K11 O
@@ -13866,7 +13866,7 @@ chimanga O
 chokwana O
 matani O
 100 O
-0 O
+000 O
 , O
 boma O
 la O
@@ -17076,7 +17076,7 @@ yomwe O
 amati O
 azitumizirako O
 K1 O
-0 O
+000 O
 ku O
 Mpamba O
 simapezeka O
@@ -17832,19 +17832,19 @@ katundu O
 wafika O
 pa O
 K15 O
-0 O
+000 O
 kuchoka O
 pa O
 K25 O
 , O
-0 O
+000 O
 chonsecho O
 katunduyo O
 sanagulitsidweko O
 pa O
 K25 O
 , O
-0 O
+000 O
 , O
 lidatero O
 bungwelo O
@@ -19334,7 +19334,7 @@ amapereka O
 chikole O
 mwina O
 K200 O
-0 O
+000 O
 kapena O
 molingana O
 ndi O
@@ -25777,7 +25777,7 @@ pofika O
 December B-DATE
 sichikwana O
 K25 O
-0 O
+000 O
 ? O
 Chongofika O
 pa O

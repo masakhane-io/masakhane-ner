@@ -14909,8 +14909,7 @@ ta O
 in O
 na O
 , O
-a O
-"""" O
+a' O
 ye O
 hakɛtɔ O
 , O

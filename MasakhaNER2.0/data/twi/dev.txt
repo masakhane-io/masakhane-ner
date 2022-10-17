@@ -1864,9 +1864,9 @@ tetefoɔ O
 a O
 wɔfrɛ O
 no O
-"""" O
+' O
 Tablet O
-"""" O
+' O
 no O
 ɛne O
 nneɛma O
@@ -2188,7 +2188,7 @@ ebia O
 wobɛka O
 sɛ O
 , O
-"""" O
+' O
 Gyaa O
 paa O
 deɛ O
@@ -2207,7 +2207,7 @@ a O
 yɛn O
 nyinaa O
 ! O
-"""" O
+' O
 
 Ade O
 yi O
@@ -2384,7 +2384,7 @@ biara O
 ntwetwe O
 w'adwene O
 ? O
-"""" O
+' O
 
 Ɛnnɛ O
 , O
@@ -2556,8 +2556,8 @@ sɛ O
 yɛyɛ O
 saa O
 ? O
-"""" O
-"""" O
+' O
+' O
 Sika O
 ahe O
 na O
@@ -2565,8 +2565,8 @@ wɔayi O
 afi O
 so O
 ? O
-"""" O
-"""" O
+' O
+' O
 Bere O
 bɛn O
 na O
@@ -2581,7 +2581,7 @@ sɛ O
 tɔ O
 nti O
 ? O
-"""" O
+' O
 
 Ɛnde O
 , O
@@ -6615,7 +6615,7 @@ wo O
 ho O
 sɛ O
 , O
-"""" O
+' O
 Adɛn O
 nti O
 na O
@@ -6623,7 +6623,7 @@ minni O
 adamfo O
 biara O
 ? O
-"""" O
+' O
 
 Yɛnntia O
 fango O
@@ -6952,7 +6952,7 @@ adwene O
 te O
 sɛ O
 , O
-"""" O
+' O
 Ɛfata O
 sɛ O
 wunya O
@@ -6960,9 +6960,9 @@ nea O
 ɛyɛ O
 papa O
 paa O
-"""" O
+' O
 efisɛ O
-"""" O
+' O
 Wosom O
 bo O
 paa O
@@ -11423,8 +11423,7 @@ aba O
 no O
 . O
 
-Dr O
-. O
+Dr. O
 Adutwum B-PER
 wɔ O
 Metro B-ORG
@@ -11434,15 +11433,15 @@ Dwumadie O
 a O
 wɔato O
 din O
-"""" O
+' O
 Good O
 Evening O
 Ghana O
-"""" O
+' O
 kaa O
 sɛ O
 , O
-"""" O
+" O
 Ƹyɛ O
 me O
 nwanwa O
@@ -11456,8 +11455,8 @@ sɛ O
 wɔbɛsan O
 akɔ O
 Kɔɔto O
+" O
 . O
-"""" O
 
 Sɛ O
 wufi O
@@ -13890,8 +13889,7 @@ Mibisaa O
 no O
 sɛ O
 , O
-"""" O
-Hena O
+'Hena O
 na O
 ne O
 ho O
@@ -13966,8 +13964,7 @@ wɔ O
 ho O
 ? O
 
-"""" O
-"""" O
+" O
 Yɛpɛ O
 sɛ O
 ahɔhoɔ O
@@ -15173,11 +15170,11 @@ wontumi O
 ntua O
 nneɛma O
 a O
-"""" O
+' O
 ɛfata O
 sɛ O
 wonya O
-"""" O
+' O
 no O
 ho O
 ka O

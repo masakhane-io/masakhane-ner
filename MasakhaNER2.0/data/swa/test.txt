@@ -2336,8 +2336,8 @@ mazingira O
 gani O
 waathirika O
 walijeruhiwa O
+' O
 , O
-"""" O
 polisi O
 imesema O
 katika O
@@ -3609,7 +3609,7 @@ na O
 biashara O
 1 O
 , O
-0 O
+000 O
 pamoja O
 na O
 kuongoza O
@@ -12274,14 +12274,14 @@ ya O
 watu O
 5 O
 , O
-0 O
+000 O
 , O
 na O
 kuwaacha O
 wengine O
 300 O
 , O
-0 O
+000 O
 bila O
 makazi O
 . O
@@ -14498,7 +14498,7 @@ ya O
 watu O
 41 O
 , O
-0 O
+000 O
 wamekimbilia O
 Sudan B-LOC
 kama O
@@ -14795,7 +14795,7 @@ wenye O
 wakaazi O
 40 O
 , O
-0 O
+000 O
 . O
 
 Kiongozi O
@@ -15374,7 +15374,7 @@ zaidi O
 ya O
 500 O
 , O
-0 O
+000 O
 kutoka O
 mataifa O
 15 O
@@ -15448,7 +15448,7 @@ ya O
 watu O
 500 O
 , O
-0 O
+000 O
 wanaohitaji O
 hifadhi O
 wakati O
@@ -15969,7 +15969,7 @@ Somalia B-LOC
 wapatao O
 85 O
 , O
-67 O
+067 O
 . O
 
 Kenya B-LOC
@@ -16826,7 +16826,7 @@ zaidi O
 ya O
 40 O
 , O
-0 O
+000 O
 kukimbilia O
 Sudan B-LOC
 kama O
@@ -17272,9 +17272,7 @@ maambukizi O
 213 O
 mapya O
 ya O
-COVID O
-- O
-19 O
+COVID-19 O
 Jumanne B-DATE
 , O
 ikiongeza O
@@ -17285,7 +17283,7 @@ yaliothibitishwa O
 kufikia O
 33 O
 , O
-16 O
+016 O
 nchi O
 nzima O
 . O
@@ -17858,7 +17856,7 @@ takriban O
 wanafunzi O
 56 O
 , O
-0 O
+000 O
 . O
 
 Hivi O
@@ -19024,7 +19022,7 @@ watu O
 wapatao O
 18 O
 , O
-0 O
+000 O
 wasio O
 na O
 utaifa O
@@ -19338,8 +19336,7 @@ ya O
 umaskini O
 . O
 
-"""" O
-"""" O
+" O
 Mizozo O
 , O
 mabadiliko O
@@ -19361,8 +19358,8 @@ vya O
 pili O
 vya O
 dunia O
+" O
 , O
-"""" O
 katibu O
 mkuu O
 wa O
@@ -20940,7 +20937,7 @@ karibu O
 dozi O
 72 O
 , O
-0 O
+000 O
 za O
 chanjo O
 ya O
@@ -20987,7 +20984,7 @@ ilipokea O
 dozi O
 132 O
 , O
-0 O
+000 O
 za O
 Astra O
 Zeneca O
@@ -21044,7 +21041,7 @@ na O
 dozi O
 52 O
 , O
-0 O
+000 O
 kwa O
 matumaini O
 ya O
@@ -21233,15 +21230,13 @@ takriban O
 watu O
 750 O
 , O
-0 O
+000 O
 tu O
 ambao O
 wamepata O
 chanjo O
 ya O
-COVID O
-- O
-19 O
+COVID-19 O
 . O
 
 Wachambuzi O
@@ -21876,7 +21871,7 @@ ya O
 watu O
 36 O
 , O
-0 O
+000 O
 kaskazini O
 mashariki O
 mwa O
@@ -22145,7 +22140,7 @@ takriban O
 watu O
 3 O
 , O
-0 O
+000 O
 kutoka O
 DRC B-LOC
 wamewasili O
@@ -22912,7 +22907,7 @@ wenye O
 wakazi O
 75 O
 , O
-0 O
+000 O
 ambapo O
 darzeni O
 ya O
@@ -23464,7 +23459,7 @@ hiyo O
 hadi O
 125 O
 , O
-0 O
+000 O
 kupita O
 ile O
 iliyowekwa O
@@ -23478,7 +23473,7 @@ ofisini O
 ya O
 15 O
 , O
-0 O
+000 O
 . O
 
 Trump B-PER
@@ -23493,7 +23488,7 @@ tena O
 hadi O
 15 O
 , O
-0 O
+000 O
 . O
 
 Biden B-PER
@@ -25317,7 +25312,7 @@ ya O
 watu O
 400 O
 , O
-0 O
+000 O
 , O
 wengi O
 wao O
@@ -25560,7 +25555,7 @@ wa O
 watu O
 8 O
 , O
-0 O
+000 O
 wamelazimika O
 kukimbia O
 makazi O
@@ -25788,7 +25783,7 @@ takriban O
 watu O
 1 O
 , O
-0 O
+000 O
 waliolazimika O
 kukimbia O
 makazi O
@@ -26141,7 +26136,7 @@ walinda O
 amani O
 wa O
 UN B-ORG
-"""" O
+" O
 yanaweza O
 kuchukuliwa O
 ni O
@@ -26149,7 +26144,7 @@ uhalifu O
 wa O
 kivita O
 . O
-"""" O
+" O
 
 Guterres B-PER
 , O
@@ -26168,11 +26163,11 @@ kuchunguza O
 mashambulizi O
 haya O
 ya O
-"""" O
+' O
 kinyama O
-"""" O
+' O
 na O
-"""" O
+" O
 haraka O
 kuwachukulia O
 hatua O
@@ -26182,7 +26177,7 @@ wanaoendeleza O
 mashambulizi O
 hayo O
 . O
-"""" O
+" O
 
 Guterres B-PER
 amethibitisha O
@@ -27980,7 +27975,7 @@ wa O
 dola O
 2 O
 , O
-0 O
+000 O
 kwa O
 pamoja O
 utakuwa O
@@ -28294,7 +28289,7 @@ karibu O
 vifo O
 310 O
 , O
-0 O
+000 O
 kutokana O
 na O
 virusi O
@@ -29471,7 +29466,7 @@ Tulimshinda O
 hata O
 Kony B-PER
 . O
-"""" O
+" O
 
 Amesema O
 Museveni B-PER
@@ -29484,8 +29479,7 @@ kundi O
 la O
 waasi O
 la O
-Lords B-ORG
-"""" I-ORG
+Lords' B-ORG
 resistance I-ORG
 army I-ORG
 ambalo O
@@ -30275,7 +30269,7 @@ za O
 maambukizi O
 20 O
 , O
-0 O
+000 O
 kwa O
 siku O
 wiki O
@@ -30375,7 +30369,7 @@ ya O
 vifo O
 35 O
 , O
-0 O
+000 O
 kutokana O
 na O
 covid O
@@ -32192,7 +32186,7 @@ Karibu O
 watu O
 153 O
 , O
-0 O
+000 O
 wameomba O
 chanjo O
 tangu O
@@ -32266,7 +32260,7 @@ ilipokea O
 dozi O
 350 O
 , O
-0 O
+000 O
 za O
 chanjo O
 ya O
@@ -32293,7 +32287,7 @@ na O
 dozi O
 50 O
 , O
-0 O
+000 O
 za O
 chanjo O
 iliyotengenezwa O
@@ -35314,7 +35308,7 @@ walinzi O
 wote O
 25 O
 , O
-0 O
+000 O
 waliopelekwa O
 katika O
 eneo O
@@ -35480,7 +35474,7 @@ kupeleka O
 dozi O
 800 O
 , O
-0 O
+000 O
 nchini O
 Uingereza B-LOC
 katika O
@@ -35817,7 +35811,7 @@ karibu O
 watu O
 3 O
 , O
-0 O
+000 O
 . O
 
 Walau O
@@ -37019,7 +37013,7 @@ takriban O
 , O
 366 O
 , O
-0 O
+000 O
 . O
 
 Wakenya O
@@ -37713,7 +37707,7 @@ mwaka O
 hadi O
 24 O
 , O
-0 O
+000 O
 mwaka O
 2019 B-DATE
 . O
@@ -39156,7 +39150,7 @@ Provo B-LOC
 Utah B-LOC
 . O
 
-"""" O
+" O
 Kuandamana O
 ni O
 haki O
@@ -39172,7 +39166,7 @@ unashtusha O
 na O
 haukubaliki O
 , O
-"""" O
+' O
 amesema O
 Kim B-PER
 , O
@@ -39569,19 +39563,19 @@ wa O
 Republikan O
 na O
 Demokratik O
-"""" O
+" O
 lazima O
 washirikiane O
 kuendeleza O
 demokrasia O
 . O
-"""" O
+' O
 
-"""" O
+" O
 Warepublikan O
 na O
 Wademokrat O
-"""" O
+" O
 lazima O
 wafanye O
 kazi O
@@ -39593,7 +39587,7 @@ katika O
 nchi O
 hii O
 , O
-"""" O
+' O
 Kushirikiana O
 katika O
 kujenga O
@@ -40052,7 +40046,7 @@ kuua O
 watu O
 3 O
 , O
-0 O
+000 O
 na O
 kusababisha O
 wengine O
@@ -40820,7 +40814,7 @@ siku O
 watu O
 272 O
 , O
-0 O
+000 O
 wamefariki O
 . O
 
@@ -43195,7 +43189,7 @@ zaidi O
 ya O
 4 O
 , O
-0 O
+000 O
 walioshikiliwa O
 tangu O
 mapinduzi O
@@ -44020,14 +44014,10 @@ zaidi O
 ya O
 watu O
 milioni O
-3 O
-. O
-8 O
+3.8 O
 walioambukizwa O
 na O
-COVID O
-- O
-19 O
+COVID-19 O
 , O
 na O
 vifo O
@@ -44035,7 +44025,7 @@ zaidi O
 ya O
 140 O
 , O
-0 O
+000 O
 wakati O
 takwimu O
 za O
@@ -45049,7 +45039,7 @@ ya O
 wakimbizi O
 52 O
 , O
-0 O
+000 O
 walikuwa O
 wamekimbilia O
 kwenye O
@@ -45735,7 +45725,7 @@ kuhamisha O
 wakimbizi O
 100 O
 , O
-0 O
+000 O
 kwenda O
 Bhasan B-LOC
 Char I-LOC
@@ -48718,7 +48708,7 @@ kupiga O
 kura O
 . O
 
-"""" O
+" O
 Kumbukeni O
 mwaka O
 2016 B-DATE
@@ -48726,7 +48716,7 @@ wakati O
 Trump B-PER
 alipoulizwa O
 , O
-"""" O
+" O
 una O
 kitu O
 gani O
@@ -48734,7 +48724,7 @@ cha O
 kupoteza O
 ? O
 , O
-"""" O
+' O
 ndiyo O
 , O
 hivi O
@@ -49404,10 +49394,10 @@ gari O
 la O
 umma O
 maarufu O
-"""" O
+' O
 dala O
 dala O
-"""" O
+' O
 kusafiri O
 ili O
 asitambuliwe O
@@ -49885,7 +49875,7 @@ kufikia O
 watu O
 50 O
 , O
-0 O
+000 O
 Imetayarishwa O
 na O
 Kennes B-PER
@@ -51219,15 +51209,13 @@ ya O
 watu O
 70 O
 , O
-0 O
+000 O
 waliokufa O
 wakati O
 ndege O
 ya O
 kivita O
-B O
-- O
-29 O
+B-29 O
 Bockscar O
 ilipoangusha O
 bomu O
@@ -51239,18 +51227,16 @@ ya O
 plutonium O
 lenye O
 tani O
-4 O
-. O
-5 O
+4.5 O
 , O
 ambalo O
 lilipewa O
 jina O
 la O
-"""" O
+" O
 Fat O
 Man O
-"""" O
+" O
 katika O
 mji O
 huo O
@@ -51861,9 +51847,7 @@ tatu O
 la O
 maambukizi O
 ya O
-Covi O
-- O
-19 O
+Covi-19 O
 na O
 kwamba O
 idadi O
@@ -51880,7 +51864,7 @@ wakati O
 kesi O
 474 O
 , O
-0 O
+000 O
 zikiripotiwa O
 kuanzia O
 Juni B-DATE

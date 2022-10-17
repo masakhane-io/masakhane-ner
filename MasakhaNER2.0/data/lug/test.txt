@@ -539,7 +539,7 @@ Olutalo O
 terusobola O
 kulangirirwa O
 nti O
-luwedde' O
+'luwedde' O
 okuggyako O
 nga O
 Joseph B-PER
@@ -4250,7 +4250,7 @@ eya O
 nga O
 2007 B-DATE
 / I-DATE
-8 I-DATE
+08 I-DATE
 - O
 2009 B-DATE
 / I-DATE
@@ -4658,7 +4658,7 @@ g'ababundabunda O
 n'abanoonyiboobubudamu O
 50 O
 , O
-0 O
+000 O
 . O
 
 Okumu B-PER
@@ -8128,13 +8128,13 @@ kusasulira O
 Zino O
 za O
 MTN B-ORG
-800299922396 O
+0800299922396 O
 , O
-800299922397 O
+0800299922397 O
 , O
-80029992239 O
+080029992239 O
 ne O
-414598067 O
+0414598067 O
 eya O
 UTL B-ORG
 . O
@@ -10156,7 +10156,7 @@ nga O
 Ogwomusanvu I-DATE
 okutuuka O
 nga O
-5 B-DATE
+05 B-DATE
 Ogwomunaana I-DATE
 2010 I-DATE
 , O
@@ -11665,7 +11665,7 @@ gw'omunaana B-DATE
 27 I-DATE
 - I-DATE
 ogw'omwenda I-DATE
-2 I-DATE
+02 I-DATE
 , I-DATE
 2010 I-DATE
 , O
@@ -14047,7 +14047,7 @@ Ogwomunaana I-DATE
 okutuuka O
 Ogwomwenda B-DATE
 nga I-DATE
-2 I-DATE
+02 I-DATE
 , I-DATE
 2010 I-DATE
 , O
@@ -15034,7 +15034,7 @@ nga O
 Ogwomunaana I-DATE
 okutuuka I-DATE
 nga I-DATE
-2 I-DATE
+02 I-DATE
 Ogwomwenda I-DATE
 2010 I-DATE
 , O
@@ -15238,7 +15238,7 @@ nga O
 Ogwomunaana I-DATE
 okutuuka I-DATE
 nga I-DATE
-2 I-DATE
+02 I-DATE
 Ogwomwenda I-DATE
 2010 I-DATE
 , O
@@ -19561,7 +19561,7 @@ nga O
 Ogwomusanvu I-DATE
 okutuuka O
 nga O
-5 B-DATE
+05 B-DATE
 Ogwomunaana I-DATE
 , I-DATE
 2010 I-DATE
@@ -19990,7 +19990,7 @@ nga O
 Ogwomusanvu I-DATE
 okutuuka O
 nga O
-5 B-DATE
+05 B-DATE
 Ogwomunaana I-DATE
 , I-DATE
 2010 I-DATE
@@ -22531,8 +22531,10 @@ Fahrenheit O
 Dokyumentale O
 endala O
 eyitibwa O
+' O
 Loose O
-Change' O
+Change O
+' O
 kya O
 nnaku O
 nti O

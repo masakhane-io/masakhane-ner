@@ -588,11 +588,11 @@ pú O
 zhyə́ O
 nə̂ O
 Wazâp B-ORG
-"""" O
+' O
 dekonɔ́ŋ O
 ɛŋ O
 pê O
-"""" O
+' O
 
 Ekinɔ́ks B-ORG
 Yɔ̂júʼ I-ORG
@@ -35370,7 +35370,6 @@ km2 O
 pú O
 a O
 103 O
-. O
 296 O
 pəcwə̂ O
 nə́ O
@@ -35509,17 +35508,14 @@ tsaə O
 Duálá B-LOC
 1 O
 861 O
-. O
 463 O
 pɔ̀mnə̀ŋ O
 , O
 20 O
-. O
 248 O
 km2 O
 , O
 04 O
-. O
 9193 O
 pəcwə̂ O
 nə́ O
@@ -35593,23 +35589,18 @@ bînàm I-LOC
 tsaə O
 Bamɛnda B-LOC
 1 O
-. O
 702 O
-. O
 559 O
 pɔ̀mnə̀ŋ O
 , O
 17 O
-. O
 300 O
 Km2 O
 , O
 pəcwə̂ O
 nə O
 km2 O
-. O
 07 O
-. O
 9841 O
 . O
 
@@ -35686,14 +35677,11 @@ Sîsǐ I-LOC
 Tsaə O
 Buea B-LOC
 1 O
-. O
 153 O
-. O
 125 O
 pɔ̀mnə̀ŋ O
 , O
 25 O
-. O
 410 O
 km2 O
 pú O
@@ -38655,9 +38643,8 @@ Jean B-PER
 Pierre I-PER
 Kouli I-PER
 yə O
-ŋkhô O
+ŋkhô' O
 , O
-"""" O
 ŋkaʼ B-DATE
 18 I-DATE
 tə̌ O
@@ -39129,8 +39116,7 @@ á O
 bə́ O
 hyppodrome B-LOC
 â O
-tyə̂ B-DATE
-"""" I-DATE
+tyə̂' B-DATE
 25 I-DATE
 sûnè I-DATE
 
@@ -47350,8 +47336,7 @@ Yə̌ŋ O
 cútə̀ O
 yə́ O
 Bird B-ORG
-"""" I-ORG
-IDA I-ORG
+'IDA I-ORG
 IFC I-ORG
 gə́ O
 Miga B-ORG

@@ -30,13 +30,11 @@ siku O
 ya O
 vifo O
 vya O
-COVID O
-- O
-19 O
+COVID-19 O
 ilizidi O
 2 O
 , O
-0 O
+000 O
 kwa O
 mara O
 ya O
@@ -53,7 +51,7 @@ wagonjwa O
 kulazwa O
 87 O
 , O
-0 O
+000 O
 iliripotiwa O
 Jumanne B-DATE
 wakati O
@@ -62,9 +60,7 @@ ikirekodi O
 maambukizo O
 mapya O
 milioni O
-2 O
-. O
-3 O
+2.3 O
 katika O
 wiki B-DATE
 mbili I-DATE
@@ -345,16 +341,14 @@ waloambukizi O
 na O
 ugonjwa O
 wa O
-COVID O
-- O
-19 O
+COVID-19 O
 nchini O
 Afrika B-LOC
 Kusini I-LOC
 imevuka O
 500 O
 , O
-0 O
+000 O
 baada O
 ya O
 siku O
@@ -424,14 +418,12 @@ ya O
 watu O
 503 O
 , O
-0 O
+000 O
 wenye O
 kuuguwa O
 ugonjwa O
 wa O
-COVID O
-- O
-19 O
+COVID-19 O
 . O
 
 Takwimu O
@@ -620,7 +612,7 @@ wanasema O
 watu O
 7 O
 , O
-0 O
+000 O
 wamepoteza O
 makazi O
 yay O
@@ -1223,7 +1215,7 @@ maambukizi O
 mapya O
 50 O
 , O
-0 O
+000 O
 . O
 
 Majimbo O
@@ -1307,7 +1299,7 @@ wanasema O
 watu O
 10 O
 , O
-0 O
+000 O
 huko O
 Victoria B-LOC
 wamekataa O
@@ -1329,12 +1321,12 @@ kweli O
 na O
 kuwa O
 ni O
-"""" O
+" O
 nadharia O
 za O
 uzushi O
 . O
-"""" O
+" O
 
 Gazeti O
 la O
@@ -1369,7 +1361,7 @@ lenye O
 watu O
 300 O
 , O
-0 O
+000 O
 katika O
 jamii O
 yenye O
@@ -1390,7 +1382,7 @@ maambukizi O
 mapya O
 21 O
 , O
-0 O
+000 O
 kwa O
 siku O
 ya O
@@ -1416,7 +1408,7 @@ cha O
 maambukizi O
 100 O
 , O
-0 O
+000 O
 katika O
 siku O
 nne O
@@ -1440,11 +1432,9 @@ zaidi O
 ya O
 625 O
 , O
-0 O
+000 O
 ya O
-COVID O
-- O
-19 O
+COVID-19 O
 . O
 
 Afrika B-LOC
@@ -1819,7 +1809,7 @@ karibu O
 dola O
 36 O
 , O
-0 O
+000 O
 , O
 wakati O
 walalamikaji O
@@ -2141,7 +2131,7 @@ ililipa O
 gharama O
 . O
 
-"""" O
+" O
 Gharama O
 za O
 uharibifu O
@@ -2174,12 +2164,12 @@ dola O
 $ O
 36 O
 , O
-0 O
+000 O
 ) O
 kila O
 mmoja O
 wao O
-"""" O
+" O
 aliongeza O
 Nyamu B-PER
 . O
@@ -2361,7 +2351,7 @@ hadi O
 Euros O
 30 O
 , O
-0 O
+000 O
 wakipatikana O
 na O
 hatia O
@@ -2970,7 +2960,7 @@ humo O
 watu O
 6 O
 , O
-0 O
+000 O
 wameuliwa O
 katika O
 jimbo O
@@ -4018,7 +4008,7 @@ ziliongezeka O
 kufikia O
 978 O
 , O
-0 O
+000 O
 mwezi O
 uliopita O
 , O
@@ -4028,7 +4018,7 @@ kuongezeka O
 hadi O
 916 O
 , O
-0 O
+000 O
 mwezi O
 Machi B-DATE
 . O
@@ -4891,7 +4881,7 @@ Watoto O
 wasiopungua O
 2 O
 , O
-0 O
+000 O
 tangu O
 wakati O
 huo O
@@ -6701,7 +6691,7 @@ pekee O
 hayatoshi O
 . O
 
-"""" O
+" O
 Tunataka O
 makubalino O
 haya O
@@ -6718,7 +6708,7 @@ wanawake O
 kuwa O
 sheria O
 , O
-"""" O
+" O
 amesema O
 Deqa B-PER
 Abdiqasim I-PER
@@ -6731,11 +6721,11 @@ la O
 wanawake O
 kwa O
 jina O
-"""" O
+' O
 Hear B-ORG
 Women I-ORG
+' O
 , O
-"""" O
 yaani O
 , O
 msikilize O
@@ -7584,7 +7574,7 @@ ya O
 watu O
 380 O
 , O
-0 O
+000 O
 na O
 kuwakosesha O
 makazi O
@@ -8092,7 +8082,7 @@ ya O
 kesi O
 1 O
 , O
-0 O
+000 O
 kwa O
 siku O
 wakati O
@@ -8218,7 +8208,7 @@ tayari O
 imefikia O
 1 O
 , O
-60 O
+060 O
 . O
 
 Kampala B-LOC
@@ -8462,13 +8452,11 @@ ilipokea O
 dozi O
 964 O
 , O
-0 O
+000 O
 za O
 chanjo O
 ya O
-COVID O
-- O
-19 O
+COVID-19 O
 kutoka O
 kwa O
 kituo O
@@ -8479,7 +8467,7 @@ na O
 dozi O
 100 O
 , O
-0 O
+000 O
 kutoka O
 India B-LOC
 . O
@@ -8492,7 +8480,7 @@ karibu O
 watu O
 550 O
 , O
-0 O
+000 O
 wamepewa O
 chanjo O
 ya O
@@ -9945,9 +9933,9 @@ ulimfaya O
 akapewa O
 jina O
 la O
-"""" O
+' O
 Bulldozer B-PER
-"""" O
+' O
 lakini O
 mtetezi O
 mkubwa O
@@ -10246,17 +10234,17 @@ akiwa O
 na O
 msemo O
 wa O
-"""" O
+' O
 kutumbua O
 majipu O
-"""" O
+' O
 na O
-"""" O
+' O
 hapa O
 kazi O
 tu O
+' O
 . O
-"""" O
 
 """" O
 Nachukia O
@@ -14006,7 +13994,7 @@ ya O
 maambukizi O
 75 O
 , O
-0 O
+000 O
 . O
 
 Ikiwa O
@@ -14015,9 +14003,7 @@ idadi O
 ya O
 watu O
 bilioni O
-1 O
-. O
-4 O
+1.4 O
 , O
 India B-LOC
 ni O
@@ -14041,16 +14027,14 @@ ikiwa O
 na O
 maambukizi O
 milioni O
-3 O
-. O
-5 O
+3.5 O
 na O
 vifo O
 zaidi O
 ya O
 63 O
 , O
-0 O
+000 O
 , O
 kwa O
 mujibu O
@@ -14167,22 +14151,20 @@ waandamanaji O
 wapatao O
 1 O
 , O
-0 O
+000 O
 wakitilia O
 mashaka O
 kanuni O
 zilizowekwa O
 kudhibiti O
-COVID O
-- O
-19 O
+COVID-19 O
 walidai O
-"""" O
+" O
 kurejeshwa O
 kwa O
 uhuru O
 . O
-"""" O
+" O
 
 Chuo B-ORG
 Kikuu I-ORG
@@ -14200,9 +14182,7 @@ maambukizi O
 milioni O
 25 O
 ya O
-COVID O
-- O
-19 O
+COVID-19 O
 duniani O
 . O
 
@@ -14792,7 +14772,7 @@ wa O
 Ethiopia B-LOC
 52 O
 , O
-0 O
+000 O
 kukimbilia O
 Sudan B-LOC
 , O
@@ -16210,7 +16190,7 @@ watu O
 takriban O
 100 O
 , O
-0 O
+000 O
 kukosa O
 makazi O
 mjini O
@@ -17823,7 +17803,7 @@ Kifungu O
 hicho O
 kinasema O
 , O
-"""" O
+' O
 Muundo O
 wa O
 Serikali O
@@ -17856,7 +17836,7 @@ la O
 kufikia O
 demokrasia O
 . O
-"""" O
+' O
 
 Pia O
 Rais O
@@ -17870,10 +17850,7 @@ chini O
 ya O
 kifungu O
 Namba O
-39 O
-( O
-3 O
-) O
+39(3) O
 cha O
 Katiba O
 ya O
@@ -19111,7 +19088,7 @@ cha O
 Floyd B-PER
 , O
 ni O
-"""" O
+" O
 ni O
 kielelezo O
 cha O
@@ -19120,12 +19097,12 @@ tulioko O
 katika O
 historia O
 . O
-"""" O
+" O
 
 Amesema O
 kiliwasukuma O
 watu O
-"""" O
+" O
 wa O
 rangi O
 na O
@@ -19138,7 +19115,7 @@ na O
 kudai O
 maelezo O
 , O
-"""" O
+' O
 Vipi O
 binadamu O
 anaweza O
@@ -19147,8 +19124,8 @@ risasi O
 mara O
 41 O
 ? O
-"""" O
-"""" O
+' O
+" O
 
 Kati O
 ya O
@@ -19244,12 +19221,12 @@ mwezi O
 May B-DATE
 . O
 
-"""" O
+' O
 Niliomba O
 watu O
 wawe O
 watulivu O
-"""" O
+' O
 Wakati O
 hukumu O
 ilipotangazwa O
@@ -19284,11 +19261,11 @@ anakumbuka O
 hilo O
 . O
 
-"""" O
+" O
 Niliwaambia O
 wote O
 , O
-"""" O
+' O
 Uvunjifu O
 wa O
 amani O
@@ -19307,7 +19284,7 @@ mkubwa O
 wa O
 amani O
 . O
-"""" O
+' O
 
 Lakini O
 niliendelea O
@@ -19574,7 +19551,7 @@ ya O
 dola O
 9 O
 , O
-0 O
+000 O
 na O
 amejiandikisha O
 kujiunga O
@@ -20117,7 +20094,7 @@ ilipopata O
 dozi O
 864 O
 , O
-0 O
+000 O
 , O
 mwanzoni O
 mwa O
@@ -20714,22 +20691,18 @@ takriban O
 watu O
 690 O
 , O
-0 O
+000 O
 na O
 kuambukiza O
 watu O
 wasiopungua O
 milioni O
-18 O
-. O
-1 O
+18.1 O
 tangu O
 mlipuko O
 wa O
 ugonjwa O
-COVID O
-- O
-19 O
+COVID-19 O
 kutokea O
 huko O
 Wuhan B-LOC
@@ -25054,9 +25027,7 @@ na O
 sheria O
 za O
 kudhibiti O
-COVID O
-- O
-19 O
+COVID-19 O
 , O
 watu O
 wataoruhusiwa O
@@ -25600,7 +25571,7 @@ Watu O
 wasiopungua O
 3 O
 , O
-0 O
+000 O
 wamekimbia O
 kutoka O
 maeneo O

@@ -4426,7 +4426,7 @@ kana O
 kuti O
 720 O
 , O
-0 O
+000 O
 . O
 
 Huwandu O
@@ -4492,7 +4492,7 @@ kana O
 kuti O
 162 O
 , O
-0 O
+000 O
 . O
 
 Pasi O
@@ -4515,7 +4515,7 @@ kana O
 kuti O
 727 O
 , O
-0 O
+000 O
 . O
 
 Vapora O
@@ -6791,17 +6791,11 @@ kwese O
 , O
 peturu O
 ichiita O
-$ O
-10 O
-. O
-1 O
+$10.1 O
 , O
 dhiziri O
 richiita O
-$ O
-10 O
-. O
-32 O
+$10.32 O
 . O
 
 Ukuvo O
@@ -7141,11 +7135,9 @@ kana O
 kuti O
 871 O
 , O
-0 O
+000 O
 vabatwa O
-neCovid O
-- O
-19 O
+neCovid-19 O
 muAfrica B-LOC
 yose O
 . O
@@ -7180,7 +7172,7 @@ kana O
 kuti O
 523 O
 , O
-0 O
+000 O
 . O
 
 Pasi O
@@ -7235,7 +7227,7 @@ kana O
 kuti O
 662 O
 , O
-0 O
+000 O
 . O
 
 America B-LOC
@@ -7254,7 +7246,7 @@ kana O
 kuti O
 150 O
 , O
-0 O
+000 O
 . O
 
 Vamwe O
@@ -7812,7 +7804,7 @@ pasi O
 rose O
 musi O
 wa O
-2 B-DATE
+02 B-DATE
 Kubvumbi I-DATE
 gore O
 rogaroga O
@@ -16374,7 +16366,7 @@ kuti O
 84 B-DATE
 . O
 
-2 B-DATE
+02 B-DATE
 seconds I-DATE
 Katinka B-PER
 Hosszu I-PER
@@ -17809,7 +17801,7 @@ nemasere O
 kana O
 kuti O
 78 O
-0 O
+000 O
 . O
 
 Kukwira O
@@ -17880,7 +17872,7 @@ nemasere O
 kana O
 kuti O
 188 O
-0 O
+000 O
 , O
 zvinhu O
 zvinogona O
@@ -17927,7 +17919,7 @@ kana O
 kuti O
 463 O
 , O
-0 O
+000 O
 vabatwa O
 nechirwere O
 checoronavirus O
@@ -17946,7 +17938,7 @@ kana O
 kuti O
 11 O
 , O
-86 O
+086 O
 . O
 
 Vapora O
@@ -17961,7 +17953,7 @@ kana O
 kuti O
 222 O
 , O
-0 O
+000 O
 . O
 
 Huwandu O
@@ -18027,7 +18019,7 @@ kana O
 kuti O
 129 O
 , O
-0 O
+000 O
 , O
 vabatwa O
 nechirwere O
@@ -18063,7 +18055,7 @@ kana O
 kuti O
 531 O
 , O
-0 O
+000 O
 . O
 
 Vapora O
@@ -18860,7 +18852,7 @@ katatu O
 , O
 DRC B-LOC
 , O
-C??te B-LOC
+Côte B-LOC
 d'Ivoire I-LOC
 , O
 Sudan B-LOC
@@ -29650,7 +29642,7 @@ kurova O
 vanhu O
 . O
 
-"""" O
+" O
 Tinokuridzira O
 hurumende B-ORG
 yeZimbabwe I-ORG
@@ -29658,10 +29650,10 @@ kuti O
 kana O
 vachiti O
 kune O
-"""" O
+' O
 new O
 dispensation O
-"""" O
+' O
 ngavaitewo O
 saizvozvo O
 vamise O
@@ -29676,7 +29668,7 @@ vanhu O
 vezvematongerwo O
 enyika O
 , O
-"""" O
+" O
 VaMavhinga B-PER
 vaudza O
 Studio7 B-ORG
@@ -30897,7 +30889,7 @@ nemusi O
 weMuvhuro B-DATE
 , I-DATE
 Gumiguru I-DATE
-7 I-DATE
+07 I-DATE
 , I-DATE
 2019 I-DATE
 , O
@@ -37375,7 +37367,7 @@ Nhare O
 dzesangano O
 iri O
 dzinoti O
-782 O
+0782 O
 640 O
 840 O
 . O

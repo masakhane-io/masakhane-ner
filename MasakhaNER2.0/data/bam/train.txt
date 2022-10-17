@@ -35454,8 +35454,7 @@ sɛputanburu I-DATE
 ma O
 . O
 
-A O
-"""" O
+A' O
 y'a O
 kalan O
 nin O
@@ -35519,7 +35518,6 @@ hakɛ O
 15 O
 424 O
 130 O
-. O
 717 O
 ma O
 ( O
@@ -36269,7 +36267,7 @@ olu O
 ka O
 ca O
 
-"""" O
+« O
 http O
 : O
 / O
@@ -36285,11 +36283,11 @@ h O
 111364 O
 . O
 Htlm O
-"""" O
-"""" O
+» O
+' O
 HIPƐRILƐNKI O
 
-"""" O
+« O
 https O
 : O
 news O
@@ -36303,7 +36301,7 @@ h O
 111364 O
 . O
 htlm O
-"""" O
+» O
 
 sigifɛn O
 minnu O
@@ -47088,7 +47086,7 @@ bɛnkansariya O
 kan O
 . O
 
-"""" O
+' O
 O O
 labɛnkɛcogo O
 bɛna O
@@ -47116,7 +47114,7 @@ lasɔrɔliko O
 hukumu O
 bakuruba O
 kofɔ O
-"""" O
+' O
 a O
 y'o O
 dantigɛ O
@@ -52066,9 +52064,8 @@ O O
 kɔfɛ O
 , O
 a O
-y O
-"""" O
-"""" O
+y' O
+« O
 a O
 ka O
 baaraɲɔgɔnya O
@@ -52077,8 +52074,8 @@ di O
 a O
 sɛgɛsɛgɛli O
 la O
+» O
 , O
-"""" O
 FIBA B-ORG
 y'o O
 dantigɛ O
@@ -89671,9 +89668,8 @@ Gindo I-PER
 ɲɛna O
 , O
 n O
-"""" O
-"""" O
-o O
+» O
+'o O
 ye O
 Sifinnakanw O
 ni O
@@ -99638,8 +99634,7 @@ ka O
 lujura O
 layɛlɛ O
 ( O
-"""" O
-2 O
+'2 O
 . O
 
 Tuma O
@@ -101791,8 +101786,7 @@ bɛ O
 waati O
 caman O
 kɛ O
-n O
-"""" O
+n' O
 a O
 ka O
 baganw O
@@ -105198,8 +105192,7 @@ Fɔrɔn O
 pɔpulɛri O
 iwɔriyɛn O
 tun O
-y O
-"""" O
+y' O
 a O
 ɲini O
 mɛsi O

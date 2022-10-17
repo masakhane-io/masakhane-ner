@@ -751,7 +751,7 @@ osalekeza O
 
 Anthu O
 145 O
-0 O
+000 O
 adakhudzidwa O
 mmaboma O
 6 O
@@ -774,7 +774,7 @@ lokula O
 ndi O
 mahekitala O
 64 O
-0 O
+000 O
 lidakokoloka O
 . O
 Kutsatira O
@@ -2330,7 +2330,7 @@ ya O
 ndalama O
 zokwana O
 K75 O
-0 O
+000 O
 , O
 yomwe O
 idzakhale O
@@ -2385,7 +2385,7 @@ kupereka O
 ndalama O
 zokwana O
 K5 O
-0 O
+000 O
 kuti O
 awalumikizire O
 magetsi O
@@ -5429,11 +5429,11 @@ wa O
 Blantyre B-LOC
 amalipira O
 K3 O
-0 O
+000 O
 ena O
 mpaka O
 K4 O
-0 O
+000 O
 kwa O
 mfumu O
 Zingwangwa B-LOC
@@ -6483,7 +6483,7 @@ akundimangira O
 pamtengo O
 wa O
 K130 O
-0 O
+000 O
 . O
 Achibale O
 ndiwo O
@@ -6513,7 +6513,7 @@ kuti O
 boma O
 liwapatsa O
 K190 O
-0 O
+000 O
 aliyense O
 yomangira O
 nyumba O
@@ -6527,13 +6527,13 @@ yomangira O
 nyumba O
 ndi O
 K380 O
-0 O
+000 O
 koma O
 adati O
 ife O
 tidzabweza O
 K190 O
-0 O
+000 O
 , O
 boma O
 lidzaikaponso O
@@ -6647,11 +6647,11 @@ Ndalama O
 yake O
 ndi O
 K50 O
-0 O
+000 O
 , O
 osati O
 K190 O
-0 O
+000 O
 , O
 monga O
 akukambira O
@@ -6675,7 +6675,7 @@ womanga O
 ife O
 tikumangopereka O
 K50 O
-0 O
+000 O
 yoti O
 amangire O
 . O
@@ -8846,7 +8846,7 @@ kuti O
 amalandira O
 zosaposa O
 K250 O
-0 O
+000 O
 . O
 Bodza O
 inu O
@@ -9119,7 +9119,7 @@ amadula O
 pamtengo O
 wa O
 K9 O
-0 O
+000 O
 ati O
 chifukwa O
 akakuswera O
@@ -9127,7 +9127,7 @@ pamene O
 wamphongo O
 amapanga O
 K8 O
-0 O
+000 O
 . O
 
 Mkuluyu O
@@ -12490,7 +12490,7 @@ Timasunga O
 odwala O
 pafupifupi O
 1 O
-0 O
+000 O
 patsiku O
 ndiye O
 ena O
@@ -13232,7 +13232,7 @@ yanga O
 yoyamba O
 ndidagula O
 K130 O
-0 O
+000 O
 ndipo O
 ndakhala O
 ndikuonjezera O
@@ -13419,7 +13419,7 @@ ndalama O
 zokwana O
 pafupifupi O
 K500 O
-0 O
+000 O
 pamwezi O
 . O
 
@@ -13659,17 +13659,17 @@ pamtengo O
 wapakati O
 pa O
 K250 O
-0 O
+000 O
 ndi O
 K300 O
-0 O
+000 O
 . O
 Ikakhala O
 yabere O
 imafika O
 mpaka O
 K400 O
-0 O
+000 O
 . O
 
 Ndi O
@@ -13726,7 +13726,7 @@ la O
 deya O
 tim0agula O
 K6 O
-0 O
+000 O
 . O
 Ngakhale O
 
@@ -14335,13 +14335,13 @@ nyama O
 chomwe O
 ndi O
 K21 O
-0 O
+000 O
 , O
 chipinda O
 chogulitsira O
 timalipira O
 K17 O
-0 O
+000 O
 pamwezi O
 , O
 koma O
@@ -24113,7 +24113,7 @@ boma O
 
 liziwapatsa O
 K50 O
-0 O
+000 O
 pamwezi O
 . O
 
@@ -25372,7 +25372,7 @@ ma O
 treadle O
 pump O
 4 O
-0 O
+000 O
 othandizira O
 alimi O
 mmadera O
@@ -26711,7 +26711,7 @@ ngombezo O
 pamtengo O
 wa O
 K10 O
-0 O
+000 O
 thumba O
 la O
 makilogalamu O
@@ -29243,20 +29243,20 @@ lili O
 ndi O
 ngombe O
 40 O
-0 O
+000 O
 , O
 mbuzi O
 147 O
-0 O
+000 O
 , O
 nkhosa O
 3 O
-0 O
+000 O
 ndi O
 nkhumba O
 zoposa O
 20 O
-0 O
+000 O
 . O
 
 Boma O
@@ -31995,7 +31995,7 @@ player O
 aliyense O
 asayinire O
 K100 O
-0 O
+000 O
 kwa O
 zaka O
 zitatu O
@@ -32004,7 +32004,7 @@ zoona O
 zimenezo O
 ? O
 K100 O
-0 O
+000 O
 ndi O
 chiyani O
 kwa O
@@ -32028,7 +32028,7 @@ ndimafuna O
 anakana O
 kusayinira O
 K100 O
-0 O
+000 O
 ndipo O
 anapita O
 ndiye O
@@ -33923,7 +33923,7 @@ chifukwa O
 adali O
 ndi O
 K43 O
-0 O
+000 O
 yomwe O
 adatolera O
 tsiku O
@@ -33993,7 +33993,7 @@ Nyirongo B-PER
 kuti O
 ampatsa O
 K10 O
-0 O
+000 O
 ngati O
 mkazi O
 wakeyo O
@@ -38676,7 +38676,7 @@ ntchitoyi O
 ndipo O
 anthu O
 450 O
-0 O
+000 O
 okha O
 ndiwo O
 apindule O
@@ -43507,7 +43507,7 @@ matumba O
 . O
 Mabanja O
 2 O
-0 O
+000 O
 ndiwo O
 amadalira O
 Admarc B-ORG
@@ -43592,7 +43592,7 @@ chatha I-DATE
 agulitsa O
 matani O
 26 O
-0 O
+000 O
 a O
 chimanga O
 . O
@@ -43645,7 +43645,7 @@ boma O
 lidagula O
 matani O
 30 O
-0 O
+000 O
 a O
 chimanga O
 mdziko O
@@ -44709,7 +44709,7 @@ mtengo O
 wotsikitsitsa O
 ndi O
 K150 O
-0 O
+000 O
 ngombe O
 imodzi O
 mtengo O
@@ -48217,17 +48217,17 @@ a O
 pachaka O
 , O
 K47 O
-0 O
+000 O
 , O
 ndidabwerera O
 kumudzi O
 kuno O
 . O
+
 Ndidagula O
 njinga O
 ndipo O
 ndakhala O
-
 ndikuchita O
 izi O
 kwa O
@@ -48386,13 +48386,13 @@ pano O
 chapamudzi O
 ndi O
 K7 O
-0 O
+000 O
 pomwe O
 ya O
 chitengwa O
 ndi O
 K5 O
-0 O
+000 O
 . O
 
 Cholinga O
@@ -52196,7 +52196,7 @@ wake O
 pamtengo O
 wa O
 K550 O
-0 O
+000 O
 . O
 Evance B-PER
 Green I-PER
@@ -52423,7 +52423,7 @@ munthuyo O
 pamtengo O
 wa O
 K500 O
-0 O
+000 O
 ndipo O
 kuti O
 ayamba O
@@ -58246,7 +58246,7 @@ pafupifupi O
 anthu O
 okwana O
 11 O
-0 O
+000 O
 omwe O
 athawa O
 nkhondo O
@@ -58269,7 +58269,7 @@ kuli O
 anthu O
 pafupifupi O
 10 O
-0 O
+000 O
 ndipo O
 akuyembekezeranso O
 kusamutsidwa O
@@ -65622,7 +65622,7 @@ adalipira O
 ndalama O
 zokwana O
 K120 O
-0 O
+000 O
 atakopedwa O
 ndi O
 zomwe O
@@ -65695,7 +65695,7 @@ atalipira O
 ndalama O
 zokwana O
 K50 O
-0 O
+000 O
 . O
 
 Koma O
@@ -70092,7 +70092,7 @@ zikutsalima O
 , O
 pamene O
 65 O
-0 O
+000 O
 kumeneko O
 zili O
 pachiopsezo O
@@ -71712,7 +71712,7 @@ kumubera O
 ndalama O
 zokwana O
 K103 O
-0 O
+000 O
 , O
 komanso O
 kumuopseza O
@@ -71835,7 +71835,7 @@ chitaka O
 ponena O
 kuti O
 K76 O
-0 O
+000 O
 yake O
 yasowa O
 . O
@@ -71848,7 +71848,7 @@ zonse O
 ndipo O
 ndidatulutsa O
 K103 O
-0 O
+000 O
 yomwe O
 ndidali O
 nayo O
@@ -72119,7 +72119,7 @@ ndipo O
 ndalama O
 zonse O
 K103 O
-0 O
+000 O
 adandibwezera O
 . O
 Pamenepa O
@@ -73492,7 +73492,7 @@ Ma O
 Paramount O
 amalandira O
 K50 O
-0 O
+000 O
 , O
 Senior O
 Chief O
@@ -75353,7 +75353,7 @@ wa O
 njerwa O
 zokwana O
 100 O
-0 O
+000 O
 ndipo O
 akuthawa O
 , O
@@ -75954,7 +75954,7 @@ nkhani O
 idagona O
 pa O
 K200 O
-0 O
+000 O
 ya O
 banki O
 nkhonde O
@@ -79264,10 +79264,10 @@ cha O
 pakati O
 pa O
 K22 O
-0 O
+000 O
 ndi O
 K23 O
-0 O
+000 O
 . O
 
 Choncho O
@@ -80105,7 +80105,7 @@ ndi O
 ndalama O
 zoposa O
 K200 O
-0 O
+000 O
 mmudzi O
 mwa O
 Mnozga B-PER
@@ -81568,7 +81568,7 @@ chifukwa O
 mnyumbamo O
 mudali O
 K280 O
-0 O
+000 O
 ya O
 bizinesi O
 komaso O
@@ -81922,7 +81922,7 @@ ndidagula O
 pamtengo O
 wa O
 K1 O
-0 O
+000 O
 . O
 Uyuyu O
 ndiye O
@@ -87735,33 +87735,33 @@ embalming O
 tsopano O
 ndi O
 K50 O
-0 O
+000 O
 kuchoka O
 pa O
 K10 O
-0 O
+000 O
 , O
 kusunga O
 usiku B-DATE
 umodzi O
 ndi O
 K10 O
-0 O
+000 O
 kuchoka O
 pa O
 K1 O
-0 O
+000 O
 pamene O
 kusambitsa O
 ndi O
 kuveka O
 ndi O
 K15 O
-0 O
+000 O
 kuchoka O
 pa O
 K10 O
-0 O
+000 O
 . O
 
 China O
@@ -87935,7 +87935,7 @@ lamuliro O
 akuti O
 adzalipa O
 K50 O
-0 O
+000 O
 . O
 
 Nkhawa O
@@ -88371,7 +88371,7 @@ ayenera O
 kuthandiza O
 anthu O
 10 O
-0 O
+000 O
 , O
 ku O
 Malawi B-LOC
@@ -88381,7 +88381,7 @@ awiri O
 amathandiza O
 odwala O
 100 O
-0 O
+000 O
 . O
 
 Ndipo O
@@ -99213,7 +99213,7 @@ nyumba O
 kaamba O
 ka O
 K2 O
-0 O
+000 O
 Mkulu O
 wina O
 ku O
@@ -99236,7 +99236,7 @@ cha O
 ngongole O
 ya O
 K2 O
-0 O
+000 O
 . O
 
 Escom B-ORG
@@ -99349,7 +99349,7 @@ ndi O
 ngongole O
 ya O
 K2 O
-0 O
+000 O
 ya O
 womangidwayu O
 yomwe O
@@ -99371,7 +99371,7 @@ womangidwawa O
 komanso O
 kubweza O
 K2 O
-0 O
+000 O
 , O
 zomwe O
 zidakwiyitsa O
@@ -104546,16 +104546,16 @@ ndili O
 ndi O
 mbande O
 5 O
-0 O
+000 O
 za O
 mango O
 , O
 3 O
-0 O
+000 O
 mapapaya O
 ndipo O
 2 O
-0 O
+000 O
 magwafa O
 zomwe O
 ndayamba O
@@ -107266,13 +107266,13 @@ la O
 feteleza O
 ndi O
 K23 O
-0 O
+000 O
 pomwe O
 la O
 chimanga O
 ndi O
 K5 O
-0 O
+000 O
 kutanthauza O
 kuti O
 mlimi O
@@ -107408,7 +107408,7 @@ feteleza O
 wokwana O
 matani O
 150 O
-0 O
+000 O
 omwe O
 yemwe O
 agawidwe O
@@ -107420,7 +107420,7 @@ ndipo O
 matani O
 okwana O
 3 O
-0 O
+000 O
 ndi O
 a O
 mbewu O
@@ -109931,7 +109931,7 @@ ya O
 anthu O
 oposa O
 400 O
-0 O
+000 O
 amene O
 amadalira O
 usodzi O
@@ -110052,7 +110052,7 @@ zimatulutsa O
 nsomba O
 zoposera O
 50 O
-0 O
+000 O
 tonnes O
 pachaka O
 , O
@@ -114697,7 +114697,7 @@ limayembekezereka O
 kumakolola O
 matani O
 20 O
-0 O
+000 O
 a O
 khofi O
 koma O
@@ -114920,7 +114920,7 @@ Padakalipano O
 alimi O
 pafupifupi O
 4 O
-0 O
+000 O
 ndiwo O
 akulima O
 mbewuyi O
@@ -120094,7 +120094,7 @@ ya O
 ndalama O
 zokwana O
 K50 O
-0 O
+000 O
 . O
 
 Ndiye O
@@ -120427,7 +120427,7 @@ amalandira O
 ndalama O
 zosaposera O
 K50 O
-0 O
+000 O
 asanaduleko O
 msonkho O
 . O
@@ -121074,7 +121074,7 @@ yathu O
 imalowa O
 mazira O
 30 O
-0 O
+000 O
 koma O
 chifukwa O
 cha O
@@ -121085,7 +121085,7 @@ sitikwanitsa O
 kuikamo O
 mazira O
 30 O
-0 O
+000 O
 , O
 mapeto O
 ake O
@@ -121099,7 +121099,7 @@ Lachiwiri I-DATE
 timatulutsa O
 anapiye O
 4 O
-0 O
+000 O
 . O
 Mavuto O
 enanso O
@@ -121158,7 +121158,7 @@ choti O
 sitiika O
 mazira O
 30 O
-0 O
+000 O
 monga O
 ilili O
 incubator O
@@ -131690,7 +131690,7 @@ chithe O
 Chimenechi O
 chikugulitsidwa O
 K10 O
-0 O
+000 O
 . O
 Chinachi O
 ndi O
@@ -131713,7 +131713,7 @@ nthawi O
 Mayiyu O
 timagulitsa O
 K15 O
-0 O
+000 O
 . O
 
 Mwathandizika O
@@ -135791,7 +135791,7 @@ mtengowu O
 wafika O
 pa O
 K8 O
-0 O
+000 O
 ndi O
 K7 O
 500 O
@@ -136026,12 +136026,12 @@ Ndowa O
 tikugula O
 K O
 3 O
-0 O
+000 O
 pamene O
 thumba O
 ndi O
 K9 O
-0 O
+000 O
 , O
 adatero O
 Kanduku B-PER
@@ -136062,7 +136062,7 @@ mbigili O
 pamtengo O
 wa O
 K1 O
-0 O
+000 O
 . O
 
 Zikatere O
@@ -138901,7 +138901,7 @@ Boma O
 litemera O
 ziweto O
 10 O
-0 O
+000 O
 Pofuna O
 kuthana O
 ndi O
@@ -138931,7 +138931,7 @@ ku O
 ziweto O
 zoposa O
 10 O
-0 O
+000 O
 mchigwa B-LOC
 cha I-LOC
 Shire I-LOC
@@ -140203,7 +140203,7 @@ ligule O
 pafupifupi O
 matani O
 100 O
-0 O
+000 O
 a O
 chimanga O
 kuti O
@@ -140241,7 +140241,7 @@ yatha I-DATE
 nkuti O
 matani O
 10 O
-0 O
+000 O
 a O
 chimanga O
 atalowa O
@@ -140254,7 +140254,7 @@ Zambia B-LOC
 pa O
 matani O
 35 O
-0 O
+000 O
 omwe O
 ligule O
 kuchokera O
@@ -142254,7 +142254,7 @@ za O
 mtengo O
 wa O
 K43 O
-0 O
+000 O
 . O
 
 Pa O
@@ -142308,7 +142308,7 @@ ndi O
 shuga O
 za O
 K320 O
-0 O
+000 O
 . O
 
 Pa O
@@ -142331,7 +142331,7 @@ ndi O
 zakugolosale O
 za O
 K72 O
-0 O
+000 O
 . O
 
 Iye O
@@ -142363,7 +142363,7 @@ ndi O
 mafoni O
 za O
 K100 O
-0 O
+000 O
 . O
 
 Mponela B-PER
@@ -142950,7 +142950,7 @@ apereke O
 chindapusa O
 cha O
 K90 O
-0 O
+000 O
 atawapeza O
 olakwa O
 pamlandu O
@@ -143063,7 +143063,7 @@ ndi O
 ndalama O
 zokwana O
 K700 O
-0 O
+000 O
 , O
 adatero O
 Chiona B-PER
@@ -143199,7 +143199,7 @@ chizimba O
 pamtengo O
 wa O
 K700 O
-0 O
+000 O
 chomwe O
 tidawapeza O
 nacho O
@@ -143404,7 +143404,7 @@ akhonsolowa O
 komanso O
 kumulipitsa O
 K5 O
-0 O
+000 O
 kaamba O
 kochita O
 malonda O
@@ -143434,7 +143434,7 @@ mmiyendomu O
 ndipo O
 adandilipiritsa O
 K5 O
-0 O
+000 O
 , O
 adatero O
 James B-PER
@@ -147563,7 +147563,7 @@ zikuthandiza O
 anthu O
 oposa O
 15 O
-0 O
+000 O
 kwa O
 T O
 / O
@@ -147878,7 +147878,7 @@ akuti O
 anthu O
 pafupifupi O
 15 O
-0 O
+000 O
 ndiwo O
 akhudzidwa O
 mwa O
@@ -147966,7 +147966,7 @@ kukongola O
 pamtengo O
 wa O
 K40 O
-0 O
+000 O
 . O
 
 Zida O
@@ -148084,7 +148084,7 @@ amapanga O
 ndalama O
 yosachepera O
 K20 O
-0 O
+000 O
 . O
 Sungadabwe O
 kumuona O
@@ -149965,7 +149965,7 @@ azilipira O
 ndalama O
 zokwana O
 K105 O
-0 O
+000 O
 pachaka O
 kuonjezera O
 pa O
@@ -150249,7 +150249,7 @@ ku O
 TTC B-ORG
 azipereka O
 K105 O
-0 O
+000 O
 pachaka O
 yomwe O
 ikuyimirira O
@@ -150271,7 +150271,7 @@ limafunika O
 ndalama O
 zokwana O
 K525 O
-0 O
+000 O
 pa O
 mphunzitsi O
 mmodzi O
@@ -150303,13 +150303,13 @@ yekha O
 Wadipuloma O
 azilipira O
 K180 O
-0 O
+000 O
 ndipo O
 wofuna O
 digiri O
 ndi O
 K280 O
-0 O
+000 O
 pachaka O
 Kusinthaku O
 kwakhudzanso O
@@ -150322,12 +150322,12 @@ yakwera O
 kufika O
 pa O
 K12 O
-0 O
+000 O
 ku O
 MCDE B-LOC
 ; O
 K10 O
-0 O
+000 O
 kusekondale O
 
 yoyendera O
@@ -154952,13 +154952,13 @@ Thumba O
 limodzi O
 ndimagulitsa O
 K9 O
-0 O
+000 O
 , O
 pamatumba O
 20 O
 ndidapeza O
 K180 O
-0 O
+000 O
 koma O
 kabichi O
 wina O
@@ -154993,7 +154993,7 @@ Monga O
 poyamba O
 timagulitsa O
 K7 O
-0 O
+000 O
 pa O
 thumba O
 limodzi O
@@ -155087,7 +155087,7 @@ yomwe O
 ndidaisunga O
 idalipo O
 K250 O
-0 O
+000 O
 . O
 Ndalama O
 zinazo O
@@ -159810,7 +159810,7 @@ anthu O
 oposa O
 900 O
 , O
-0 O
+000 O
 ndiwo O
 adakhudzidwa O
 ndi O
@@ -162564,7 +162564,7 @@ za O
 ku O
 Mozambique B-LOC
 200 O
-0 O
+000 O
 , O
 kuposa O
 chiwerengero O
@@ -163188,7 +163188,7 @@ Evirom B-ORG
 pamtengo O
 wa O
 K500 O
-0 O
+000 O
 . O
 Timuyi O
 ikufunanso O
@@ -166244,7 +166244,7 @@ adatchaja O
 ndalama O
 pafupifupi O
 K400 O
-0 O
+000 O
 ngati O
 akufuna O
 kuti O
@@ -166272,7 +166272,7 @@ adapeza O
 ndalama O
 zoposera O
 K200 O
-0 O
+000 O
 zomwe O
 akuti O
 adachita O
@@ -166392,7 +166392,7 @@ kukamuona O
 bamboyo O
 alipire O
 K1 O
-0 O
+000 O
 , O
 adatero O
 Kabango B-PER
@@ -172124,7 +172124,7 @@ imatenga O
 ndalama O
 zokwana O
 K400 O
-0 O
+000 O
 ndiye O
 muwerengere O
 kuti O
@@ -172452,7 +172452,7 @@ msewu O
 . O
 
 K85 O
-0 O
+000 O
 kapena O
 chaka O
 kundende O
@@ -172478,7 +172478,7 @@ mfumu O
 ina O
 ilipe O
 K85 O
-0 O
+000 O
 apo O
 ayi O
 , O
@@ -172730,11 +172730,11 @@ mfumuyi O
 kuti O
 ilipe O
 K60 O
-0 O
+000 O
 powononga O
 komanso O
 K25 O
-0 O
+000 O
 popha O
 galu O
 , O
@@ -172761,7 +172761,7 @@ mfumuyi O
 kuti O
 alipe O
 K25 O
-0 O
+000 O
 aliyense O
 , O
 apo O
@@ -172942,7 +172942,7 @@ anthu O
 
 pafupifupi O
 6 O
-0 O
+000 O
 . O
 
 Pamene O
@@ -177120,7 +177120,7 @@ Salima B-LOC
 ndipo O
 anthu O
 2 O
-0 O
+000 O
 ndiwo O
 akuyembekezereka O
 kulembedwa O
@@ -177136,7 +177136,7 @@ chamawa I-DATE
 anthu O
 oposa O
 4 O
-0 O
+000 O
 adzakhala O
 atapeza O
 ntchito O
@@ -177165,7 +177165,7 @@ ilembe O
 anthu O
 osachepera O
 5 O
-0 O
+000 O
 , O
 komanso O
 pali O
@@ -178789,7 +178789,7 @@ muno O
 pamtengo O
 wa O
 K20 O
-0 O
+000 O
 . O
 
 Amayi O
@@ -183431,7 +183431,7 @@ adati O
 ophunzira O
 pafupifupi O
 170 O
-0 O
+000 O
 ndiwo O
 adalemba O
 nawo O
@@ -185768,7 +185768,7 @@ zina O
 chifukwa O
 imaperewera O
 K170 O
-0 O
+000 O
 . O
 Titani O
 ? O
@@ -186622,7 +186622,7 @@ ukusunga O
 anthu O
 oposa O
 3 O
-0 O
+000 O
 , O
 nkhani O
 yomwe O
@@ -186816,7 +186816,7 @@ lapitali I-DATE
 , O
 anthu O
 174 O
-0 O
+000 O
 atsamutsidwa O
 mmalo O
 mwawo O
@@ -188998,7 +188998,7 @@ wandalama O
 zokwana O
 K15 O
 , O
-0 O
+000 O
 ndipo O
 munthu O
 wina O
@@ -189389,7 +189389,7 @@ adati O
 anthu O
 oposa O
 900 O
-0 O
+000 O
 ndiwo O
 adakhudzidwa O
 ndi O
@@ -189470,7 +189470,7 @@ ndi O
 anthu O
 pafupifupi O
 700 O
-0 O
+000 O
 tsopano O
 malinga O
 ndi O

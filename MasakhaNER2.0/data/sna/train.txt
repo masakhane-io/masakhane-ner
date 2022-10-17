@@ -7083,8 +7083,7 @@ makumi O
 matatu O
 vakachengetedzwa O
 paMkoba B-ORG
-Teachers I-ORG
-"""" I-ORG
+Teachers' I-ORG
 College I-ORG
 kutanga O
 nezuro B-DATE
@@ -10044,8 +10043,7 @@ yemutungamiri O
 wenyika O
 , O
 rePolitical B-ORG
-Actors I-ORG
-"""" I-ORG
+Actors' I-ORG
 Dialogue I-ORG
 , O
 POLAD B-ORG
@@ -11019,7 +11017,7 @@ nezvisere O
 kana O
 kuti O
 88 O
-0 O
+000 O
 . O
 
 Kunyangwe O
@@ -15965,7 +15963,7 @@ shandisai O
 WhatsApp B-ORG
 panhamba O
 dzinoti O
-1 O
+001 O
 202 O
 465 O
 318 O
@@ -20670,8 +20668,7 @@ Games O
 Sangano O
 revarairidzi O
 reProgressive B-ORG
-Teachers I-ORG
-"""" I-ORG
+Teachers' I-ORG
 Union I-ORG
 of I-ORG
 Zimbabwe I-ORG
@@ -22202,7 +22199,7 @@ zana O
 kana O
 kuti O
 100 O
-0 O
+000 O
 . O
 
 Nyaya O
@@ -22307,7 +22304,7 @@ kana O
 kuti O
 702 O
 , O
-0 O
+000 O
 vabatwa O
 nechirwere O
 checoronavirus O
@@ -22347,7 +22344,7 @@ kana O
 kuti O
 367 O
 , O
-0 O
+000 O
 . O
 
 South B-LOC
@@ -22365,7 +22362,7 @@ kana O
 kuti O
 350 O
 , O
-0 O
+000 O
 ndiyo O
 ine O
 vanhu O
@@ -22438,7 +22435,7 @@ kana O
 kuti O
 140 O
 , O
-0 O
+000 O
 . O
 
 Pasi O
@@ -22456,7 +22453,7 @@ kana O
 kuti O
 603 O
 , O
-0 O
+000 O
 . O
 
 Vapora O
@@ -22912,8 +22909,7 @@ kuita O
 , O
 kwete O
 zve'proportional O
-representation O
-"""" O
+representation' O
 zviri O
 kushandiswa O
 ikozvino O
@@ -27583,8 +27579,7 @@ vekumaruwa O
 , O
 reAmalgamated B-ORG
 Rural I-ORG
-Teachers I-ORG
-"""" I-ORG
+Teachers' I-ORG
 Union I-ORG
 of I-ORG
 Zimbabwe I-ORG
@@ -28575,10 +28570,9 @@ mana O
 kana O
 kuti O
 US O
-$ O
-400 O
+$400 O
 , O
-0 O
+000 O
 . O
 
 Hatina O
@@ -33584,9 +33578,7 @@ mazana O
 mashanu O
 kana O
 kuti O
-15 O
-. O
-5 O
+15.5 O
 million O
 , O
 kuchitiwo O
@@ -33602,7 +33594,7 @@ zvina O
 kana O
 kuti O
 634 O
-0 O
+000 O
 . O
 
 America B-LOC
@@ -33637,7 +33629,7 @@ nezvina O
 kana O
 kuti O
 144 O
-0 O
+000 O
 . O
 
 Doctor O
@@ -34116,8 +34108,7 @@ vanachiremba O
 , O
 reZimbabwe B-ORG
 Hospital I-ORG
-Doctors I-ORG
-"""" I-ORG
+1487 Doctors'I-ORG
 Association I-ORG
 , O
 Dr O
@@ -38319,9 +38310,8 @@ zvekuAmerica B-LOC
 kana O
 kuti O
 US O
-$ O
-50 O
-0 O
+$50 O
+000 O
 kusvika O
 pazviuru O
 mazana O
@@ -38329,9 +38319,8 @@ mashanu O
 kana O
 kuti O
 US O
-$ O
-500 O
-0 O
+$500 O
+000 O
 . O
 
 Mari O
@@ -40812,17 +40801,13 @@ kufona O
 panhamba O
 dzemuAmerica B-LOC
 dzinoti O
-13012709090 O
+0013012709090 O
 , O
 kanawo O
 kutumira O
 tsambambozha O
 ku O
-workshops O
-@ O
-hmtrad O
-. O
-com O
+workshops@hmtrad.com O
 . O
 
 Sangano O
@@ -46774,8 +46759,7 @@ Masaraure I-PER
 mutungamiri O
 weAmalagamated B-ORG
 Rural I-ORG
-Teachers I-ORG
-"""" I-ORG
+Teachers' I-ORG
 Union I-ORG
 of I-ORG
 Zimbabwe I-ORG
@@ -48685,8 +48669,7 @@ weZimbabwe B-ORG
 Banks I-ORG
 and I-ORG
 Allied I-ORG
-Workers I-ORG
-"""" I-ORG
+Workers' I-ORG
 Union I-ORG
 vanoti O
 vashandi O
@@ -51033,12 +51016,10 @@ kana O
 kuti O
 119 O
 , O
-0 O
+000 O
 vabatwa O
 nechirwere O
-cheCovid O
-- O
-19 O
+cheCovid-19 O
 muAfrica B-LOC
 uye O
 vashaya O
@@ -51073,9 +51054,7 @@ Huwandu O
 hwevanhu O
 vabatwa O
 nechirwere O
-cheCovid O
-- O
-19 O
+cheCovid-19 O
 pasi O
 rose O
 hwadarika O
@@ -51160,7 +51139,7 @@ kuti O
 vadarika O
 100 O
 , O
-0 O
+000 O
 . O
 
 Chizvarwa O
@@ -53033,9 +53012,9 @@ vatambi O
 vakaita O
 samushakabvu O
 Langton B-PER
-"""" I-PER
+' I-PER
 Schoolboy I-PER
-"""" I-PER
+' I-PER
 Tinago I-PER
 , O
 Kilimanjaro B-PER
@@ -62000,9 +61979,9 @@ mekuwanikwa O
 vaine O
 hutachiona O
 hwe O
-"""" O
+' O
 salmonella O
-"""" O
+' O
 iyo O
 yavanoti O
 iri O
@@ -62088,8 +62067,7 @@ izvi O
 vakaita O
 sevemumahotera O
 , O
-ma'supermarkets O
-"""" O
+ma'supermarkets' O
 nevamwe O
 kuti O
 vasabudisa O
@@ -62156,8 +62134,7 @@ kana O
 munhu O
 abata O
 hutachiona O
-hwe'salmonella O
-"""" O
+hwe'salmonella' O
 zvinosanganisa O
 manyoka O
 , O
@@ -62202,9 +62179,7 @@ uye O
 akakunda O
 nenguva O
 inoita O
-1 B-DATE
-"""" I-DATE
-1 I-DATE
+1'01 B-DATE
 . O
 
 1 B-DATE
@@ -68919,12 +68894,12 @@ Dangandira O
 regore O
 rinoti O
 ndi O
-"""" O
+' O
 Lest O
 We O
 Forget O
 , O
-"""" O
+' O
 kukurudzira O
 vanhu O
 kuti O
@@ -68941,7 +68916,7 @@ Stadium I-LOC
 pasi O
 pedangandira O
 rinoti O
-"""" O
+' O
 ZDF B-ORG
 : O
 Guaranteeing O
@@ -68951,8 +68926,8 @@ Security O
 for O
 National O
 Development O
+' O
 , O
-"""" O
 nyika O
 ichapemberera O
 zuva O
@@ -76083,8 +76058,7 @@ sangano O
 revarairidzi O
 , O
 reProgressive B-ORG
-Teachers I-ORG
-"""" I-ORG
+Teachers' I-ORG
 Union I-ORG
 of I-ORG
 Zimbabwe I-ORG
@@ -82738,11 +82712,11 @@ Svondo B-DATE
 rino I-DATE
 muchirongwa O
 chedu O
-"""" O
+' O
 Hupenyu O
 Hwedu O
+' O
 , O
-"""" O
 tiri O
 kutarisa O
 nezvemabasa O
@@ -82763,9 +82737,7 @@ pamwe O
 nekudzvirira O
 kupararira O
 kwechirwere O
-cheCovid O
-- O
-19 O
+cheCovid-19 O
 kuguta O
 reHarare B-LOC
 . O
@@ -83745,9 +83717,7 @@ African I-ORG
 football I-ORG
 , O
 CAF B-ORG
-"""" O
-A O
-"""" O
+'A' O
 Badge O
 kuti O
 aite O
@@ -83791,9 +83761,7 @@ hazvo O
 vasina O
 zvitupa O
 zveCAF B-ORG
-"""" O
-A O
-"""" O
+'A' O
 izvi O
 . O
 
@@ -83803,9 +83771,7 @@ varairidzi O
 vawane O
 chitupa O
 cheCAF B-ORG
-"""" O
-A O
-"""" O
+'A' O
 zviri O
 kuitwa O
 muna O
@@ -83898,9 +83864,7 @@ vakagara O
 pabhenji O
 vachida O
 CAF B-ORG
-"""" O
-A O
-"""" O
+'A' O
 Badge O
 . O
 
@@ -87188,7 +87152,7 @@ kana O
 kuti O
 21 O
 918 O
-0 O
+000 O
 vabatwa O
 nechirwere O
 ichi O
@@ -87221,9 +87185,7 @@ pamusoro O
 pahuwandu O
 hwevanhu O
 vabatwa O
-neCovid O
-- O
-19 O
+neCovid-19 O
 , O
 avo O
 vadarika O
@@ -87242,7 +87204,7 @@ kuti O
 , O
 444 O
 , O
-0 O
+000 O
 
 Vanhu O
 vafa O
@@ -87257,7 +87219,7 @@ kana O
 kuti O
 170 O
 , O
-0 O
+000 O
 . O
 
 MuAfrica B-LOC
@@ -87275,7 +87237,7 @@ kuti O
 1 O
 , O
 128 O
-0 O
+000 O
 , O
 vabatwa O
 nechirwere O
@@ -87315,7 +87277,7 @@ kana O
 kuti O
 846 O
 , O
-0 O
+000 O
 . O
 
 South B-LOC
@@ -87337,7 +87299,7 @@ kana O
 kuti O
 590 O
 , O
-0 O
+000 O
 vabatwa O
 nacho O
 . O
@@ -98005,13 +97967,13 @@ muBulawayo B-LOC
 pasi O
 pechirongwa O
 che O
-"""" O
+' O
 Safe O
 Learning O
 Institutions O
 Initiative O
+' O
 . O
-"""" O
 
 Musangano O
 uyu O
@@ -98065,10 +98027,10 @@ isaine O
 gwaro O
 rechirongwa O
 che O
-"""" O
+' O
 safe O
 schools O
-"""" O
+' O
 chakatenderanwa O
 kuOslo B-LOC
 kuNorway I-LOC
@@ -100749,7 +100711,7 @@ mukutamba O
 nhabvu O
 . O
 
-"""" O
+" O
 Range O
 riri O
 zuva O
@@ -100767,8 +100729,7 @@ vanenge O
 vapedza O
 zvidzidzo O
 zvavo O
-zve'O O
-"""" O
+zve'O' O
 Level O
 ; O
 kunyanya O
@@ -100806,8 +100767,8 @@ uye O
 tinoti O
 ngazvirambe O
 zvakadaro O
+' O
 . O
-"""" O
 
 VaErnest B-PER
 Sibanda I-PER
@@ -101310,7 +101271,7 @@ mashanu O
 kana O
 kuti O
 500 O
-0 O
+000 O
 . O
 
 Mashoko O
@@ -101338,7 +101299,7 @@ nezviviri O
 kana O
 kuti O
 42 O
-0 O
+000 O
 vabatwa O
 nechirwere O
 ichi O
@@ -101532,7 +101493,7 @@ nematanhatu O
 kana O
 kuti O
 246 O
-0 O
+000 O
 . O
 
 Zimbabwe B-ORG
@@ -107877,7 +107838,7 @@ kana O
 kuti O
 62 O
 , O
-0 O
+000 O
 . O
 
 Kuramwa O
@@ -108043,7 +108004,7 @@ kana O
 kuti O
 306 O
 , O
-0 O
+000 O
 vabatwa O
 nechirwere O
 checoronavirus O
@@ -108075,7 +108036,7 @@ kana O
 kuti O
 146 O
 , O
-0 O
+000 O
 . O
 
 Huwandu O
@@ -108112,7 +108073,7 @@ kana O
 kuti O
 120 O
 , O
-0 O
+000 O
 . O
 
 Vabatwa O
@@ -108148,7 +108109,7 @@ kana O
 kuti O
 468 O
 , O
-0 O
+000 O
 . O
 
 Vapora O
@@ -112424,9 +112385,7 @@ Zvichakadaro O
 vanhu O
 vabatwa O
 ne O
-covid O
-- O
-19 O
+covid-19 O
 pasi O
 rose O
 vanonzi O
@@ -112448,7 +112407,7 @@ kuti O
 22 O
 , O
 700 O
-0 O
+000 O
 . O
 
 Vanhu O
@@ -112464,7 +112423,7 @@ nezvina O
 kana O
 kuti O
 794 O
-0 O
+000 O
 . O
 
 America B-LOC
@@ -112475,9 +112434,7 @@ panyika O
 dzose O
 pavanhu O
 vane O
-Covid O
-- O
-19 O
+Covid-19 O
 , O
 iine O
 vanhu O
@@ -112530,7 +112487,7 @@ nezvipfumbamwe O
 kana O
 kuti O
 599 O
-0 O
+000 O
 , O
 vafa O
 vachidarika O
@@ -113176,15 +113133,15 @@ inosvika O
 gumi O
 nemishanu O
 kusanganisira O
-"""" O
+" O
 King O
 Solomon's O
 Mines O
-"""" O
+" O
 ne O
-"""" O
+" O
 Flame O
-"""" O
+" O
 dzakaita O
 mukurumbira O
 wakakura O
@@ -118865,9 +118822,8 @@ pamba O
 pavo O
 ku O
 St B-LOC
-Marys I-LOC
+Marys' I-LOC
 , O
-"""" O
 Chitungwiza B-LOC
 uye O
 vaende O
@@ -120349,7 +120305,7 @@ vagodzoka O
 kudare O
 musi O
 wa O
-9 B-DATE
+09 B-DATE
 Kurume I-DATE
 , O
 unove O
@@ -124563,11 +124519,11 @@ rehupfumi O
 , O
 kana O
 kuti O
-"""" O
+' O
 Prosperity O
 Gospel O
 , O
-"""" O
+' O
 harisi O
 shoko O
 raJesu B-PER
@@ -124589,15 +124545,15 @@ Studio B-ORG
 7 I-ORG
 kuti O
 , O
-"""" O
+" O
 Vhangeri O
 rehupfumi O
 rakafanana O
 nemunhu O
 akapfeka O
-"""" O
+' O
 hwigi O
-"""" O
+' O
 ; O
 hazvirevi O
 kuti O
@@ -124610,7 +124566,7 @@ bvudzi O
 iroro O
 nderako O
 . O
-"""" O
+" O
 
 Makambani O
 akawanda O
@@ -129722,7 +129678,7 @@ muZimbabwe B-LOC
 neChishanu B-DATE
 , O
 Mbudzi B-DATE
-1 I-DATE
+01 I-DATE
 , O
 2019 B-DATE
 pahurongwa O
@@ -132175,10 +132131,10 @@ echizvino O
 zvino O
 kana O
 kuti O
-"""" O
+' O
 social O
 media O
-"""" O
+' O
 mukuparadzira O
 shoko O
 raMwari B-PER
@@ -139476,10 +139432,10 @@ padandemutande O
 , O
 kana O
 kuti O
-"""" O
+' O
 internet O
+' O
 , O
-"""" O
 chirongwa O
 chekubatsira O
 varairidzi O

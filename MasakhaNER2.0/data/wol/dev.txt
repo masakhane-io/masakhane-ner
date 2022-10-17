@@ -2696,8 +2696,7 @@ junne O
 ( O
 1 O
 300 O
-. O
-0 O
+000 O
 ) O
 ( O
 te O
@@ -2741,8 +2740,8 @@ ak O
 ñetti O
 téeméer O
 ak O
-juróom O
 
+juróom O
 - O
 fukk O
 ak O
@@ -14956,7 +14955,7 @@ Valence B-ORG
 atum B-DATE
 2000 I-DATE
 / I-DATE
-1 I-DATE
+01 I-DATE
 ak O
 Keylor B-PER
 Navas I-PER
@@ -16382,7 +16381,7 @@ Saalif B-PER
 Saane I-PER
 ( O
 Salk B-ORG
-4 I-ORG
+04 I-ORG
 , O
 Almaañ B-LOC
 ) O

@@ -399,7 +399,7 @@ me O
 ho O
 sɛ O
 , O
-"""" O
+' O
 Sɛ O
 ɛyɛ O
 me O
@@ -418,7 +418,7 @@ mɛyɛ O
 m'ade O
 sɛn O
 ? O
-"""" O
+' O
 Anka O
 mɛhwɛ O
 n'anim O
@@ -537,7 +537,7 @@ wo O
 ho O
 sɛ O
 , O
-"""" O
+' O
 Adɛn O
 nti O
 na O
@@ -605,7 +605,7 @@ brɛ O
 me O
 ? O
 
-"""" O
+' O
 Ansa O
 na O
 wobɛtɔ O
@@ -621,7 +621,7 @@ wo O
 ho O
 sɛ O
 , O
-"""" O
+' O
 Waso O
 sɛ O
 obekura O
@@ -717,7 +717,7 @@ paa O
 Ɔkaa O
 sɛ O
 : O
-"""" O
+" O
 Bere O
 a O
 mihuu O
@@ -735,7 +735,7 @@ me O
 ho O
 sɛ O
 , O
-"""" O
+' O
 Enti O
 sɛ O
 ɛyɛ O
@@ -928,7 +928,7 @@ market O
 premiums O
 ) O
 ne O
-"""" O
+' O
 non O
 - O
 basic O
@@ -1656,7 +1656,7 @@ wo O
 ho O
 sɛ O
 , O
-"""" O
+' O
 Nneɛma O
 a O
 mede O
@@ -1682,7 +1682,7 @@ ba O
 me O
 so O
 ? O
-"""" O
+' O
 
 Dɛn O
 na O
@@ -2010,7 +2010,7 @@ wo O
 ho O
 sɛ O
 : O
-"""" O
+' O
 So O
 ɛyɛ O
 biribi O
@@ -3270,10 +3270,10 @@ akyerɛ O
 sɛ O
 aberɛ O
 a O
-"""" O
+' O
 Operation B-ORG
 Halt I-ORG
-"""" O
+' O
 dwumadie O
 no O
 rekɔ O
@@ -4538,9 +4538,9 @@ kena O
 sɛ O
 ɔde O
 bɛtu O
-"""" O
+' O
 galamsey O
-"""" O
+' O
 awurukasɛm O
 ase O
 no O
@@ -4560,11 +4560,11 @@ tu O
 fagudie O
 a O
 , O
-"""" O
+' O
 Operation B-ORG
 Halt I-ORG
 taskforce O
-"""" O
+' O
 na O
 wodi O
 anim O
@@ -6946,8 +6946,7 @@ nkɔmmɔ O
 a O
 , O
 ka O
-"""" O
-asɛm O
+'asɛm O
 biara O
 a O
 eye O
@@ -6966,7 +6965,7 @@ so O
 ma O
 atiefo O
 . O
-"""" O
+' O
 
 Adebɔneyɛfoɔ O
 a O
@@ -9151,10 +9150,10 @@ so O
 maa O
 wɔde O
 saa O
-"""" O
+' O
 oxygen O
 concentrators O
-"""" O
+' O
 yi O
 maa O
 wɔn O
@@ -10324,13 +10323,13 @@ ho O
 Edwamtenani O
 Abɛdiakyirɛ O
 ɛma O
-"""" O
+' O
 Self O
 Love O
 chanced O
 uponation O
 , O
-"""" O
+' O
 Sally B-PER
 Osei I-PER
 Tieku I-PER
@@ -10895,7 +10894,7 @@ wo O
 tirim O
 sɛ O
 , O
-"""" O
+' O
 Adeɛ O
 yi O
 asɛm O
@@ -10910,7 +10909,7 @@ mempa O
 no O
 kyɛw O
 ? O
-"""" O
+' O
 
 Mede O
 me O
@@ -19613,7 +19612,7 @@ a O
 Aban O
 ase O
 , O
-"""" O
+' O
 Self O
 - O
 Love O
@@ -19687,7 +19686,7 @@ nea O
 so O
 . O
 
-"""" O
+" O
 Yɛtee O
 sɛ O
 sɔhwɛ O
@@ -19722,7 +19721,7 @@ abɔnten O
 bɛkasaa O
 sɛ O
 , O
-"""" O
+' O
 ɛnyɛ O
 sei O
 na O
@@ -19732,7 +19731,7 @@ yɛn O
 sɛ O
 ɛbɛsi O
 , O
-"""" O
+' O
 Seesei O
 
 adesuafoɔno O
@@ -19741,7 +19740,7 @@ abɔnten O
 bɛkasaa O
 sɛ O
 , O
-"""" O
+' O
 ɛnyɛ O
 sei O
 na O
@@ -20389,8 +20388,7 @@ Huawi O
 Day O
 with O
 the O
-Media O
-"""" O
+Media' O
 yi O
 Huawei B-ORG
 Ghana B-LOC
@@ -21939,16 +21937,16 @@ ahanan O
 atwa O
 mu O
 wɔ O
-"""" O
+" O
 Gold B-LOC
 Coast I-LOC
-"""" O
+" O
 a O
 ɛwɔ O
-"""" O
+" O
 El B-LOC
 Mina I-LOC
-"""" O
+" O
 no O
 dadeɛ O
 a O
@@ -22378,9 +22376,7 @@ hokafo O
 ho O
 a O
 , O
-( O
-1 O
-) O
+(1) O
 kyerɛkyerɛ O
 sɛnea O
 wopɛ O
@@ -22418,9 +22414,7 @@ ma O
 wayɛ O
 biribi O
 ; O
-( O
-2 O
-) O
+(2) O
 ma O
 wo O
 hokafo O
@@ -22448,16 +22442,14 @@ no O
 ho O
 ; O
 na O
-( O
-3 O
-) O
-"""" O
+(3) O
+' O
 ma O
 wonhu O
 sɛ O
 wowɔ O
 ntease O
-"""" O
+' O
 denam O
 nea O
 wo O
@@ -22534,7 +22526,7 @@ wo O
 ho O
 sɛ O
 , O
-"""" O
+' O
 Nea O
 ama O
 me O
@@ -23297,7 +23289,7 @@ ara O
 ne O
 sɛ O
 , O
-"""" O
+' O
 Merenkɔyɛ O
 mpo O
 na O
@@ -25443,7 +25435,7 @@ Wudwen O
 ho O
 sɛ O
 : O
-"""" O
+' O
 Ɛdɛn O
 na O
 ɔpɛ O
@@ -25465,7 +25457,7 @@ sɛ O
 ɔkyɛn O
 obiara O
 ! O
-"""" O
+' O
 
 Sɛ O
 misusuw O

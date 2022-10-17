@@ -7457,9 +7457,7 @@ nga O
 biyambibwako O
 Women's B-ORG
 International I-ORG
-Cross I-ORG
-- I-ORG
-Cultural I-ORG
+Cross-Cultural I-ORG
 Exchange I-ORG
 byasisinkana O
 mu O
@@ -7494,9 +7492,7 @@ w'ensonga O
 mu O
 Independent B-ORG
 w'Ogwomusanvu B-DATE
-30 I-DATE
-- I-DATE
-5 I-DATE
+30-05 I-DATE
 Ogwekkumi I-DATE
 , O
 AU B-ORG
