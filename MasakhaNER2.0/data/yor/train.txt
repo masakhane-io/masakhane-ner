@@ -3227,7 +3227,8 @@ daran O
 nílùù O
 Àkúrẹ́ B-LOC
 , O
-l'Óǹdó B-LOC
+l' O
+Óǹdó B-LOC
 , O
 ni O
 wọ́n O
@@ -3736,7 +3737,8 @@ kásẹ́ẹ̀tì O
 lọ́jà B-LOC
 Oṣòdì I-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Iléeṣẹ́ O
@@ -3863,7 +3865,8 @@ Adéyẹmí B-PER
 ọmọ O
 Ìyálájé B-ORG
 Records I-ORG
-l'Óṣòdì B-LOC
+l' O
+Óṣòdì B-LOC
 . O
 
 Ìgbà O
@@ -4888,7 +4891,8 @@ Oriental I-ORG
 láìpẹ́ O
 yìí O
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Iléeṣẹ́ O
@@ -6114,7 +6118,8 @@ náà O
 Ọmọ O
 ìlú O
 Ìgbòho B-LOC
-l'Ókè I-LOC
+l' O
+Ókè B-LOC
 Ògùn I-LOC
 nítòsí O
 Ọ̀yọ́ B-LOC
@@ -6156,8 +6161,7 @@ sí O
 . O
 
 Ibẹ̀ O
-l O
-" O
+l' O
 Ọ̀yọ́ B-LOC
 wà O
 tẹ́lẹ̀ O
@@ -6536,7 +6540,8 @@ àwọn O
 àgbẹ̀ O
 tó O
 wà O
-l'Ókè B-LOC
+l' O
+Ókè B-LOC
 Ògùn I-LOC
 ni O
 wọ́n O
@@ -7722,7 +7727,7 @@ sórí O
 nọ́ḿba O
 yìí O
 : O
-9063774541 O
+09063774541 O
 . O
 
 Ẹ O
@@ -7964,7 +7969,8 @@ mi O
 lọ́jà B-LOC
 Mile I-LOC
 12 I-LOC
-l'Ékòó I-LOC
+l' O
+Ékòó B-LOC
 - O
 Ọpẹ́lọpẹ́ B-PER
 Anointing I-PER
@@ -8144,8 +8150,7 @@ náà O
 lóun O
 ń O
 fògo O
-f O
-" O
+f' O
 Ọ́lọ́run O
 lórí O
 ore O
@@ -8180,12 +8185,12 @@ bá O
 máa O
 gba O
 àárù O
-l O
-" O
+l' O
 Ọ́jà B-LOC
 Mile I-LOC
 12 I-LOC
-l'Ékòó I-LOC
+l' O
+Ékòó B-LOC
 táwọn O
 èèyàn O
 kò O
@@ -8546,7 +8551,8 @@ ní O
 Aláùsá B-LOC
 , O
 Ìkẹjà B-LOC
-l'Ékòó I-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Agbègbè O
@@ -9202,7 +9208,8 @@ tó O
 pa O
 Àláájà O
 Ṣẹ̀rí B-PER
-n'Ígbóọrà B-LOC
+n' O
+Ígbóọrà B-LOC
 
 Iléeṣẹ́ B-ORG
 ọlọ́pàá I-ORG
@@ -9400,7 +9407,7 @@ tí O
 nọ́ḿbà O
 rẹ̀ O
 jẹ́ O
-7086824526 O
+07086824526 O
 , O
 Nokia B-ORG
 ni O
@@ -9420,8 +9427,7 @@ nìyẹn O
 Àtàndá B-PER
 kò O
 nísọ̀ O
-l O
-" O
+l' O
 Ọ́jà O
 wa O
 , O
@@ -9866,7 +9872,7 @@ sími O
 tó O
 sọ O
 pé O
-" O
+' O
 Ìyámi O
 mo O
 dẹrú O
@@ -9884,7 +9890,7 @@ èmi O
 kàn O
 jẹ́ẹ O
 nítèmi O
-" O
+' O
 ìyẹn O
 ni O
 pé O
@@ -10468,7 +10474,8 @@ COWLSO B-ORG
 , O
 tó O
 wáyé O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 lónìí B-DATE
 . O
 
@@ -10819,7 +10826,8 @@ bá O
 àwọn O
 oníròyìn O
 sọ̀rọ̀ O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Ó O
@@ -11637,7 +11645,8 @@ Bourdilon B-LOC
 ní O
 Ìkòyí B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Ìgbòho B-PER
@@ -11838,14 +11847,14 @@ láàrin O
 àwọn O
 . O
 
-" O
+' O
 Ìrànwọ́ O
 owó O
 dé O
 fáwọn O
 olókoòwò O
 kéékèèké O
-" O
+' O
 
 Àsìkò O
 yìí O
@@ -14195,16 +14204,16 @@ gbọ́ O
 wọ́n O
 á O
 ní O
-" O
+' O
 Kò O
-s O
-" O
+s' O
 Ọ́ba O
-l'Óṣòdì B-LOC
+l' O
+Óṣòdì B-LOC
 àyàfi O
 OLÚỌMỌ B-PER
 . O
-" O
+' O
 
 Ṣùgbọ́n O
 lọ́jọ́ B-DATE
@@ -14693,7 +14702,8 @@ Wusé B-PER
 Adékàn I-PER
 Akínsànyà I-PER
 kú O
-l'Óṣòdì B-LOC
+l' O
+Óṣòdì B-LOC
 níbi O
 , O
 mo O
@@ -14711,7 +14721,8 @@ Primary O
 níléèwé B-ORG
 alákọ̀ọ́bẹ̀rẹ̀ I-ORG
 Afọlábí I-ORG
-l'Óṣòdì B-LOC
+l' O
+Óṣòdì B-LOC
 lọ́dún B-DATE
 náà I-DATE
 lọ́hùn O
@@ -14768,7 +14779,8 @@ lọ́dọ̀ O
 ẹni O
 tó O
 kù O
-n'Íyàá O
+n' O
+Íyàá O
 fún O
 wọn O
 nígbà O
@@ -14786,7 +14798,8 @@ Òkè I-ORG
 - I-ORG
 Ẹ̀fọ̀n I-ORG
 , O
-l'Ábẹ́òkúta B-LOC
+l' O
+Ábẹ́òkúta B-LOC
 . O
 
 Ó O
@@ -14818,7 +14831,8 @@ bá O
 wáá O
 kí O
 wa O
-l'Ábẹ́òkúta B-LOC
+l' O
+Ábẹ́òkúta B-LOC
 lẹ́yìn B-DATE
 ọjọ́ I-DATE
 márùn I-DATE
@@ -14837,7 +14851,8 @@ iṣẹ́ O
 agbálẹ̀ O
 títí O
 
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 ojú O
 mi O
@@ -14883,7 +14898,8 @@ wá O
 máa O
 kọ́ṣẹ́ O
 káfíńtà O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Ọmọ O
@@ -15301,8 +15317,7 @@ é O
 Ṣé O
 ẹ O
 ri O
-l O
-" O
+l' O
 Ọ́jọ́rú B-DATE
 , I-DATE
 ọjọ́ I-DATE
@@ -15467,7 +15482,7 @@ bi O
 màmá O
 léèrè O
 pé O
-" O
+' O
 Kínni O
 kóun O
 bá O
@@ -16292,7 +16307,7 @@ wọn O
 pé O
 ; O
 
-" O
+' O
 Máa O
 ṣóra O
 , O
@@ -16308,7 +16323,7 @@ á O
 ní O
 ; O
 
-" O
+' O
 màá O
 yè O
 o O
@@ -16322,8 +16337,8 @@ sọ́mọ O
 ọlọ́mọ O
 nìkan O
 lókù O
+' O
 , O
-" O
 Màámi O
 á O
 ṣàdúrà O
@@ -16839,7 +16854,8 @@ pòòyì O
 ẹnu O
 pé O
 tòṣèlú O
-l'Aṣíwájú O
+l' O
+Aṣíwájú O
 bá O
 wá O
 sílẹ̀ẹ̀ O
@@ -16966,7 +16982,8 @@ wà I-ORG
 nílùú I-ORG
 Màpó I-ORG
 , O
-n'Íbàdàn B-LOC
+n' O
+Íbàdàn B-LOC
 pé O
 kí O
 adájọ́ O
@@ -17395,7 +17412,8 @@ abánikọ́lé O
 àti O
 abániwálé O
 kúrò O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 - O
 Tókẹ́ B-PER
 Benson I-PER
@@ -19099,9 +19117,9 @@ lórí O
 ẹ̀rọ O
 ìbánisọ̀rọ̀ O
 : O
-9019999977 O
+09019999977 O
 , O
-9019999997 O
+09019999997 O
 , O
 
 wọ́n O
@@ -19202,7 +19220,8 @@ Cathedral I-ORG
 , O
 Ìkòròdú B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 nínú O
 àwọn O
 àsọtẹ́lẹ̀ O
@@ -19591,7 +19610,8 @@ táwọn O
 láǹlọọ̀dù O
 ń O
 san O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 kù O
 . O
 
@@ -19624,7 +19644,8 @@ ilẹ̀ O
 gbọ́dọ̀ O
 máa O
 san O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Bíí O
@@ -19849,7 +19870,8 @@ fáwọn O
 dókítà O
 àti O
 nọ́ọ̀sì O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 
 Àjọ O
 tó O
@@ -20225,15 +20247,15 @@ náírà O
 ( O
 N20 O
 , O
-0 O
+000 O
 ) O
 la O
 máa O
 ta O
-" O
+' O
 Lake O
 Rice O
-" O
+' O
 lọ́dún B-DATE
 yìí I-DATE
 " O
@@ -20254,7 +20276,7 @@ náírà O
 , O
 N20 O
 , O
-0 O
+000 O
 , O
 nìjọba O
 máa O
@@ -20425,7 +20447,7 @@ mẹ́ẹ̀ẹ́dọ́gbọ̀n O
 , O
 N25 O
 , O
-0 O
+000 O
 , O
 ni O
 wọ́n O
@@ -20503,7 +20525,8 @@ Estate I-LOC
 ní O
 Ẹlẹ́kọ B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Nínú O
@@ -20652,7 +20675,8 @@ Lawal I-PER
 , O
 Onírú O
 tuntun O
-n'Ígà O
+n' O
+Ígà O
 
 Ọba O
 Rílwánù B-PER
@@ -21896,7 +21920,8 @@ ilé O
 nílùú O
 Èkó B-LOC
 àti O
-l'Ábújá B-LOC
+l' O
+Ábújá B-LOC
 , O
 mọ́tò O
 , O
@@ -22074,8 +22099,7 @@ gbé O
 ìpolongo O
 Kòrónà O
 lọ O
-s O
-" O
+s' O
 Ọ́jà O
 
 Pẹ̀lú O
@@ -22240,7 +22264,8 @@ bẹ́ẹ̀ O
 Ọ̀kan O
 lẹgbẹ́ O
 oníròyìn O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 gbogbo O
 wa O
@@ -22847,7 +22872,8 @@ Ìkọlà B-LOC
 ní O
 Command B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 ti O
 sọ O
 àwọn O
@@ -23952,7 +23978,8 @@ di O
 olórí O
 àwọn O
 aṣòfin O
-l'Ógùn B-LOC
+l' O
+Ógùn B-LOC
 , O
 òfin O
 wo O
@@ -23978,7 +24005,8 @@ tó O
 tako O
 àwọn O
 ajagungbalẹ̀ O
-l'Ógùn B-LOC
+l' O
+Ógùn B-LOC
 , O
 òfin O
 yẹn O
@@ -26596,7 +26624,8 @@ ti O
 gba O
 owó O
 dọ́là O
-l'Ábùjá B-LOC
+l' O
+Ábùjá B-LOC
 , O
 lóòótọ́ O
 ni O
@@ -29024,14 +29053,14 @@ a O
 ní O
 " O
 Kò O
-s O
-" O
+s' O
 Ọ́ba O
-l'Óṣòdì B-LOC
+l' O
+Óṣòdì B-LOC
 àyàfi O
 OLÚỌMỌ B-PER
-. O
 " O
+. O
 
 Ṣùgbọ́n O
 lọ́jọ́ B-DATE
@@ -29502,7 +29531,8 @@ Wusé B-PER
 Adékàn I-PER
 Akínsànyà I-PER
 kú O
-l'Óṣòdì B-LOC
+l' O
+Óṣòdì B-LOC
 níbi O
 , O
 mo O
@@ -29520,7 +29550,8 @@ Primary O
 níléèwé B-ORG
 alákọ̀ọ́bẹ̀rẹ̀ I-ORG
 Afọlábí I-ORG
-l'Óṣòdì B-LOC
+l' O
+Óṣòdì B-LOC
 lọ́dún B-DATE
 náà I-DATE
 lọ́hùn O
@@ -29577,7 +29608,8 @@ lọ́dọ̀ O
 ẹni O
 tó O
 kù O
-n'Íyàá O
+n' O
+Íyàá O
 fún O
 wọn O
 nígbà O
@@ -29595,7 +29627,8 @@ Òkè I-ORG
 - I-ORG
 Ẹ̀fọ̀n I-ORG
 , O
-l'Ábẹ́òkúta B-LOC
+l' O
+Ábẹ́òkúta B-LOC
 . O
 
 Ó O
@@ -29627,7 +29660,8 @@ bá O
 wáá O
 kí O
 wa O
-l'Ábẹ́òkúta B-LOC
+l' O
+Ábẹ́òkúta B-LOC
 lẹ́yìn B-DATE
 ọjọ́ I-DATE
 márùn I-DATE
@@ -29646,7 +29680,8 @@ iṣẹ́ O
 agbálẹ̀ O
 títí O
 
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 ojú O
 mi O
@@ -29692,7 +29727,8 @@ wá O
 máa O
 kọ́ṣẹ́ O
 káfíńtà O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Ọmọ O
@@ -30009,8 +30045,7 @@ é O
 Ṣé O
 ẹ O
 ri O
-l O
-" O
+l' O
 Ọ́jọ́rú B-DATE
 , I-DATE
 ọjọ́ I-DATE
@@ -30175,7 +30210,7 @@ bi O
 màmá O
 léèrè O
 pé O
-" O
+' O
 Kínni O
 kóun O
 bá O
@@ -30999,7 +31034,7 @@ wọn O
 pé O
 ; O
 
-" O
+' O
 Máa O
 ṣóra O
 , O
@@ -31010,13 +31045,13 @@ ń O
 ṣọ́lé O
 . O
 
-" O
+' O
 Màámi O
 á O
 ní O
 ; O
 
-" O
+' O
 màá O
 yè O
 o O
@@ -31030,8 +31065,8 @@ sọ́mọ O
 ọlọ́mọ O
 nìkan O
 lókù O
+' O
 , O
-" O
 Màámi O
 á O
 ṣàdúrà O
@@ -31630,7 +31665,8 @@ ojú O
 ọ̀nà O
 tó O
 wà O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 làwọ́n O
 ti O
 tún O
@@ -31947,7 +31983,8 @@ Aláusá B-LOC
 , O
 Ìkẹjà B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 ló O
 ti O
 wáyé O
@@ -32629,7 +32666,8 @@ Ìbàdàn B-LOC
 tó O
 fi O
 Ṣáṣá B-LOC
-l'Ákówọnjọ I-LOC
+l' O
+Ákówọnjọ B-LOC
 nílùú O
 Èkó B-LOC
 ṣebùjókò O
@@ -32730,8 +32768,7 @@ tí O
 wọ́n O
 ń O
 ṣe O
-l O
-" O
+l' O
 Ọ́yọ̀ọ́ B-LOC
 . O
 
@@ -32855,7 +32892,8 @@ bá O
 láṣepọ̀ O
 , O
 n O
-l'Adájọ́ O
+l' O
+Adájọ́ O
 Samuel B-PER
 Bọ́lá I-PER
 bá O
@@ -33653,7 +33691,8 @@ wà O
 ní O
 Ìkòyí B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Ọsibítù O
@@ -35513,7 +35552,8 @@ àwọn O
 tó O
 kọ́kọ́ O
 ṣaláàrù O
-n'Íkòròdú B-LOC
+n' O
+Íkòròdú B-LOC
 
 Ọ̀kan O
 gbòógì O
@@ -36461,13 +36501,13 @@ ń O
 bọ̀ O
 látọ́wọ́ O
 iléeṣẹ́ O
-" O
+' O
 Twenty B-ORG
 Second I-ORG
 Global I-ORG
 Studio I-ORG
+' O
 , O
-" O
 ọmọ O
 mi O
 , O
@@ -36483,10 +36523,10 @@ ló O
 darí O
 ẹ̀ O
 , O
-" O
+' O
 Turning O
 Point O
-" O
+' O
 la O
 pe O
 àkọlé O
@@ -38479,8 +38519,7 @@ wáyé O
 
 Ní O
 ìjọ O
-Winners B-ORG
-" O
+Winners' B-ORG
 Bíṣọ̀ọ̀bù O
 Oyèdépò B-PER
 ti O
@@ -38812,9 +38851,11 @@ Álímì I-PER
 Ahwal I-PER
 tó O
 wà O
-l'Áké B-LOC
+l' O
+Áké B-LOC
 , O
-l'Ábẹ́òkúta B-LOC
+l' O
+Ábẹ́òkúta B-LOC
 ni O
 Ìmáàmù O
 ti O
@@ -38851,7 +38892,8 @@ ní O
 Morkas B-ORG
 tó O
 wà O
-l'Ágége B-LOC
+l' O
+Ágége B-LOC
 sílẹ̀ O
 . O
 
@@ -39650,7 +39692,8 @@ parí O
 lánàá B-DATE
 ọjọ́ I-DATE
 Tọsde I-DATE
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Odùṣọ̀tẹ̀ B-PER
@@ -39763,13 +39806,13 @@ àkọ́kọ́ O
 irú O
 rẹ̀ O
 bẹ̀rẹ̀ O
-l O
-" O
+l' O
 Ọ́jọ́rú B-DATE
 , I-DATE
 Wẹsde I-DATE
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Odùṣọ̀tẹ̀ B-PER
@@ -39884,8 +39927,7 @@ tẹ́lẹ̀ O
 
 Gbogbo O
 ohun O
-t O
-" O
+t' O
 Ọ́lọ́run O
 fún O
 mi O
@@ -40146,8 +40188,7 @@ i O
 Bákan O
 náà O
 , O
-l O
-" O
+l' O
 Ọba O
 Abdulwasiu B-PER
 Ọmọ́gbọ́láhàn I-PER
@@ -40543,7 +40584,8 @@ ń O
 idìbò O
 Sùúrùlérè B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 níléègbìmọ̀ B-ORG
 aṣòfin I-ORG
 ìpínlẹ̀ I-ORG
@@ -42278,10 +42320,10 @@ èèyàn O
 tún O
 mọ̀ O
 sí O
-" O
+' O
 Mr B-PER
 Fújì I-PER
-" O
+' O
 dágbére O
 fáyé O
 léyìí O
@@ -42425,7 +42467,8 @@ ilé O
 rẹ̀ O
 nílùú O
 Ìkẹjà B-LOC
-l'Ékòó I-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Àwọn O
@@ -42773,7 +42816,7 @@ kóòtù O
 Ọlọ́run O
 . O
 
-" O
+' O
 Ìrànwọ́ O
 ouńjẹ O
 ń O
@@ -42783,7 +42826,7 @@ olùgbé O
 Èkó B-LOC
 lọ́sẹ̀ B-DATE
 yìí I-DATE
-" O
+' O
 
 Gómìnà O
 Babájídé B-PER
@@ -43915,7 +43958,7 @@ lè O
 pè O
 mí O
 lórí O
-8038039936 O
+08038039936 O
 . O
 
 Iléeṣẹ́ B-ORG
@@ -44235,7 +44278,8 @@ yàn O
 ṣàbẹ̀wò O
 sí O
 Tinubu B-PER
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 láti O
 pẹ̀tù O
@@ -44303,7 +44347,8 @@ Borudilon B-LOC
 ní O
 Ìkòyí B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Nígbà O
@@ -45588,7 +45633,8 @@ ìrànwọ́ O
 fáwọn O
 àgbẹ̀ O
 ọlọ́sìn O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 
 Nítorí O
 àti O
@@ -47027,8 +47073,7 @@ iléègbafẹ́ O
 tóó O
 tún O
 ṣílẹ̀kún O
-l O
-" O
+l' O
 ́Ékòó B-LOC
 
 Àwọn O
@@ -47370,7 +47415,8 @@ ìgbìmọ̀ I-ORG
 aṣojú I-ORG
 - I-ORG
 ṣòfin I-ORG
-l'Ábújá I-ORG
+l' I-ORG
+Ábújá I-ORG
 , O
 bẹ́ẹ̀ O
 òun O
@@ -47728,7 +47774,8 @@ APC B-ORG
 bá O
 fẹ́ẹ́ O
 wọlé O
-l'Óǹdó B-LOC
+l' O
+Óǹdó B-LOC
 nínú O
 ìbò O
 tó O
@@ -48601,7 +48648,8 @@ láààrin O
 Fáyẹmí B-PER
 àtàwọn O
 èèyàn O
-l'É́kìtì B-LOC
+l' O
+É́kìtì B-LOC
 
 Bí O
 wọ́n O
@@ -49049,8 +49097,7 @@ nìyẹn O
 . O
 
 Ẹni O
-t O
-" O
+t' O
 Ọ́lọ́run O
 bá O
 gbà O
@@ -49058,7 +49105,8 @@ fún O
 ni O
 yóò O
 wọlé O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 ní O
 2023 B-DATE
 
@@ -49107,7 +49155,8 @@ Facebook B-ORG
 máa O
 bẹ̀rẹ̀ O
 iṣẹ́ O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 lọ́dún B-DATE
 tó I-DATE
 ń I-DATE
@@ -49440,7 +49489,8 @@ ń O
 fìyà O
 jẹ O
 obìnrin O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 
 Aya O
 gómìnà O
@@ -49505,7 +49555,8 @@ Tusde I-DATE
 ní O
 ọ́fíìsì O
 rẹ̀ O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Ó O
@@ -49657,7 +49708,8 @@ ìlú O
 Dallas B-LOC
 ní O
 Texas B-LOC
-l'Ámẹ́ríkà I-LOC
+l' O
+Ámẹ́ríkà B-LOC
 tó O
 fi O
 ṣebùgbé O
@@ -51045,7 +51097,8 @@ Bàálù O
 agbérapá O
 tó O
 jábọ́ O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 
 Ìrọ̀rùn O
 dé O
@@ -51053,7 +51106,8 @@ fáwọn O
 tó O
 ń O
 ralẹ̀ O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 orí O
 íntánẹ́ẹ̀tì O
@@ -51174,7 +51228,8 @@ lónìí B-DATE
 , I-DATE
 Wẹsde I-DATE
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 ni O
 gómìnà O
@@ -51646,7 +51701,8 @@ Anglican B-ORG
 Grammar I-ORG
 School I-ORG
 , O
-l'Ógbómọ̀ṣọ́ B-LOC
+l' O
+Ógbómọ̀ṣọ́ B-LOC
 . O
 
 Ó O
@@ -51681,7 +51737,8 @@ Ajílété B-ORG
 . I-ORG
 1FM I-ORG
 , O
-l'Ógbòómọ̀ṣọ́ B-LOC
+l' O
+Ógbòómọ̀ṣọ́ B-LOC
 . O
 
 Bákan O
@@ -51853,8 +51910,7 @@ Àmọ̀lé I-PER
 Jẹ́ O
 ọmọ O
 Ògbómọ̀ṣọ́ B-LOC
-l O
-" O
+l' O
 Ọ́yọ̀ọ B-LOC
 , O
 ́ O
@@ -51862,10 +51918,12 @@ ó O
 lọ O
 síléèwé O
 alákọ̀ọ́bẹ̀rẹ̀ O
-l'Ógbòómọ̀ṣọ́ B-LOC
+l' O
+Ógbòómọ̀ṣọ́ B-LOC
 , O
 girama O
-l'Ógbòómọ̀ṣọ́ B-LOC
+l' O
+Ógbòómọ̀ṣọ́ B-LOC
 , O
 àti O
 Polí B-ORG
@@ -51963,7 +52021,8 @@ sílé O
 Abubakar B-PER
 Àmòsá I-PER
 Séríkí I-PER
-n'Ílọrin B-LOC
+n' O
+Ílọrin B-LOC
 . O
 
 Ó O
@@ -52070,7 +52129,8 @@ Cruise I-ORG
 92 I-ORG
 . I-ORG
 7FM I-ORG
-n'Íkẹ̀rẹ́ B-LOC
+n' O
+Íkẹ̀rẹ́ B-LOC
 Èkìtì I-LOC
 . O
 
@@ -52431,7 +52491,8 @@ School I-ORG
 , O
 Ìjokò B-LOC
 Òtà I-LOC
-l'Ógùn I-LOC
+l' O
+Ógùn B-LOC
 . O
 Ó O
 ń O
@@ -52788,8 +52849,7 @@ Iléyá I-DATE
 pẹ̀lú O
 ouńjẹ O
 ọ̀fẹ́ O
-f O
-" O
+f' O
 ẹ́gbẹ̀rún O
 márùn O
 - O
@@ -52827,7 +52887,7 @@ kù O
 , O
 Ọba O
 AbdulWasiu B-PER
-" I-PER
+' I-PER
 Gbọ́láhàn I-PER
 Lawal I-PER
 ti O
@@ -52865,8 +52925,8 @@ ní O
 Iléyá O
 Food O
 Drive O
-, O
 " O
+, O
 ìyẹn O
 ni O
 pé O
@@ -52876,8 +52936,7 @@ lásìkò O
 Iléyá B-DATE
 , O
 bẹ̀rẹ̀ O
-l B-DATE
-" I-DATE
+l' B-DATE
 Ọ́jọ́rú I-DATE
 , I-DATE
 Wẹsde I-DATE
@@ -53200,7 +53259,8 @@ kan I-DATE
 fún O
 àwọn O
 oníròyìn O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Ọládèhìndé B-PER
@@ -56050,7 +56110,8 @@ Mountain I-ORG
 Top I-ORG
 tó O
 wà O
-l'Ójòdú B-LOC
+l' O
+Ójòdú B-LOC
 , O
 Ọ̀gbẹ́ni O
 Ṣeun B-PER
@@ -56114,7 +56175,8 @@ lótẹ́ẹ̀lì O
 náà O
 ní O
 Bàrúwá B-LOC
-n'Ípájà I-LOC
+n' O
+Ípájà I-LOC
 , O
 
 èyí O
@@ -56185,10 +56247,10 @@ com O
 
 Ẹ O
 dákẹ́ O
-" O
+' O
 rúmọ́ọ̀sì O
+' O
 , O
-" O
 Olorì O
 Ọọ̀ni O
 kò O
@@ -56335,8 +56397,7 @@ ń O
 sọ O
 pé O
 ṣe O
-l O
-" O
+l' O
 Ọọ̀ni O
 ti O
 fún O
@@ -56419,8 +56480,7 @@ ò O
 ní O
 fèsì O
 sọ́rọ̀ O
-t O
-" O
+t' O
 Ọ́básanjọ́ B-PER
 sọ O
 sí O
@@ -56665,7 +56725,7 @@ nínú O
 àtẹ̀jáde O
 náà O
 pé O
-" O
+' O
 Lóòótó O
 ni O
 mo O
@@ -57013,14 +57073,16 @@ láti O
 Abẹ́òkúta B-LOC
 wáá O
 ṣiṣẹ́ O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 láti O
 Ìbàdàn B-LOC
 máa O
 wá O
 ṣiṣẹ́ O
-l'Ekòó B-LOC
+l' O
+Ekòó B-LOC
 àti O
 bẹ́ẹ̀ O
 
@@ -57604,7 +57666,8 @@ ó O
 ń O
 padà O
 bọ̀ O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 nìyẹn O
 , O
 Bó O
@@ -60123,7 +60186,8 @@ níjoba O
 ìbílẹ̀ O
 Kòsòfẹ́ B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Láìpẹ́ O
@@ -62189,7 +62253,8 @@ Aláùsá B-LOC
 , O
 Ìkejà B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 lọ́sẹ̀ B-DATE
 tó I-DATE
@@ -62551,7 +62616,8 @@ tó O
 wà O
 ní O
 Màrínà B-LOC
-l'Ékòó I-LOC
+l' O
+Ékòó B-LOC
 níbi O
 tí O
 gómìnà O
@@ -62771,7 +62837,8 @@ pé O
 ọmọ O
 ọdún B-DATE
 mọ́kàndínláàdọ́ta I-DATE
-l'Ójórú I-DATE
+l' O
+Ójórú B-DATE
 , I-DATE
 ọjọ́ I-DATE
 kọkànlá I-DATE
@@ -62993,7 +63060,8 @@ abániralẹ́ O
 àti O
 abánikọlé O
 kúrò O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 - O
 Sam B-PER
 Akínrólé I-PER
@@ -64134,7 +64202,8 @@ nìkan O
 èèyàn O
 ló O
 wà O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 tí O
 ìyà O
 ilé O
@@ -65272,7 +65341,8 @@ tó O
 ń O
 gbowó O
 ìfẹ̀yìntì O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 
 Bó O
 tiẹ̀ O
@@ -65588,7 +65658,8 @@ ilé O
 nílùú O
 Èkó B-LOC
 àti O
-l'Ábújá B-LOC
+l' O
+Ábújá B-LOC
 , O
 mọ́tò O
 , O
@@ -65910,8 +65981,7 @@ sí O
 rògbòdìyàn O
 tó O
 ṣẹlẹ̀ O
-l O
-" O
+l' O
 Ọ́báléndé B-LOC
 láàárọ̀ B-DATE
 òní I-DATE
@@ -66197,7 +66267,8 @@ kejìlá I-DATE
 , I-DATE
 ọdún I-DATE
 2017 I-DATE
-l'Ábújá B-LOC
+l' O
+Ábújá B-LOC
 nìyẹn O
 . O
 
@@ -66746,8 +66817,7 @@ ni O
 pé O
 ọjọ́ O
 náà O
-l O
-" O
+l' O
 Ọ̀gágun O
 Robert B-PER
 Adéyínká I-PER
@@ -67072,8 +67142,7 @@ Benin I-LOC
 ìyẹn O
 Benin B-LOC
 Republic I-LOC
-l O
-" O
+l' O
 Ọ̀yọ́ọ́ B-LOC
 ń O
 ṣàkóso O
@@ -67123,8 +67192,7 @@ di O
 Ọ̀ọ́dúnrún B-DATE
 ọdún I-DATE
 sẹ́yìn I-DATE
-l O
-" O
+l' O
 Ọ̀yọ̀ọ́ B-LOC
 ṣì O
 fi O
@@ -68662,7 +68730,8 @@ aṣọ́bodè O
 ẹnubodè B-LOC
 Sẹ̀mẹ̀ I-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 àtàwọn O
 ẹnubodè O
@@ -69138,8 +69207,7 @@ wọ́n O
 ń O
 pè O
 ní O
-Winners B-ORG
-" I-ORG
+Winners' B-ORG
 Chapel I-ORG
 , O
 Bíṣọ́ọ̀bù O
@@ -69177,19 +69245,19 @@ pe O
 orúkọ O
 rẹ̀ O
 ní O
-" O
+' O
 Faith B-LOC
 Ark I-LOC
+' O
 , O
-" O
 èyí O
 tó O
 túmọ̀ O
 sí O
-" O
+' O
 Ọkọ̀ B-LOC
 Ìgbàgbọ́ I-LOC
-" O
+' O
 lédè O
 Yorùbá O
 nìrètí O
@@ -69362,7 +69430,7 @@ lọ́nad O
 , O
 120 O
 , O
-0 O
+000 O
 , O
 ḱo O
 tóó O
@@ -69509,7 +69577,8 @@ wà O
 ní O
 Ìkòyí B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 lórí O
 bí O
@@ -70392,7 +70461,8 @@ yọ̀ǹda O
 ìkẹ́kọ̀ọ́ O
 fáwọn O
 ọmọléèwé O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 
 Sam B-PER
 Akínrólé I-PER
@@ -70449,7 +70519,8 @@ tó O
 wà O
 ní O
 Màrínà B-LOC
-l'Ékòó I-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Àwọn O
@@ -70935,7 +71006,8 @@ Bank I-ORG
 fún O
 àwọn O
 ọmọléèwé O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Obìnrin O
@@ -71767,7 +71839,8 @@ ohun O
 ìwúrí O
 fún O
 wa O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 àti O
 káàkiri O
 ní O
@@ -73795,7 +73868,8 @@ kékeré O
 kan O
 sílùú O
 Ìkẹjà B-LOC
-l'Ékòó I-LOC
+l' O
+Ékòó B-LOC
 , O
 ó O
 pe O
@@ -73804,9 +73878,9 @@ ìtajà O
 aṣọ O
 náa O
 ̀ní O
-" O
+' O
 Bob B-ORG
-" O
+' O
 èyí O
 tó O
 jẹ́ O
@@ -73820,13 +73894,12 @@ ń O
 pè O
 é O
 nígbà O
-
 èwe O
 . O
 
-" O
+' O
 Bọ̀bọ́ B-PER
-" O
+' O
 lẹ́yìn O
 tó O
 ṣàkíyèsí O
@@ -73843,17 +73916,17 @@ ló O
 bá O
 ṣe O
 àfibọ̀ O
-" O
+' O
 Risky O
-" O
+' O
 sórúkọ O
 rẹ̀ O
 tó O
 fi O
 di O
-" O
+' O
 Bobrisky B-PER
-" O
+' O
 lẹ́yìn O
 tí O
 orúkọ O
@@ -73877,8 +73950,8 @@ ń O
 ta O
 àwọn O
 nǹkan O
-ìpajú O
 
+ìpajú O
 - O
 para O
 obìnrin O
@@ -73902,11 +73975,11 @@ pe O
 orúkọ O
 ẹ̀ O
 ní O
-" O
+' O
 Bob B-ORG
 Whitening O
 Cream O
-" O
+' O
 jákèjákò O
 àwọn O
 orílẹ̀ O
@@ -74096,7 +74169,7 @@ lanti O
 
 Bím̀bó B-PER
 ní O
-" O
+' O
 Òhun O
 tí O
 mo O
@@ -74131,7 +74204,7 @@ fún O
 mi O
 . O
 
-" O
+' O
 Òṣèré O
 yìí O
 ní O
@@ -74253,7 +74326,7 @@ yóò O
 bí O
 . O
 
-" O
+' O
 Àgbéyẹ̀wò O
 gbọ́dọ̀ O
 wà O
@@ -74264,7 +74337,7 @@ de O
 ẹnubodè O
 ilẹ̀ O
 wa O
-" O
+' O
 
 Àgbéyẹ̀wò O
 gbọ́dọ̀ O
@@ -74643,7 +74716,8 @@ rí O
 lásìkò O
 ìjọba O
 Trump B-PER
-l'Ámẹ́ríkà B-LOC
+l' O
+Ámẹ́ríkà B-LOC
 , O
 ẹnu O
 kò O
@@ -74661,7 +74735,8 @@ wọ́n O
 ń O
 gbélùú O
 òyìnbó O
-l'Ámẹ́ríkà B-LOC
+l' O
+Ámẹ́ríkà B-LOC
 ni O
 Alàgbà O
 Amos B-PER
@@ -74918,7 +74993,8 @@ a O
 fẹ́ O
 ìyípadà O
 púpọ̀ O
-l'Ámẹ́ríkà B-LOC
+l' O
+Ámẹ́ríkà B-LOC
 , O
 pàápàá O
 àwọn O
@@ -75185,20 +75261,23 @@ wa O
 
 Ọ̀rọ̀ O
 iṣẹ́ O
-l'Ámẹ́ríkà B-LOC
+l' O
+Ámẹ́ríkà B-LOC
 
 Ó O
 dára O
 láti O
 ṣiṣẹ́ O
-l'Ámẹ́ríkà B-LOC
+l' O
+Ámẹ́ríkà B-LOC
 ju O
 Nàíjíríà B-LOC
 lo O
 , O
 torí O
 pé O
-l'Ámẹ́ríkà B-LOC
+l' O
+Ámẹ́ríkà B-LOC
 ; O
 
 tóo O
@@ -75252,7 +75331,8 @@ ni O
 kò O
 rí O
 bẹ́ẹ̀ O
-l'Ámẹ́ríkà B-LOC
+l' O
+Ámẹ́ríkà B-LOC
 o O
 , O
 tóo O
@@ -75330,7 +75410,8 @@ àti O
 , O
 kò O
 sọ́lẹ O
-l'Ámẹ́ríkà B-LOC
+l' O
+Ámẹ́ríkà B-LOC
 , O
 kò O
 sí O
@@ -75407,7 +75488,8 @@ yọ O
 wá O
 lẹ́nu O
 , O
-l'Ámẹ́ríkà B-LOC
+l' O
+Ámẹ́ríkà B-LOC
 , O
 gbogbo O
 owó O
@@ -75428,15 +75510,16 @@ o O
 . O
 
 Ẹ̀wọ̀n O
-l'Àfáà O
+l' O
+Àfáà O
 Jamiu B-PER
 ti O
 máa O
 ṣọdún O
 , O
-" O
+' O
 Kọ̀ráà B-PER
-" O
+' O
 ló O
 ṣe O
 gbájú O
@@ -75504,7 +75587,8 @@ lọọ O
 fowó O
 ọ̀hun O
 rà O
-n'Ílọrin B-LOC
+n' O
+Ílọrin B-LOC
 . O
 
 Yàtọ̀ O
@@ -75972,7 +76056,8 @@ onímọ́tò O
 
 ìyẹn O
 NURTW B-ORG
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Sátidé B-DATE
@@ -76190,9 +76275,11 @@ wà O
 ní O
 Kásúmù B-LOC
 , O
-l'Ágége B-LOC
+l' O
+Ágége B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Àsejèrè B-ORG
@@ -76796,7 +76883,8 @@ owó O
 táa O
 ń O
 gbà O
-l'Ágbàdo B-LOC
+l' O
+Ágbàdo B-LOC
 Òkè I-LOC
 Odò I-LOC
 ló O
@@ -77348,7 +77436,8 @@ yìnbọn O
 pa O
 Ọba O
 Yorùbá O
-l'Ákùrẹ́ B-LOC
+l' O
+Ákùrẹ́ B-LOC
 
 Àwọn O
 agbébọnrìn O
@@ -77437,7 +77526,8 @@ àwọn O
 àgbẹ̀ O
 oníkòkò O
 lọ́lá O
-n'Íṣùà B-LOC
+n' O
+Íṣùà B-LOC
 Àkókó I-LOC
 - O
 Nojeem B-PER
@@ -79162,7 +79252,8 @@ àgbà O
 
 Wọ́n O
 wà O
-l'Áméríkà B-LOC
+l' O
+Áméríkà B-LOC
 , O
 Bímbọ́lá B-PER
 Talọba I-PER
@@ -79326,7 +79417,8 @@ ní O
 King B-PER
 Larry I-PER
 Live O
-l'Áméríkà B-LOC
+l' O
+Áméríkà B-LOC
 , O
 ó O
 ti O
@@ -80275,7 +80367,8 @@ Alágbọn B-LOC
 ní O
 Ìkòyí B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Ohun O
@@ -80365,7 +80458,8 @@ Balógun B-LOC
 Ìkòyí B-LOC
 , O
 
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 olùjẹ́jọ́ O
 
@@ -80625,7 +80719,8 @@ àti O
 àdáni O
 tó O
 wà O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 ti O
 kógbá O
 wọlé O
@@ -80634,7 +80729,8 @@ wọlé O
 Kété O
 tíjọba O
 àpapọ̀ O
-l'Ábújá B-LOC
+l' O
+Ábújá B-LOC
 kéde O
 pé O
 kí O
@@ -80674,7 +80770,8 @@ Aláùsá B-LOC
 , O
 Ìkejà B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 Mọ́jọlá B-PER
 ní O
@@ -80722,14 +80819,14 @@ náà O
 ní O
 ìwé O
 ẹ̀rí O
-" O
+' O
 o O
 - O
 ti O
 - O
 yege O
+' O
 . O
-" O
 
 Ó O
 ní O
@@ -80915,7 +81012,8 @@ tí O
 alága O
 àwọn O
 onímọ́tò O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 Àlàájì O
 Músúlíù B-PER
@@ -81135,7 +81233,8 @@ wà O
 ní O
 Bádóre B-LOC
 , O
-l'Ájàh B-LOC
+l' O
+Ájàh B-LOC
 , O
 ìrètí O
 wa O
@@ -81615,7 +81714,8 @@ Màrínà B-LOC
 CMS I-LOC
 ati O
 Bádore B-LOC
-l'Ájàh I-LOC
+l' O
+Ájàh B-LOC
 . O
 
 Kí O
@@ -83160,7 +83260,8 @@ ní O
 Victori B-LOC
 Island I-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Gbọ́láhàn B-PER
@@ -83488,7 +83589,8 @@ tó O
 ń O
 lọ O
 lọ́wọ́ O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Wòlíì O
@@ -83514,7 +83616,8 @@ Command B-LOC
 , O
 Ìkọ́lá B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Òun O
@@ -83619,7 +83722,8 @@ Adébóyè B-PER
 ìdákọ́ńkọ́ O
 pẹ̀lú O
 Bùhárí B-PER
-l'Ásó B-LOC
+l' O
+Ásó B-LOC
 Rock I-LOC
 
 Olórí O
@@ -83751,7 +83855,7 @@ ti O
 takò O
 . O
 
-" O
+' O
 Àsìkò O
 yìí O
 gan O
@@ -83764,7 +83868,7 @@ àwọn O
 iléèwé O
 aládàáni O
 lọ́wọ́ O
-" O
+' O
 
 Ẹgbẹ́ O
 àwọn O
@@ -83777,8 +83881,7 @@ wa O
 , O
 ìyẹn O
 Muslim B-ORG
-Students I-ORG
-" I-ORG
+Students' I-ORG
 Society I-ORG
 of I-ORG
 Nigeria I-ORG
@@ -83852,7 +83955,8 @@ Aláùsá B-LOC
 , O
 Ìkẹjà B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Thanni B-PER
@@ -85003,7 +85107,8 @@ ààbò O
 lóòótọ́ O
 ó O
 dára O
-l'Èkòó B-LOC
+l' O
+Èkòó B-LOC
 ju O
 tàwọn O
 yòókù O
@@ -88673,7 +88778,8 @@ sọ̀rọ̀ O
 ní O
 Màrínà B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 lórí O
 ìgbésẹ̀ O
 tí O
@@ -88832,7 +88938,8 @@ tún O
 kìlọ̀ O
 fáwọn O
 ọlọ́kadà O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 
 Ọwọ́ O
 iléeṣẹ́ B-ORG
@@ -88849,7 +88956,8 @@ nínú O
 súnkẹrẹ O
 - O
 fàkẹrẹ O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 bẹ́ẹ̀ O
 sì O
@@ -89202,7 +89310,8 @@ sọ̀rọ̀ O
 ní O
 Aláúsá B-LOC
 Ìkẹjà I-LOC
-l'Ékòó I-LOC
+l' O
+Ékòó B-LOC
 . O
 
 Ọládẹ̀ìndé B-PER
@@ -89646,7 +89755,8 @@ Abíọ́lá I-PER
 ní O
 Ọ̀rẹ̀gún B-LOC
 , O
-l'Ékòó B-LOC
+l' O
+Ékòó B-LOC
 , O
 parí O
 . O
@@ -98341,7 +98451,7 @@ ogún O
 ( O
 N20 O
 , O
-0 O
+000 O
 ) O
 ni O
 ìjọba O
@@ -104115,8 +104225,7 @@ bí O
 Major O
 Sani B-PER
 ṣe O
-ṣ O
-" O
+ṣ' O
 àlàyé O
 " O
 àwọn O
@@ -104181,9 +104290,7 @@ gbà O
 
 " O
 Ó O
-ṣ O
-" O
-eni O
+ṣ'eni O
 láàánú O
 , O
 pé O
@@ -104402,11 +104509,11 @@ Buhari B-PER
 dúpẹ́ O
 lọ́wọ́ O
 àwọn O
-" O
+' O
 Dókítà B-ORG
 Láìní I-ORG
 Ààlà I-ORG
-" O
+' O
 fún O
 àtìlẹ́yìn O
 wọn O
@@ -104442,8 +104549,7 @@ rògbòdìyàn O
 ti O
 ń O
 wáyé O
-l O
-" O
+l' O
 órílẹ̀ O
 èdè O
 Nàìjíríà B-LOC
@@ -104579,8 +104685,7 @@ sílẹ̀ O
 Èyí O
 ni O
 láti O
-ṣ O
-" O
+ṣ' O
 ètò O
 ìrànwọ́ O
 fún O
@@ -104635,9 +104740,7 @@ Mínísítà O
 fún O
 ètò O
 ìròyìn O
-ṣ O
-" O
-àlàyé O
+ṣ'àlàyé O
 nípa O
 Ẹ̀yáwó O
 Ẹ̀ẹ́dẹ́gbẹ̀ta O
@@ -104697,18 +104800,14 @@ fún O
 ìròyìn O
 àti O
 àsà O
-s O
-" O
-ọ̀rọ̀ O
+s'ọ̀rọ̀ O
 náà O
 nígbàtí O
 ó O
 ń O
 bá O
 akọ̀ròyìn O
-s O
-" O
-ọ̀rọ̀ O
+s'ọ̀rọ̀ O
 nílùú O
 Àbújá B-LOC
 , O
@@ -104750,7 +104849,8 @@ mẹ́ta O
 tí O
 wọ́n O
 ṣe O
-l'órílẹ̀ O
+l' O
+órílẹ̀ O
 èdè O
 Nàìjíríà B-LOC
 tí O
@@ -104826,9 +104926,7 @@ CNN B-ORG
 
 Mínísítà O
 wá O
-ṣ O
-" O
-àlàyé O
+ṣ'àlàyé O
 pé O
 ètò O
 ẹ̀yáwó O
@@ -105061,7 +105159,8 @@ gbogbo O
 ìpínlẹ̀ O
 tó O
 wà O
-l'órílẹ̀ O
+l' O
+órílẹ̀ O
 
 èdè O
 Nàìjíríà B-LOC
@@ -107892,12 +107991,12 @@ orílẹ̀ I-ORG
 Nàìjíríà I-ORG
 , O
 
-( O
 Independent B-ORG
 National I-ORG
 Electoral I-ORG
 Commission I-ORG
 , O
+( O
 INEC B-ORG
 ) O
 ti O
@@ -107950,8 +108049,7 @@ ilé B-ORG
 gíga I-ORG
 tó I-ORG
 wà I-ORG
-l I-ORG
-" I-ORG
+l' I-ORG
 órílẹ̀ I-ORG
 èdè I-ORG
 Nàìjíríà I-ORG
@@ -108338,7 +108436,7 @@ UNGA74 O
 náà O
 ni O
 , O
-" O
+' O
 Ìgbìyànjú O
 Nílopo O
 - O
@@ -109252,8 +109350,7 @@ sọ O
 , O
 a O
 ti O
-ṣ O
-" O
+ṣ' O
 àkíyèsí O
 wí O
 pé O
@@ -109391,11 +109488,9 @@ iṣẹ́ O
 Ọ̀gbẹ́ni O
 Dayọ̀ B-PER
 Akpata I-PER
-l O
-" O
+l' O
 ó O
-s O
-" O
+s' O
 ọ̀rọ̀ O
 yìí O
 nílùú O
@@ -109487,8 +109582,7 @@ orílẹ̀ O
 - O
 èdè O
 Nàìjíríà B-LOC
-l O
-" O
+l' O
 ó O
 ní O
 ẹ̀tọ́ O
@@ -109566,14 +109660,12 @@ Ilé O
 Iṣẹ́ O
 ètò O
 ìdájọ́ O
-l O
-" O
+l' O
 ágbára O
 láti O
 mú O
 àbá O
-d O
-" O
+d' O
 òfin O
 ìtako O
 ìwà O
@@ -109584,8 +109676,7 @@ d O
 
 Ọ̀gbẹ́ni O
 Hamza B-PER
-l O
-" O
+l' O
 ó O
 ṣójú O
 fún O
@@ -109609,8 +109700,7 @@ Pence I-PER
 àwọn O
 t'ó O
 kù O
-l O
-" O
+l' O
 órílẹ̀ O
 - O
 èdè O
@@ -109966,8 +110056,7 @@ ní O
 ẹ̀yìn O
 odi O
 ń O
-ṣ O
-" O
+ṣ' O
 alágbàáwí O
 fún O
 ìdìbò O
@@ -110041,8 +110130,7 @@ Dábírí I-PER
 - I-PER
 Erewa I-PER
 , O
-l O
-" O
+l' O
 ó O
 pe O
 ìpè O
@@ -110058,8 +110146,7 @@ aṣojú O
 ọmọ O
 ẹgbẹ́ O
 APC B-ORG
-t O
-" O
+t' O
 ó O
 ń O
 gbé O
@@ -110209,8 +110296,7 @@ sí O
 - O
 aṣòfin O
 , O
-k O
-" O
+k' O
 á O
 sì O
 kó O
@@ -110614,8 +110700,7 @@ náà O
 " O
 
 Lásìkò O
-t O
-" O
+t' O
 ó O
 ń O
 gba O
@@ -110657,10 +110742,7 @@ pé O
 ìrànlọ́wọ́ O
 láti O
 ọ̀dọ̀ O
-U B-LOC
-. I-LOC
-S I-LOC
-. O
+U.S. B-LOC
 láti O
 mú O
 àwọn O
@@ -110677,10 +110759,10 @@ ribiribi O
 fún O
 orílẹ̀ O
 - O
-
 èdè O
 Nàìjíríà B-LOC
 , O
+
 ní O
 ti O
 ìmúdára O
@@ -111044,8 +111126,7 @@ èdè O
 méjèèjì O
 náà O
 jọ O
-t O
-" O
+t' O
 ọwọ́bọ O
 ìwé O
 àdéhùn O
@@ -111220,8 +111301,7 @@ náà O
 Ilé O
 ìgbìmọ̀ O
 aṣòfin O
-f O
-" O
+f' O
 ọ̀ǹtẹ̀ O
 lu O
 Àbíké B-PER
@@ -111239,8 +111319,7 @@ Ilé O
 ìgbìmọ̀ O
 aṣòfin O
 ti O
-f O
-" O
+f' O
 ọ̀ǹtẹ̀ O
 lu O
 ìpinnu O
@@ -111274,8 +111353,7 @@ ilẹ̀ O
 pàápàá O
 jùlọ O
 ọ̀rọ̀ O
-t O
-" O
+t' O
 ó O
 bá O
 kan O
@@ -111293,9 +111371,7 @@ Dábírí B-PER
 - I-PER
 Erewa I-PER
 , O
-t O
-" O
-ó O
+t'ó O
 jẹ O
 ọmọ O
 ilé O
@@ -111448,8 +111524,7 @@ Nàìjíríà B-LOC
 
 Aṣòfin O
 Oko O
-ṣ O
-" O
+ṣ' O
 àfikún O
 wí O
 pé O
@@ -111535,7 +111610,8 @@ ìlú O
 ilé O
 - O
 ìsìn O
-l'órílé O
+l' O
+órílé O
 - O
 ẹ̀dè O
 India B-LOC
@@ -111762,8 +111838,7 @@ tí O
 sì O
 le O
 è O
-ṣ O
-" O
+ṣ' O
 okùnfà O
 ìdásílẹ̀ O
 . O
@@ -111896,7 +111971,8 @@ púpọ̀ O
 nínú O
 àwọn O
 oníṣòwò O
-l'ó O
+l' O
+ó O
 ti O
 nífẹ̀ẹ́ O
 láti O
@@ -112350,7 +112426,8 @@ ilé I-ORG
 ẹ̀kọ́ I-ORG
 àwọn I-ORG
 olùkọ́ I-ORG
-l'órílẹ̀ I-ORG
+l' I-ORG
+órílẹ̀ I-ORG
 - I-ORG
 èdè I-ORG
 Nàìjíríà I-ORG
@@ -112430,7 +112507,8 @@ gíga O
 t'ó O
 yé O
 kooro O
-l'órílẹ̀ O
+l' O
+órílẹ̀ O
 èdè O
 
 Nàìjíríà B-LOC
@@ -112704,10 +112782,12 @@ W B-PER
 . I-PER
 Stuart I-PER
 Symington I-PER
-l'ó O
+l' O
+ó O
 sọ̀rọ̀ O
 yìí O
-l'ásìkò O
+l' O
+ásìkò O
 ayẹyẹ O
 láti O
 fi O
@@ -113225,7 +113305,7 @@ àpérò O
 náà O
 ni O
 : O
-" O
+' O
 Wíwá O
 ọjọ́ O
 iwájú O
@@ -113249,7 +113329,6 @@ Ìmọ̀ O
 ìgbàlódé O
 . O
 
-" O
 " O
 Ààrẹ O
 orílẹ̀ O
@@ -114090,14 +114169,14 @@ máa O
 sọ̀rọ̀ O
 lórí O
 àkórí O
-" O
+' O
 Gbígbé O
 àjùmọ̀ṣe O
 dé O
 orí O
 ẹ̀rọ O
 ìgbàlódé O
-" O
+' O
 
 ní O
 ìpàdé O
@@ -114404,7 +114483,8 @@ fi O
 ìlú O
 Àbújá B-LOC
 sílẹ̀ O
-l'áṣàlẹ́ B-DATE
+l' O
+áṣàlẹ́ B-DATE
 ọjọ́ I-DATE
 Àìkú I-DATE
 , O
@@ -114527,7 +114607,7 @@ ó O
 sì O
 lo O
 ọ̀rí O
-" O
+' O
 Julius B-PER
 Caesar I-PER
 ti O
@@ -114593,14 +114673,13 @@ ikú O
 náà O
 : O
 " O
-" O
 Àwọn O
 ẹlẹ́wọ̀n O
-l O
-" O
+l' O
 ọ́kùnrin O
 àti O
-l'óbìnrin O
+l' O
+óbìnrin O
 láti O
 gbogbo O
 ilé O
@@ -114669,12 +114748,11 @@ lorílẹ̀ O
 èdè O
 Nàìjíríà B-LOC
 " O
-" O
+
 jẹ́ O
 aláìlẹ́kọ̀ọ́ O
 àti O
 aláìmọ̀kan O
-
 . O
 
 " O
@@ -116116,7 +116194,8 @@ kéré O
 tán O
 ọlọ́pàá O
 méjìlélógún O
-l'ó O
+l' O
+ó O
 pàdánù O
 ẹ̀mí O
 wọn O
@@ -116311,7 +116390,8 @@ gbógun O
 ti O
 ààrùn O
 yìí O
-l'órílẹ̀ O
+l' O
+órílẹ̀ O
 - O
 èdè O
 Nàìjíríà B-LOC
@@ -116338,7 +116418,8 @@ orílẹ̀ O
 èdè O
 Nàìjíríà B-LOC
 , O
-l'ó O
+l' O
+ó O
 gbé O
 àmì O
 ẹ̀yẹ O
@@ -116394,7 +116475,8 @@ lapa O
 rọ́mọ O
 - O
 lẹ́sẹ̀ O
-l'órílẹ̀ O
+l' O
+órílẹ̀ O
 - O
 èdè O
 wọn O
@@ -116490,7 +116572,6 @@ lọ́lá O
 . O
 
 " O
-" O
 Ìran O
 mi O
 mọ́ O
@@ -116542,7 +116623,6 @@ gan O
 an O
 . O
 
-" O
 " O
 Inú O
 mi O
@@ -116613,7 +116693,6 @@ náà O
 . O
 
 " O
-" O
 Ọ̀gbẹ́ni O
 Rassin B-PER
 wá O
@@ -116636,7 +116715,8 @@ láti O
 dẹ́kun O
 àrùn O
 rọmọlápárọmọlẹ́sẹ̀ O
-l'órílẹ̀ O
+l' O
+órílẹ̀ O
 - O
 èdè O
 Nàìjíríà B-LOC
@@ -117082,7 +117162,6 @@ Ìpèníjà O
 lórí O
 Ìṣèjọba O
 Àgbáyé O
-" O
 " O
 èyí O
 tí O
@@ -117928,7 +118007,8 @@ tó O
 ń O
 wa O
 ekùsà O
-l'órílẹ̀ O
+l' O
+órílẹ̀ O
 - O
 èdè O
 Nàìjíríà B-LOC
@@ -118450,7 +118530,8 @@ àrùn O
 kògbóògùn O
 Erasmus B-PER
 Murah I-PER
-l'ó O
+l' O
+ó O
 sọ̀rọ̀ O
 yìí O
 níbi O
@@ -119097,8 +119178,7 @@ náà O
 
 Ọ̀gbẹ́ni O
 Onyeama B-PER
-ṣ O
-" O
+ṣ' O
 àlàyé O
 pé O
 " O
@@ -120018,7 +120098,8 @@ aláìní O
 ọ̀pọ̀lọpọ̀ O
 iṣẹ́ O
 àkànṣe O
-l'ó O
+l' O
+ó O
 ń O
 lọ O
 lọ́wọ́ O
@@ -121356,7 +121437,7 @@ i O
 Ó O
 sọ O
 pé O
-" O
+' O
 a O
 ti O
 sọ̀rọ̀ O
@@ -121654,7 +121735,6 @@ ìpínlẹ̀ O
 Èkó B-LOC
 . O
 
-" O
 " O
 Ó O
 ní O
@@ -122743,7 +122823,8 @@ Seattle B-LOC
 Tacoma I-LOC
 ti O
 já O
-l'Érèkùsù O
+l' O
+Érèkùsù O
 kan O
 . O
 
@@ -122751,8 +122832,7 @@ Òṣìṣẹ́ O
 ọlọ́kọ̀ O
 òfuurufú O
 kan O
-tó O
-" O
+tó' O
 jí O
 bàálù O
 kan O
@@ -122761,7 +122841,8 @@ ní O
 pápákọ̀ B-LOC
 òfuurufú I-LOC
 Seattle I-LOC
-l'órílẹ̀ O
+l' O
+órílẹ̀ O
 - O
 èdè O
 Amẹ́ríkà B-LOC
@@ -122845,7 +122926,8 @@ í O
 ṣe O
 àwọn O
 agbẹ́sùnmómi O
-l'ó O
+l' O
+ó O
 jí O
 i O
 bíkòṣe O
@@ -122869,7 +122951,8 @@ rọ O
 náà O
 k'ó O
 balẹ̀ O
-l'álàáfíà O
+l' O
+álàáfíà O
 k'ó O
 tó O
 di O
@@ -123051,7 +123134,8 @@ Russia B-LOC
 ọ̀jọ̀gbọ́n O
 Steve B-PER
 Ugba I-PER
-l'ó O
+l' O
+ó O
 sọ̀rọ̀ O
 yìí O
 lórí O
@@ -123244,13 +123328,13 @@ òfuurufú O
 Hadi B-PER
 Sirika I-PER
 , O
+
 láti O
 kó O
 gbogbo O
 àwọn O
 ọmọ O
 orílẹ̀ O
-
 - O
 èdè O
 
@@ -123604,7 +123688,6 @@ mo O
 . O
 
 " O
-" O
 Ugba B-PER
 tún O
 sọ O
@@ -123785,12 +123868,9 @@ wúlò O
 fún O
 àwọn O
 " O
-" O
 ààrẹ O
 lọ́jọ́ O
 iwájú O
-" O
-" O
 " O
 nítorí O
 ọ̀pọ̀lọpọ̀ O
@@ -123994,7 +124074,6 @@ Jackie B-PER
 Kennedy I-PER
 " O
 , O
-" O
 ní O
 èyí O
 tí O
@@ -124444,7 +124523,8 @@ àwọn O
 
 ìwà O
 ọ̀daràn O
-l'órílẹ̀ O
+l' O
+órílẹ̀ O
 - O
 èdè O
 àgbáyé O
@@ -124475,7 +124555,8 @@ àgbáyé O
 , O
 pàápàá O
 jùlọ O
-l'órílẹ̀ O
+l' O
+órílẹ̀ O
 - O
 èdè O
 Áfíríkà B-LOC
@@ -124508,7 +124589,6 @@ náà O
 tún O
 sọ O
 pé O
-" O
 " O
 ìdánilójú O
 wà O
@@ -124635,8 +124715,7 @@ Ilé B-ORG
 - I-ORG
 iṣẹ́ I-ORG
 ọlọ́pàá I-ORG
-l I-ORG
-" I-ORG
+l' I-ORG
 órílẹ̀ I-ORG
 èdè I-ORG
 Nàìjíríà I-ORG
@@ -124653,8 +124732,7 @@ gbógun O
 ti O
 ìwà O
 ọ̀daràn O
-l O
-" O
+l' O
 órílẹ̀ O
 èdè O
 yìí O
@@ -127299,7 +127377,8 @@ ilé O
 - O
 iṣẹ́ O
 akọ̀ròyìn O
-l'orílẹ̀ O
+l' O
+orílẹ̀ O
 - O
 èdè O
 Argentina B-LOC
@@ -129128,10 +129207,10 @@ sími O
 láti O
 sọ O
 pé O
-" O
+' O
 káàbọ̀ O
 padà O
-" O
+' O
 
 Ọ̀rẹ́ O
 mi O
@@ -134046,9 +134125,9 @@ Real B-ORG
 Madrid I-ORG
 nínú O
 ìfigagbága O
-" O
+' O
 Clasico O
-" O
+' O
 tí O
 yóò O
 wáyé O
@@ -134094,9 +134173,9 @@ Ní O
 àfikún O
 sí O
 ìfigagbága O
-" O
+' O
 Clasico O
-" O
+' O
 Agbábọ́ọ̀lù O
 tí O
 o O
@@ -135794,7 +135873,7 @@ yá O
 òòrùn O
 ilẹ̀ O
 Seychelles B-LOC
-" O
+' O
 
 Ikọ̀ B-ORG
 Super I-ORG
@@ -136280,8 +136359,7 @@ Ní O
 báyìí O
 ikọ̀ O
 Cote B-LOC
-d I-LOC
-" I-LOC
+d' I-LOC
 Voire I-LOC
 àti O
 ikọ̀ O
@@ -137442,7 +137520,7 @@ Nàìjííríà B-LOC
 jáde O
 . O
 
-" O
+' O
 A O
 nígbàgbọ́ O
 pé O
@@ -139176,9 +139254,8 @@ ara O
 àwọn O
 àfihàn O
 yìí O
+" O
 , O
-" O
-" O
 " O
 ní O
 ọ̀rọ̀ O
@@ -139565,7 +139642,7 @@ àwọn O
 àlùfáà O
 náà O
 pé O
-" O
+' O
 Ẹ̀yin O
 ènìyàn O
 Ọlọ́run O
@@ -140632,7 +140709,6 @@ yíí O
 . O
 
 " O
-" O
 Ààrẹ O
 wá O
 rọ O
@@ -141325,13 +141401,13 @@ àwọn O
 ọ̀dọ́ O
 bí O
 i O
-" O
+' O
 ètò O
 G O
 - O
 Money O
+' O
 . O
-" O
 
 Ilé O
 - O
@@ -143604,7 +143680,6 @@ dé O
 bá O
 ìpínlẹ̀ O
 Nasarawa B-LOC
-" O
 " O
 
 Gómìnà O
@@ -146562,7 +146637,6 @@ gbiǵba O
 áláìsẹ̀ O
 . O
 
-" O
 " O
 " O
 Gbígba O
@@ -149823,7 +149897,6 @@ nínú O
 jẹ́ O
 . O
 
-" O
 " O
 Ààrẹ O
 tún O
@@ -153496,9 +153569,9 @@ wá O
 rọ O
 gbogbo O
 àwọn O
-" O
+' O
 Lagosians O
-" O
+' O
 pé O
 ọ̀nà O
 láti O
@@ -157388,10 +157461,9 @@ ṣàfihàn O
 Nyantakyi B-PER
 tó O
 gba O
-$ O
-65 O
+$65 O
 , O
-0 O
+000 O
 só̩wó̩ O
 , O
 ló̩wó̩ O
@@ -163318,8 +163390,7 @@ mílíọ́nù O
 owó O
 dọ́là O
 ( O
-$ O
-50m O
+$50m O
 ) O
 sílẹ̀ O
 fún O
@@ -168193,10 +168264,9 @@ ẹ̀ẹ́dẹ́gbààta O
 owó O
 dọ́là O
 ( O
-$ O
-5 O
+$5 O
 , O
-0 O
+000 O
 ) O
 , O
 àmì O
@@ -168213,10 +168283,9 @@ ẹ̀ẹ́dẹ́gbàajì O
 owó O
 dọ́là O
 ( O
-$ O
-3 O
+$3 O
 , O
-0 O
+000 O
 ) O
 , O
 bẹ́ẹ̀ O
@@ -168235,10 +168304,9 @@ ẹgbàá O
 owó O
 dọ́là O
 ( O
-$ O
-2 O
+$2 O
 , O
-0 O
+000 O
 ) O
 . O
 
@@ -169332,7 +169400,7 @@ ẹ̀ẹ́dẹ́gbẹ̀ta O
 ( O
 N500 O
 , O
-0 O
+000 O
 ) O
 , O
 bẹ́ẹ̀ O
@@ -169356,7 +169424,7 @@ ún O
 ( O
 N350 O
 , O
-0 O
+000 O
 ) O
 , O
 tí O
@@ -169382,7 +169450,7 @@ ún O
 ( O
 N250 O
 , O
-0 O
+000 O
 ) O
 . O
 
@@ -173880,7 +173948,7 @@ Balogun I-PER
 ( O
 FSV B-ORG
 Mainz I-ORG
-5 I-ORG
+05 I-ORG
 , O
 Germany B-LOC
 ) O
@@ -178217,10 +178285,9 @@ ọ̀kẹ́ O
 owo O
 dollar O
 ( O
-$ O
-600 O
+$600 O
 , O
-0 O
+000 O
 ) O
 àti O
 okòólélọ́ọ̀ọ́dúnrún O

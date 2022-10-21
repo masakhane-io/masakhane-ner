@@ -12638,78 +12638,88 @@ M O
 ) O
 : O
 Akani B-PER
-Simbine100m I-PER
+Simbine I-PER
+100m O
 ( O
 W O
 ) O
 : O
 Reabetse B-PER
-Moloi200m I-PER
+Moloi I-PER
+200m O
 ( O
 M O
 ) O
 : O
 Wayde B-PER
 van I-PER
-Niekerk200m I-PER
+Niekerk I-PER
+200m O
 ( O
 W O
 ) O
 : O
 Justine B-PER
-Palframan400m I-PER
+Palframan I-PER
+400m O
 ( O
 W O
 ) O
 : O
 Deline B-PER
-Mpiti400mh I-PER
+Mpiti I-PER
+400mh O
 ( O
 M O
 ) O
 : O
 Le B-PER
 Roux I-PER
-Heimman400mh I-PER
+Heimman I-PER
+400mh O
 ( O
 W O
 ) O
 : O
+
 Wenda B-PER
-Nel800m I-PER
+Nel I-PER
+800m O
 ( O
 M O
 ) O
 : O
-
 Tshepo B-PER
 Tshite I-PER
+800m O
 ( O
 W O
 ) O
 : O
 Prudence B-PER
-Sekgodiso500m I-PER
+Sekgodiso I-PER
+500m O
 ( O
 M O
 ) O
 : O
 Precious B-PER
-Mashele500m I-PER
+Mashele I-PER
+500m O
 ( O
 W O
 ) O
 : O
 Caster B-PER
-Semenya10 I-PER
-000m O
+Semenya I-PER
+10000m O
 ( O
 W O
 ) O
 : O
 Glenrose B-PER
-Xaba10 I-PER
-000m O
+Xaba I-PER
+10000m O
 ( O
 M O
 ) O
@@ -13823,7 +13833,9 @@ Broos I-PER
 , O
 oshaye O
 ngesithende O
-amakhehla' O
+' O
+amakhehla O
+' O
 esikwatini O
 sakhe O
 . O
@@ -16233,7 +16245,9 @@ kwemiqhudelwano O
 
 Ulandwe O
 phesheya O
-ozofaka' O
+' O
+ozofaka O
+' O
 iBafana B-ORG
 kweyomhlaba O
 
@@ -21138,7 +21152,7 @@ azothola O
 u O
 - O
 R150 O
-0 O
+000 O
 . O
 
 Ezinye O
@@ -35702,8 +35716,8 @@ inombolo O
 yamahhala O
 ethi O
 : O
-800 O
-29 O
+0800 O
+029 O
 999 O
 ukuze O
 uthole O
@@ -39999,7 +40013,7 @@ yimizi O
 engu O
 - O
 1 O
-0 O
+000 O
 ezohlomula O
 ngalesi O
 sikhathi O
@@ -41003,7 +41017,7 @@ kunezingaphezu O
 kuka O
 - O
 500 O
-0 O
+000 O
 ezidlulisela O
 kuhulumeni O
 intela O
@@ -48867,12 +48881,12 @@ Exclusive B-ORG
 Books I-ORG
 . O
 
-" O
+' O
 Izimo O
 ezinzima O
 zikwenza O
 uqine O
-" O
+' O
 
 ABESIVAZANE O
 abangabuki O
@@ -49447,7 +49461,7 @@ izifonyo O
 ezingu O
 - O
 10 O
-0 O
+000 O
 . O
 
 Baphinde O
@@ -49458,7 +49472,7 @@ oda O
 angu O
 - O
 20 O
-0 O
+000 O
 kwi O
 - O
 Youth B-ORG
@@ -56846,7 +56860,7 @@ iHi O
 Ace O
 wayithenga O
 ngoR18 O
-0 O
+000 O
 wayikhanda O
 yafakwa O
 emgwaqweni O
@@ -58463,7 +58477,7 @@ awu O
 12 O
 bathola O
 uR12 O
-0 O
+000 O
 athe O
 kuzofakwa O
 ngawo O
@@ -58474,7 +58488,7 @@ emakilasini O
 Nyakenye B-DATE
 bathole O
 uR54 O
-0 O
+000 O
 athe O
 bahlele O
 ukuthi O
@@ -60472,7 +60486,7 @@ amalitha O
 angu O
 - O
 10 O
-0 O
+000 O
 ezimpahla O
 zokuhlanza O
 ngosuku O
@@ -60586,7 +60600,7 @@ ngempela O
 Ngazithola O
 ngilahlekelwa O
 uR13 O
-0 O
+000 O
 ngenxa O
 yabantu O
 abakweletayo O
@@ -70201,7 +70215,7 @@ amathani O
 angu O
 - O
 160 O
-0 O
+000 O
 kamoba O
 abawudayisela O
 abakwaTongaat B-ORG
@@ -74301,7 +74315,9 @@ u O
 
 Ngeke O
 kugwemeke O
-ukuvalwa' O
+' O
+ukuvalwa O
+' O
 kwezwe O
 : O
 Mkhize B-PER
@@ -79444,7 +79460,9 @@ umlomo O
 ngemoto O
 yakwaBajaj B-ORG
 ecoshwa O
-phansi' O
+' O
+phansi O
+' O
 
 ISIPHENDUKE O
 undabuzekwayo O
@@ -79476,11 +79494,11 @@ abayifunayo O
 bangakwazi O
 ukuyithenga O
 ngoR65 O
-0 O
+000 O
 ( O
 isuka O
 kuR75 O
-0 O
+000 O
 ) O
 kanti O
 into O
@@ -80669,7 +80687,7 @@ esezingeni O
 ngokwayo O
 . O
 IntengoR899 O
-0 O
+000 O
 
 Ishiya O
 lesimanje O
@@ -81031,7 +81049,7 @@ abantu O
 kwabangu O
 - O
 100 O
-0 O
+000 O
 abafa O
 ezingozini O
 zomgwaqo O
@@ -81073,7 +81091,7 @@ kubantu O
 abangu O
 - O
 100 O
-0 O
+000 O
 futhi O
 isibalo O
 esikhulu O
@@ -82233,7 +82251,7 @@ siphakathi O
 kuka O
 - O
 1 O
-75 O
+075 O
 litres O
 no O
 - O
@@ -84275,10 +84293,10 @@ cake O
 
 Bajimisa O
 abafuna O
-" O
+' O
 imizimba O
 yasehlobo O
-" O
+' O
 eMoses B-ORG
 Mabhida I-ORG
 
@@ -84967,7 +84985,7 @@ SE O
 MT O
 DC O
 R474 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -84979,7 +84997,7 @@ SE O
 AT O
 DC O
 R498 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -84992,7 +85010,7 @@ Plus O
 MT O
 DC O
 R505 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -85005,7 +85023,7 @@ Plus O
 AT O
 DC O
 R528 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -85017,7 +85035,7 @@ LE O
 AT O
 DC O
 R606 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -85031,7 +85049,7 @@ PRO O
 AT O
 DC O
 R686 O
-0 O
+000 O
 , O
 00NAVARA O
 4WD O
@@ -85047,7 +85065,7 @@ SE O
 MT O
 DC O
 R552 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -85060,7 +85078,7 @@ Plus O
 MT O
 DC O
 R580 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -85072,7 +85090,7 @@ LE O
 MT O
 DC O
 R660 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -85084,7 +85102,7 @@ LE O
 AT O
 DC O
 R677 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -85098,7 +85116,7 @@ PRO O
 AT O
 DC O
 R740 O
-0 O
+000 O
 , O
 00NAVARA O
 2WD O
@@ -85115,7 +85133,7 @@ XE O
 MT O
 SC O
 R311 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -85127,7 +85145,7 @@ XE O
 MT O
 SC O
 R350 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -85139,7 +85157,7 @@ SE O
 MT O
 SC O
 R426 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -85151,7 +85169,7 @@ LE O
 MT O
 SC O
 R456 O
-0 O
+000 O
 , O
 00NAVARA O
 4WD O
@@ -85167,7 +85185,7 @@ SE O
 MT O
 SC O
 R492 O
-0 O
+000 O
 , O
 00NAVARA O
 2 O
@@ -85898,7 +85916,7 @@ nyakenye B-DATE
 zazingu O
 - O
 46 O
-42 O
+042 O
 . O
 
 Uma O
@@ -85948,7 +85966,7 @@ odlule I-DATE
 zazingu O
 - O
 35 O
-87 O
+087 O
 . O
 
 Lesi O
@@ -85999,7 +86017,7 @@ kuqhathaniswa O
 no O
 - O
 35 O
-87 O
+087 O
 wangonyaka B-DATE
 odlule I-DATE
 . O
@@ -86250,7 +86268,7 @@ abakuphi O
 
 Sebebangaphezu O
 kuka11 O
-0 O
+000 O
 abantu O
 abahaqekayo O
 kuleli O
@@ -86913,7 +86931,7 @@ kwabantu O
 abangu O
 - O
 200 O
-0 O
+000 O
 ngonyaka O
 emhlabeni O
 . O
@@ -88133,7 +88151,7 @@ ngaphezulu O
 kuka O
 - O
 5 O
-0 O
+000 O
 ngosuku O
 . O
 
@@ -88169,7 +88187,7 @@ ukuthi O
 bangu O
 - O
 5 O
-74 O
+074 O
 abahaqwe O
 yileli O
 gciwane O
@@ -88265,7 +88283,7 @@ abangu O
 - O
 1 O
 578 O
-33 O
+033 O
 sebeluleme O
 . O
 
@@ -90853,7 +90871,7 @@ kunomthengi O
 ofake O
 idiphozithi O
 kaR100 O
-0 O
+000 O
 ngoba O
 efuna O
 iSUV O
@@ -90862,7 +90880,7 @@ watshelwa O
 ukuthi O
 akhokhe O
 uR15 O
-0 O
+000 O
 ngenyanga O
 egaraji O
 . O
@@ -90985,11 +91003,11 @@ ukuthi O
 umthengi O
 ulahlekelwe O
 nguR100 O
-0 O
+000 O
 nemali O
 elinganiselwa O
 kuR360 O
-0 O
+000 O
 aseyikhokhe O
 kule O
 minyaka O
@@ -92369,7 +92387,7 @@ abangaphezulu O
 kuka O
 - O
 19 O
-0 O
+000 O
 , O
 kwaphawula O
 abangaphezulu O
@@ -93663,7 +93681,7 @@ bangaphezulu O
 kuka O
 - O
 800 O
-0 O
+000 O
 abantu O
 abazibulalayo O
 ngonyaka O

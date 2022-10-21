@@ -2438,7 +2438,9 @@ Tira I-PER
 ugcine O
 eqophile O
 nentokazi O
-yamabhodlela' O
+' O
+yamabhodlela O
+' O
 
 UPHROJUSA O
 womculo O
@@ -3807,9 +3809,7 @@ yomdlalo O
 izoqala O
 kwiSABC1 B-ORG
 ngeSonto B-DATE
-ngo8 I-DATE
-. I-DATE
-0 I-DATE
+ngo8.00 I-DATE
 ebusuku I-DATE
 . O
 
@@ -3988,10 +3988,10 @@ Taylor I-PER
 UBonang B-PER
 ufuna O
 uR500 O
-0 O
-" O
+000 O
+' O
 komehlise O
-" O
+' O
 isithunzi O
 kuYouTube B-ORG
 
@@ -4007,7 +4007,7 @@ Matheba I-PER
 uthi O
 ufuna O
 uR500 O
-0 O
+000 O
 ezinsukwini O
 ezilishumi O
 ezilandelayo O
@@ -4208,7 +4208,7 @@ ukuthi O
 ufuna O
 uhlawule O
 uR500 O
-0 O
+000 O
 ezinsukwini O
 ezilishumi O
 ezilandelayo O
@@ -6580,7 +6580,9 @@ Enhle B-PER
 Mbali I-PER
 ugeqe O
 amagula O
+' O
 ngokuhlukunyezwa' O
+' O
 wuBlack B-PER
 Coffee I-PER
 
@@ -10134,7 +10136,9 @@ kwenyanga I-DATE
 Umaskanda O
 odume O
 ngokuswenka O
+' O
 akazondli' O
+' O
 izingane O
 zakhe O
 

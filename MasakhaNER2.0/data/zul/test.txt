@@ -750,7 +750,7 @@ la O
 madoda O
 ahlawule O
 uR100 O
-0 O
+000 O
 iyinye O
 ngokudukisa O
 amalungu O
@@ -860,7 +860,7 @@ sabo O
 sokuthi O
 bahlawulise O
 uR100 O
-0 O
+000 O
 emunye O
 . O
 
@@ -946,7 +946,7 @@ kuseza O
 esinye O
 isikweleti O
 sikaR400 O
-0 O
+000 O
 ebuholini O
 bukazwelonke O
 beqembu O
@@ -1275,7 +1275,9 @@ Uzochitha O
 impelasonto O
 ejele O
 ohubhuze O
-amanga' O
+' O
+amanga O
+' O
 ezweni O
 
 OWESIFAZANE O
@@ -1829,9 +1831,9 @@ nokazwelonke O
 
 Zimkhalele O
 emngcwabeni O
-" O
+' O
 wesigebengu O
-" O
+' O
 owemoto O
 eyebiwe O
 
@@ -2114,7 +2116,7 @@ imali O
 engu O
 - O
 R140 O
-0 O
+000 O
 kungafanele O
 . O
 
@@ -2245,7 +2247,7 @@ wakhokhelwa O
 u O
 - O
 R140 O
-0 O
+000 O
 ngokungafanele O
 ngomsebenzi O
 abebethi O
@@ -2292,7 +2294,7 @@ wakhokhelwa O
 u O
 - O
 R140 O
-0 O
+000 O
 kungafanele O
 okwenziwa O
 ngomunye O
@@ -3269,7 +3271,7 @@ semali O
 engu O
 - O
 R50 O
-0 O
+000 O
 kodwa O
 indodana O
 yenqaba O
@@ -3503,7 +3505,9 @@ nabamumele O
 
 Uthisha O
 umiselwe O
+' O
 ukufafaza' O
+' O
 amanga O
 
 UMISIWE O
@@ -3847,7 +3851,7 @@ waqhumbusa O
 ithumba O
 ngemali O
 enguR170 O
-0 O
+000 O
 okwakusolwa O
 uthishomkhulu O
 walesi O
@@ -5660,7 +5664,7 @@ bethi O
 kumele O
 ngikhiphe O
 uR100 O
-0 O
+000 O
 ukuze O
 bangibuyisele O
 umakoti O
@@ -6118,14 +6122,14 @@ izitshudeni O
 ezingu O
 - O
 96 O
-0 O
+000 O
 ezifeyilile O
 
 ZINGAPHEZU O
 kuka O
 - O
 140 O
-0 O
+000 O
 izitshudeni O
 ezichithwe O
 yisikhwama O
@@ -6208,7 +6212,7 @@ lwezixhaswayo O
 Ezingu O
 - O
 22 O
-14 O
+014 O
 zasemanyuvesi O
 azixhaswanga O
 ngoba O
@@ -6228,7 +6232,7 @@ izitshudeni O
 ezingu O
 - O
 88 O
-16 O
+016 O
 zasemaTVET O
 nezingu O
 - O
@@ -6306,7 +6310,7 @@ Babalelwa O
 ku O
 - O
 779 O
-17 O
+017 O
 abafaka O
 izicelo O
 zoxhaso O
@@ -7038,9 +7042,9 @@ uMangaroo B-PER
 Banqabe O
 ukunika O
 ochwepheshe O
-" O
+' O
 amadayimane O
-" O
+' O
 eMnambithi B-LOC
 
 BATHWALE O
@@ -20921,7 +20925,7 @@ abaxhaswe O
 ngo O
 - O
 R50 O
-0 O
+000 O
 umfelandawonye O
 ngamunye O
 . O
@@ -23631,7 +23635,9 @@ yokubabonga O
 . O
 
 SelukoKlebe B-ORG
-olokugwazisa' O
+' O
+olokugwazisa O
+' O
 kwabaculi O
 oKhozini B-ORG
 
