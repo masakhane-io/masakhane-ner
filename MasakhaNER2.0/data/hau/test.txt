@@ -133,8 +133,7 @@ Tokyo B-LOC
 : O
 An O
 baiwa O
-"""" O
-yan O
+‘yan O
 kallo O
 dubu O
 10 O
@@ -199,8 +198,7 @@ ba O
 tare O
 da O
 da O
-"""" O
-yan O
+‘yan O
 kallo O
 ba O
 shine O
@@ -221,8 +219,7 @@ dai O
 cimma O
 matsayar O
 baiwa O
-"""" O
-yan O
+‘yan O
 kallo O
 dubu O
 10 O
@@ -504,8 +501,7 @@ a O
 kungiyar O
 . O
 
-"""" O
-Yan O
+‘Yan O
 bindiga O
 sun O
 yi O
@@ -597,8 +593,7 @@ fara O
 yin O
 garkuwa O
 da O
-"""" O
-yan O
+‘yan O
 wasan O
 kwallon O
 kafa O
@@ -628,8 +623,7 @@ yi O
 garkuwa O
 da O
 direban O
-"""" O
-yan O
+‘yan O
 wasan O
 kungiyar O
 kwallon O
@@ -873,8 +867,7 @@ a O
 shekarar B-DATE
 2019 I-DATE
 sakamakon O
-"""" O
-yancin O
+‘yancin O
 cin O
 gashin O
 kai O
@@ -1962,8 +1955,7 @@ nan O
 Kano B-LOC
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasa O
 Rabi'u B-PER
 Ali I-PER
@@ -2285,11 +2277,11 @@ kafar O
 Internet O
 . O
 
-Ƙungiyar B-ORG
+茦ungiyar B-ORG
 Liverpool I-ORG
 ta O
-ɗauki O
-ɗan O
+蓷auki O
+蓷an O
 wasan O
 RB B-ORG
 Leipzig I-ORG
@@ -2297,7 +2289,7 @@ Ibrahima B-PER
 Konate I-PER
 . O
 
-Ƙungiyar O
+茦ungiyar O
 ta O
 sanar O
 da O
@@ -2339,7 +2331,7 @@ Sanusi I-PER
 na I-PER
 2 I-PER
 jagoranci O
-Ɗarikar B-ORG
+茒arikar B-ORG
 Tijjaniya I-ORG
 a O
 Najeriya B-LOC
@@ -2384,7 +2376,7 @@ litinin I-DATE
 Ta O
 ce O
 shugaban O
-ɗarikar B-ORG
+蓷arikar B-ORG
 Tijjaniya I-ORG
 ta O
 duniyar O
@@ -2423,7 +2415,7 @@ bayan O
 rasuwar O
 tsohon O
 jagoran O
-ɗarikar O
+蓷arikar O
 marigayi O
 Sheikh O
 Khalifa B-PER
@@ -2433,7 +2425,7 @@ a O
 shekarar B-DATE
 2018 I-DATE
 , O
-ɗarikar O
+蓷arikar O
 ta O
 Tijjaniya O
 ba O
@@ -2467,22 +2459,22 @@ rike O
 mukamin O
 na O
 jagoran O
-ɗarikar B-ORG
+蓷arikar B-ORG
 Tijjaniya I-ORG
 . O
 
 FIFA B-ORG
 ta O
-ɗage O
+蓷age O
 wasannin O
 share O
 fagen O
 halartar O
 gasar O
 cin O
-ƙofin O
+茩ofin O
 duniya O
-ɓanbagen O
+蓳anbagen O
 nahiyar B-LOC
 afurka I-LOC
 . O
@@ -2564,7 +2556,7 @@ halartar O
 gasar O
 ta O
 cin O
-ƙofin O
+茩ofin O
 duniya O
 . O
 
@@ -2599,8 +2591,7 @@ fi O
 gogewa O
 a O
 cikin O
-"""" O
-yan O
+‘yan O
 wasan O
 biyu O
 . O
@@ -2627,7 +2618,7 @@ a O
 zantawar O
 sa O
 da O
-ƴan O
+拼an O
 Jarida O
 a O
 harabar O
@@ -2652,7 +2643,7 @@ Ministan O
 ya O
 karya O
 dukkan O
-ƙa'idojin O
+茩a'idojin O
 hukumar O
 Olympic O
 da O
@@ -2675,15 +2666,15 @@ wasanni O
 Mun O
 Kashe O
 ma'udan O
-kuɗi O
+ku蓷i O
 , O
 kana O
-ƴan O
+拼an O
 wasa O
 sun O
 kashe O
 nasu O
-kuɗaɗen O
+ku蓷a蓷en O
 daga O
 Amurka B-LOC
 , O
@@ -2703,8 +2694,8 @@ gasar O
 , O
 tare O
 da O
-ƙwararrun O
-ƴan O
+茩wararrun O
+拼an O
 wasan O
 mu O
 na O
@@ -2725,7 +2716,7 @@ ba O
 abu O
 ne O
 mai O
-daɗi O
+da蓷i O
 ba O
 """" O
 inji O
@@ -2737,7 +2728,7 @@ yake O
 nasa O
 jawabin O
 , O
-Ɗan O
+茒an O
 Kwamitin O
 zartarwa O
 na O
@@ -2754,7 +2745,7 @@ David B-PER
 Emeana I-PER
 , O
 ya O
-buƙaci O
+bu茩aci O
 Ministan O
 da O
 ya O
@@ -2762,7 +2753,7 @@ janye O
 hukuncin O
 da O
 ya O
-ɗauka O
+蓷auka O
 , O
 don O
 ci O
@@ -2791,7 +2782,7 @@ ko O
 dakatarwa O
 daga O
 hukumar B-ORG
-ƙwallon I-ORG
+茩wallon I-ORG
 Rubgy I-ORG
 ta I-ORG
 Duniya I-ORG
@@ -2799,11 +2790,11 @@ Duniya I-ORG
 na O
 tsawon O
 shekaru B-DATE
-huɗu I-DATE
+hu蓷u I-DATE
 kamar O
 yadda O
 aka O
-taɓa O
+ta蓳a O
 fuskanta O
 a O
 shekarun B-DATE
@@ -2856,7 +2847,7 @@ Mayu I-DATE
 Kyan O
 Hali O
 : O
-Ɗan O
+茒an O
 jarida O
 ya O
 mayar O
@@ -2870,15 +2861,15 @@ ya O
 tsinta O
 . O
 
-Ɗan O
+茒an O
 jaridar O
 mai O
 suna O
-Abdulƙadir B-PER
+Abdul茩adir B-PER
 Shehu I-PER
 Aliyu I-PER
 , O
-ɗan O
+蓷an O
 asalin O
 jihar B-LOC
 Kano I-LOC
@@ -2913,27 +2904,27 @@ bisani O
 aka O
 samu O
 mai O
-kuɗin O
+ku蓷in O
 . O
 
 Adadin O
-kuɗin O
+ku蓷in O
 a O
 Naira O
 ya O
 kama O
 miliyan O
-ɗaya O
+蓷aya O
 da O
 dubu O
-ɗari O
+蓷ari O
 biyu O
 da O
 ashirin O
 da O
 biyar O
 da O
-ɗari O
+蓷ari O
 tara O
 da O
 tamanin O
@@ -2946,7 +2937,7 @@ N1 O
 
 A O
 wani O
-saƙo O
+sa茩o O
 da O
 ya O
 wallafa O
@@ -2966,11 +2957,11 @@ cewa O
 an O
 samu O
 mai O
-kuɗin O
+ku蓷in O
 har O
 ma O
 ya O
-karɓi O
+kar蓳i O
 abin O
 sa O
 . O
@@ -3015,7 +3006,7 @@ wannan O
 labari O
 ya O
 fara O
-ɗaukar O
+蓷aukar O
 hankalin O
 jama'a O
 a O
@@ -3062,8 +3053,7 @@ da O
 alaka O
 da O
 kungiyoyin O
-"""" O
-yan O
+‘yan O
 ta'adda O
 akwai O
 bukatar O
@@ -3143,8 +3133,7 @@ gudunmawar O
 da O
 ya O
 baiwa O
-"""" O
-yan O
+‘yan O
 wasan O
 kasar O
 . O
@@ -3165,8 +3154,7 @@ ajiye O
 aikin O
 horas O
 da O
-"""" O
-yan O
+‘yan O
 wasan O
 a O
 farkon B-DATE
@@ -3185,8 +3173,7 @@ a O
 Najeriya B-LOC
 zai O
 baiwa O
-"""" O
-yan O
+‘yan O
 jarida O
 horo O
 . O
@@ -3255,8 +3242,7 @@ matukar O
 mahimmanci O
 mu O
 bawa O
-"""" O
-yan O
+‘yan O
 jarida O
 dake O
 bada O
@@ -3306,9 +3292,9 @@ Ganduje B-PER
 
 A O
 wani O
-ƙwarya O
+茩warya O
 - O
-ƙwaryar O
+茩waryar O
 taro O
 na O
 masu O
@@ -3317,8 +3303,8 @@ da O
 tsaki O
 a O
 harkar O
-ƙwallon O
-ƙafa O
+茩wallon O
+茩afa O
 da O
 wasanni O
 , O
@@ -3337,13 +3323,13 @@ Ganduje B-PER
 ya O
 gabatar O
 da O
-ɗan O
+蓷an O
 wasan O
 biyo O
 bayan O
 amincewa O
 da O
-ɗan O
+蓷an O
 wasan O
 ya O
 yi O
@@ -3356,7 +3342,7 @@ kwantiragin O
 wakiltar O
 tawagar O
 zuwa O
-ƙarshen O
+茩arshen O
 gasar O
 kakar O
 Firimiya O
@@ -3376,14 +3362,14 @@ Kano B-ORG
 Pillars I-ORG
 ya O
 nuna O
-ƙaunar O
+茩aunar O
 ka O
 da O
 kishin O
 ka O
 a O
 kan O
-ƙungiyar O
+茩ungiyar O
 da O
 kuma O
 tuna O
@@ -3400,7 +3386,7 @@ sananne O
 a O
 duniya O
 gaba O
-ɗaya O
+蓷aya O
 , O
 tabbas O
 mun O
@@ -3423,7 +3409,7 @@ zaka O
 taimaka O
 wajen O
 ganin O
-ƙungiyar O
+茩ungiyar O
 ta O
 lashe O
 kofi O
@@ -3440,9 +3426,9 @@ Ganduje B-PER
 
 Daga O
 cikin O
-waɗanda O
+wa蓷anda O
 suka O
-karɓi O
+kar蓳i O
 dan O
 wasan O
 tare O
@@ -3450,9 +3436,9 @@ da O
 taimakawa O
 gwamnan O
 wajen O
-ƙaddamar O
+茩addamar O
 da O
-ɗan O
+蓷an O
 wasan O
 , O
 akwai O
@@ -3481,7 +3467,7 @@ Yusuf I-PER
 Gawuna I-PER
 da O
 shugaban O
-ƙungiyar O
+茩ungiyar O
 Kano B-ORG
 Pillars I-ORG
 , O
@@ -4053,8 +4039,7 @@ magana O
 da O
 yawun O
 rundunar O
-"""" O
-yan O
+‘yan O
 sandan O
 jihar B-LOC
 kano I-LOC
@@ -4249,8 +4234,7 @@ tsara O
 . O
 """" O
 
-"""" O
-Yan O
+‘Yan O
 wasa O
 dai O
 sama O
@@ -4415,8 +4399,7 @@ Brinkmann B-PER
 Edo B-LOC
 2020 B-DATE
 : O
-"""" O
-Yan O
+‘Yan O
 sanda O
 sun O
 kwantar O
@@ -4425,8 +4408,7 @@ hatsaniyar O
 magoya O
 baya O
 da O
-"""" O
-yan O
+‘yan O
 kallo O
 . O
 
@@ -4457,7 +4439,6 @@ farune O
 a O
 lokacin O
 da O
-"""" O
 yan O
 kallon O
 suka O
@@ -4491,8 +4472,7 @@ dauki O
 daga O
 wajen O
 jami'an O
-"""" O
-yan O
+‘yan O
 sanda O
 yayin O
 da O
@@ -4504,7 +4484,6 @@ magoya O
 baya O
 da O
 kuma O
-"""" O
 yan O
 kallon O
 dake O
@@ -4515,7 +4494,6 @@ wasan O
 Daga O
 bisani O
 jami'an O
-"""" O
 yan O
 sandan O
 sun O
@@ -4539,8 +4517,7 @@ EDO B-LOC
 : O
 An O
 killace O
-"""" O
-yan O
+‘yan O
 wasa O
 10 O
 da O
@@ -4596,8 +4573,7 @@ kuma O
 ce O
 , O
 sauran O
-"""" O
-yan O
+‘yan O
 wasan O
 uku O
 ba O
@@ -4627,8 +4603,7 @@ cigaba O
 da O
 kula O
 da O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 suka O
@@ -4807,13 +4782,13 @@ Gwamnati O
 ba O
 ta O
 bada O
-kuɗaɗen O
+ku蓷a蓷en O
 gudanar O
 da O
 gasar O
 wasanni O
 ta O
-ƙasa O
+茩asa O
 ba O
 - O
 Musa B-PER
@@ -5086,8 +5061,7 @@ Zimbabwe B-LOC
 Rigakafin O
 Corona O
 : O
-"""" O
-Yan O
+‘Yan O
 wasan O
 Kogi B-LOC
 ka O
@@ -5469,7 +5443,7 @@ magana O
 da O
 yawun O
 shugaban O
-ƙasar O
+茩asar O
 Malam O
 Garba B-PER
 Shehu I-PER
@@ -5481,7 +5455,7 @@ hari O
 ga O
 ko O
 wane O
-ɗan O
+蓷an O
 Najeriya B-LOC
 tamkar O
 kai O
@@ -5492,7 +5466,7 @@ al'ummar O
 Najeriya B-LOC
 baki O
 - O
-ɗaya O
+蓷aya O
 . O
 
 Shugaba O
@@ -5536,18 +5510,18 @@ da O
 ya O
 shafi O
 jama'ar O
-ƙasa O
+茩asa O
 baki O
 - O
-ɗaya O
+蓷aya O
 . O
 
 A O
-ƙarshe O
+茩arshe O
 shugaban O
 ya O
 yi O
-alƙawarin O
+al茩awarin O
 cewa O
 , O
 Gwamnatinsa O
@@ -5556,14 +5530,14 @@ ta O
 tabbatar O
 an O
 yi O
-ƙwaƙƙwaran O
+茩wa茩茩waran O
 bincike O
 a O
 kai O
 , O
 tare O
 da O
-ɗaukar O
+蓷aukar O
 mataki O
 a O
 kan O
@@ -6000,8 +5974,7 @@ NBBF B-ORG
 Tokyo B-LOC
 Olympics O
 : O
-"""" O
-Yan O
+‘Yan O
 wasan O
 Najeriya B-LOC
 na O
@@ -6383,8 +6356,7 @@ saka O
 Onuachu B-PER
 cikin O
 tawagar O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 za O
@@ -6493,8 +6465,7 @@ Rabon O
 da O
 kungiyoyin O
 da O
-"""" O
-yan O
+‘yan O
 wasan O
 biyu O
 ke O
@@ -6532,8 +6503,7 @@ da O
 Lionel B-PER
 Messi I-PER
 dai O
-"""" O
-yan O
+‘yan O
 wasa O
 biyu O
 ne O
@@ -6591,8 +6561,7 @@ a O
 wata O
 ziyara O
 da O
-"""" O
-yan O
+‘yan O
 wasan O
 suka O
 kai O
@@ -6667,8 +6636,7 @@ kofin O
 na O
 Afirka B-LOC
 na O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekara B-DATE
@@ -6794,8 +6762,7 @@ Za O
 a O
 bai O
 wa O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 zasu O
@@ -6901,8 +6868,7 @@ cewa O
 akwai O
 yiwuwar O
 tawagar O
-"""" O
-yan O
+‘yan O
 wasan O
 su O
 tafi O
@@ -7056,8 +7022,7 @@ sakamakon O
 jinyar O
 rauni O
 da O
-"""" O
-yan O
+‘yan O
 wasan O
 tawagar O
 suka O
@@ -7360,8 +7325,7 @@ dama O
 ciki O
 har O
 da O
-"""" O
-yan O
+‘yan O
 Kwallo O
 kasancewar O
 ta O
@@ -7447,13 +7411,12 @@ sayar O
 da O
 ita O
 ga O
-"""" O
-yan O
+‘yan O
 kasar B-LOC
 Faransa I-LOC
 . O
 
-Ɗan O
+茒an O
 wasa O
 Lokosa B-PER
 na O
@@ -7467,7 +7430,7 @@ Norway B-LOC
 
 Lokosa B-PER
 tsohon O
-ɗan O
+蓷an O
 wasan O
 Esperance B-ORG
 da O
@@ -7491,7 +7454,7 @@ SC I-ORG
 , O
 da O
 ke O
-ƙasar B-LOC
+茩asar B-LOC
 Tanzania I-LOC
 a O
 farkon B-DATE
@@ -7503,7 +7466,7 @@ Kwantiragin O
 sa O
 da O
 tsohuwar O
-ƙungiyar O
+茩ungiyar O
 sa O
 ta O
 Esperance B-ORG
@@ -7528,11 +7491,11 @@ kan O
 Kudi O
 Euro O
 Dubu O
-Ɗari O
+茒ari O
 Biyu O
 , O
 da O
-ƙungiyar O
+茩ungiyar O
 ke O
 son O
 a O
@@ -7541,7 +7504,7 @@ ta O
 kafin O
 siyar O
 da O
-ɗan O
+蓷an O
 wasan O
 . O
 
@@ -7631,8 +7594,7 @@ Osimhen B-PER
 a O
 cikin O
 tawagar O
-"""" O
-yan O
+‘yan O
 wasana O
 a O
 fafatawar O
@@ -7655,6 +7617,7 @@ kofin O
 Afrika B-LOC
 . O
 """" O
+. O
 
 CAF B-ORG
 : O
@@ -7779,7 +7742,7 @@ yadda O
 cututtukan O
 da O
 ke O
-yaɗuwa O
+ya蓷uwa O
 tsakanin O
 ma'aurata O
 , O
@@ -7789,11 +7752,11 @@ lokutan O
 ma O
 har O
 zuwa O
-ƴaƴan O
+拼a拼an O
 su O
 ke O
-ƙara O
-yaɗuwa O
+茩ara O
+ya蓷uwa O
 , O
 abinda O
 ya O
@@ -7801,11 +7764,11 @@ tilasta O
 mata O
 amincewa O
 da O
-ƙudirin O
+茩udirin O
 dokar O
 . O
 
-Ɗan O
+茒an O
 majalisa O
 Musa B-PER
 Ali I-PER
@@ -7813,7 +7776,7 @@ Kachako I-PER
 da O
 ke O
 wakiltar O
-ƙaramar B-LOC
+茩aramar B-LOC
 hukumar I-LOC
 Takai I-LOC
 a O
@@ -7825,7 +7788,7 @@ ne O
 ya O
 gabatar O
 da O
-ƙudirin O
+茩udirin O
 dokar O
 ya O
 ce O
@@ -7892,7 +7855,7 @@ Dama O
 dai O
 likitoci O
 sun O
-daɗe O
+da蓷e O
 suna O
 kira O
 ga O
@@ -7933,7 +7896,7 @@ ya O
 ce O
 , O
 kowacce O
-ƙasa O
+茩asa O
 da O
 irin O
 cututtukan O
@@ -7969,12 +7932,12 @@ Cututtukan O
 da O
 suka O
 fi O
-yaɗuwa O
+ya蓷uwa O
 a O
 tsakanin O
 ma'aurata O
 da O
-ƴaƴan O
+拼a拼an O
 su O
 matukar O
 aka O
@@ -7987,7 +7950,7 @@ gwaji O
 ba O
 , O
 sun O
-haɗar O
+ha蓷ar O
 da O
 cuta O
 mai O
@@ -8012,16 +7975,14 @@ su O
 
 An O
 yiwa O
-"""" O
-yan O
+‘yan O
 wasan O
 Adamawa B-ORG
 United I-ORG
 Fashi O
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 na O
 kan O
@@ -8076,8 +8037,7 @@ daren I-DATE
 Jumu'a I-DATE
 , O
 inda O
-"""" O
-Yan O
+‘Yan O
 fashin O
 suka O
 """" O
@@ -8089,8 +8049,7 @@ da O
 sauran O
 kadarori O
 na O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 mukarraban O
@@ -8125,8 +8084,7 @@ Benin B-LOC
 , O
 sun O
 ce O
-"""" O
-yan O
+‘yan O
 fashin O
 sun O
 bukaci O
@@ -8149,7 +8107,7 @@ Pillars I-ORG
 ta O
 musanta O
 labarin O
-ƙonewar O
+茩onewar O
 motarta O
 . O
 
@@ -8157,7 +8115,7 @@ Mai O
 magana O
 da O
 yawun O
-ƙungiyar O
+茩ungiyar O
 Lirwanu B-PER
 Idris I-PER
 Malikawa I-PER
@@ -8184,19 +8142,19 @@ cewar O
 labarin O
 da O
 aka O
-yaɗa O
+ya蓷a O
 , O
 na O
 cewa O
 motarmu O
 ta O
-ƙone O
+茩one O
 a O
 Unguwar B-LOC
 Bawa I-LOC
 dake O
 yankin O
-ƙaramar B-LOC
+茩aramar B-LOC
 hukumar I-LOC
 Madobi I-LOC
 , O
@@ -8219,7 +8177,7 @@ ce O
 kawai O
 ta O
 kama O
-hayaƙi O
+haya茩i O
 sakamakon O
 matsalolin O
 da O
@@ -8232,14 +8190,14 @@ ciki O
 """" O
 Yanzu O
 haka O
-ƴan O
+拼an O
 wasa O
 da O
-muƙarraban O
-ƙungiyar O
+mu茩arraban O
+茩ungiyar O
 suna O
 cikin O
-ƙoshin O
+茩oshin O
 lafiya O
 , O
 kuma O
@@ -8264,7 +8222,7 @@ bayan O
 tattaunawa O
 tsakanin O
 shugaban O
-ƙungiyar O
+茩ungiyar O
 ta O
 Kano B-ORG
 Pillars I-ORG
@@ -8281,7 +8239,7 @@ Motar O
 hukumar O
 ta O
 kwashi O
-ƴan O
+拼an O
 wasan O
 na O
 Pillars B-ORG
@@ -8313,19 +8271,19 @@ dai O
 wasu O
 jaridu O
 suka O
-riƙa O
+ri茩a O
 bada O
 labarin O
 cewa O
 motar O
-ƴan O
+拼an O
 wasan O
 Kano B-ORG
 Pillars I-ORG
-ɗin O
+蓷in O
 ta O
-ƙone O
-ƙurmus O
+茩one O
+茩urmus O
 . O
 
 A O
@@ -8347,8 +8305,8 @@ da O
 wuta O
 tare O
 da O
-ƙonewa O
-ƙurmus O
+茩onewa O
+茩urmus O
 a O
 kan O
 hanyar O
@@ -8760,8 +8718,7 @@ kawo O
 karshen O
 cin O
 zarafin O
-"""" O
-yan O
+‘yan O
 wasa O
 - O
 Hukumomi O
@@ -8818,13 +8775,11 @@ don O
 dakile O
 cin O
 zafin O
-"""" O
-yan O
+‘yan O
 wasan O
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasa O
 da O
 dama O
@@ -8899,8 +8854,7 @@ kafar O
 wajen O
 cin O
 zarafin O
-"""" O
-yan O
+‘yan O
 wasa O
 . O
 
@@ -9073,8 +9027,7 @@ zalika O
 kungiyar O
 magoya O
 bayan O
-"""" O
-yan O
+‘yan O
 wasa O
 ta O
 duniya O
@@ -9114,6 +9067,7 @@ ko O
 NFF B-ORG
 . O
 """" O
+. O
 
 NPFL B-ORG
 : O
@@ -9303,8 +9257,7 @@ muke I-DATE
 ciki I-DATE
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 Golf O
 hudu O
@@ -9410,7 +9363,7 @@ ya O
 amince O
 a O
 shirya O
-Muƙabala O
+Mu茩abala O
 tsakanin O
 Abduljabbar B-PER
 da O
@@ -9448,14 +9401,14 @@ zama O
 wanda O
 za O
 a O
-yaɗa O
+ya蓷a O
 shi O
 kai O
 tsaye O
 a O
 dukkan O
 kafafan O
-yaɗa O
+ya蓷a O
 labarai O
 na O
 jihar B-LOC
@@ -9500,7 +9453,7 @@ sanyawa O
 tsaro O
 . O
 
-Ƙarin O
+茦arin O
 labarin O
 zai O
 zo O
@@ -9619,8 +9572,7 @@ gudanar O
 da O
 gwaji O
 ga O
-"""" O
-yan O
+‘yan O
 wasa O
 . O
 
@@ -9943,8 +9895,7 @@ shiga O
 Laporta B-PER
 . O
 
-"""" O
-Yan O
+‘Yan O
 takarar O
 sun O
 bayyana O
@@ -10057,8 +10008,7 @@ zuwa I-DATE
 
 FIFA B-ORG
 : O
-"""" O
-Yan O
+‘Yan O
 wasa O
 8 O
 za O
@@ -10069,8 +10019,7 @@ Najeriya B-LOC
 wasa O
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 sun O
 hadar O
@@ -10487,8 +10436,7 @@ mutane O
 Ana O
 dai O
 tsammanin O
-"""" O
-yan O
+‘yan O
 wasa O
 da O
 jami'ai O
@@ -10888,8 +10836,7 @@ COVID O
 - O
 19 O
 : O
-"""" O
-Yan O
+‘Yan O
 wasa O
 da O
 jami'ai O
@@ -10966,8 +10913,7 @@ har O
 zagaye O
 biyu O
 kan O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 kuma O
@@ -11240,8 +11186,7 @@ farko O
 mai O
 hora O
 da O
-"""" O
-yan O
+‘yan O
 wasan O
 Pillars B-ORG
 Lionel B-PER
@@ -11312,8 +11257,7 @@ COVID O
 - O
 19 O
 : O
-"""" O
-Yan O
+‘Yan O
 wasan O
 Newcastle B-ORG
 sun O
@@ -11375,8 +11319,7 @@ ne O
 ake O
 sa O
 ran O
-"""" O
-yan O
+‘yan O
 wasa O
 sama O
 da O
@@ -11432,8 +11375,7 @@ ga O
 wasu O
 daga O
 cikin O
-"""" O
-yan O
+‘yan O
 wasan O
 duba O
 da O
@@ -11469,8 +11411,7 @@ za O
 a O
 haska O
 manyan O
-"""" O
-yan O
+‘yan O
 wasa O
 maza O
 guda O
@@ -11599,8 +11540,7 @@ gwajin O
 cutar O
 Korona O
 ga O
-"""" O
-yan O
+‘yan O
 wasa O
 da O
 kuma O
@@ -11853,8 +11793,7 @@ Afrika B-LOC
 Tokyo B-LOC
 Olympics O
 : O
-"""" O
-Yan O
+‘Yan O
 wasan O
 Najeriya B-LOC
 sun O
@@ -11867,14 +11806,12 @@ horo O
 A O
 cewar O
 daraktan O
-"""" O
-yan O
+‘yan O
 wasan O
 Simeon B-PER
 Ebhojiaye I-PER
 , O
-"""" O
-yan O
+‘yan O
 wasan O
 za O
 su O
@@ -11934,8 +11871,7 @@ bukata O
 ta O
 musamman O
 inda O
-"""" O
-yan O
+‘yan O
 wasan O
 kwallon O
 Tennis O
@@ -11955,8 +11891,7 @@ sansanin O
 Haka O
 kuma O
 akwai O
-"""" O
-yan O
+‘yan O
 wasan O
 damben O
 zamani O
@@ -12003,8 +11938,7 @@ a O
 jihar B-LOC
 Plateau I-LOC
 inda O
-"""" O
-yan O
+‘yan O
 wasa O
 4 O
 suka O
@@ -12110,8 +12044,7 @@ dan O
 wasan O
 daga O
 tawagar O
-"""" O
-yan O
+‘yan O
 wasa O
 25 O
 da O
@@ -12218,8 +12151,7 @@ Ozil B-PER
 a O
 cikin O
 nagartattun O
-"""" O
-yan O
+‘yan O
 wasa O
 4 O
 a O
@@ -12244,8 +12176,7 @@ COVID O
 - O
 19 O
 : O
-"""" O
-Yan O
+‘Yan O
 wasan O
 Newcastle B-ORG
 sun O
@@ -12274,8 +12205,7 @@ dauke O
 da O
 cutar O
 cikin O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 aka O
@@ -12289,8 +12219,7 @@ kuma O
 ce O
 an O
 killace O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 suka O
@@ -12325,8 +12254,7 @@ samun O
 damar O
 horas O
 da O
-"""" O
-yan O
+‘yan O
 wasan O
 nata O
 baki O
@@ -12671,8 +12599,7 @@ ce O
 , O
 babu O
 shakka O
-"""" O
-yan O
+‘yan O
 Najeriya B-LOC
 zasu O
 koka O
@@ -12819,8 +12746,7 @@ kan O
 gaba O
 a O
 cikin O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 yake O
@@ -12992,11 +12918,11 @@ ne O
 suka O
 sanya O
 lalacewar O
-"""" O
-yan O
+‘yan O
 wasan O
 . O
 """" O
+. O
 
 PSG B-ORG
 na O
@@ -13010,8 +12936,7 @@ mata O
 kwantiragi O
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 gaban O
 guda O
@@ -13076,8 +13001,7 @@ kwantiragin O
 wasu O
 daga O
 cikin O
-"""" O
-yan O
+‘yan O
 wasan O
 kungiyar O
 a O
@@ -13232,7 +13156,7 @@ Halin O
 da O
 yaran O
 Kano B-LOC
-waɗanda O
+wa蓷anda O
 aka O
 gano O
 a O
@@ -13258,9 +13182,9 @@ da O
 rayuwarsu O
 . O
 
-Waɗanda O
+Wa蓷anda O
 suka O
-haɗa O
+ha蓷a O
 da O
 sauyin O
 yare O
@@ -13314,7 +13238,7 @@ ce O
 , O
 yanzu O
 an O
-ɗan O
+蓷an O
 samu O
 sauyi O
 , O
@@ -13400,7 +13324,7 @@ cin O
 abinci O
 . O
 
-Ɓangaren O
+苼angaren O
 sanya O
 sutura O
 ma O
@@ -13423,7 +13347,7 @@ kayan O
 malam O
 bahaushe O
 maimakon O
-ɗaura O
+蓷aura O
 zani O
 da O
 yake O
@@ -13436,7 +13360,7 @@ cewarta O
 . O
 
 Ta O
-ƙara O
+茩ara O
 da O
 cewa O
 , O
@@ -13463,7 +13387,7 @@ wasu O
 lokutan O
 kuma O
 ya O
-riƙa O
+ri茩a O
 surutan O
 cewa O
 ana O
@@ -13475,7 +13399,7 @@ Shi O
 kuwa O
 Umar B-PER
 Faruk I-PER
-ɗin O
+蓷in O
 ya O
 shaidawa O
 Freedom B-ORG
@@ -13505,14 +13429,14 @@ ci O
 masa O
 tuwo O
 a O
-ƙwarya O
+茩warya O
 shi O
 ne O
 yadda O
 ake O
 nuna O
 masa O
-ƙyama O
+茩yama O
 a O
 makaranta O
 . O
@@ -13535,7 +13459,7 @@ tana O
 cewa O
 ni O
 ba O
-ɗan O
+蓷an O
 Kano B-LOC
 ba O
 ne O
@@ -13576,7 +13500,7 @@ ya O
 samu O
 . O
 
-Ɓangaren O
+苼angaren O
 sauran O
 yaran O
 Sauran O
@@ -13639,7 +13563,7 @@ ta O
 fara O
 daidaita O
 a O
-ɓangaren O
+蓳angaren O
 addini O
 da O
 kuma O
@@ -13655,7 +13579,7 @@ tana O
 tsaka O
 da O
 karatun O
-alƙur'ani O
+al茩ur'ani O
 mai O
 girma O
 . O
@@ -13672,7 +13596,7 @@ wadda O
 ita O
 ba O
 ta O
-ɗauki O
+蓷auki O
 tsawon O
 lokaci O
 a O
@@ -13715,7 +13639,7 @@ sun O
 ce O
 ba O
 a O
-tuntuɓar O
+tuntu蓳ar O
 su O
 game O
 da O
@@ -13771,9 +13695,9 @@ guda I-DATE
 Bonono O
 wai O
 rufe O
-ƙofa O
+茩ofa O
 da O
-ɓarawo O
+蓳arawo O
 Wata O
 majiya O
 ta O
@@ -13793,7 +13717,7 @@ lokaci O
 daga O
 ciki O
 ne O
-ƴan O
+拼an O
 asalin O
 jihar B-LOC
 Kano I-LOC
@@ -13803,11 +13727,11 @@ Kuma O
 su O
 ne O
 aka O
-miƙa O
+mi茩a O
 su O
 ga O
 iyayensu O
-haɗe O
+ha蓷e O
 da O
 tukuicin O
 naira O
@@ -13830,7 +13754,7 @@ mayar O
 dasu O
 jihar B-LOC
 Anambra I-LOC
-haɗe O
+ha蓷e O
 da O
 wancan O
 tukuici O
@@ -13850,7 +13774,7 @@ ko O
 ina O
 matsayar O
 rundunar O
-ƴan B-ORG
+拼an B-ORG
 sandan I-ORG
 Kano I-ORG
 da O
@@ -13887,8 +13811,7 @@ Sierra B-LOC
 Leone I-LOC
 ta O
 gayyaci O
-"""" O
-yan O
+‘yan O
 wasa O
 16 O
 . O
@@ -13993,8 +13916,7 @@ AFCON O
 Najeriya B-LOC
 ta O
 gayyaci O
-"""" O
-yan O
+‘yan O
 wasa O
 24 O
 AFCON O
@@ -14007,11 +13929,9 @@ da O
 Sierra B-LOC
 Leone I-LOC
 ba O
-"""" O
-yan O
+‘yan O
 kallo O
-"""" O
-Yan O
+‘Yan O
 wasan O
 da O
 Keister O
@@ -14204,8 +14124,7 @@ da O
 Sierra B-LOC
 Leone I-LOC
 ba O
-"""" O
-yan O
+‘yan O
 kallo O
 . O
 
@@ -14224,8 +14143,7 @@ ke O
 tattauna O
 yiwuwar O
 barin O
-"""" O
-yan O
+‘yan O
 kallo O
 su O
 shiga O
@@ -14241,8 +14159,7 @@ na O
 ganin O
 cewa O
 barin O
-"""" O
-yan O
+‘yan O
 kallo O
 shiga O
 filin O
@@ -14334,8 +14251,7 @@ yawa O
 ta O
 hanyar O
 hana O
-"""" O
-yan O
+‘yan O
 kallo O
 shiga O
 filin O
@@ -14513,9 +14429,9 @@ Dessers I-PER
 . O
 
 Da O
-ɗumi O
+蓷umi O
 - O
-ɗumi O
+蓷umi O
 : O
 Kano B-ORG
 Pillars I-ORG
@@ -14551,7 +14467,7 @@ da O
 ke O
 jihar B-LOC
 Jigawa I-LOC
-Ɗan O
+茒an O
 wasan O
 Pillars B-ORG
 Ali B-PER
@@ -14559,7 +14475,7 @@ Rabi'u I-PER
 ne O
 ya O
 jefa O
-ƙwallon O
+茩wallon O
 yayin O
 da O
 ake O
@@ -14575,14 +14491,14 @@ Lahadi I-DATE
 ma O
 Kano B-ORG
 Pillars I-ORG
-ɗin O
+蓷in O
 zata O
 buga O
 wasan O
 sada O
 zumunta O
 da O
-ƙungiyar B-ORG
+茩ungiyar B-ORG
 El I-ORG
 - I-ORG
 kanemi I-ORG
@@ -14802,8 +14718,7 @@ AFCON O
 Najeriya B-LOC
 ta O
 gayyaci O
-"""" O
-yan O
+‘yan O
 wasa O
 24 O
 . O
@@ -14844,8 +14759,7 @@ na I-DATE
 Nuwamba I-DATE
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 da O
 Rohr B-PER
@@ -14887,8 +14801,7 @@ Chiefs I-ORG
 . O
 
 Sauran O
-"""" O
-yan O
+‘yan O
 wasan O
 sune O
 Sebastian B-PER
@@ -14944,8 +14857,7 @@ Onuachu I-PER
 A O
 na O
 bukatar O
-"""" O
-yan O
+‘yan O
 wasan O
 su O
 kasance O
@@ -14973,8 +14885,7 @@ Za O
 mu O
 inganta O
 inshorar O
-"""" O
-yan O
+‘yan O
 wasa O
 . O
 
@@ -15051,8 +14962,7 @@ da O
 tsarin O
 ingantacciyar O
 inshorar O
-"""" O
-yan O
+‘yan O
 wasa O
 kafin O
 a O
@@ -15157,8 +15067,7 @@ biya O
 mu O
 albashi O
 - O
-"""" O
-Yan O
+‘Yan O
 wasa O
 . O
 
@@ -15167,8 +15076,7 @@ gudanarwar O
 kungiyar O
 ta O
 umarci O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 su O
@@ -15206,8 +15114,7 @@ mutun O
 daya O
 daga O
 cikin O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 yayi O
@@ -15245,8 +15152,7 @@ ya O
 ce O
 yana O
 fatan O
-"""" O
-yan O
+‘yan O
 wasan O
 zasu O
 dawo O
@@ -15277,8 +15183,7 @@ fitar O
 da O
 kudin O
 albashin O
-"""" O
-yan O
+‘yan O
 wasan O
 na O
 watanni B-DATE
@@ -15303,8 +15208,8 @@ nan O
 bada O
 dadewa O
 ba O
-. O
 """" O
+. O
 
 European O
 Super O
@@ -15438,8 +15343,7 @@ Trafford I-LOC
 : O
 Zai O
 dauki O
-"""" O
-yan O
+‘yan O
 kallo O
 23 O
 , O
@@ -15466,8 +15370,7 @@ da O
 fara O
 dawowa O
 da O
-"""" O
-yan O
+‘yan O
 kallo O
 da O
 kadan O
@@ -15516,8 +15419,7 @@ gindaya O
 kan O
 batun O
 dawowar O
-"""" O
-yan O
+‘yan O
 kallo O
 filayen O
 wasanni O
@@ -15700,8 +15602,7 @@ amince O
 da O
 sabon O
 canjin O
-"""" O
-yan O
+‘yan O
 wasa O
 a O
 fili O
@@ -16081,7 +15982,7 @@ Za O
 a O
 gurfanar O
 da O
-waɗanda O
+wa蓷anda O
 suka O
 kwashi O
 kayan O
@@ -16091,11 +15992,11 @@ kotu O
 . O
 
 Jami'in O
-hulɗa O
+hul蓷a O
 da O
 jama'a O
 na O
-ƴan O
+拼an O
 sandan O
 jihar O
 ASP O
@@ -16461,13 +16362,11 @@ rikicin O
 hukumar O
 AFN B-ORG
 - O
-"""" O
-Yan O
+‘Yan O
 wasa O
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 sunyi O
 amfani O
@@ -16735,8 +16634,7 @@ tafe O
 . O
 """" O
 
-"""" O
-Yan O
+‘Yan O
 wasa O
 da O
 kungiyar O
@@ -17881,8 +17779,7 @@ ce O
 """" O
 Bayan O
 gwajin O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 aka O
@@ -17971,8 +17868,7 @@ ta O
 hada O
 - O
 hadar O
-"""" O
-yan O
+‘yan O
 wasa O
 ta O
 bana B-DATE
@@ -18177,8 +18073,7 @@ shugabannin O
 kungiyar O
 a O
 cibiyar O
-"""" O
-yan O
+‘yan O
 jaridu O
 ta O
 Kano B-LOC
@@ -18316,8 +18211,7 @@ walwalar O
 jama'a O
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 Tunisia B-LOC
 biyu O
@@ -18336,8 +18230,7 @@ gwajin O
 cutar O
 ne O
 kan O
-"""" O
-yan O
+‘yan O
 wasan O
 bayan O
 fafatarwar O
@@ -18385,8 +18278,7 @@ ta O
 Tunisia B-LOC
 sakamakon O
 kamuwar O
-"""" O
-yan O
+‘yan O
 wasan O
 biyu O
 , O
@@ -18426,8 +18318,8 @@ Najeriya B-LOC
 a O
 gobe B-DATE
 Talata I-DATE
-. O
 """" O
+. O
 
 Robinho B-PER
 ya O
@@ -18533,8 +18425,7 @@ COVID O
 Za'a O
 kara O
 yiwa O
-"""" O
-yan O
+‘yan O
 wasan O
 Super B-ORG
 Eagles I-ORG
@@ -18552,8 +18443,7 @@ dai O
 yiwa O
 daukacin O
 tawagar O
-"""" O
-yan O
+‘yan O
 wasan O
 gwajin O
 cutar O
@@ -18595,8 +18485,7 @@ dan O
 wasan O
 Najeriya B-LOC
 cikin O
-"""" O
-yan O
+‘yan O
 wasa O
 masu O
 daraja O
@@ -18635,8 +18524,7 @@ kuma O
 ce O
 , O
 tawagar O
-"""" O
-yan O
+‘yan O
 wasan O
 sun O
 dawo O
@@ -19076,7 +18964,7 @@ ya O
 gabatarwa O
 majalisa O
 kasafin O
-kuɗin O
+ku蓷in O
 shekara B-DATE
 mai I-DATE
 zuwa I-DATE
@@ -19189,7 +19077,7 @@ matasa O
 a O
 kwalejin B-ORG
 Rumfa I-ORG
-waɗanda O
+wa蓷anda O
 ake O
 sa O
 ran O
@@ -19242,12 +19130,12 @@ dokokin I-ORG
 Kano I-ORG
 da O
 hukumar B-ORG
-ƙarɓar I-ORG
-ƙorafe I-ORG
+茩ar蓳ar I-ORG
+茩orafe I-ORG
 - I-ORG
-ƙorafe I-ORG
+茩orafe I-ORG
 da I-ORG
-yaƙi I-ORG
+ya茩i I-ORG
 da I-ORG
 rashawa I-ORG
 ta I-ORG
@@ -19256,7 +19144,7 @@ Kano I-ORG
 , O
 da O
 kwamishinan O
-kuɗi O
+ku蓷i O
 kan O
 su O
 shiga O
@@ -19268,26 +19156,26 @@ daidaito O
 
 To O
 kan O
-waɗannan O
-ƙorafe O
+wa蓷annan O
+茩orafe O
 - O
-ƙorafe O
+茩orafe O
 wakilinmu O
 Yusuf B-PER
 Ali I-PER
 Abdallah I-PER
 ya O
-tuntuɓi O
+tuntu蓳i O
 Baffa B-PER
 Babba I-PER
-Ɗanagundi I-PER
+茒anagundi I-PER
 wanda O
 ya O
 ce O
 babu O
 gaskiya O
 cikin O
-iƙrarin O
+i茩rarin O
 na O
 su O
 . O
@@ -19323,7 +19211,7 @@ ce O
 yana O
 so O
 ya O
-rinƙa O
+rin茩a O
 girmama O
 kotu O
 , O
@@ -19340,7 +19228,7 @@ gwamnati O
 da O
 ya O
 fi O
-ƙarfin O
+茩arfin O
 doka O
 . O
 
@@ -19354,7 +19242,7 @@ da O
 Baffa B-PER
 Babban I-PER
 ya O
-ƙaurace O
+茩aurace O
 wa O
 zaman O
 kotun O
@@ -19377,7 +19265,7 @@ bayyana O
 a O
 gabanta O
 bisa O
-ƙarar O
+茩arar O
 da O
 wani O
 direban O
@@ -19413,7 +19301,7 @@ gabanta O
 ko O
 kuma O
 ta O
-ɗauki O
+蓷auki O
 mataki O
 a O
 kansa O
@@ -19666,8 +19554,7 @@ a O
 matsayin O
 matattarar O
 zakakuran O
-"""" O
-yan O
+‘yan O
 wasa O
 masu O
 tasowa O
@@ -19804,8 +19691,7 @@ tsohon O
 dan O
 wasan O
 tawagar O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekara B-DATE
@@ -20180,14 +20066,12 @@ ne O
 aka O
 baiwa O
 jagorancin O
-"""" O
-yan O
+‘yan O
 wasan O
 kasar O
 nan O
 maza O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
@@ -20201,8 +20085,7 @@ da O
 zai O
 jagoranci O
 mata O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
@@ -20215,8 +20098,7 @@ Olowookere I-PER
 zai O
 jagoranci O
 mata O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
@@ -20232,8 +20114,7 @@ ne O
 zai O
 jagoranci O
 maza O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
@@ -20247,8 +20128,7 @@ Usman I-PER
 zai O
 jagoranci O
 maza O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
@@ -20288,8 +20168,7 @@ don O
 samar O
 da O
 zakakuran O
-"""" O
-yan O
+‘yan O
 wasa O
 da O
 ka O
@@ -20317,14 +20196,14 @@ da O
 farko O
 wasu O
 mutane O
-huɗu O
+hu蓷u O
 Dauda B-PER
 Auwalu I-PER
 Zage I-PER
 da O
 Aminu B-PER
 Abba I-PER
-Ƙwaru I-PER
+茦waru I-PER
 da O
 Auwalu B-PER
 Salisu I-PER
@@ -20335,7 +20214,7 @@ Adamu I-PER
 sun O
 shigar O
 da O
-ƙara O
+茩ara O
 tare O
 da O
 neman O
@@ -20347,7 +20226,7 @@ da O
 wa'adin O
 su O
 ya O
-ƙare O
+茩are O
 , O
 kan O
 su O
@@ -20364,21 +20243,21 @@ ga O
 shugaban O
 gudanar O
 da O
-zaɓe O
+za蓳e O
 na O
 sabbin O
 jagororin O
-ƙungiyar O
+茩ungiyar O
 . O
 
-Waɗanda O
+Wa蓷anda O
 ake O
-ƙara O
+茩ara O
 sun O
-haɗa O
+ha蓷a O
 da O
 , O
-ƙungiyar B-ORG
+茩ungiyar B-ORG
 ta I-ORG
 NALCOF I-ORG
 , O
@@ -20405,7 +20284,7 @@ Salisu B-PER
 Usman I-PER
 sai O
 Muzammil B-PER
-Ɗalha I-PER
+茒alha I-PER
 Yola I-PER
 da O
 Shehu B-PER
@@ -20424,9 +20303,9 @@ dakatarwar O
 kotun O
 ta O
 umarci O
-waɗanda O
+wa蓷anda O
 ake O
-ƙara O
+茩ara O
 da O
 su O
 daina O
@@ -20436,15 +20315,15 @@ su O
 a O
 matsayin O
 jagororin O
-ƙungiyar O
+茩ungiyar O
 kasancewar O
 hakan O
 ya O
-saɓa O
+sa蓳a O
 ka'ida O
 , O
 sakamakon O
-ƙarewar O
+茩arewar O
 wa'adin O
 mulkin O
 su O
@@ -20460,7 +20339,7 @@ shekarar I-DATE
 
 Kotun O
 ta O
-ɗage O
+蓷age O
 zaman O
 sauraron O
 shari'ar O
@@ -20564,7 +20443,7 @@ bayan O
 rashin O
 nasarar O
 da O
-ƙungiyar O
+茩ungiyar O
 ta O
 yi O
 a O
@@ -20615,7 +20494,7 @@ Town I-ORG
 , O
 Wagner B-PER
 ya O
-karɓi O
+kar蓳i O
 aiki O
 ne O
 a O
@@ -20641,7 +20520,7 @@ guda O
 biyu O
 . O
 
-Ƙungiyar B-ORG
+茦ungiyar B-ORG
 ta I-ORG
 Schalke I-ORG
 04 O
@@ -20666,7 +20545,7 @@ kafa O
 sabon O
 tarihi O
 a O
-ƙungiyar O
+茩ungiyar O
 da O
 mai O
 horar O
@@ -20715,7 +20594,7 @@ haka O
 mun O
 yanke O
 shawarar O
-buɗe O
+bu蓷e O
 sabon O
 Babi O
 na O
@@ -20768,7 +20647,7 @@ biyu O
 
 Djokovic B-PER
 dan O
-ƙasar B-LOC
+茩asar B-LOC
 Serbia I-LOC
 , O
 wanda O
@@ -20792,8 +20671,8 @@ galaba O
 a O
 kan O
 Ymer B-PER
-ɗan O
-ƙasar B-LOC
+蓷an O
+茩asar B-LOC
 Sweden I-LOC
 a O
 Jere B-LOC
@@ -20823,7 +20702,7 @@ bashi O
 damar O
 fafatawa O
 da O
-ɗan O
+蓷an O
 wasa O
 Ricardas B-PER
 Berankis I-PER
@@ -20861,12 +20740,12 @@ da O
 FIFA B-ORG
 : O
 An O
-ɗage O
+蓷age O
 haramcin O
 dakatar O
 da O
-ɗaukar O
-ɗan O
+蓷aukar O
+蓷an O
 wasa O
 ga O
 kungiyar B-ORG
@@ -20895,7 +20774,7 @@ tsaron O
 gida O
 na O
 kungiyar O
-ɗan O
+蓷an O
 kasar B-LOC
 Ghana I-LOC
 Stephen B-PER
@@ -20925,13 +20804,13 @@ ke O
 tsakanin O
 ta O
 da O
-ɗan O
+蓷an O
 wasan O
 , O
 bayan O
 biyan O
 sa O
-kuɗaɗen O
+ku蓷a蓷en O
 da O
 yake O
 bin O
@@ -20979,17 +20858,17 @@ ce O
 , O
 gyaran O
 zai O
-ɗaga O
+蓷aga O
 darajar O
 filin O
 wasan O
 tare O
 da O
-ƙara O
+茩ara O
 yawan O
-ɗaukar O
+蓷aukar O
 kujerun O
-ƴan O
+拼an O
 kallo O
 daga O
 25 O
@@ -21003,8 +20882,7 @@ mai O
 kujerun O
 zama O
 wato O
-"""" O
-Seater O
+‘Seater O
 Stadium O
 . O
 
@@ -21269,8 +21147,7 @@ ta O
 Mata O
 ta O
 Najeriya B-LOC
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
@@ -21288,8 +21165,7 @@ da O
 kungiyar O
 mata O
 ta O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
@@ -21328,8 +21204,7 @@ kwallon O
 kafar O
 mata O
 ta O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
@@ -21356,8 +21231,7 @@ kwallon O
 kafa O
 ta O
 Najeriya B-LOC
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
@@ -21491,8 +21365,7 @@ daga O
 filin O
 wasa O
 da O
-"""" O
-yan O
+‘yan O
 tawagar O
 Wydad B-ORG
 suka O
@@ -21917,8 +21790,7 @@ Covid O
 19 O
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 biyu O
 dai O
@@ -22105,8 +21977,7 @@ kowane O
 daya O
 daga O
 cikin O
-"""" O
-yan O
+‘yan O
 wasa O
 guda O
 uku O
@@ -22130,8 +22001,7 @@ goma O
 Haka O
 zalika O
 , O
-"""" O
-yan O
+‘yan O
 wasan O
 Barcelona B-ORG
 Lionel B-PER
@@ -22270,8 +22140,7 @@ na O
 uku O
 a O
 cikin O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 Wolves B-ORG
@@ -22282,8 +22151,7 @@ da O
 aka O
 fara O
 cinikayyar O
-"""" O
-yan O
+‘yan O
 wasa O
 a O
 bana B-DATE
@@ -22456,8 +22324,7 @@ kasar O
 Qatar B-LOC
 . O
 
-"""" O
-Yar O
+‘Yar O
 wasan O
 wadda O
 ta O
@@ -22476,8 +22343,7 @@ ta O
 fafata O
 da O
 wasu O
-"""" O
-yan O
+‘yan O
 wasan O
 tsalle O
 - O
@@ -22784,8 +22650,7 @@ Eagles I-ORG
 ta O
 gayyaci O
 sabbin O
-"""" O
-yan O
+‘yan O
 wasa O
 . O
 
@@ -22813,8 +22678,7 @@ mai I-DATE
 zuwa I-DATE
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 sun O
 hadar O
@@ -23246,8 +23110,7 @@ za O
 a O
 rufe O
 cinikayyar O
-"""" O
-yan O
+‘yan O
 wasa O
 a O
 kasar B-LOC
@@ -23371,8 +23234,7 @@ Gwamnati O
 ta O
 kara O
 baiwa O
-"""" O
-yan O
+‘yan O
 kallo O
 damar O
 shiga O
@@ -23455,8 +23317,7 @@ ba O
 za O
 su O
 sakawa O
-"""" O
-yan O
+‘yan O
 kallon O
 farga O
 ba O
@@ -23484,12 +23345,7 @@ rukunin O
 kungiyar O
 mai O
 suna O
-"""" O
-Mes O
-que O
-una O
 Mocio O
-"""" O
 ne O
 suka O
 kirkiro O
@@ -24018,8 +23874,7 @@ karbi O
 kudade O
 daga O
 hannun O
-"""" O
-yan O
+‘yan O
 wasan O
 kasar B-LOC
 ta I-LOC
@@ -24191,8 +24046,7 @@ ce O
 tun O
 da O
 fari O
-"""" O
-yan O
+‘yan O
 kwangilar O
 sun O
 yi O
@@ -24448,8 +24302,7 @@ uku O
 a O
 cikin O
 manyan O
-"""" O
-yan O
+‘yan O
 wasan O
 kasar O
 nan O
@@ -24499,8 +24352,7 @@ tayi O
 dokar O
 gwada O
 lafiyar O
-"""" O
-yan O
+‘yan O
 wasa O
 - O
 Dr O
@@ -24584,8 +24436,7 @@ mai O
 kula O
 da O
 lafiyar O
-"""" O
-yan O
+‘yan O
 wasan O
 Golden B-ORG
 Eaglets I-ORG
@@ -24602,8 +24453,7 @@ lashe O
 kofin O
 duniya O
 na O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekara B-DATE
@@ -24632,8 +24482,7 @@ doka O
 yin O
 gwajin O
 lafiyar O
-"""" O
-yan O
+‘yan O
 wasa O
 kafin O
 gunarda O
@@ -24999,8 +24848,7 @@ a O
 na O
 fafatawa O
 tsakanin O
-"""" O
-yan O
+‘yan O
 wasan O
 biyu O
 , O
@@ -25133,8 +24981,7 @@ da O
 kuma O
 yi O
 wa O
-"""" O
-yan O
+‘yan O
 wasan O
 ta O
 da O
@@ -25482,8 +25329,7 @@ kalla O
 12 O
 daga O
 cikin O
-"""" O
-yan O
+‘yan O
 wasan O
 kungiyoyi O
 16 O
@@ -25509,8 +25355,7 @@ da O
 ya O
 saka O
 dole O
-"""" O
-yan O
+‘yan O
 wasa O
 ke O
 zama O
@@ -25678,8 +25523,7 @@ Manchester B-ORG
 City I-ORG
 ta O
 dauki O
-"""" O
-yar O
+‘yar O
 wasa O
 Lucy B-PER
 daga O
@@ -25700,8 +25544,7 @@ Manchester B-ORG
 City I-ORG
 . O
 
-"""" O
-Yar O
+‘Yar O
 wasan O
 , O
 mai O
@@ -25998,8 +25841,7 @@ kongiyoyin O
 ke O
 gaza O
 biyan O
-"""" O
-yan O
+‘yan O
 wasa O
 da O
 ma'aikanta O
@@ -26113,8 +25955,7 @@ Ronald B-PER
 Koeman I-PER
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasa O
 biyu O
 a O
@@ -26148,8 +25989,7 @@ an O
 rigaya O
 an O
 killace O
-"""" O
-yan O
+‘yan O
 wasan O
 , O
 domin O
@@ -26190,8 +26030,7 @@ ciki I-DATE
 
 An O
 kori O
-"""" O
-yan O
+‘yan O
 wasan O
 kasar B-LOC
 Ingila I-LOC
@@ -26278,8 +26117,7 @@ Manchester B-ORG
 United I-ORG
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasa O
 biyu O
 na O
@@ -26522,8 +26360,7 @@ United I-ORG
 
 An O
 ceto O
-"""" O
-yan O
+‘yan O
 Najeriya B-LOC
 da O
 aka O
@@ -26562,8 +26399,7 @@ Ya O
 ce O
 dawo O
 da O
-"""" O
-yan O
+‘yan O
 kasar O
 nan O
 daya O
@@ -26947,7 +26783,7 @@ tsaya O
 a O
 kotu O
 da O
-ƙungiyar O
+茩ungiyar O
 tasa O
 ta O
 Barcelona B-ORG
@@ -26964,16 +26800,16 @@ gaba O
 da O
 zama O
 a O
-ƙungiyar O
+茩ungiyar O
 ta O
 sa O
 . O
 
 Messi B-PER
 , O
-ɗan O
+蓷an O
 asalin O
-ƙasar B-LOC
+茩asar B-LOC
 Argentina I-LOC
 , O
 mai O
@@ -26988,7 +26824,7 @@ baya I-DATE
 dai O
 ya O
 bayyanawa O
-ƙungiyar O
+茩ungiyar O
 ta O
 sa O
 ta O
@@ -26998,31 +26834,31 @@ sa O
 na O
 son O
 barin O
-ƙungiyar O
+茩ungiyar O
 . O
 
 Inda O
 mahukuntan O
-ƙungiyar B-ORG
+茩ungiyar B-ORG
 ta I-ORG
 Barcelona I-ORG
 suka O
 bayyana O
 cewa O
 duk O
-ƙungiyar O
+茩ungiyar O
 da O
 ke O
 son O
-ɗaukan O
-ɗan O
+蓷aukan O
+蓷an O
 wasan O
 dole O
 ne O
 sai O
 ta O
 biya O
-kuɗin O
+ku蓷in O
 da O
 suka O
 tasamma O
@@ -27034,15 +26870,15 @@ Tun O
 daga O
 lokacin O
 da O
-ƙungiyar O
-ƙwallon O
-ƙafa O
+茩ungiyar O
+茩wallon O
+茩afa O
 ta O
 Bayer B-ORG
 Munich I-ORG
 ta O
 lallasa O
-ƙungiyar O
+茩ungiyar O
 sa O
 ta O
 Bacerlona B-ORG
@@ -27070,7 +26906,7 @@ muni O
 a O
 cikin O
 tarihin O
-ɗan O
+蓷an O
 wasan O
 na O
 rashin O
@@ -27093,14 +26929,14 @@ shekarar I-DATE
 da O
 aka O
 kammala O
-ƙungiyar B-ORG
+茩ungiyar B-ORG
 ta I-ORG
 Barcelona I-ORG
 ba O
 ta O
 samu O
 nasarar O
-ɗaukan O
+蓷aukan O
 kofi O
 ba O
 . O
@@ -27108,8 +26944,7 @@ ba O
 Za'a O
 rinka O
 sauya O
-"""" O
-yan O
+‘yan O
 wasa O
 sau O
 5 O
@@ -27238,7 +27073,7 @@ za O
 ta O
 fafata O
 da O
-Côte B-LOC
+C么te B-LOC
 d'Ivoire I-LOC
 da O
 Tunisia B-LOC
@@ -27251,7 +27086,7 @@ ta O
 fafata O
 da O
 kasar B-LOC
-Côte I-LOC
+C么te I-LOC
 d'Ivoire I-LOC
 a O
 ranar B-DATE
@@ -27571,7 +27406,7 @@ dan O
 wasan O
 Messi B-PER
 tayin O
-£ O
+拢 O
 623m O
 kuma O
 zai O
@@ -27624,8 +27459,7 @@ ta O
 kara O
 da O
 cewa O
-"""" O
-yan O
+‘yan O
 wasan O
 zuwa O
 yanzu O
@@ -27649,8 +27483,7 @@ da O
 cewa O
 gaba O
 dayan O
-"""" O
-yan O
+‘yan O
 wasan O
 kungiyar O
 da O
@@ -27803,8 +27636,7 @@ ta O
 sanar O
 da O
 cewa O
-"""" O
-yan O
+‘yan O
 wasa O
 biyu O
 a O
@@ -27979,8 +27811,7 @@ kuma O
 3 O
 . O
 
-"""" O
-Yar O
+‘Yar O
 wasan O
 mai O
 shekaru B-DATE
@@ -28003,8 +27834,7 @@ ta O
 yi O
 nasara O
 kan O
-"""" O
-yar O
+‘yar O
 wasan O
 . O
 
@@ -28036,8 +27866,7 @@ kan O
 - O
 kan O
 da O
-"""" O
-yar O
+‘yar O
 wasa O
 , O
 Margaret B-PER
@@ -28048,8 +27877,7 @@ da O
 24 O
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 PSG B-ORG
 uku O
@@ -28082,8 +27910,7 @@ a O
 ka O
 yi O
 wa O
-"""" O
-yan O
+‘yan O
 wasan O
 a O
 yau B-DATE
@@ -28159,8 +27986,7 @@ gwaje O
 - O
 gwajen O
 ga O
-"""" O
-yan O
+‘yan O
 wasan O
 na O
 ta O
@@ -28405,8 +28231,7 @@ lashe O
 zaben O
 a O
 cikin O
-"""" O
-yan O
+‘yan O
 takarar O
 , O
 ya O
@@ -28455,8 +28280,7 @@ Litinin I-DATE
 , O
 yayin O
 da O
-"""" O
-yar O
+‘yar O
 wasan O
 ke O
 tunkarar O
@@ -28733,8 +28557,7 @@ mai I-DATE
 kamawa I-DATE
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 Najeriya B-LOC
 na O
@@ -28786,8 +28609,7 @@ domin O
 wayar O
 da O
 kan O
-"""" O
-yan O
+‘yan O
 wasan O
 kasar O
 nan O
@@ -28841,8 +28663,7 @@ duba O
 da O
 yadda O
 yara O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekara B-DATE
@@ -28865,8 +28686,7 @@ Farfesa O
 masani O
 kan O
 halayyar O
-"""" O
-yan O
+‘yan O
 wasa O
 dake O
 a O
@@ -28895,8 +28715,7 @@ hankali O
 wajen O
 dogaro O
 ga O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 suke O
@@ -29401,8 +29220,7 @@ kamawa I-DATE
 Yayin O
 da O
 daukacin O
-"""" O
-yan O
+‘yan O
 wasan O
 kungiyar O
 ke O
@@ -29695,8 +29513,7 @@ da I-DATE
 ta I-DATE
 wuce I-DATE
 sakamakon O
-"""" O
-yan O
+‘yan O
 wasan O
 guda O
 biyar O
@@ -29794,8 +29611,7 @@ ta O
 bukaci O
 hakan O
 domin O
-"""" O
-yan O
+‘yan O
 wasan O
 ta O
 su O
@@ -30316,8 +30132,7 @@ hada O
 - O
 hadar O
 siyan O
-"""" O
-yan O
+‘yan O
 wasa O
 a O
 Nahiyar B-LOC
@@ -30463,7 +30278,7 @@ amanna O
 ta O
 ware O
 kusan O
-£ O
+拢 O
 25m O
 don O
 dauko O
@@ -30485,7 +30300,7 @@ Traore I-PER
 a O
 farashin O
 mai O
-gwaɓi O
+gwa蓳i O
 duk O
 da O
 yake O
@@ -30789,14 +30604,11 @@ Kasar B-LOC
 Spain I-LOC
 ta O
 gayyaci O
-"""" O
-Adama B-PER
+‘Adama B-PER
 Traore I-PER
-"""" O
 cikin O
 tawagar O
-"""" O
-yan O
+‘yan O
 wasanta O
 . O
 
@@ -30824,8 +30636,7 @@ ya O
 shiga O
 cikin O
 tawagar O
-"""" O
-yan O
+‘yan O
 wasanta O
 a O
 karawar O
@@ -31285,12 +31096,12 @@ gab O
 da O
 kammala O
 jigilar O
-ƴan O
+拼an O
 kasar O
 nan O
 dake O
-ƙasashen O
-ƙetare O
+茩asashen O
+茩etare O
 - O
 Boss B-PER
 . O
@@ -31645,8 +31456,7 @@ ta O
 fara O
 dishashewa O
 a O
-"""" O
-yan B-DATE
+‘yan B-DATE
 shekarun I-DATE
 nan O
 sakamakon O
@@ -31654,8 +31464,7 @@ barin O
 kungiyar O
 da O
 shahararrun O
-"""" O
-yan O
+‘yan O
 wasan O
 tsakiyan O
 kungiyar O
@@ -32468,10 +32277,8 @@ kusa O
 da O
 na O
 karshe O
-"""" O
-Semi O
-final O
-"""" O
+‘Semi O
+final’ O
 a O
 gasar O
 kofin O
@@ -32541,11 +32348,9 @@ Kwallo O
 a O
 gidan O
 su O
-"""" O
-Own O
-goal O
+‘Own O
+goal’ O
 . O
-"""" O
 
 Ivan B-PER
 Perisic I-PER
@@ -32685,8 +32490,7 @@ bayan O
 samun O
 taimako O
 daga O
-"""" O
-yan O
+‘yan O
 wasa O
 Davies B-PER
 da O
@@ -32741,8 +32545,7 @@ da I-DATE
 bayan O
 samun O
 taimakon O
-"""" O
-yan O
+‘yan O
 wasa O
 Muller B-PER
 da O
@@ -33129,14 +32932,12 @@ ganin O
 cewa O
 , O
 hankalin O
-"""" O
-yan O
+‘yan O
 kallo O
 zai O
 koma O
 kan O
-"""" O
-yan O
+‘yan O
 wasan O
 gaba O
 na O
@@ -33762,8 +33563,7 @@ ganin O
 in O
 ana O
 maganar O
-"""" O
-yan O
+‘yan O
 wasa O
 a O
 halin O
@@ -33787,8 +33587,7 @@ musamman O
 in O
 ana O
 maganar O
-"""" O
-yan O
+‘yan O
 wasa O
 na O
 tsakiya O
@@ -34013,8 +33812,7 @@ da O
 kamfanin B-ORG
 Triumph I-ORG
 kasuwar O
-"""" O
-Yan O
+‘Yan O
 canji O
 . O
 
@@ -34667,8 +34465,7 @@ ya O
 zama O
 cikin O
 fitattun O
-"""" O
-yan O
+‘yan O
 wasa O
 a O
 tarihi O
@@ -34845,8 +34642,7 @@ sau O
 1 O
 . O
 
-"""" O
-Yan O
+‘Yan O
 jaridu O
 sun O
 nemi O
@@ -34854,8 +34650,7 @@ Ganduje B-PER
 ya O
 biya O
 bashin O
-"""" O
-yan O
+‘yan O
 fansho O
 . O
 
@@ -34915,8 +34710,7 @@ ke O
 kula O
 da O
 asusun O
-"""" O
-yan O
+‘yan O
 fansho O
 na O
 jihar B-LOC
@@ -34934,8 +34728,7 @@ ta O
 gaza O
 biyan O
 kudaden O
-"""" O
-yan O
+‘yan O
 fansho O
 wanda O
 ya O
@@ -34958,8 +34751,7 @@ duba O
 kan O
 halin O
 da O
-"""" O
-yan O
+‘yan O
 fansho O
 ke O
 ciki O
@@ -34980,13 +34772,11 @@ Jigawa I-LOC
 ta O
 fara O
 biyan O
-"""" O
-yan O
+‘yan O
 Fansho O
 Kudin O
 da O
-"""" O
-yan O
+‘yan O
 fansho O
 ke O
 amsa O
@@ -35124,7 +34914,7 @@ bana B-DATE
 ba O
 tare O
 da O
-ƴan O
+拼an O
 kallo O
 ba O
 Rahotanni O
@@ -35552,8 +35342,7 @@ ta O
 kammala O
 wasan O
 da O
-"""" O
-yan O
+‘yan O
 wasa O
 goma O
 , O
@@ -35660,8 +35449,7 @@ ta O
 cikin O
 jerin O
 sunayan O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 suka O
@@ -35683,8 +35471,7 @@ fitar O
 . O
 
 Ragowar O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 hukumar O
@@ -35719,15 +35506,13 @@ An O
 fitar O
 da O
 sunayan O
-"""" O
-yan O
+‘yan O
 wasan O
 na O
 Najeriya B-LOC
 ne O
 cikin O
-"""" O
-yan O
+‘yan O
 wasan O
 Afrika B-LOC
 55 O
@@ -35810,8 +35595,7 @@ Morocco's B-LOC
 Abdelali B-PER
 Lahrichi I-PER
 da O
-"""" O
-yan O
+‘yan O
 wasa O
 biyu O
 daga O
@@ -35861,8 +35645,7 @@ Coast I-LOC
 Souleyman B-PER
 Diabate I-PER
 da O
-"""" O
-yan O
+‘yan O
 wasan O
 Nigerian B-LOC
 trio O
@@ -36373,8 +36156,7 @@ gida O
 , O
 bayan O
 da O
-"""" O
-dan O
+‘dan O
 wasa O
 Martial B-PER
 ya O
@@ -36530,8 +36312,7 @@ da O
 su O
 zakulo O
 matasan O
-"""" O
-yan O
+‘yan O
 wasa O
 masu O
 hazaka O
@@ -36641,8 +36422,7 @@ godewa O
 jagororin O
 kungiyar O
 da O
-"""" O
-yan O
+‘yan O
 wasa O
 , O
 duba O
@@ -36737,8 +36517,7 @@ da O
 mataimakan O
 sa O
 , O
-"""" O
-yan O
+‘yan O
 wasa O
 da O
 daukacin O
@@ -36759,8 +36538,7 @@ alkawarin O
 , O
 rubanya O
 walwalar O
-"""" O
-yan O
+‘yan O
 wasan O
 tare O
 da O
@@ -37354,8 +37132,7 @@ sai O
 dai O
 ya O
 jinjinawa O
-"""" O
-yan O
+'yan O
 wasan O
 sa O
 bisa O
@@ -37404,12 +37181,10 @@ gasar O
 kasar B-LOC
 Amurka I-LOC
 ta O
-"""" O
-Major O
+‘Major O
 league O
-Soccer O
+Soccer’ O
 . O
-"""" O
 
 Dan O
 wasa O
@@ -37558,16 +37333,14 @@ kofin O
 duniya O
 na O
 mata O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
 20 I-DATE
 , O
 da O
-"""" O
-yan O
+‘yan O
 17 O
 . O
 
@@ -37577,8 +37350,7 @@ aka O
 saka O
 na O
 matasan O
-"""" O
-yan O
+‘yan O
 17 O
 , O
 sun O
@@ -37657,8 +37429,7 @@ Morocco B-LOC
 
 Sai O
 wasannin O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
@@ -37816,8 +37587,7 @@ jiya I-DATE
 Alhamis I-DATE
 tsakanin O
 tsofaffin O
-"""" O
-yan O
+‘yan O
 wasan O
 kungiyar O
 da O
@@ -37912,8 +37682,7 @@ sa O
 
 Suma O
 tsofaffin O
-"""" O
-yan O
+‘yan O
 wasan O
 kungiyar O
 sun O
@@ -37942,8 +37711,7 @@ bunkasa O
 ta O
 . O
 
-"""" O
-yan O
+‘yan O
 wasan O
 jihar B-LOC
 Kano I-LOC
@@ -37984,8 +37752,7 @@ Bargo I-PER
 , O
 ya O
 yabawa O
-"""" O
-yan O
+‘yan O
 wasan O
 tare O
 da O
@@ -37997,8 +37764,7 @@ zuwa O
 yanzu O
 da O
 da'ar O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 suka O
@@ -38035,8 +37801,7 @@ da O
 kungiyar O
 tare O
 da O
-"""" O
-yan O
+‘yan O
 wasa O
 masu O
 da'a O
@@ -38051,8 +37816,7 @@ yanzu O
 . O
 
 Dumbin O
-"""" O
-yan O
+‘yan O
 kallo O
 ne O
 suka O
@@ -38137,8 +37901,7 @@ dan O
 wasan O
 Najeriya B-LOC
 cikin O
-"""" O
-yan O
+‘yan O
 wasa O
 masu O
 daraja O
@@ -38217,8 +37980,7 @@ dan O
 wasan O
 Najeriya B-LOC
 cikin O
-"""" O
-yan O
+‘yan O
 wasa O
 masu O
 daraja O
@@ -38239,8 +38001,7 @@ fitar O
 da O
 jerin O
 sunayan O
-"""" O
-yan O
+‘yan O
 wasa O
 10 O
 daga O
@@ -38258,13 +38019,11 @@ Daga O
 cikin O
 jerin O
 sunayan O
-"""" O
-yan O
+‘yan O
 wasan O
 a O
 kwa O
-"""" O
-yan O
+‘yan O
 wasa O
 biyu O
 daga O
@@ -38291,8 +38050,7 @@ kasar B-LOC
 Senegal I-LOC
 . O
 
-"""" O
-yan O
+‘yan O
 wasan O
 biyu O
 sadio B-PER
@@ -38340,8 +38098,7 @@ da O
 shiga O
 jerin O
 sunayan O
-"""" O
-yan O
+‘yan O
 wasan O
 dake O
 da O
@@ -38371,14 +38128,12 @@ miliyon O
 
 Cikin O
 sunayan O
-"""" O
-yan O
+‘yan O
 wasa O
 10 O
 a O
 kwai O
-"""" O
-yan O
+‘yan O
 wasa O
 biyu O
 - O
@@ -38398,8 +38153,7 @@ Morocco I-LOC
 
 Sai O
 kuma O
-"""" O
-yan O
+‘yan O
 wasa O
 dai O
 - O
@@ -38450,8 +38204,7 @@ Osimhen I-PER
 daga O
 cikin O
 jerin O
-"""" O
-yan O
+‘yan O
 wasan O
 10 O
 dake O
@@ -38490,8 +38243,7 @@ United I-ORG
 game O
 da O
 sayen O
-"""" O
-yan O
+‘yan O
 wasa O
 , O
 inda O
@@ -38524,8 +38276,7 @@ da O
 irin O
 kokarin O
 da O
-"""" O
-yan O
+‘yan O
 wasan O
 kungiyar O
 ke O
@@ -38552,16 +38303,14 @@ ta O
 da O
 bukatar O
 sayen O
-"""" O
-yan O
+‘yan O
 wasa O
 idan O
 an O
 bude O
 kasuwar O
 cinikayyar O
-"""" O
-yan O
+‘yan O
 wasa O
 a O
 bana B-DATE
@@ -38675,8 +38424,7 @@ a O
 ka O
 samu O
 na O
-"""" O
-yan O
+‘yan O
 wasan O
 kasar O
 nan O
@@ -38735,8 +38483,7 @@ cutar O
 ta O
 Corona O
 cikin O
-"""" O
-yan O
+‘yan O
 wasan O
 kungiyar O
 dake O
@@ -38959,8 +38706,7 @@ Ingila B-LOC
 ta O
 bayyana O
 sunayen O
-"""" O
-yan O
+‘yan O
 wasa O
 13 O
 , O
@@ -38984,9 +38730,7 @@ Wiskindiya B-LOC
 , O
 a O
 wasan O
-"""" O
-Test O
-"""" O
+‘Test’ O
 mako B-DATE
 mai I-DATE
 zuwa I-DATE
@@ -39045,8 +38789,7 @@ ce O
 akwai O
 yiwuwar O
 kiran O
-"""" O
-yan O
+‘yan O
 wasan O
 biyu O
 wato O
@@ -39114,8 +38857,7 @@ Moeen B-PER
 Ali I-PER
 . O
 
-"""" O
-Yan O
+‘Yan O
 sanda O
 sun O
 cafke O
@@ -39131,8 +38873,7 @@ baya I-DATE
 ne O
 dai O
 jamin'an O
-"""" O
-yan O
+‘yan O
 sanda O
 dake O
 ofishin O
@@ -39231,8 +38972,7 @@ Dakta O
 Sani B-PER
 Lawan I-PER
 Malumfashi I-PER
-"""" O
-yan O
+‘yan O
 sanda O
 a O
 jihar B-LOC
@@ -39240,15 +38980,13 @@ Bauchi I-LOC
 sun O
 kashe O
 wasu O
-"""" O
-yan O
+‘yan O
 fashi O
 Akan O
 haka O
 ne O
 jami'an O
-"""" O
-yan O
+‘yan O
 sanda O
 suka O
 kaddamar O
@@ -39321,8 +39059,7 @@ hannu O
 
 Kakakin O
 Rundunar O
-"""" O
-yan O
+‘yan O
 sandan O
 jihar B-LOC
 Jigawa I-LOC
@@ -39455,7 +39192,7 @@ bana B-DATE
 ba O
 tare O
 da O
-ƴan O
+拼an O
 kallo O
 ba O
 Kuskure O
@@ -39574,8 +39311,7 @@ jihar B-LOC
 Kano I-LOC
 , O
 wato O
-"""" O
-Kano B-ORG
+‘Kano B-ORG
 state I-ORG
 Agro I-ORG
 Pastoral I-ORG
@@ -39583,9 +39319,8 @@ Development I-ORG
 Project I-ORG
 ( O
 KSADP B-ORG
-) O
+)’ O
 , O
-"""" O
 da O
 Bankin O
 Musulunci O
@@ -40154,8 +39889,7 @@ Fiye O
 da O
 shekaru B-DATE
 goma I-DATE
-"""" O
-yan O
+‘yan O
 wasa O
 biyu O
 ne O
@@ -40338,8 +40072,7 @@ yana O
 daya O
 daga O
 cikin O
-"""" O
-yan O
+‘yan O
 wasa O
 da O
 ke O
@@ -40748,7 +40481,7 @@ bana B-DATE
 
 Erling B-PER
 Braut I-PER
-Håland I-PER
+H氓land I-PER
 Erling I-PER
 Haaland I-PER
 dan O
@@ -40849,8 +40582,7 @@ sune O
 kadan O
 daga O
 cikin O
-"""" O
-yan O
+‘yan O
 wasa O
 da O
 nake O
@@ -40875,8 +40607,7 @@ Idan O
 kuna O
 da O
 wasu O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 kuke O
@@ -41213,8 +40944,7 @@ su O
 a O
 gasar O
 matasa O
-"""" O
-yan O
+‘yan O
 kasa O
 da O
 shekaru B-DATE
@@ -41364,8 +41094,7 @@ kuzari O
 da O
 motsa O
 jikin O
-"""" O
-yan O
+‘yan O
 wasa O
 bayan O
 dogon O
@@ -41441,7 +41170,7 @@ bana B-DATE
 ba O
 tare O
 da O
-ƴan O
+拼an O
 kallo O
 ba O
 Djokovic B-PER
@@ -41524,8 +41253,7 @@ baya O
 bayan O
 nan O
 dai O
-"""" O
-yan O
+‘yan O
 wasa O
 irin O
 su O
@@ -41623,8 +41351,7 @@ a O
 nahiyar B-LOC
 turai I-LOC
 a O
-"""" O
-yan B-DATE
+‘yan B-DATE
 kwanakin I-DATE
 nan I-DATE
 , O
@@ -41671,8 +41398,7 @@ dama I-DATE
 da O
 suka O
 wuce O
-"""" O
-yan O
+‘yan O
 wasa O
 biyu O
 ne O
@@ -41857,8 +41583,7 @@ yana O
 daya O
 daga O
 cikin O
-"""" O
-yan O
+‘yan O
 wasa O
 da O
 ke O
@@ -42402,8 +42127,7 @@ sune O
 kadan O
 daga O
 cikin O
-"""" O
-yan O
+‘yan O
 wasa O
 da O
 nake O
@@ -42428,8 +42152,7 @@ Idan O
 kuna O
 da O
 wasu O
-"""" O
-yan O
+‘yan O
 wasan O
 da O
 kuke O
@@ -42462,8 +42185,7 @@ Isah I-PER
 Daga O
 kasuwar O
 musayen O
-"""" O
-yan O
+‘yan O
 wasa O
 a O
 nahiyar B-LOC
@@ -42606,8 +42328,7 @@ don O
 samun O
 kudin O
 cefanen O
-"""" O
-yan O
+‘yan O
 wasa O
 , O
 inda O
@@ -42913,7 +42634,7 @@ bana B-DATE
 ba O
 tare O
 da O
-ƴan O
+拼an O
 kallo O
 ba O
 An O
@@ -42989,8 +42710,7 @@ da O
 dawo O
 da O
 karsashin O
-"""" O
-yan O
+‘yan O
 wasa O
 kafin O
 dawowa O
@@ -43389,8 +43109,7 @@ ta O
 musanta O
 rashin O
 biyan O
-"""" O
-yan O
+‘yan O
 wasa O
 albashi O
 Sanarwar O
@@ -43618,8 +43337,7 @@ ta O
 musanta O
 rashin O
 biyan O
-"""" O
-yan O
+‘yan O
 wasa O
 albashi O
 . O
@@ -43653,8 +43371,7 @@ Tinau I-PER
 ya O
 ce O
 tabbas O
-"""" O
-yan O
+‘yan O
 wasan O
 na O
 bin O
@@ -43691,8 +43408,7 @@ sunyi O
 nisa O
 na O
 biyan O
-"""" O
-yan O
+‘yan O
 wasan O
 hakkin O
 su O
@@ -43719,8 +43435,7 @@ Sakataren O
 ya O
 kuma O
 bukaci O
-"""" O
-yan O
+‘yan O
 wasan O
 , O
 da O
@@ -43845,8 +43560,7 @@ Kwallon O
 sa O
 , O
 da O
-"""" O
-yan O
+‘yan O
 kallo O
 da O
 sabon O
@@ -43865,8 +43579,8 @@ a O
 kungiyar O
 nan O
 gaba O
-. O
 """" O
+. O
 
 Mun O
 daina O
@@ -43877,8 +43591,7 @@ kudancin O
 kasar O
 nan O
 - O
-"""" O
-yan O
+‘yan O
 kasuwa O
 . O
 
@@ -43921,8 +43634,7 @@ kugiyar O
 kasuwar B-LOC
 gwari I-LOC
 ta O
-"""" O
-Yankaba B-LOC
+‘Yankaba B-LOC
 Alhaji O
 Umar B-PER
 Ibrahim I-PER
@@ -44460,8 +44172,7 @@ kara O
 hakuri O
 tare O
 da O
-"""" O
-yin O
+‘yin O
 addu'a O
 don O
 ganin O
@@ -44471,8 +44182,7 @@ daidai O
 ta O
 . O
 
-"""" O
-Yan O
+‘Yan O
 wasan O
 Hausa O
 a O
@@ -44696,8 +44406,7 @@ kasar B-LOC
 ta I-LOC
 Faransa I-LOC
 da O
-"""" O
-yan O
+‘yan O
 koransa O
 . O
 
@@ -44788,8 +44497,7 @@ same O
 shi O
 , O
 amma O
-"""" O
-dan O
+‘dan O
 karamin O
 rubutu O
 da O
@@ -44897,8 +44605,7 @@ da O
 Iyayenmu O
 , O
 da O
-"""" O
-Ya'yanmu O
+‘Ya'yanmu O
 , O
 muna O
 sonka O
@@ -44978,11 +44685,9 @@ Salisu I-PER
 da O
 ake O
 kira O
-"""" O
-Cizo B-PER
+‘Cizo B-PER
 One I-PER
 Germany I-PER
-"""" O
 ya O
 yi O
 kira O
@@ -45954,8 +45659,7 @@ ne O
 
 Yace O
 dukkan O
-"""" O
-yan O
+‘yan O
 takarar O
 sun O
 riga O
@@ -46177,8 +45881,7 @@ da O
 yayi O
 wajen O
 samun O
-"""" O
-yancin O
+‘yancin O
 masu O
 bukata O
 ta O
@@ -46349,8 +46052,7 @@ siyasa O
 . O
 
 Kungiyar O
-"""" O
-yan O
+‘yan O
 sintiri O
 ta O
 kama O
@@ -46366,12 +46068,9 @@ Kano B-LOC
 Aminu B-PER
 Abdullahi I-PER
 Kungiyar O
-"""" O
-yan O
+‘yan O
 sintiri O
-"""" O
-Vigilante O
-"""" O
+‘Vigilante’ O
 da O
 ke O
 unguwar B-LOC
@@ -46405,8 +46104,7 @@ Kano B-ORG
 Focus I-ORG
 ta O
 ruwaito O
-"""" O
-yan O
+‘yan O
 sintirin O
 sun O
 samu O
@@ -46511,8 +46209,7 @@ mika O
 matashin O
 ga O
 ofishin O
-"""" O
-yan O
+‘yan O
 sanda O
 da O
 ke O
