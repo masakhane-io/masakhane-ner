@@ -32720,7 +32720,7 @@ tó O
 wà O
 ní O
 Màrínà B-LOC
-1359 l'	O
+l' O
 Ékòó B-LOC
 láàárọ̀ B-DATE
 ọjọ́ I-DATE
@@ -32854,7 +32854,7 @@ oníròyìn O
 sọ̀rọ̀ O
 láìpẹ́ O
 yìí O
-1364 l'	O
+l' O
 Ékòó B-LOC
 
 . O
@@ -33363,7 +33363,7 @@ ní O
 Bourdillon B-LOC
 ní O
 Ìkòyì B-LOC
-1386 l'	O
+l' O
 Ékòó B-LOC
 ni O
 wọ́n O
