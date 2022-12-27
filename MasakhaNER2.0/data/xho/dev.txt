@@ -119,7 +119,7 @@ yooKhetshe O
 uMani B-PER
 uchithe O
 iR810 O
-0 O
+000 O
 kule O
 mali O
 . O
@@ -173,7 +173,7 @@ wasebenzisa O
 imali O
 engaphaya O
 kweR20 O
-0 O
+000 O
 kwizihlandlo O
 eziliqela O
 . O
@@ -532,7 +532,7 @@ amabini O
 anesihlanu O
 ( O
 R25 O
-0 O
+000 O
 ) O
 emva O
 kokubambana O
@@ -779,7 +779,7 @@ yebhola O
 ekhatywayo O
 yagqibela O
 ngo O
-" O
+' O
 94 B-DATE
 ngethuba O
 isingathwe O
@@ -1364,7 +1364,7 @@ sakuphelela O
 phi O
 na O
 midak O
-" O
+' O
 entsundu O
 kaXhosa O
 ? O
@@ -2418,7 +2418,7 @@ ezikumlinganiselo O
 we160kg O
 ezixabisa O
 iR50 O
-0 O
+000 O
 . O
 
 Indoda O
@@ -2912,15 +2912,14 @@ kweeAmbulensi O
 
 Inombolo O
 yamapolisa O
-ngu O
-8600 O
+O8600 O
 10111 O
 ze O
 eyesebe O
 lezempilo O
 ibengu O
-800 O
-32 O
+0800 O
+032 O
 364 O
 . O
 
@@ -3255,7 +3254,7 @@ yi O
 - O
 Iran B-ORG
 ngo O
-" O
+' O
 1 O
 - O
 0 O
@@ -3484,7 +3483,7 @@ iPortugal B-ORG
 neSpain I-ORG
 zibambene O
 ngo O
-" O
+' O
 3 O
 - O
 3 O
@@ -3678,7 +3677,7 @@ kudibana O
 neMorocco B-ORG
 ebethwe O
 ngo O
-" O
+' O
 1 O
 - O
 0 O
@@ -3851,7 +3850,7 @@ i O
 - O
 Australia B-ORG
 ngo O
-" O
+' O
 2 O
 - O
 1 O
@@ -4232,7 +4231,7 @@ anceda O
 iPortugal B-ORG
 ebambene O
 ngo O
-" O
+' O
 3 O
 - O
 3 O
@@ -4270,7 +4269,7 @@ ne O
 Iceland B-ORG
 zibambene O
 ngo O
-" O
+' O
 1 O
 - O
 1 O
@@ -4567,7 +4566,7 @@ umdlalo O
 ophucuke O
 kakhulu O
 ngo O
-" O
+' O
 1 O
 - O
 0 O
@@ -4746,7 +4745,7 @@ i O
 - O
 Australia B-ORG
 ngo O
-" O
+' O
 2 O
 - O
 1 O
@@ -4871,7 +4870,7 @@ Afrika I-LOC
 lingombe O
 iNgilane B-ORG
 ngo O
-" O
+' O
 23 O
 - O
 12 O
@@ -5062,13 +5061,13 @@ ngethuba O
 ibetha O
 iTunisisa B-ORG
 ngo O
-" O
+' O
 2 O
 - O
 0 O
 kumdlalo O
 obutak O
-" O
+' O
 iintlantsi O
 eVolgograd B-LOC
 Arena I-LOC
@@ -5246,7 +5245,7 @@ Hassen B-PER
 ( I-PER
 Mustapha I-PER
 16 I-PER
-" O
+' O
 ) O
 , O
 S B-PER
@@ -5267,7 +5266,7 @@ Khazri B-PER
 ( I-PER
 Khalifa I-PER
 85 I-PER
-" O
+' O
 ) O
 , O
 Bronin B-PER
@@ -5283,7 +5282,7 @@ Sliti B-PER
 Ben I-PER
 Amor I-PER
 73 I-PER
-" O
+' O
 ) O
 . O
 
@@ -5301,7 +5300,7 @@ Lingard B-PER
 ( I-PER
 Dier I-PER
 93 I-PER
-" O
+' O
 ) O
 , O
 Henderson B-PER
@@ -5312,7 +5311,7 @@ Sterling B-PER
 ( I-PER
 Rashford I-PER
 68 I-PER
-" O
+' O
 ) O
 , O
 Trippier B-PER
@@ -5325,7 +5324,7 @@ Loftus I-PER
 - I-PER
 Cheek I-PER
 80 I-PER
-" O
+' O
 ) O
 . O
 
@@ -5663,7 +5662,7 @@ ebusuku I-DATE
 AmaYiphutha B-ORG
 avuthululwe O
 ngo O
-" O
+' O
 3 O
 - O
 1 O
@@ -5712,7 +5711,7 @@ ingombe O
 iSaudi B-ORG
 Arabia I-ORG
 ngo O
-" O
+' O
 5 O
 - O
 0 O
@@ -6104,7 +6103,7 @@ i O
 - O
 Agentina B-ORG
 ngo O
-" O
+' O
 3 O
 - O
 0 O
@@ -6728,7 +6727,7 @@ amawaka O
 erandi O
 ( O
 R220 O
-0 O
+000 O
 ) O
 ngenyanga O
 . O
@@ -7337,7 +7336,7 @@ i O
 Iceland B-ORG
 , O
 ngo O
-" O
+' O
 2 O
 - O
 0 O
@@ -7381,7 +7380,7 @@ yiCroatia B-ORG
 ebethe O
 iArgentina B-ORG
 ngo O
-" O
+' O
 3 O
 - O
 0 O
@@ -7401,7 +7400,7 @@ emva O
 kokudlala O
 ntanganye O
 ngo O
-" O
+' O
 1 O
 - O
 1 O
@@ -7608,7 +7607,7 @@ ngoku O
 INigeria B-ORG
 ebethwe O
 ngo O
-" O
+' O
 2 O
 - O
 0 O
@@ -7697,7 +7696,7 @@ FIFA I-ORG
 World I-ORG
 Cup I-ORG
 ngo O
-" O
+' O
 2 O
 - O
 0 O
@@ -7872,7 +7871,7 @@ kaGroup O
 B O
 ophele O
 ngo O
-" O
+' O
 3 O
 - O
 3 O
@@ -8163,7 +8162,7 @@ emva O
 kokudlala O
 ntanganye O
 ngo O
-" O
+' O
 1 O
 - O
 1 O
@@ -8407,7 +8406,7 @@ ibethe O
 iCosta B-ORG
 Rica I-ORG
 ngo O
-" O
+' O
 1 O
 - O
 0 O
@@ -8488,7 +8487,7 @@ iifolosi O
 zeSerbia B-ORG
 bezifuna O
 intw O
-" O
+' O
 ibilapha O
 . O
 
@@ -8851,7 +8850,7 @@ emva O
 kokubhulelwa O
 amasaka O
 ngo O
-" O
+' O
 6 O
 - O
 1 O
@@ -9048,7 +9047,7 @@ neBelgium B-ORG
 ebethe O
 iTunisia B-ORG
 ngo O
-" O
+' O
 5 O
 - O
 2 O
@@ -9180,7 +9179,7 @@ Perez I-PER
 Nakubeni O
 bekulindelwe O
 kutak O
-" O
+' O
 iintlantsi O
 kumdlalo O
 obuphakathi O
@@ -9506,7 +9505,7 @@ emva O
 kokubetha O
 iNigeria B-ORG
 ngo O
-" O
+' O
 2 O
 - O
 1 O
@@ -9704,7 +9703,7 @@ engaphumelela O
 nomnye O
 umdlalo O
 ngo O
-" O
+' O
 2 O
 - O
 1 O
@@ -9908,11 +9907,11 @@ ekumele O
 Ndibulela O
 abantu O
 baseKapa B-LOC
-" O
+, O
 ndibulela O
 nabameli O
 bam O
-" O
+, O
 " O
 utshilo O
 . O
@@ -10065,7 +10064,7 @@ Korea I-ORG
 emva O
 kokuwabetha O
 ngo O
-" O
+' O
 2 O
 - O
 0 O
@@ -10087,7 +10086,7 @@ indebe O
 yehlabathi O
 ayiphumelela O
 ngo B-DATE
-" I-DATE
+' I-DATE
 2014 I-DATE
 eBrazil B-LOC
 - O
@@ -10096,7 +10095,7 @@ abetha O
 khona O
 iArgentina B-ORG
 ngo O
-" O
+' O
 1 O
 - O
 0 O
@@ -10159,7 +10158,7 @@ ngethuba O
 ibethwa O
 yiMexico B-ORG
 ngo O
-" O
+' O
 1 O
 - O
 0 O
@@ -10471,7 +10470,7 @@ zabo O
 nebe O
 zidlalwa O
 kumaz O
-" O
+' O
 omoya O
 wesi O
 sikhululo O
@@ -10557,7 +10556,7 @@ lamawaka O
 eerandi O
 [ O
 R10 O
-0 O
+000 O
 ] O
 , O
 atyikitye O
@@ -10586,7 +10585,7 @@ nesixamali O
 esiyi O
 - O
 R10 O
-0 O
+000 O
 ; O
 anikwe O
 nethuba O
@@ -10621,7 +10620,7 @@ kwicandelo O
 lomdaniso O
 afumane O
 iR10 O
-0 O
+000 O
 kwakunye O
 neData O
 engu5GB O
@@ -10884,7 +10883,7 @@ utshilo O
 . O
 
 USis B-PER
-" I-PER
+' I-PER
 T I-PER
 , O
 nanjengoko O
@@ -11027,7 +11026,7 @@ leendaba O
 . O
 
 USis O
-" O
+' O
 T B-PER
 ukhumbula O
 ezo O
@@ -11543,7 +11542,7 @@ oku O
 , O
 uthe O
 : O
-" O
+' O
 Ndim O
 ombuleleyo O
 ngenxa O
@@ -11551,7 +11550,7 @@ yokungenwa O
 ngumoya O
 omdaka O
 . O
-" O
+' O
 
 Emva O
 kwale O
@@ -12105,7 +12104,7 @@ emlonyeni O
 yiBelgium B-ORG
 ephumelele O
 ngo O
-" O
+' O
 3 O
 - O
 2 O
@@ -12453,7 +12452,7 @@ kokubetha O
 iSwitzerland B-ORG
 egolozayo O
 ngo O
-" O
+' O
 1 O
 - O
 0 O
@@ -12601,7 +12600,7 @@ emva O
 kokubetha O
 iColombia B-ORG
 ngo O
-" O
+' O
 4 O
 - O
 3 O
@@ -12623,7 +12622,7 @@ iNgilane B-ORG
 neColombia I-ORG
 zibambene O
 ngo O
-" O
+' O
 1 O
 - O
 1 O
@@ -13158,7 +13157,7 @@ kweshumi O
 alamawaka O
 ( O
 10 O
-0 O
+000 O
 ) O
 kwaye O
 lo O
@@ -14379,7 +14378,7 @@ iBelgium B-ORG
 ibethe O
 iBrazil B-ORG
 ngo O
-" O
+' O
 2 O
 - O
 1 O
@@ -14609,14 +14608,14 @@ emva O
 kokuhlazwa O
 yiGermany B-ORG
 ngo O
-" O
+' O
 7 O
 - O
 1 O
 kwindebe O
 yehlabathi O
 ngo O
-" O
+' O
 2014 B-DATE
 . O
 
@@ -14705,7 +14704,7 @@ libetha O
 lula O
 iSweden B-ORG
 ngo O
-" O
+' O
 2 O
 - O
 0 O

@@ -217,7 +217,7 @@ yeZambia B-ORG
 ebethwe O
 yiMozambique B-ORG
 ngo O
-" O
+' O
 1 O
 - O
 0 O
@@ -411,7 +411,7 @@ Ezimnyama O
 emdlalweni O
 ezawuphumelela O
 ngo O
-" O
+' O
 2 O
 - O
 1 O
@@ -582,7 +582,7 @@ imeko O
 yomntwana O
 waseAfrika B-LOC
 osandul O
-" O
+' O
 ukubayinkedama O
 , O
 obuthe O
@@ -693,7 +693,7 @@ itikiti O
 ngeR100 O
 ku O
 : O
-715500362 O
+0715500362 O
 . O
 
 Uhlobo O
@@ -1015,7 +1015,7 @@ okhulele O
 phantsi O
 kwempathombi O
 kanin O
-" O
+' O
 omncinci O
 njengoko O
 uyise O
@@ -1032,7 +1032,7 @@ kwentlukumezeko O
 ende O
 , O
 unin O
-" O
+' O
 omncinci O
 emphethe O
 mbengwana O
@@ -1187,7 +1187,7 @@ ngabakwaMbana B-ORG
 nenye O
 ethi O
 Masibuyel O
-" O
+' O
 eMbo O
 , O
 
@@ -1198,7 +1198,7 @@ Na O
 
 " O
 UMasibuyel O
-" O
+' O
 eMbo O
 luncwadi O
 lwemveli O
@@ -1278,7 +1278,7 @@ eMajola B-LOC
 Utata O
 wakhe O
 nguTat O
-" O
+' O
 uZolani B-PER
 Mavimbela I-PER
 , O
@@ -1505,7 +1505,7 @@ kwinombolo O
 yakhe O
 engu O
 : O
-730001407 O
+0730001407 O
 . O
 
 Ityiwe O
@@ -2056,16 +2056,16 @@ Fiesta O
 Titunium O
 , O
 iR100 O
-0 O
+000 O
 yeempahla O
 kwivenkile O
 yakwaTruworths B-ORG
 , O
 iR80 O
 , O
-0 O
+000 O
 . O
-0 O
+00 O
 yezixhobo O
 zomculo O
 kwanoshicilelo O
@@ -2470,7 +2470,7 @@ abethe O
 iKaizer B-ORG
 Chiefs I-ORG
 ngo O
-" O
+' O
 2 O
 - O
 1 O
@@ -2632,7 +2632,7 @@ yi O
 Orlando B-ORG
 Pirates I-ORG
 ngo O
-" O
+' O
 2 O
 - O
 1 O
@@ -4004,7 +4004,7 @@ lokuphuma O
 ihamba O
 phambili O
 ngo O
-" O
+' O
 3 O
 - O
 1 O
@@ -4030,7 +4030,7 @@ Chiefs I-ORG
 ivuthulule O
 iZimamoto B-ORG
 ngo O
-" O
+' O
 4 O
 - O
 0 O
@@ -4140,7 +4140,7 @@ sendlu O
 entsha O
 nefudumeleyo O
 kumam O
-" O
+' O
 uNomathemba B-PER
 Fazzie I-PER
 sizalisekisiwe O
@@ -4280,7 +4280,7 @@ kakhulu O
 " O
 utshilo O
 umam O
-" O
+' O
 uFazzie B-PER
 . O
 
@@ -4313,7 +4313,7 @@ Fazzie I-PER
 , O
 intombi O
 kamam O
-" O
+' O
 uFazzie B-PER
 . O
 
@@ -4324,7 +4324,7 @@ uthe O
 Siyayazi O
 imbali O
 kamam O
-" O
+' O
 uFazzie B-PER
 , O
 owancama O
@@ -4397,7 +4397,7 @@ yakhiwe O
 ngokokutsha O
 indlu O
 kamam O
-" O
+' O
 uFazzie B-PER
 . O
 
@@ -5491,7 +5491,7 @@ yangundabamlonyeni O
 iMancoba B-ORG
 Seven I-ORG
 Angels I-ORG
-" I-ORG
+' I-ORG
 Ministries I-ORG
 eNyanga B-LOC
 , O
@@ -5520,7 +5520,7 @@ ngamalungu O
 eMancoba B-ORG
 Seven I-ORG
 Angels I-ORG
-" I-ORG
+' I-ORG
 Ministries I-ORG
 . O
 
@@ -6109,7 +6109,7 @@ besiza O
 apha O
 bafike O
 bathi O
-" O
+' O
 Wow O
 ! O
 
@@ -7201,7 +7201,7 @@ laseZanzibar B-LOC
 ekuthiwa O
 yiZimamoto B-ORG
 ngo O
-" O
+' O
 2 O
 - O
 1 O
@@ -7257,7 +7257,7 @@ sesibini O
 IChiefs B-ORG
 iwuphumelele O
 ngo O
-" O
+' O
 4 O
 - O
 0 O
@@ -7278,7 +7278,7 @@ iya O
 kumjikelo O
 olandelayo O
 ngo O
-" O
+' O
 5 O
 - O
 2 O
@@ -7443,7 +7443,7 @@ kulandela O
 ukuhlazwa O
 kweChiefs B-ORG
 ngo O
-" O
+' O
 2 O
 - O
 1 O
@@ -8577,7 +8577,7 @@ i O
 Orlando B-ORG
 Pirates I-ORG
 ngo O
-" O
+' O
 3 O
 - O
 2 O
@@ -8597,7 +8597,7 @@ uphele O
 ebambene O
 amaqela O
 ngo O
-" O
+' O
 2 O
 - O
 2 O
@@ -8895,7 +8895,7 @@ iPirates B-ORG
 neBaroka I-ORG
 zibambene O
 ngo O
-" O
+' O
 1 O
 - O
 1 O
@@ -8929,7 +8929,7 @@ kwisigaba O
 sesibini O
 yatsho O
 yangu O
-" O
+' O
 2 O
 - O
 2 O
@@ -9008,7 +9008,7 @@ nezityakatyekileyo O
 , O
 
 Baxhelelw O
-" O
+' O
 eXhukwana O
 omakhelwane O
 , O
@@ -9018,7 +9018,7 @@ koosikhwehle O
 , O
 
 Wabhiyoz O
-" O
+' O
 uMzantsi B-LOC
 , O
 kwantywiziswa O
@@ -9072,7 +9072,7 @@ ngoloyiso O
 Zingquzulana O
 kungekho O
 efun O
-" O
+' O
 unikezela O
 , O
 Zijijisana O
@@ -9084,7 +9084,7 @@ Ekugqibeleni O
 bekukhona O
 ekufanele O
 igob'uphondoWemk O
-" O
+' O
 uMdantsane B-LOC
 nodumo O
 , O
@@ -9105,7 +9105,7 @@ ngakufelwa O
 MabhakaniyaVukani B-ORG
 nizivuthulule O
 nifunzel O
-" O
+' O
 edabini O
 , O
 Isende O
@@ -9153,7 +9153,7 @@ zibethwe O
 yiBaroka B-ORG
 FC I-ORG
 ngo O
-" O
+' O
 3 O
 - O
 2 O
@@ -9190,7 +9190,7 @@ amabini O
 emdlalweni O
 ophele O
 ingu O
-" O
+' O
 2 O
 - O
 2 O
@@ -9859,7 +9859,7 @@ uye O
 kwiDA B-ORG
 ze O
 ubuyel O
-" O
+' O
 ekhaya O
 kwiANC B-ORG
 . O
@@ -11019,7 +11019,7 @@ ibethe O
 iMamelodi B-ORG
 Sundowns I-ORG
 ngo O
-" O
+' O
 3 O
 - O
 1 O
@@ -11637,7 +11637,7 @@ zibhanxa O
 nangakumbi O
 , O
 zibhenq O
-" O
+' O
 itshoba O
 kuvele O
 into O
@@ -12658,7 +12658,7 @@ IMamelodi B-ORG
 Sundowns I-ORG
 iquthiswe O
 ngo O
-" O
+' O
 3 O
 - O
 1 O
@@ -13175,11 +13175,11 @@ tyala O
 uTino B-PER
 Plaatjies I-PER
 ku O
-82 O
+082 O
 234 O
 1725 O
 okanye O
-82 O
+082 O
 522 O
 1047 O
 . O
@@ -16170,7 +16170,7 @@ ibethe O
 iMaritzburg B-ORG
 United I-ORG
 ngo O
-" O
+' O
 1 O
 - O
 0 O
@@ -18099,7 +18099,7 @@ libethe O
 iJomo B-ORG
 Cosmos I-ORG
 ngo O
-" O
+' O
 1 O
 - O
 0 O
@@ -18196,7 +18196,7 @@ amawaka O
 erandi O
 ( O
 R300 O
-0 O
+000 O
 ) O
 ebiwafumana O
 ngenyanga O
@@ -19707,7 +19707,7 @@ ngethuba O
 bekhutshwa O
 yiMadagascar B-ORG
 ngo O
-" O
+' O
 4 O
 - O
 3 O
@@ -20924,9 +20924,9 @@ IKumkanikazi O
 yamaMpondo O
 , O
 uFikelephi B-PER
-" I-PER
+' I-PER
 Bhongolwethu I-PER
-" I-PER
+' I-PER
 Ndamase I-PER
 , O
 ukhothamele O
@@ -21604,7 +21604,7 @@ Johannesburg B-LOC
 South B-LOC
 Africa I-LOC
 , O
-9 B-DATE
+09 B-DATE
 June I-DATE
 2018 I-DATE
 . O
@@ -21652,7 +21652,7 @@ emva O
 kokubetha O
 iNgilane B-ORG
 ngo O
-" O
+' O
 42 O
 - O
 39 O
@@ -21678,7 +21678,7 @@ ngaphaya O
 kweNgilane B-ORG
 ebikhokela O
 ngo O
-" O
+' O
 24 O
 - O
 3 O
@@ -21699,7 +21699,7 @@ apho O
 abethwe O
 yiWales B-ORG
 ngo O
-" O
+' O
 22 O
 - O
 20 O
@@ -23090,7 +23090,7 @@ Council I-ORG
 
 UMaswana B-PER
 usandul O
-" O
+' O
 ukutyunjelwa O
 kwibakala O
 leBest O
@@ -23287,14 +23287,14 @@ yingoma O
 entsha O
 kraca O
 yeNkunz B-PER
-" I-PER
+' I-PER
 encane I-PER
 ethi O
 Ndimkhumbule O
 . O
 
 INkunz B-PER
-" I-PER
+' I-PER
 encane I-PER
 ingene O
 estudiyo O
@@ -23351,10 +23351,9 @@ ndisenza O
 njalo O
 , O
 " O
-" O
 kutsho O
 iNkunz B-PER
-" I-PER
+' I-PER
 encane I-PER
 incokolela O
 I'solezwe B-ORG
@@ -23375,7 +23374,7 @@ ngoma O
 " O
 kubalisa O
 iNkunz B-PER
-" I-PER
+' I-PER
 encane I-PER
 ngale O
 ngoma O
@@ -23384,7 +23383,7 @@ ngokwayo O
 . O
 
 INkunz B-PER
-" I-PER
+' I-PER
 encane I-PER
 ithi O
 abantu O
@@ -23400,7 +23399,7 @@ nabo O
 . O
 
 INkunz B-PER
-" I-PER
+' I-PER
 encane I-PER
 , O
 egama O
@@ -23416,13 +23415,13 @@ uNkunzemdaka B-PER
 . O
 
 INkunz B-PER
-" I-PER
+' I-PER
 encane I-PER
 , O
 26 O
 , O
 izakhel O
-" O
+' O
 udumo O
 ngengoma O
 ezifana O
@@ -23457,7 +23456,7 @@ kungekudala O
 . O
 
 INkunz B-PER
-" I-PER
+' I-PER
 encane I-PER
 ithi O
 ixakekile O
@@ -23487,15 +23486,15 @@ ixesha O
 ukusebenza O
 kuyo O
 , O
-" O
+' O
 kutsho O
 iNkunz B-PER
-" I-PER
+' I-PER
 encane I-PER
 . O
 
 INkunz B-PER
-" I-PER
+' I-PER
 encane I-PER
 ikwadize O
 ukuba O
@@ -23543,7 +23542,7 @@ wokucula O
 " O
 kutsho O
 iNkunz B-PER
-" I-PER
+' I-PER
 encane I-PER
 , O
 ekwaliphelo O
@@ -23650,7 +23649,7 @@ watsala O
 ababukeli O
 abangaphaya O
 kwe400 O
-0 O
+000 O
 . O
 
 Eli O
@@ -23949,16 +23948,16 @@ entsha O
 kaDJ B-PER
 6teen I-PER
 ethi O
-" O
+' O
 Uyayibona O
 . O
-" O
+' O
 
 Le O
 ngoma O
 , O
 esandul O
-" O
+' O
 ukukhutshwa O
 kutsha O
 nje O
@@ -24275,7 +24274,7 @@ lo O
 Ben O
 10 O
 kaMam O
-" O
+' O
 uMadlala B-PER
 othetha O
 isiXhosa O
@@ -24339,7 +24338,7 @@ nguBen O
 10 O
 omtsha O
 kaMam O
-" O
+' O
 uMadlala B-PER
 kulo O
 mdlalo O
@@ -24888,7 +24887,7 @@ IINYEMBEZI O
 , O
 ingoma O
 esandul O
-" O
+' O
 ukukhutshwa O
 nguBlackSpade B-PER
 ekunye O
@@ -24911,10 +24910,10 @@ udume O
 ngengoma O
 ethandwayo O
 ethi O
-" O
+' O
 Relationship O
 . O
-" O
+' O
 
 Le O
 ngoma O
@@ -25140,7 +25139,7 @@ ooBiko B-PER
 ooHani B-PER
 nafana O
 nomam O
-" O
+' O
 uNoxolo B-PER
 
 Grootboom B-PER
@@ -25519,9 +25518,9 @@ walandela O
 umsebenzi O
 kwikhondo O
 elibonwa O
-" O
+' O
 njengelingazinzanga O
-" O
+' O
 kuba O
 usasazo O
 yeyona O
@@ -26217,7 +26216,7 @@ etshisayo O
 bambi O
 bemtyhola O
 ngokukhamis O
-" O
+' O
 atyhale O
 okanye O
 ukungabahloniphi O
@@ -26425,7 +26424,7 @@ stream O
 lweemvumi O
 ezimbini O
 eziphum O
-" O
+' O
 izandla O
 kwindawo O
 yembali O
@@ -26688,13 +26687,13 @@ yonke I-DATE
 INCWADI O
 entsha O
 ethi O
-" O
+' O
 Zigqitywa O
 Kuhlwile O
 , O
 Zibonwe O
 Liwuhlabile O
-" O
+' O
 yingqokolela O
 yamabali O
 amafutshane O
@@ -26788,7 +26787,7 @@ okhulele O
 phantsi O
 kwempathombi O
 kanin O
-" O
+' O
 
 omncinci O
 njengoko O
@@ -26806,7 +26805,7 @@ kwentlukumezeko O
 ende O
 , O
 unin O
-" O
+' O
 omncinci O
 emphethe O
 mbengwana O
@@ -26962,7 +26961,7 @@ ngabakwaMbana B-ORG
 nenye O
 ethi O
 Masibuyel O
-" O
+' O
 eMbo O
 , O
 Konakele O
@@ -26972,7 +26971,7 @@ Na O
 
 " O
 UMasibuyel O
-" O
+' O
 eMbo O
 luncwadi O
 lwemveli O
@@ -27041,7 +27040,7 @@ wokuqala O
 kubantwana O
 abane O
 bakaMam O
-" O
+' O
 uNodumo B-PER
 Bangani I-PER
 intombi O
@@ -27052,7 +27051,7 @@ eMajola B-LOC
 Utata O
 wakhe O
 nguTat O
-" O
+' O
 uZolani B-PER
 Mavimbela I-PER
 , O
@@ -27305,7 +27304,7 @@ kwinombolo O
 yakhe O
 engu O
 : O
-730001407 O
+0730001407 O
 . O
 
 Le O
@@ -27805,9 +27804,9 @@ endiziculayo O
 efana O
 naleyo O
 ethi O
-" O
+' O
 Andikho O
-" O
+' O
 ndibalisa O
 amabali O
 aseNgqushwa B-LOC

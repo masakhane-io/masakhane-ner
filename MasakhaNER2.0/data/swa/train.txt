@@ -6473,8 +6473,8 @@ namwita O
 honey O
 
 . O
-248 '
-248 "
+' O
+" O
 
 Robert B-PER
 Trump I-PER
