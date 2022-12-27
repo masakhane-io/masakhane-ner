@@ -1782,6 +1782,7 @@ talauci O
 rashin O
 ba O
 wa O
+‘Kananan O
 Hukumomi’ O
 kudadensu O
 ya O
@@ -8459,6 +8460,8 @@ kular O
 mata O
 da O
 gidan O
+Wanka O
+da O
 Bahaya’ O
 da O
 ke O
@@ -10057,7 +10060,8 @@ da O
 sabon O
 gidan O
 rediyon O
-98.5’ I-ORG
+Nasara B-ORG
+98.5 I-ORG
 da O
 ya O
 gudana O
@@ -10160,6 +10164,7 @@ ya O
 ce O
 sabuwar O
 Rediyon O
+‘yar O
 yayi’ O
 za O
 ta O
