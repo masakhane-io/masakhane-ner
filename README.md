@@ -19,6 +19,41 @@ data = load_dataset('masakhaner', 'yor')
 data = load_dataset('masakhane/masakhaner2', 'yor')
 ```
 
+### African NER model
+We provide a single multilingual NER model for all the 20 African languages on [Huggingface Model Hub](https://huggingface.co/masakhane/afroxlmr-large-ner-masakhaner-1.0_2.0)
+```
+from transformers import AutoTokenizer, AutoModelForTokenClassification
+from transformers import pipeline
+tokenizer = AutoTokenizer.from_pretrained("masakhane/afroxlmr-large-ner-masakhaner-1.0_2.0")
+model = AutoModelForTokenClassification.from_pretrained("masakhane/afroxlmr-large-ner-masakhaner-1.0_2.0")
+nlp = pipeline("ner", model=model, tokenizer=tokenizer)
+example = "Emir of Kano turban Zhang wey don spend 18 years for Nigeria"
+ner_results = nlp(example)
+print(ner_results)
+
+```
+
+### Predict the best transfer language for zero-shot adaptation
+If your language is not supported by our model, you can predict the best transfer language to adapt from that would give the best performance. This also support non-African languages because we trained the ranking model on both African and non-African languages (in Europe and Asia). More details can be found [MasakhaNER2.0/](https://github.com/masakhane-io/masakhane-ner/tree/main/MasakhaNER2.0) directory. This is an example for Sesotho. 
+```
+export LANG=sot
+python3 langrank_predict.py -o ranking_data/datasets/ner-train.orig.$LANG -s ranking_data/datasets_spm/ner-train.orig.spm.$LANG -l $LANG -n 3 -t NER -m best
+
+1. ranking_data/datasets/ner_tsn : score=1.96
+	1. Entity overlap : score=1.55; 
+	2. GEOGRAPHIC : score=0.99; 
+	3. INVENTORY : score=0.66
+2. ranking_data/datasets/ner_swa : score=-0.19
+	1. INVENTORY : score=0.70; 
+	2. Transfer over target size ratio : score=0.51; 
+	3. GEOGRAPHIC : score=0.49
+3. ranking_data/datasets/ner_nya : score=-0.57
+	1. INVENTORY : score=0.85; 
+	2. GEOGRAPHIC : score=0.64; 
+	3. GENETIC : score=0.34
+```
+
+
 ### Required dependencies
 * python
   * [transformers](https://pypi.org/project/transformers/) : state-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
