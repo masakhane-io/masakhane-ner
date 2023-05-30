@@ -48,6 +48,32 @@ The splits have the following sizes :
 | isiZulu         | Rooweither Mabuya       |  5848 |        836 |  1670 |
 
 
+### Predict the best transfer language for zero-shot adaptation
+If your language is not supported by our model, you can predict the best transfer language to adapt from that would give the best performance. This also support non-African languages because we trained the [ranking model](https://github.com/neulab/langrank) on both African and non-African languages (in Europe and Asia). More details can be found [MasakhaNER2.0/](https://github.com/masakhane-io/masakhane-ner/tree/main/MasakhaNER2.0) directory. This is an example for Sesotho. 
+
+To run the code, follow the instructions on [LangRank](https://github.com/neulab/langrank) based on this [paper](https://aclanthology.org/P19-1301/), and install the requirements. Run code in [ranking_languages/](https://github.com/masakhane-io/masakhane-ner/tree/main/MasakhaNER2.0/ranking_languages)
+```
+export LANG=sot
+python3 langrank_predict.py -o ranking_data/datasets/ner-train.orig.$LANG -s ranking_data/datasets_spm/ner-train.orig.spm.$LANG -l $LANG -n 3 -t NER -m best
+
+#1. ranking_data/datasets/ner_tsn : score=1.96
+#	1. Entity overlap : score=1.55; 
+#	2. GEOGRAPHIC : score=0.99; 
+#	3. INVENTORY : score=0.66
+#2. ranking_data/datasets/ner_swa : score=-0.19
+#	1. INVENTORY : score=0.70; 
+#	2. Transfer over target size ratio : score=0.51; 
+#	3. GEOGRAPHIC : score=0.49
+#3. ranking_data/datasets/ner_nya : score=-0.57
+#	1. INVENTORY : score=0.85; 
+#	2. GEOGRAPHIC : score=0.64; 
+#	3. GENETIC : score=0.34
+```
+We provide sample datasets for *ful*, *sot*, *orm*, *run*, *lin*, *tir*, and *ven*.
+
+For a new language, not supported, you need to follow this steps:
+* Obtain a text file in the language, and use sentencepiece of mDeBERTaV3 model to tokenize the texts. An example is [here](https://github.com/masakhane-io/masakhane-ner/blob/main/MasakhaNER2.0/ranking_languages/prepare_ranking_data_new_lang.py)
+* Run the *langrank_predict.py* with the required parameters as shown above
 
 
 If you make use of this dataset, please cite us:
