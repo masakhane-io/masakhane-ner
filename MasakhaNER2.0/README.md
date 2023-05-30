@@ -49,7 +49,8 @@ The splits have the following sizes :
 
 
 ### Predict the best transfer language for zero-shot adaptation
-If your language is not supported by our model, you can predict the best transfer language to adapt from that would give the best performance. This also support non-African languages because we trained the [ranking model](https://github.com/neulab/langrank) on both African and non-African languages (in Europe and Asia). More details can be found [MasakhaNER2.0/](https://github.com/masakhane-io/masakhane-ner/tree/main/MasakhaNER2.0) directory. This is an example for Sesotho. 
+If your language is not supported by our model, you can predict the best transfer language to adapt from that would give the best performance. This also support non-African languages because we trained the [ranking model](https://github.com/masakhane-io/masakhane-ner/blob/main/MasakhaNER2.0/ranking_languages/pretrained/NER/lgbm_model_all.txt) on both African and non-African languages (in Europe and Asia). More details can be found [MasakhaNER2.0/](https://github.com/masakhane-io/masakhane-ner/tree/main/MasakhaNER2.0) directory and in the [paper](https://aclanthology.org/2022.emnlp-main.298/). 
+This is an example for Sesotho. 
 
 To run the code, follow the instructions on [LangRank](https://github.com/neulab/langrank) based on this [paper](https://aclanthology.org/P19-1301/), and install the requirements. Run code in [ranking_languages/](https://github.com/masakhane-io/masakhane-ner/tree/main/MasakhaNER2.0/ranking_languages)
 ```
