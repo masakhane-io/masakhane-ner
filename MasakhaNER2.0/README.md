@@ -1,6 +1,6 @@
-## [MasakhaNER: Named Entity Recognition for African Languages](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00416/107614/MasakhaNER-Named-Entity-Recognition-for-African)
+## [MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition](https://aclanthology.org/2022.emnlp-main.298/)
 
-This repository contains the code for [training NER models](https://github.com/masakhane-io/masakhane-ner/tree/main/code), scripts to [analyze the NER model predictions](https://github.com/masakhane-io/masakhane-ner/tree/main/analysis_scripts) and the [NER datasets](https://github.com/masakhane-io/masakhane-ner/tree/main/data) for all the 10 languages listed below. 
+This repository contains the code for [training NER models](https://github.com/masakhane-io/masakhane-ner/tree/main/code), [sample scripts for the experiments]([https://github.com/masakhane-io/masakhane-ner/tree/main/analysis_scripts](https://github.com/masakhane-io/masakhane-ner/tree/main/MasakhaNER2.0/scripts)) and the [NER datasets]([https://github.com/masakhane-io/masakhane-ner/tree/main/data](https://github.com/masakhane-io/masakhane-ner/tree/main/MasakhaNER2.0/data)) for all the 20 languages listed below. 
 
 The code is based on HuggingFace implementation (License: Apache 2.0).
 
@@ -16,37 +16,98 @@ The license of the NER dataset is in [CC-BY-4.0-NC](https://creativecommons.org/
 pip install transformers seqeval ptvsd
 ```
 
-### Volunteers
+### Languages
 ----------------
-| Language | Volunteer names |
-|----------|-----------------|
-| Amharic | Seid Muhie Yimam, Musie Meressa, Israel Abebe, Degaga Wolde, Henok Tilaye, Dibora Haile  |
-| Hausa  | Shamsudden Muhammad, Tajuddeen Rabiu Gwadabe, Emmanuel Anebi, Idris Abdulmumin|
-| Igbo  | Ignatius Ezeani, Chris Emezue, Chukwuneke Chiamaka, Nkiru Odu, Amaka, Isaac |
-| Kinyarwanda | Rubungo Andre Niyongabo, Happy Buzaaba |
-|Luganda   |  Joyce Nabende, Jonathan Mukiibi, Eric Peter Kigaye, Ivan Ssenkungu, Ibrahim Mbabaali, Batista Tobius, Maurice Katusiime, Deborah Nabagereka, Tobius Saolo |
-| Luo   | Perez Ogayo, Verrah Otiende |
-| Naija Pidgin | Orevaoghene Ahia, Kelechi Ogueji, Adewale	Akinfaderin, Aremu Adeola Jr., Iroro Orife, Temi Oloyede, Samuel Abiodun Oyerinde, Victor Akinode   |
-| Swahili | Catherine Gitau, Verrah Otiende, Davis David, Clemencia Siro, Yvonne Wambui, Gerald Muriuki  |
-| Wolof | [Abdoulaye Diallo](https://github.com/abdoulsn), [Thierno Ibrahim Diop](https://github.com/bayethiernodiop), and [Derguene Mbaye](https://github.com/DerXter), Samba Ngom, Mouhamadane Mboup  |
-| Yorùbá | David Adelani, Mofetoluwa Adeyemi, Jesujoba Alabi, Tosin Adewumi, Ayodele Awokoya |
+For all languages, there are three splits.
+
+The original splits were named `train`, `dev` and `test` and they correspond to the `train`, `validation` and `test` splits.
+
+The splits have the following sizes :
+
+| Language        | train | validation | test  |
+|-----------------|------:|-----------:|------:|
+| Bambara         |  4463 |        638 |  1274 |
+| Ghomala         |  3384 |        483 |   966 |
+| Ewe             |  3505 |        501 |  1001 |
+| Fon.            |  4343 |        621 |  1240 |
+| Hausa           |  5716 |        816 |  1633 |
+| Igbo            |  7634 |       1090 |  2181 |
+| Kinyarwanda     |  7825 |       1118 |  2235 |
+| Luganda         |  4942 |        706 |  1412 |
+| Luo             |  5161 |        737 |  1474 |
+| Mossi           |  4532 |        648 |  1613 |
+| Nigerian-Pidgin |  5646 |        806 |  1294 |
+| Chichewa        |  6250 |        893 |  1785 |
+| chiShona        |  6207 |        887 |  1773 |
+| Kiswahili       |  6593 |        942 |  1883 |
+| Setswana        |  3289 |        499 |   996 |
+| Akan/Twi        |  4240 |        605 |  1211 |
+| Wolof           |  4593 |        656 |  1312 |
+| isiXhosa        |  5718 |        817 |  1633 |
+| Yoruba          |  6877 |        983 |  1964 |
+| isiZulu         |  5848 |        836 |  1670 |
+
+
+
 
 If you make use of this dataset, please cite us:
 
 ### BibTeX entry and citation info
 ```
-@article{10.1162/tacl_a_00416,
-    author = {Adelani, David Ifeoluwa and Abbott, Jade and Neubig, Graham and D’souza, Daniel and Kreutzer, Julia and Lignos, Constantine and Palen-Michel, Chester and Buzaaba, Happy and Rijhwani, Shruti and Ruder, Sebastian and Mayhew, Stephen and Azime, Israel Abebe and Muhammad, Shamsuddeen H. and Emezue, Chris Chinenye and Nakatumba-Nabende, Joyce and Ogayo, Perez and Anuoluwapo, Aremu and Gitau, Catherine and Mbaye, Derguene and Alabi, Jesujoba and Yimam, Seid Muhie and Gwadabe, Tajuddeen Rabiu and Ezeani, Ignatius and Niyongabo, Rubungo Andre and Mukiibi, Jonathan and Otiende, Verrah and Orife, Iroro and David, Davis and Ngom, Samba and Adewumi, Tosin and Rayson, Paul and Adeyemi, Mofetoluwa and Muriuki, Gerald and Anebi, Emmanuel and Chukwuneke, Chiamaka and Odu, Nkiruka and Wairagala, Eric Peter and Oyerinde, Samuel and Siro, Clemencia and Bateesa, Tobius Saul and Oloyede, Temilola and Wambui, Yvonne and Akinode, Victor and Nabagereka, Deborah and Katusiime, Maurice and Awokoya, Ayodele and MBOUP, Mouhamadane and Gebreyohannes, Dibora and Tilaye, Henok and Nwaike, Kelechi and Wolde, Degaga and Faye, Abdoulaye and Sibanda, Blessing and Ahia, Orevaoghene and Dossou, Bonaventure F. P. and Ogueji, Kelechi and DIOP, Thierno Ibrahima and Diallo, Abdoulaye and Akinfaderin, Adewale and Marengereke, Tendai and Osei, Salomey},
-    title = "{MasakhaNER: Named Entity Recognition for African Languages}",
-    journal = {Transactions of the Association for Computational Linguistics},
-    volume = {9},
-    pages = {1116-1131},
-    year = {2021},
-    month = {10},
-    abstract = "{We take a step towards addressing the under- representation of the African continent in NLP research by bringing together different stakeholders to create the first large, publicly available, high-quality dataset for named entity recognition (NER) in ten African languages. We detail the characteristics of these languages to help researchers and practitioners better understand the challenges they pose for NER tasks. We analyze our datasets and conduct an extensive empirical evaluation of state- of-the-art methods across both supervised and transfer learning settings. Finally, we release the data, code, and models to inspire future research on African NLP.1}",
-    issn = {2307-387X},
-    doi = {10.1162/tacl_a_00416},
-    url = {https://doi.org/10.1162/tacl\_a\_00416},
-    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00416/1966201/tacl\_a\_00416.pdf},
+@inproceedings{adelani-etal-2022-masakhaner,
+    title = "{M}asakha{NER} 2.0: {A}frica-centric Transfer Learning for Named Entity Recognition",
+    author = "Adelani, David  and
+      Neubig, Graham  and
+      Ruder, Sebastian  and
+      Rijhwani, Shruti  and
+      Beukman, Michael  and
+      Palen-Michel, Chester  and
+      Lignos, Constantine  and
+      Alabi, Jesujoba  and
+      Muhammad, Shamsuddeen  and
+      Nabende, Peter  and
+      Dione, Cheikh M. Bamba  and
+      Bukula, Andiswa  and
+      Mabuya, Rooweither  and
+      Dossou, Bonaventure F. P.  and
+      Sibanda, Blessing  and
+      Buzaaba, Happy  and
+      Mukiibi, Jonathan  and
+      Kalipe, Godson  and
+      Mbaye, Derguene  and
+      Taylor, Amelia  and
+      Kabore, Fatoumata  and
+      Emezue, Chris Chinenye  and
+      Aremu, Anuoluwapo  and
+      Ogayo, Perez  and
+      Gitau, Catherine  and
+      Munkoh-Buabeng, Edwin  and
+      Memdjokam Koagne, Victoire  and
+      Tapo, Allahsera Auguste  and
+      Macucwa, Tebogo  and
+      Marivate, Vukosi  and
+      Elvis, Mboning Tchiaze  and
+      Gwadabe, Tajuddeen  and
+      Adewumi, Tosin  and
+      Ahia, Orevaoghene  and
+      Nakatumba-Nabende, Joyce  and
+      Mokono, Neo Lerato  and
+      Ezeani, Ignatius  and
+      Chukwuneke, Chiamaka  and
+      Oluwaseun Adeyemi, Mofetoluwa  and
+      Hacheme, Gilles Quentin  and
+      Abdulmumin, Idris  and
+      Ogundepo, Odunayo  and
+      Yousuf, Oreen  and
+      Moteu, Tatiana  and
+      Klakow, Dietrich",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.298",
+    pages = "4488--4508",
+    abstract = "African languages are spoken by over a billion people, but they are under-represented in NLP research and development. Multiple challenges exist, including the limited availability of annotated training and evaluation datasets as well as the lack of understanding of which settings, languages, and recently proposed methods like cross-lingual transfer will be effective. In this paper, we aim to move towards solutions for these challenges, focusing on the task of named entity recognition (NER). We present the creation of the largest to-date human-annotated NER dataset for 20 African languages. We study the behaviour of state-of-the-art cross-lingual transfer methods in an Africa-centric setting, empirically demonstrating that the choice of source transfer language significantly affects performance. While much previous work defaults to using English as the source language, our results show that choosing the best transfer language improves zero-shot F1 scores by an average of 14{\%} over 20 languages as compared to using English.",
 }
 ```
