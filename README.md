@@ -6,11 +6,29 @@ This repository contains the code for [training NER models](https://github.com/m
 
 * **[MasakhaNER 2.0](https://aclanthology.org/2022.emnlp-main.298/)**: An expansion of MasakhaNER 1.0 to 20 African languages, the dataset includes all MasakhaNER 1.0, except for Amharic, and 11 new languages from West Africa (Bambara, Ewe, Fon, and Twi), Central Africa (Ghomala) and Southern Africa (Chichewa, Setwana, chiShona, isiXhosa, and isiZulu). The project has been generously funded by [Lacuna Fund](https://lacunafund.org/announcing-new-datasets-for-african-languages-2020-natural-language-processing-nlp-awardees/). More details about the project can be found [here](https://github.com/masakhane-io/lacuna_pos_ner). 
 
+
+### Required dependencies
+* python
+  * [transformers](https://pypi.org/project/transformers/) : state-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+  * [seqeval](https://pypi.org/project/seqeval/) : testing framework for sequence labeling.
+  * [ptvsd](https://pypi.org/project/ptvsd/) : remote debugging server for Python support in Visual Studio and Visual Studio Code.
+
+```bash
+pip install transformers seqeval ptvsd
+```
+
+### License information
+The code is based on HuggingFace implementation (License: Apache 2.0).
+
+The license of the NER dataset is in [CC-BY-4.0-NC](https://creativecommons.org/licenses/by-nc/4.0/), the monolingual data have difference licenses depending on the news website license. 
+
+
 ### Dataset information
 * MasakhaNER 1.0 can be found in CoNLL format in [data/](https://github.com/masakhane-io/masakhane-ner/tree/main/data) or [huggingface datasets](https://huggingface.co/datasets/masakhaner)
 * MasakhaNER 2.0 can be found in CoNLL format in [MasakhaNER2.0/data/](https://github.com/masakhane-io/masakhane-ner/tree/main/MasakhaNER2.0/data) or [huggingface datasets](https://huggingface.co/datasets/masakhane/masakhaner2)
 
 Our dataset is now part of the new version of the XTREME benchmark ([XTREME-UP](https://github.com/google-research/xtreme-up))
+
 
 ### Load dataset on HuggingFace
 ```
@@ -56,23 +74,6 @@ python3 langrank_predict.py -o ranking_data/datasets/ner-train.orig.$LANG -s ran
 #	2. GEOGRAPHIC : score=0.64; 
 #	3. GENETIC : score=0.34
 ```
-
-
-### Required dependencies
-* python
-  * [transformers](https://pypi.org/project/transformers/) : state-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-  * [seqeval](https://pypi.org/project/seqeval/) : testing framework for sequence labeling.
-  * [ptvsd](https://pypi.org/project/ptvsd/) : remote debugging server for Python support in Visual Studio and Visual Studio Code.
-
-```bash
-pip install transformers seqeval ptvsd
-```
-
-### License information
-The code is based on HuggingFace implementation (License: Apache 2.0).
-
-The license of the NER dataset is in [CC-BY-4.0-NC](https://creativecommons.org/licenses/by-nc/4.0/), the monolingual data have difference licenses depending on the news website license. 
-
 
 
 ### BibTeX entry and citation info
