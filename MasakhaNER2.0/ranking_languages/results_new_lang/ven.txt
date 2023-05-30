@@ -1,0 +1,132 @@
+read lines
+prepared
+Preparing candidate list...
+dict_keys(['ranking_data/datasets/ner_amh', 'ranking_data/datasets/ner_ind', 'ranking_data/datasets/ner_ibo', 'ranking_data/datasets/ner_fra', 'ranking_data/datasets/ner_ron', 'ranking_data/datasets/ner_eng', 'ranking_data/datasets/ner_deu', 'ranking_data/datasets/ner_nor', 'ranking_data/datasets/ner_sna', 'ranking_data/datasets/ner_ukr', 'ranking_data/datasets/ner_fin', 'ranking_data/datasets/ner_ita', 'ranking_data/datasets/ner_bam', 'ranking_data/datasets/ner_ewe', 'ranking_data/datasets/ner_lav', 'ranking_data/datasets/ner_bbj', 'ranking_data/datasets/ner_wol', 'ranking_data/datasets/ner_dan', 'ranking_data/datasets/ner_ara', 'ranking_data/datasets/ner_hun', 'ranking_data/datasets/ner_xho', 'ranking_data/datasets/ner_kin', 'ranking_data/datasets/ner_luo', 'ranking_data/datasets/ner_mos', 'ranking_data/datasets/ner_swe', 'ranking_data/datasets/ner_lug', 'ranking_data/datasets/ner_nya', 'ranking_data/datasets/ner_pcm', 'ranking_data/datasets/ner_por', 'ranking_data/datasets/ner_spa', 'ranking_data/datasets/ner_fon', 'ranking_data/datasets/ner_twi', 'ranking_data/datasets/ner_nep', 'ranking_data/datasets/ner_nld', 'ranking_data/datasets/ner_tsn', 'ranking_data/datasets/ner_hau', 'ranking_data/datasets/ner_fas', 'ranking_data/datasets/ner_zul', 'ranking_data/datasets/ner_yor', 'ranking_data/datasets/ner_zho', 'ranking_data/datasets/ner_swa', 'ranking_data/datasets/ner_kor'])
+Collecting URIEL distance vectors...
+['ven', 'amh', 'ind', 'ibo', 'fra', 'ron', 'eng', 'deu', 'nor', 'sna', 'ukr', 'fin', 'ita', 'bam', 'ewe', 'lav', 'bbj', 'wol', 'dan', 'ara', 'hun', 'xho', 'kin', 'luo', 'mos', 'swe', 'lug', 'nya', 'pcm', 'por', 'spa', 'fon', 'twi', 'nep', 'nld', 'tsn', 'hau', 'fas', 'zul', 'yor', 'zho', 'swa', 'kor']
+...geographic
+...genetic
+...inventory
+...syntactic
+...phonological
+...featural
+Collecting dataset distance vectors...
+Loading model...
+predicting...
+Ranking with single features:
+Entity overlap
+0. ranking_data/datasets/ner_tsn : score=281.00
+1. ranking_data/datasets/ner_luo : score=276.00
+2. ranking_data/datasets/ner_ron : score=268.00
+Transfer lang dataset size
+0. ranking_data/datasets/ner_zho : score=46778.00
+1. ranking_data/datasets/ner_kor : score=21008.00
+2. ranking_data/datasets/ner_nld : score=18701.00
+Transfer over target size ratio
+0. ranking_data/datasets/ner_zho : score=33.97
+1. ranking_data/datasets/ner_kor : score=15.26
+2. ranking_data/datasets/ner_nld : score=13.58
+GENETIC
+0. ranking_data/datasets/ner_nya : score=0.30
+1. ranking_data/datasets/ner_tsn : score=0.31
+2. ranking_data/datasets/ner_xho : score=0.38
+SYNTACTIC
+0. ranking_data/datasets/ner_kin : score=0.46
+1. ranking_data/datasets/ner_sna : score=0.50
+2. ranking_data/datasets/ner_lug : score=0.56
+FEATURAL
+0. ranking_data/datasets/ner_nya : score=0.60
+1. ranking_data/datasets/ner_twi : score=0.70
+2. ranking_data/datasets/ner_lug : score=0.70
+PHONOLOGICAL
+0. ranking_data/datasets/ner_xho : score=0.00
+1. ranking_data/datasets/ner_swe : score=0.00
+2. ranking_data/datasets/ner_pcm : score=0.00
+INVENTORY
+0. ranking_data/datasets/ner_lav : score=0.00
+1. ranking_data/datasets/ner_nya : score=0.00
+2. ranking_data/datasets/ner_tsn : score=0.00
+GEOGRAPHIC
+0. ranking_data/datasets/ner_xho : score=0.00
+1. ranking_data/datasets/ner_zul : score=0.00
+2. ranking_data/datasets/ner_tsn : score=0.00
+Ranking (top 3):
+1. ranking_data/datasets/ner_nya : score=-0.11
+	1. GEOGRAPHIC : score=1.03; 
+	2. INVENTORY : score=0.86; 
+	3. GENETIC : score=0.33
+2. ranking_data/datasets/ner_swa : score=-1.01
+	1. INVENTORY : score=0.65; 
+	2. Transfer over target size ratio : score=0.46; 
+	3. Transfer lang dataset size : score=0.41
+3. ranking_data/datasets/ner_lav : score=-1.22
+	1. INVENTORY : score=0.67; 
+	2. Target lang dataset size : score=0.50; 
+	3. PHONOLOGICAL : score=0.30
+ranked
+read lines
+prepared
+Preparing candidate list...
+dict_keys(['ranking_data/datasets/ner_amh', 'ranking_data/datasets/ner_ind', 'ranking_data/datasets/ner_ibo', 'ranking_data/datasets/ner_fra', 'ranking_data/datasets/ner_ron', 'ranking_data/datasets/ner_eng', 'ranking_data/datasets/ner_deu', 'ranking_data/datasets/ner_nor', 'ranking_data/datasets/ner_sna', 'ranking_data/datasets/ner_ukr', 'ranking_data/datasets/ner_fin', 'ranking_data/datasets/ner_ita', 'ranking_data/datasets/ner_bam', 'ranking_data/datasets/ner_ewe', 'ranking_data/datasets/ner_lav', 'ranking_data/datasets/ner_bbj', 'ranking_data/datasets/ner_wol', 'ranking_data/datasets/ner_dan', 'ranking_data/datasets/ner_ara', 'ranking_data/datasets/ner_hun', 'ranking_data/datasets/ner_xho', 'ranking_data/datasets/ner_kin', 'ranking_data/datasets/ner_luo', 'ranking_data/datasets/ner_mos', 'ranking_data/datasets/ner_swe', 'ranking_data/datasets/ner_lug', 'ranking_data/datasets/ner_nya', 'ranking_data/datasets/ner_pcm', 'ranking_data/datasets/ner_por', 'ranking_data/datasets/ner_spa', 'ranking_data/datasets/ner_fon', 'ranking_data/datasets/ner_twi', 'ranking_data/datasets/ner_nep', 'ranking_data/datasets/ner_nld', 'ranking_data/datasets/ner_tsn', 'ranking_data/datasets/ner_hau', 'ranking_data/datasets/ner_fas', 'ranking_data/datasets/ner_zul', 'ranking_data/datasets/ner_yor', 'ranking_data/datasets/ner_zho', 'ranking_data/datasets/ner_swa', 'ranking_data/datasets/ner_kor'])
+Collecting URIEL distance vectors...
+['ven', 'amh', 'ind', 'ibo', 'fra', 'ron', 'eng', 'deu', 'nor', 'sna', 'ukr', 'fin', 'ita', 'bam', 'ewe', 'lav', 'bbj', 'wol', 'dan', 'ara', 'hun', 'xho', 'kin', 'luo', 'mos', 'swe', 'lug', 'nya', 'pcm', 'por', 'spa', 'fon', 'twi', 'nep', 'nld', 'tsn', 'hau', 'fas', 'zul', 'yor', 'zho', 'swa', 'kor']
+...geographic
+...genetic
+...inventory
+...syntactic
+...phonological
+...featural
+Collecting dataset distance vectors...
+Loading model...
+predicting...
+Ranking with single features:
+Entity overlap
+0. ranking_data/datasets/ner_tsn : score=281.00
+1. ranking_data/datasets/ner_luo : score=276.00
+2. ranking_data/datasets/ner_ron : score=268.00
+Transfer lang dataset size
+0. ranking_data/datasets/ner_zho : score=46778.00
+1. ranking_data/datasets/ner_kor : score=21008.00
+2. ranking_data/datasets/ner_nld : score=18701.00
+Transfer over target size ratio
+0. ranking_data/datasets/ner_zho : score=33.97
+1. ranking_data/datasets/ner_kor : score=15.26
+2. ranking_data/datasets/ner_nld : score=13.58
+GENETIC
+0. ranking_data/datasets/ner_nya : score=0.30
+1. ranking_data/datasets/ner_tsn : score=0.31
+2. ranking_data/datasets/ner_xho : score=0.38
+SYNTACTIC
+0. ranking_data/datasets/ner_kin : score=0.46
+1. ranking_data/datasets/ner_sna : score=0.50
+2. ranking_data/datasets/ner_lug : score=0.56
+FEATURAL
+0. ranking_data/datasets/ner_nya : score=0.60
+1. ranking_data/datasets/ner_twi : score=0.70
+2. ranking_data/datasets/ner_lug : score=0.70
+PHONOLOGICAL
+0. ranking_data/datasets/ner_xho : score=0.00
+1. ranking_data/datasets/ner_swe : score=0.00
+2. ranking_data/datasets/ner_pcm : score=0.00
+INVENTORY
+0. ranking_data/datasets/ner_lav : score=0.00
+1. ranking_data/datasets/ner_nya : score=0.00
+2. ranking_data/datasets/ner_tsn : score=0.00
+GEOGRAPHIC
+0. ranking_data/datasets/ner_xho : score=0.00
+1. ranking_data/datasets/ner_zul : score=0.00
+2. ranking_data/datasets/ner_tsn : score=0.00
+Ranking (top 3):
+1. ranking_data/datasets/ner_nya : score=-0.11
+	1. GEOGRAPHIC : score=1.03; 
+	2. INVENTORY : score=0.86; 
+	3. GENETIC : score=0.33
+2. ranking_data/datasets/ner_swa : score=-1.01
+	1. INVENTORY : score=0.65; 
+	2. Transfer over target size ratio : score=0.46; 
+	3. Transfer lang dataset size : score=0.41
+3. ranking_data/datasets/ner_lav : score=-1.22
+	1. INVENTORY : score=0.67; 
+	2. Target lang dataset size : score=0.50; 
+	3. PHONOLOGICAL : score=0.30
+ranked
