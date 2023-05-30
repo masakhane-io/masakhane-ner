@@ -1,4 +1,4 @@
-## [MasakhaNER: Named Entity Recognition for African Languages](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00416/107614/MasakhaNER-Named-Entity-Recognition-for-African)
+## **MasakhaNER: Named Entity Recognition for African Languages**
 
 This repository contains the code for [training NER models](https://github.com/masakhane-io/masakhane-ner/tree/main/code) for the two MasakhaNER projects:
 
