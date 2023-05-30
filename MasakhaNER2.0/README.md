@@ -24,28 +24,28 @@ The original splits were named `train`, `dev` and `test` and they correspond to 
 
 The splits have the following sizes :
 
-| Language        | train | validation | test  |
-|-----------------|------:|-----------:|------:|
-| Bambara         |  4463 |        638 |  1274 |
-| Ghomala         |  3384 |        483 |   966 |
-| Ewe             |  3505 |        501 |  1001 |
-| Fon.            |  4343 |        621 |  1240 |
-| Hausa           |  5716 |        816 |  1633 |
-| Igbo            |  7634 |       1090 |  2181 |
-| Kinyarwanda     |  7825 |       1118 |  2235 |
-| Luganda         |  4942 |        706 |  1412 |
-| Luo             |  5161 |        737 |  1474 |
-| Mossi           |  4532 |        648 |  1613 |
-| Nigerian-Pidgin |  5646 |        806 |  1294 |
-| Chichewa        |  6250 |        893 |  1785 |
-| chiShona        |  6207 |        887 |  1773 |
-| Kiswahili       |  6593 |        942 |  1883 |
-| Setswana        |  3289 |        499 |   996 |
-| Akan/Twi        |  4240 |        605 |  1211 |
-| Wolof           |  4593 |        656 |  1312 |
-| isiXhosa        |  5718 |        817 |  1633 |
-| Yoruba          |  6877 |        983 |  1964 |
-| isiZulu         |  5848 |        836 |  1670 |
+| Language        | Language coordinator    | train | validation | test  |
+|-----------------|-------------------------|------:|-----------:|------:|
+| Bambara         | Allahsera Auguste Tapo  |  4463 |        638 |  1274 |
+| Ghomala         | Victoire M. Koagne      |  3384 |        483 |   966 |
+| Ewe             | Godson Kalipe           |  3505 |        501 |  1001 |
+| Fon             | Bonaventure F. P. Dossou|  4343 |        621 |  1240 |
+| Hausa           | Shamsuddeen H. Muhammad |  5716 |        816 |  1633 |
+| Igbo            | Chris Chinenye Emezue   |  7634 |       1090 |  2181 |
+| Kinyarwanda     | Happy Buzaaba           |  7825 |       1118 |  2235 |
+| Luganda         | Jonathan Mukiibi        |  4942 |        706 |  1412 |
+| Luo             | Perez Ogayo             |  5161 |        737 |  1474 |
+| Mossi           | Fatoumata Kabore        |  4532 |        648 |  1613 |
+| Nigerian-Pidgin | Anuoluwapo Aremu        |  5646 |        806 |  1294 |
+| Chichewa        | Amelia Taylor           |  6250 |        893 |  1785 |
+| chiShona        | Blessing Sibanda        |  6207 |        887 |  1773 |
+| Kiswahili       | Catherine Gitau         |  6593 |        942 |  1883 |
+| Setswana        | Tebogo Macucwa          |  3289 |        499 |   996 |
+| Akan/Twi        | Edwin Munkoh-Buabeng    |  4240 |        605 |  1211 |
+| Wolof           | Derguene Mbaye          |  4593 |        656 |  1312 |
+| isiXhosa        | Andiswa Bukula          |  5718 |        817 |  1633 |
+| Yoruba          | Jesujoba O. Alabi       |  6877 |        983 |  1964 |
+| isiZulu         | Rooweither Mabuya       |  5848 |        836 |  1670 |
 
 
 
