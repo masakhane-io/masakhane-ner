@@ -39,18 +39,18 @@ If your language is not supported by our model, you can predict the best transfe
 export LANG=sot
 python3 langrank_predict.py -o ranking_data/datasets/ner-train.orig.$LANG -s ranking_data/datasets_spm/ner-train.orig.spm.$LANG -l $LANG -n 3 -t NER -m best
 
-1. ranking_data/datasets/ner_tsn : score=1.96
-	1. Entity overlap : score=1.55; 
-	2. GEOGRAPHIC : score=0.99; 
-	3. INVENTORY : score=0.66
-2. ranking_data/datasets/ner_swa : score=-0.19
-	1. INVENTORY : score=0.70; 
-	2. Transfer over target size ratio : score=0.51; 
-	3. GEOGRAPHIC : score=0.49
-3. ranking_data/datasets/ner_nya : score=-0.57
-	1. INVENTORY : score=0.85; 
-	2. GEOGRAPHIC : score=0.64; 
-	3. GENETIC : score=0.34
+#1. ranking_data/datasets/ner_tsn : score=1.96
+#	1. Entity overlap : score=1.55; 
+#	2. GEOGRAPHIC : score=0.99; 
+#	3. INVENTORY : score=0.66
+#2. ranking_data/datasets/ner_swa : score=-0.19
+#	1. INVENTORY : score=0.70; 
+#	2. Transfer over target size ratio : score=0.51; 
+#	3. GEOGRAPHIC : score=0.49
+#3. ranking_data/datasets/ner_nya : score=-0.57
+#	1. INVENTORY : score=0.85; 
+#	2. GEOGRAPHIC : score=0.64; 
+#	3. GENETIC : score=0.34
 ```
 
 
