@@ -72,7 +72,7 @@ python3 langrank_predict.py -o ranking_data/datasets/ner-train.orig.$LANG -s ran
 ```
 We provide sample datasets for *ful*, *sot*, *orm*, *run*, *lin*, *tir*, and *ven*.
 
-For a new language, not supported, you need to follow this steps:
+For a new language, not supported, you need to follow these steps:
 * Obtain a text file in the language, and use sentencepiece of mDeBERTaV3 model to tokenize the texts. An example is [here](https://github.com/masakhane-io/masakhane-ner/blob/main/MasakhaNER2.0/ranking_languages/prepare_ranking_data_new_lang.py)
 * Run the *langrank_predict.py* with the required parameters as shown above
 
