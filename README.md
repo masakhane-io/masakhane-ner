@@ -26,7 +26,7 @@ The license of the NER dataset is in [CC-BY-4.0-NC](https://creativecommons.org/
 ### Dataset information
 * MasakhaNER 1.0 can be found in CoNLL format in [data/](https://github.com/masakhane-io/masakhane-ner/tree/main/data) or [huggingface datasets](https://huggingface.co/datasets/masakhaner)
 * MasakhaNER 2.0 can be found in CoNLL format in [MasakhaNER2.0/data/](https://github.com/masakhane-io/masakhane-ner/tree/main/MasakhaNER2.0/data) or [huggingface datasets](https://huggingface.co/datasets/masakhane/masakhaner2)
-* MasakhaNER-X is an aggregation of MasakhaNER 1.0 and MasakhaNER 2.0 dataset for 20 African languages. The dataset is not in CoNLL format. The input is the original raw text while the output is byte-level span annotations. The dataset is in [xtreme-up/MasakhaNER-X](https://github.com/masakhane-io/masakhane-ner/tree/main/xtreme-up/MasakhaNER-X/). For more details, see the XTREME benchmark ([XTREME-UP](https://github.com/google-research/xtreme-up)).
+* MasakhaNER-X is an aggregation of MasakhaNER 1.0 and MasakhaNER 2.0 dataset for 20 African languages. The dataset is not in CoNLL format. The input is the original raw text while the output is byte-level span annotations. The dataset is in [xtreme-up/MasakhaNER-X](https://github.com/masakhane-io/masakhane-ner/tree/main/xtreme-up/MasakhaNER-X/). For more details, see the ([XTREME-UP](https://github.com/google-research/xtreme-up)).
 
 
 ### Load dataset on HuggingFace
