@@ -4,7 +4,7 @@ This repository contains the code for [training NER models](https://github.com/m
 
 The code is based on HuggingFace implementation (License: Apache 2.0).
 
-The license of the NER dataset is in [CC-BY-4.0-NC](https://creativecommons.org/licenses/by-nc/4.0/), the monolingual data have difference licenses depending on the news website license. 
+The license of the NER dataset is in [CC-BY-4.0-NC](https://creativecommons.org/licenses/by-nc/4.0/), the monolingual data have difference licenses depending on the news website license. The monolingual data used for annotation can be found [here](https://github.com/masakhane-io/lacuna_pos_ner/tree/main/language_corpus)
 
 ### Required dependencies
 * python
