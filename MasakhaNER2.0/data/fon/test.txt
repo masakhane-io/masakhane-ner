@@ -15,7 +15,7 @@ agbahwlɛ́nhwlɛ́n O
 lɛ́ɛ O
 kpán O
 ɔ́ O
-"""" O
+, O
 kɛ́n O
 yetɔn O
 ná O
@@ -121,7 +121,7 @@ kpɔ́n O
 kɛ́nníná O
 ɖé O
 ɔ́ O
-"""" O
+, O
 è O
 vɛ̌ O
 kó O
@@ -144,7 +144,7 @@ mɛ O
 Énɛ́ O
 gudo O
 ɔ́ O
-"""" O
+, O
 è O
 ní O
 ná O
@@ -164,7 +164,7 @@ agbahwlɛ́nhwlɛ́n O
 tɔn O
 sín O
 wěkwín O
-"""" O
+, O
 hɛ̌nnu O
 nyíkɔ́ O
 tɔn O
@@ -174,7 +174,7 @@ tɔn O
 kpɛ́ví O
 ɔ́ O
 kpán O
-"""" O
+, O
 fí O
 è O
 nɔ̀ O
@@ -183,10 +183,10 @@ yì O
 tɛ́nkpɔ́n O
 ɔ́ O
 é O
+, O
 . O
 . O
 . O
-"""" O
 ) O
 . O
 
@@ -232,7 +232,7 @@ kpɔnwun O
 ɖokpó O
 nú O
 CEP O
-"""" O
+, O
 kpɔnwun O
 atɔ̀n O
 nú O
@@ -269,12 +269,12 @@ kpɔnwun O
 ɛ́nɛ́ O
 nú O
 CEP O
-"""" O
+, O
 kpɔnwun O
 atɔ́ɔn O
 nú O
 BEPC O
-"""" O
+, O
 kpɔnwun O
 ayizɛ́n O
 nú O
@@ -321,7 +321,7 @@ sú O
 akwɛ́ O
 gudo O
 ɔ́ O
-"""" O
+, O
 kɛ́n O
 ɔ́ O
 ná O
@@ -331,7 +331,7 @@ mɛ O
 ɔ́ O
 dín O
 ɔ́ O
-"""" O
+, O
 wěmá O
 ɖé O
 má O
@@ -354,15 +354,13 @@ xélo O
 azɔnkwín O
 kolonâ O
 ( O
-Kovidi O
-- O
-19ɔ́ O
+Kovidi-19ɔ́ O
 ) O
 sín O
 alì O
 nù O
 ɔ́ O
-"""" O
+, O
 tògán O
 ée O
 ɖò O
@@ -497,7 +495,7 @@ sɔ́mì O
 tòkpɔnlagán O
 lɛ́ɛ O
 tɔ̀n O
-"""" O
+, O
 ɖò O
 Aklunɔzángbè B-DATE
 azǎn I-DATE
@@ -506,7 +504,7 @@ xwè I-DATE
 2020ɔ́ I-DATE
 tɔ̀n O
 ɔ́ O
-"""" O
+, O
 ayi O
 - O
 ná O
@@ -650,11 +648,11 @@ nukɔn O
 tò O
 nɛ́ O
 tɔ̀n O
-"""" O
+, O
 Abiyi B-PER
 Ahmed I-PER
 ɔ́ O
-"""" O
+, O
 yígbè O
 ɖɔ̀ O
 émí O
@@ -721,10 +719,10 @@ xóxó O
 ɖɔhun O
 pɛ́ɛ O
 ) O
-"""" O
+, O
 ɖɛxɔ̀ O
 ɔ́ O
-"""" O
+, O
 xwécɔ́tɔ́ O
 sín O
 gòxɔ̀ O
@@ -759,14 +757,14 @@ avatɛn O
 kannumɔnɔ O
 lɛ́ɛ O
 tɔ̀n O
-"""" O
+, O
 jǒnɔ O
 - O
 yíyí O
 gbásá O
-"""" O
+, O
 nùdánnúsátɛ̀n O
-"""" O
+, O
 fí O
 è O
 alɔnùzɔ́wátɔ́ O
@@ -807,7 +805,7 @@ kpɔ́n O
 
 Bɔ̀déwú O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 gbá O
@@ -873,7 +871,7 @@ dó O
 ɖò O
 Benɛ̂tomɛ B-LOC
 ɔ́ O
-"""" O
+, O
 è O
 gbá O
 ɖò O
@@ -987,7 +985,7 @@ nɔ̀ O
 ganjí O
 wú O
 ɔ́ O
-"""" O
+, O
 Benjamin B-PER
 Hùnkpátín I-PER
 lɛ́ O
@@ -997,7 +995,7 @@ azǎn B-DATE
 xwè I-DATE
 2020ɔ́ I-DATE
 tɔ̀n O
-"""" O
+, O
 hwenu O
 è O
 mɔ O
@@ -1039,7 +1037,7 @@ tò O
 mìtɔn O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -1052,7 +1050,7 @@ nɔ́ O
 kpénúkún O
 dó O
 glèlílɛ́ O
-"""" O
+, O
 kanlin O
 - O
 nyìnyì O
@@ -1061,7 +1059,8 @@ hwèhùhù O
 kpán O
 wú O
 é O
-"""" O
+, O
+
 Gaston B-PER
 DÒSÚWÌ I-PER
 wɛ́ O
@@ -1079,7 +1078,6 @@ ayidósùn I-DATE
 xwè I-DATE
 2020ɔ́ I-DATE
 tɔ̀n O
-
 gbè O
 . O
 
@@ -1093,7 +1091,7 @@ nǔwíwá O
 júnjɔ́n O
 wɛ́ O
 nyí O
-"""" O
+" O
 wlɛ́nwín O
 è O
 è O
@@ -1114,8 +1112,8 @@ dó O
 axì O
 mɛ̀ O
 é O
+" O
 . O
-"""" O
 Ɖò O
 nǔwíwá O
 énɛ́ O
@@ -1124,7 +1122,8 @@ dòmɛ̀ O
 nɔè O
 Richicatou B-PER
 Salé I-PER
-"""" O
+, O
+
 gǎn O
 ée O
 nɔ́ O
@@ -1136,14 +1135,13 @@ bó O
 nyí O
 kánɖó O
 atɔ̀ngɔ́ɔ O
-
 tɔ̀n O
 ɔ́ O
 ɖò O
 fí O
 nɛ́ O
+, O
 
-"""" O
 gbɛ̌kplékplé O
 ée O
 nɔ́ O
@@ -1255,18 +1253,18 @@ vɔ̀ O
 línù O
 ? O
 
-"""" O
+" O
 civic O
 tech O
-"""" O
+" O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 aní O
 ká O
 nyí O
 mɔ̌ O
-"""" O
+, O
 nɛ̌ O
 ye O
 ká O
@@ -1359,7 +1357,7 @@ kpétè O
 kàn O
 jí O
 ɔ́ O
-"""" O
+, O
 mí O
 bó O
 wá O
@@ -1395,27 +1393,27 @@ xójíjlá O
 nǔwínwlán O
 tɔ̀n O
 líxo O
-"""" O
+, O
 hwɛndò O
 nǔwíwá O
 gbɔn O
 mɔkàn O
 jí O
-"""" O
+, O
 Wɛ̀ndídó O
 è O
 ɖò O
 tají O
 lɛ́ɛ O
-"""" O
+, O
 azɔ̌ O
 wà O
 gbɔn O
 mɔkàn O
 jí O
+, O
 . O
 . O
-"""" O
 
 Sín O
 azǎn O
@@ -1500,7 +1498,7 @@ hwíhwɛ́ O
 - O
 hǔn O
 . O
-"""" O
+" O
 Ajo O
 atɔ̀n O
 wɛ́ O
@@ -1512,8 +1510,8 @@ bǐ O
 ɖò O
 adohuhu O
 jí O
-"""" O
-"""" O
+" O
+, O
 Nǔ O
 è O
 vɛ́ O
@@ -1568,14 +1566,14 @@ amɔ̌ O
 ká O
 kpé O
 ǎ O
-"""" O
+, O
 tokpɔnlagán O
 wɛ́ O
 ɖɔ̀ O
 mɔ̌ O
 . O
 
-"""" O
+" O
 Xó O
 nɛ́ O
 lɛ́ɛ O
@@ -1616,8 +1614,8 @@ yemɛ O
 dě O
 lɛ́ɛ O
 é O
-"""" O
-"""" O
+" O
+, O
 Taté B-PER
 Wɛndeyama I-PER
 wɛ́ O
@@ -1653,9 +1651,9 @@ zɔ́ O
 ɖòtè O
 bó O
 nyí O
-"""" O
+, O
 pipeline O
-"""" O
+, O
 é O
 . O
 
@@ -1680,7 +1678,7 @@ atɔ́ɔn O
 núkún O
 we O
 ) O
-"""" O
+, O
 azɔ̌watɔ́ O
 ée O
 tuun O
@@ -1695,7 +1693,7 @@ nuwɔntɔn O
 kɛnnɛ O
 wěwè O
 ) O
-"""" O
+, O
 agbǒcɔ́tɔ́ O
 279 O
 ( O
@@ -1744,9 +1742,9 @@ tɛntin O
 wɛ́ O
 nyí O
 mɔkàn O
-"""" O
+, O
 pipeline O
-"""" O
+, O
 ɔ́ O
 kilomɛtlu O
 1650 O
@@ -1782,7 +1780,7 @@ gbɔn O
 tokpɔn O
 atɔɔn O
 mɛ̀ O
-"""" O
+, O
 tòxò O
 kpódó O
 glètòxò O
@@ -1794,14 +1792,14 @@ kpán O
 É O
 fó O
 ɔ́ O
-"""" O
+, O
 bó O
 ná O
 dó O
 zán O
 ganjí O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 gbá O
@@ -1832,7 +1830,7 @@ sɔ́ O
 azɔ̌ O
 ɔ́ O
 ɖótè O
-"""" O
+, O
 azɔnkwín O
 ée O
 ká O
@@ -1874,7 +1872,7 @@ mɛ̀ O
 ɖɛ̌mɛnu O
 wɛ̀ O
 à O
-"""" O
+, O
 azɔ̌wátɔ́ O
 ɖé O
 wɛ̀ O
@@ -1883,7 +1881,7 @@ alǒ O
 jǒnɔ O
 ɖé O
 ) O
-"""" O
+, O
 mɛ O
 bǐ O
 wɛ́ O
@@ -1939,7 +1937,7 @@ wú O
 Nú O
 éyɛ́ O
 ɔ́ O
-"""" O
+" O
 gbè O
 è O
 ná O
@@ -1950,13 +1948,13 @@ liza O
 xá O
 azɔnkwín O
 énɛ́ O
-"""" O
+" O
 ɖó O
 é O
 tuun O
 tògán O
 ǎ O
-"""" O
+, O
 é O
 ká O
 tuun O
@@ -1964,7 +1962,7 @@ tuun O
 gbásá O
 gán O
 ǎ O
-"""" O
+, O
 é O
 ká O
 tuun O
@@ -1976,7 +1974,7 @@ yì O
 - O
 tɔ́ O
 ǎ O
-"""" O
+, O
 é O
 tuun O
 ɖɛ̌mɛnu O
@@ -2065,7 +2063,7 @@ nɔ̀ O
 ganjí O
 wú O
 ɔ́ O
-"""" O
+, O
 ɖò O
 azǎn B-DATE
 20ɔ́ I-DATE
@@ -2073,7 +2071,7 @@ aluunsùn I-DATE
 ɔ́ O
 tɔ̀n O
 ɔ́ O
-"""" O
+, O
 ɖó O
 kɛ́n O
 lě O
@@ -2102,7 +2100,7 @@ lɛ́ O
 ɖò O
 jijɛjí O
 wɛ̀ O
-"""" O
+, O
 é O
 ká O
 ko O
@@ -2120,14 +2118,12 @@ wɛ̀ O
 Nú O
 Benjamin B-PER
 Hùnkpátín I-PER
-"""" O
+, O
 Mɛ O
 sɔ̀xà O
 è O
 bɛ́ O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɖò O
 Benɛ̂ B-LOC
 tò I-LOC
@@ -2163,7 +2159,7 @@ azǎn B-DATE
 tantɔn I-DATE
 gblamɛ I-DATE
 ɔ́ O
-"""" O
+, O
 gbɛtɔ́ O
 atɔ́ɔn O
 wɛ̀ O
@@ -2203,7 +2199,7 @@ din O
 lɛ́ɛ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 azɔnkwín O
 ɔ́ O
 má O
@@ -2220,7 +2216,7 @@ tò O
 mìtɔn O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 nǔ O
 mɔ̌wun O
 fó O
@@ -2234,7 +2230,7 @@ xwè I-DATE
 2021 I-DATE
 gbè O
 ɔ́ O
-"""" O
+, O
 gbɛtɔ́ O
 250 O
 ( O
@@ -2287,7 +2283,7 @@ ganjí O
 wú O
 é O
 ɔ́ O
-"""" O
+, O
 mɛ O
 ée O
 ɖó O
@@ -2348,7 +2344,7 @@ nylá O
 hú O
 kolonâ O
 ɔ́ O
-"""" O
+, O
 Benjamin B-PER
 Hùnkpátín I-PER
 wɛ́ O
@@ -2380,7 +2376,7 @@ tɔn O
 nukɔntɔn O
 ɔ́ O
 kpán O
-"""" O
+, O
 Wɛn O
 nɛ́ O
 wɛ̀ O
@@ -2425,7 +2421,7 @@ xwè O
 gbè O
 ɖò O
 Bamako B-LOC
-"""" O
+, O
 fínɛ́ O
 wɛ̀ O
 ye O
@@ -2442,7 +2438,7 @@ tɔ́ O
 tɔn O
 nukɔntɔn O
 ɔ́ O
-"""" O
+, O
 Boubou B-PER
 Cissé I-PER
 kpán O
@@ -2457,7 +2453,7 @@ tɔn O
 nɛ́ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 è O
 kplá O
 yě O
@@ -2519,10 +2515,10 @@ tòxòzìn O
 Bamako B-LOC
 ɔ́ O
 mɛ̀ O
-"""" O
+, O
 fínɛ́ O
 ɔ́ O
-"""" O
+, O
 mɛ́ O
 lɛ́ɛ O
 ɖò O
@@ -2618,7 +2614,7 @@ Dicko I-PER
 nukɔn O
 ná O
 ɔ́ O
-"""" O
+, O
 nɔ́ O
 ɖò O
 cɔ̀cɔ̀ O
@@ -2693,7 +2689,7 @@ W B-ORG
 kpán O
 mɛ O
 . O
-"""" O
+" O
 mɔ O
 è O
 nɔ́ O
@@ -2718,13 +2714,12 @@ kpódó O
 wíwá O
 kpán O
 kanlin O
-
 lɛ́ɛ O
 tɔ̀n O
-"""" O
+, O
+
 lóbó O
 ká O
-
 ná O
 lɛ́ O
 dalɔ O
@@ -2784,19 +2779,15 @@ kpán O
 ɖò O
 gběkanlin B-ORG
 kpá I-ORG
-"""" I-ORG
-W I-ORG
-- I-ORG
-Arly I-ORG
-- I-ORG
-Pendari I-ORG
-"""" I-ORG
+, I-ORG
+W-Arly-Pendari B-ORG
+, I-ORG
 ( O
 WAP B-ORG
 ) O
 ée O
 Benɛ̂ B-LOC
-"""" O
+, O
 Nijɛ́ɛ B-LOC
 kpódó O
 Bukina B-LOC
@@ -2870,7 +2861,7 @@ kpá O
 nɛ́ O
 ɔ́ O
 wɛ̀ O
-"""" O
+, O
 jinalú O
 ée O
 ká O
@@ -2894,7 +2885,7 @@ dó O
 kanlin O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 kpá O
 ɔ́ O
 cɔ́tɔ́ O
@@ -2974,7 +2965,7 @@ lintamɛ O
 kpɔ́n O
 toolo O
 ɔ́ O
-"""" O
+, O
 sɛ́n O
 è O
 nyí O
@@ -3004,7 +2995,7 @@ sú O
 amisa O
 xwè O
 lɛ́ɛ O
-"""" O
+, O
 sɛ́kpétɛ̀n O
 lɛ́ɛ O
 kpódó O
@@ -3019,7 +3010,7 @@ afɔtɔn I-DATE
 gudo O
 din O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 gbéjé O
@@ -3052,7 +3043,7 @@ tɔ̀n O
 tɔ́n O
 kpáa O
 ɔ́ O
-"""" O
+, O
 Iglaja B-ORG
 Katolika I-ORG
 ɖesu O
@@ -3075,14 +3066,12 @@ xwèjisùn I-DATE
 tɔn I-DATE
 gbè I-DATE
 ɔ́ O
-"""" O
+, O
 mɛ O
 we O
 jɛ́n O
 bɛ́ O
-kovidi O
-- O
-19 O
+kovidi-19 O
 ɖò O
 Benɛ̂ B-LOC
 bɔ̀ O
@@ -3168,7 +3157,7 @@ aluunsùn I-DATE
 tɔn I-DATE
 ɖò O
 Kútɔ́nú B-LOC
-"""" O
+, O
 bɛ́ O
 ná O
 fɔ́n O
@@ -3212,12 +3201,12 @@ wɛ́ O
 nyí O
 Éric B-PER
 Hùnɖetè I-PER
-"""" O
+, O
 tòxóɖɔ̀gbɛta O
-"""" O
+" O
 Les B-ORG
 démocrates I-ORG
-"""" O
+" O
 è O
 è O
 sɔ́ O
@@ -3231,10 +3220,11 @@ din O
 sín O
 nukɔntɔ́ O
 ɔ́ O
-"""" O
+, O
 Joël B-PER
 Ayïvɔ̀ I-PER
-"""" O
+, O
+
 ée O
 nyí O
 gbɛtɔ́ O
@@ -3256,7 +3246,6 @@ kɔnnyi O
 acɛkpìkpà O
 TALƆN B-PER
 wú O
-
 wɛ̀ O
 sín O
 sùn O
@@ -3383,7 +3372,7 @@ bǐ O
 ɖò O
 tají O
 ɔ́ O
-"""" O
+, O
 sɛ́n O
 dódó O
 è O
@@ -3394,9 +3383,9 @@ ná O
 é O
 . O
 
-"""" O
+" O
 FCBE B-ORG
-"""" O
+" O
 jɛ́n O
 nyí O
 tòxóɖɔ̀gbɛta O
@@ -3465,7 +3454,7 @@ Benɛ̂ B-LOC
 tò O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 Cyrille B-PER
 Gugbejí I-PER
 ko O
@@ -3493,7 +3482,7 @@ sɛ́n O
 Awɔnlin B-LOC
 é O
 ɔ́ O
-"""" O
+, O
 
 acɛkpìkpà O
 Benɛ̂ B-LOC
@@ -3520,11 +3509,9 @@ nǔwíwá O
 ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 gbɛtɔ́ O
-35 O
-. O
-000 O
+35.000 O
 ( O
 děgba O
 tantɔn O
@@ -3585,7 +3572,7 @@ jí O
 din O
 wú O
 ɔ́ O
-"""" O
+, O
 ye O
 ɖò O
 tamɛlin O
@@ -3658,9 +3645,9 @@ CENA B-ORG
 ) O
 . O
 
-"""" O
+" O
 CENA B-ORG
-"""" O
+" O
 sɔ́ O
 tɛnmɛ O
 nú O
@@ -3685,7 +3672,7 @@ Ali O
 nɛ́ O
 nù O
 ɔ́ O
-"""" O
+, O
 agbahwlɛ́ntɔ́ O
 atɔ́ɔn O
 ée O
@@ -3716,11 +3703,11 @@ tɔn O
 xwè B-DATE
 2020ɔ́ I-DATE
 tɔn O
-"""" O
+, O
 Xó O
 tají O
 lɛ́ɛ O
-"""" O
+, O
 tòxóɖíɖɔ́ O
 . O
 
@@ -3734,7 +3721,7 @@ xwè I-DATE
 tɔn O
 gbè O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 ɖeɖɛ O
@@ -3777,7 +3764,7 @@ má O
 setonu O
 ǎ O
 ɔ́ O
-"""" O
+, O
 lě O
 gǎn O
 lɛ́ɛ O
@@ -3796,7 +3783,7 @@ wěxò O
 nɛ́ O
 jí O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 dó O
@@ -3905,11 +3892,12 @@ tò O
 - O
 mɛ̀ O
 . O
+
 ( O
 José B-PER
 Didier I-PER
 Tonato I-PER
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -3922,7 +3910,6 @@ nɔ́ O
 kpénúkún O
 dó O
 ayǐ O
-
 ná O
 nɔ̀ O
 ganjí O
@@ -3930,8 +3917,8 @@ wú O
 é O
 ) O
 . O
-Nú O
 
+Nú O
 gǎn O
 - O
 hɔn O
@@ -3940,7 +3927,7 @@ yì O
 - O
 tɔ́ O
 ɔ́ O
-"""" O
+, O
 yemɛ O
 è O
 ɖò O
@@ -3952,14 +3939,14 @@ ko O
 tuun O
 ɖɔ̀ O
 émí O
-"""" O
+, O
 ɖó O
 ná O
 gosin O
 fínɛ́ O
 din O
 ɔ́ O
-"""" O
+, O
 é O
 bló O
 xwè B-DATE
@@ -4020,7 +4007,7 @@ cí O
 gbɔn O
 wɛ̀ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 bà O
@@ -4033,7 +4020,7 @@ ná O
 jɛ̀ O
 fí O
 ɖevo O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -4102,7 +4089,7 @@ xwè I-DATE
 tɔn I-DATE
 gbè O
 ɔ́ O
-"""" O
+, O
 tògán O
 ɔ́ O
 fó O
@@ -4172,7 +4159,7 @@ jǒnɔ̀ O
 
 Din O
 ɔ́ O
-"""" O
+, O
 é O
 jɛ̀ O
 yedɛlɛ́ɛ O
@@ -4191,62 +4178,58 @@ din O
 Bɔ́ɔgú B-LOC
 ( O
 Pɛlɛlɛ B-LOC
-"""" O
+, O
 Undali B-LOC
-"""" O
+, O
 Sinaɖe B-LOC
 ) O
-"""" O
+, O
 Alibolí B-LOC
 ( O
 Kalimama B-LOC
-"""" O
+, O
 Ségbanna B-LOC
-"""" O
+, O
 Gɔgúnú B-LOC
 ) O
-"""" O
+, O
 Atakola B-LOC
 ( O
 Usa B-LOC
 Pewunko I-LOC
-"""" O
+, O
 Cukúwuntunâ B-LOC
-"""" O
+, O
 Tangyéta B-LOC
 ) O
-"""" O
+, O
 Dɔnga B-LOC
 ( O
 Kopaago B-LOC
-"""" O
+, O
 Uakée B-LOC
 ) O
-"""" O
+, O
+
 Xùlɛ̀nù B-LOC
 ( O
-Só B-LOC
-- I-LOC
-Avà I-LOC
+Só-Avà B-LOC
 ) O
 kpódó O
-
 Wěmɛ̀ B-LOC
 kpán O
 ( O
 Akplo B-LOC
 - I-LOC
 Mislètè I-LOC
+, O
 
-"""" O
-Sɛmɛ B-LOC
-- I-LOC
-Kpódjí I-LOC
-"""" O
+Sɛmɛ-Kpódjí B-LOC
+, O
 Agěgé B-LOC
-"""" O
+, O
 Ajòhùn B-LOC
-"""" O
+, O
 Bònù B-LOC
 ) O
 . O
@@ -4256,7 +4239,7 @@ akpáxwé O
 nukɔntɔn O
 ɖɔhun O
 ɔ́ O
-"""" O
+, O
 mí O
 ná O
 mɔ O
@@ -4276,7 +4259,7 @@ nù O
 
 Maurice B-PER
 Thantan I-PER
-"""" O
+, O
 kplékplé B-ORG
 gbɛta I-ORG
 tokpɔnla I-ORG
@@ -4394,10 +4377,10 @@ mɛ̀ O
 Tokpɔnlagán O
 Xɔ̀gbónu B-LOC
 tɔn O
-"""" O
+, O
 Charlemagne B-PER
 Yankoti I-PER
-"""" O
+, O
 ɖò O
 kɛ́n O
 xó O
@@ -4410,19 +4393,19 @@ lɛ́ɛ O
 
 Maurice B-PER
 Thantan I-PER
-"""" O
+, O
 Xó O
 tají O
-"""" O
+, O
 gbɛtɔ́ O
 lɛ́ɛ O
-"""" O
+, O
 Kplékplé O
 gbɛta O
 Tokpɔnlagán O
 lɛ́ɛ O
 tɔn O
-"""" O
+, O
 akwɛ́ O
 zínzán O
 tokpɔnla O
@@ -4447,11 +4430,11 @@ nǔ O
 kàn O
 anyumlímlí O
 xíxó O
-"""" O
+, O
 UFOA B-ORG
 B O
 U20 O
-"""" O
+, O
 tɔn O
 é O
 . O
@@ -4477,7 +4460,7 @@ bɔlu O
 ɔ́ O
 fó O
 ɔ́ O
-"""" O
+, O
 kɛ́n O
 ɖokpó O
 ɔ́ O
@@ -4494,7 +4477,7 @@ nɛ́ O
 ɔ́ O
 kpán O
 ɔ́ O
-"""" O
+, O
 yemɛ O
 we O
 lɛ́ɛ O
@@ -4618,15 +4601,14 @@ lifɛ̀n O
 gbò O
 níí O
 ɔ́ O
-"""" O
-"""" O
+, O
 
+" O
 FBF B-ORG
-"""" O
+" O
 ɔ́ O
 gbɛ́ O
 ɖò O
-
 xwèjísùn O
 ɔ́ O
 mɛ̀ O
@@ -4634,7 +4616,8 @@ mɛ̀ O
 bɔluxìxò O
 akpáxwé O
 1ɔ́ O
-"""" O
+, O
+
 2ɔ̀ O
 kpódó O
 3ɔ́ O
@@ -4660,7 +4643,7 @@ sùn O
 yɔywɛ O
 ɖé O
 ɔ́ O
-"""" O
+, O
 è O
 ɖó O
 ná O
@@ -4714,7 +4697,7 @@ Aklunɔzángbla B-DATE
 we I-DATE
 gudo O
 ɔ́ O
-"""" O
+, O
 ɖɔ̀ O
 - O
 nú O
@@ -4752,7 +4735,7 @@ nú O
 sè O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 gbɛtɔ́ O
 1189 O
 ( O
@@ -4763,6 +4746,7 @@ atɔ́ɔn O
 núkún O
 ɛnɛ O
 ) O
+
 wɛ́ O
 ko O
 bɛ́ O
@@ -4770,7 +4754,6 @@ azɔn O
 nɛ́ O
 ɔ́ O
 bɔ̀ O
-
 mɛ O
 21 O
 ( O
@@ -4778,8 +4761,8 @@ ko O
 núkún O
 ɖokpó O
 ) O
-nyí O
 
+nyí O
 mátîintɔ́ O
 káká O
 wá O
@@ -4800,7 +4783,7 @@ zogbéjí O
 lɛ́ɛ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 azɔn O
 ko O
 gbɔ O
@@ -4849,7 +4832,7 @@ tɔ́ O
 lɛ́ɛ O
 nukɔn O
 ɔ́ O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -4868,7 +4851,7 @@ syɛ́n O
 gbè O
 . O
 
-"""" O
+" O
 Nǔ O
 è O
 ɖò O
@@ -4876,7 +4859,7 @@ jijɛ O
 wɛ̀ O
 éhɔ́nmɛ O
 ɔ́ O
-"""" O
+, O
 gbehwán O
 gudo O
 wɛ́ O
@@ -4915,7 +4898,7 @@ tò O
 jí O
 wɛ̀ O
 é O
-"""" O
+" O
 Sevelɛ́ɛn B-PER
 Quenum I-PER
 wɛ́ O
@@ -4984,12 +4967,12 @@ tɔ́ O
 gán O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 tuun O
 ɖɔ̀ O
-"""" O
+" O
 sɛ́n O
 gbɛ́ O
 ɖɔ̀ O
@@ -5001,14 +4984,14 @@ nú O
 atinkɛnsaxwé O
 ɖé O
 ó O
-"""" O
+, O
 atinkɛn O
 zɔ́ O
 wíwá O
 xó O
 ɖé O
 ó O
-"""" O
+, O
 atinkɛn O
 ɖé O
 alǒ O
@@ -5020,8 +5003,8 @@ atinkɛn O
 ɖě O
 ɔ́ O
 ó O
+" O
 . O
-"""" O
 
 Mɛ O
 ée O
@@ -5059,7 +5042,7 @@ atɔ́ɔn O
 Sɛ́n O
 nɛ́ O
 ɔ́ O
-"""" O
+, O
 è O
 sɔ́ O
 gbetakɛ́n O
@@ -5077,7 +5060,7 @@ alibúbú O
 nù O
 . O
 
-"""" O
+" O
 È O
 síxú O
 jodo O
@@ -5087,8 +5070,8 @@ má O
 kɛnu O
 déwú O
 ǎ O
-"""" O
-"""" O
+" O
+, O
 gǎn O
 - O
 hɔn O
@@ -5125,10 +5108,10 @@ byɔ́ O
 gbɔn O
 é O
 ɔ́ O
-"""" O
-"""" O
+, O
+, O
 CCIB B-ORG
-"""" O
+, O
 ná O
 tó O
 bɛ́ O
@@ -5154,7 +5137,7 @@ nɛ́ O
 nù O
 hwɛ̌ O
 ɔ́ O
-"""" O
+, O
 azɔ̌ O
 ée O
 nyí O
@@ -5184,6 +5167,7 @@ nɛ́ O
 ɔ́ O
 nù O
 ; O
+
 é O
 ká O
 ná O
@@ -5208,14 +5192,13 @@ zán O
 akwɛ́ O
 gbɔn O
 é O
-
 kpán O
 ; O
+
 é O
 ká O
 ná O
 lɛ́ O
-
 kpɔ́n O
 azɔ̌ O
 è O
@@ -5258,15 +5241,15 @@ tɔn O
 jó O
 gudo O
 ɔ́ O
-"""" O
-"""" O
+, O
+" O
 CCIB B-ORG
-"""" O
+" O
 wá O
 dà O
 tò O
 ɔ́ O
-"""" O
+, O
 ɖò O
 tají O
 ɔ́ O
@@ -5275,7 +5258,7 @@ ganɖɔkɛ̀n O
 tlitli O
 nɔ̀ O
 lɛ́ɛ O
-"""" O
+, O
 nú O
 ye O
 ní O
@@ -5376,7 +5359,7 @@ nɛ́ O
 mɛ̀ O
 kpán O
 ɔ́ O
-"""" O
+, O
 sùsù O
 yí O
 wɛ́ O
@@ -5395,7 +5378,7 @@ lɛ́ɛ O
 mɛ̀ O
 . O
 
-"""" O
+" O
 Nǔxókpɔ́n O
 ɖě O
 sɔ́ O
@@ -5422,6 +5405,7 @@ lɛ́ɛ O
 mɛ̀ O
 ǎ O
 ; O
+
 è O
 ká O
 síxú O
@@ -5455,8 +5439,8 @@ bɛ́ O
 ná O
 yì O
 nukɔn O
-"""" O
-"""" O
+" O
+, O
 
 nǔ O
 è O
@@ -5466,7 +5450,6 @@ gǎn O
 - O
 hɔn O
 - O
-
 yì O
 - O
 tɔ́ O
@@ -5492,7 +5475,7 @@ tɔ́ O
 tò O
 ɔ́ O
 tɔn O
-"""" O
+, O
 ée O
 nyí O
 wěgbójínɔ́tɔ́ O
@@ -5502,7 +5485,7 @@ tògán O
 ɔ́ O
 gbásá O
 ɔ́ O
-"""" O
+, O
 ká O
 ná O
 jiɖiɖe O
@@ -5536,7 +5519,7 @@ nɛ́ O
 é O
 . O
 
-"""" O
+, O
 Mì O
 ko O
 mɔ O
@@ -5604,7 +5587,7 @@ gbɔn O
 é O
 . O
 
-"""" O
+" O
 Mì O
 ná O
 sɔ́ O
@@ -5627,7 +5610,7 @@ jɛ̀ O
 fí O
 din O
 ɔ́ O
-"""" O
+, O
 ná O
 ɖó O
 azɔ̌ O
@@ -5650,8 +5633,8 @@ ko O
 nyí O
 gbɔn O
 é O
-"""" O
-"""" O
+" O
+, O
 lě O
 Pascal B-PER
 Irenée I-PER
@@ -5671,7 +5654,7 @@ hwɛhwɛ O
 bɔ̀ O
 awɔntincyɔ́nnú O
 ɔ́ O
-"""" O
+, O
 è O
 nɔ́ O
 sɔ́ O
@@ -5699,7 +5682,7 @@ dó O
 zunkɔ́bɛ́nú O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 é O
 ɖò O
 vaan O
@@ -5733,7 +5716,7 @@ azɔ̌ O
 akpáxwé O
 nɛ́ O
 ɔ́ O
-"""" O
+, O
 awɔntincyɔ́nnú O
 lɛ́ɛ O
 nɔ́ O
@@ -5747,11 +5730,11 @@ lɛ́ɛ O
 ɖɔhun O
 . O
 
-"""" O
+" O
 Nú O
 nyɛ O
 ɔ́ O
-"""" O
+, O
 tagba O
 ɖokpó O
 ɔ́ O
@@ -5766,8 +5749,8 @@ hlaglan O
 lɔbanɔ O
 lɛ́ɛ O
 ɖɔhun O
-"""" O
-"""" O
+" O
+, O
 nǔ O
 è O
 Sandra B-PER
@@ -5775,7 +5758,7 @@ Idosú I-PER
 ɖɔ̀ O
 è O
 nɛ́ O
-"""" O
+, O
 azɔ̌ O
 wá O
 dó O
@@ -5795,7 +5778,7 @@ ná O
 tîin O
 ǎ O
 ɔ́ O
-"""" O
+, O
 mɛɖé O
 lɛ́ɛ O
 byɔ́ O
@@ -5815,7 +5798,7 @@ zán O
 é O
 . O
 
-"""" O
+" O
 È O
 ní O
 tɛ́nkpɔ́n O
@@ -5841,8 +5824,8 @@ gege O
 nyɔ́ O
 nú O
 ayǐkúngban O
-"""" O
-"""" O
+" O
+, O
 Sandra B-PER
 Idosú I-PER
 wɛ̀ O
@@ -5874,7 +5857,7 @@ ná O
 tɛɖɛ̌ O
 . O
 
-"""" O
+, O
 È O
 ɖó O
 ná O
@@ -5888,9 +5871,9 @@ kɔnnyi O
 è O
 jí O
 . O
-"""" O
+, O
 
-"""" O
+" O
 È O
 ɖó O
 ná O
@@ -5912,7 +5895,7 @@ awɔntincyɔ́nnú O
 yɔyɔ O
 ɖevo O
 ɔ́ O
-"""" O
+, O
 è O
 ɖó O
 ná O
@@ -5920,8 +5903,8 @@ sɔ́ O
 xóxó O
 ɔ́ O
 démɛ̀ O
-"""" O
-"""" O
+" O
+, O
 Patrice B-PER
 Sagbó I-PER
 ée O
@@ -5942,7 +5925,7 @@ mɔ̌wun O
 Nú O
 éyɛ́ O
 ɔ́ O
-"""" O
+, O
 è O
 ɖó O
 ná O
@@ -5969,7 +5952,7 @@ xeɖé O
 xeɖé O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 awɔntincyɔ́nnú O
 ée O
 sa O
@@ -5980,18 +5963,18 @@ wɛ̀ O
 atinkɛnsaxwé O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 cóbónú O
 ye O
 ná O
 gudu O
 ɔ́ O
-"""" O
+, O
 è O
 hwe O
 bǐ O
 ɔ́ O
-"""" O
+, O
 ye O
 ná O
 tó O
@@ -6063,7 +6046,7 @@ wá O
 tɔ́n O
 éhɔ́nmɛ O
 ɔ́ O
-"""" O
+, O
 é O
 ko O
 hu O
@@ -6096,7 +6079,7 @@ Cinu B-LOC
 Azɔnkwín O
 mɔ̌wun O
 ɔ́ O
-"""" O
+, O
 è O
 ko O
 wɔ́ O
@@ -6109,19 +6092,19 @@ bǐ O
 mɛ̀ O
 : O
 Etazuní B-LOC
-"""" O
+, O
 Kanadá B-LOC
-"""" O
+, O
 Flanse B-LOC
 tò I-LOC
 mɛ̀ O
-"""" O
+, O
 Janma B-LOC
 gbéjí O
+, O
 . O
 . O
 . O
-"""" O
 
 Mɛ O
 ɖokpó O
@@ -6169,7 +6152,7 @@ ná O
 jiɖiɖe O
 hwɛ̌ O
 ɖɔ̀ O
-"""" O
+" O
 azɔnkwín O
 nɛ́ O
 ɔ́ O
@@ -6184,8 +6167,8 @@ káká O
 tɔ́n O
 éhɔ́nmɛ O
 ó O
+" O
 . O
-"""" O
 
 Gǎn O
 - O
@@ -6246,18 +6229,17 @@ nɔ́ O
 liza O
 xá O
 Sida O
-"""" O
+, O
 
 kpɛ́nwé O
 kpódó O
 hwesivɔ O
-
 zɔn O
 kpán O
 é O
 . O
 
-"""" O
+" O
 È O
 ko O
 zɔn O
@@ -6293,7 +6275,7 @@ azɔnkwín O
 ɔ́ O
 gbéjé O
 kpɔ́n O
-"""" O
+, O
 mɛ O
 - O
 ɖokpónɔ O
@@ -6313,9 +6295,9 @@ titɔ́jɔ́ O
 í O
 vɔ̌nù O
 kpán O
-"""" O
+" O
 
-"""" O
+, O
 mɔ̌ O
 wɛ̀ O
 Benjamin B-PER
@@ -6327,7 +6309,7 @@ Bɛsín O
 hweɖénu O
 din O
 ɔ́ O
-"""" O
+, O
 è O
 nɔ́ O
 mɔ O
@@ -6343,7 +6325,7 @@ tòví O
 lɛ́ɛ O
 hɛ̀n O
 ɔ́ O
-"""" O
+, O
 ye O
 ná O
 gbɔjɛ́ O
@@ -6378,7 +6360,7 @@ tɔn O
 wɛ̀ O
 . O
 
-"""" O
+" O
 È O
 síxú O
 jó O
@@ -6390,8 +6372,8 @@ bɛ́ O
 yí O
 kàn O
 ǎ O
-"""" O
-"""" O
+" O
+, O
 hwɛɖɔ̀tɔ́ O
 tò O
 ɔ́ O
@@ -6422,7 +6404,7 @@ jí O
 wɛ̀ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 dó O
@@ -6479,7 +6461,7 @@ nɛ́ O
 ɔ́ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 Aurélie B-PER
 Adam I-PER
 Soulé I-PER
@@ -6504,7 +6486,7 @@ tɛ̀n O
 kpán O
 wú O
 ɔ́ O
-"""" O
+, O
 Alain B-PER
 Orunla I-PER
 lɔ́ɔ O
@@ -6519,7 +6501,7 @@ xó O
 lɛ́ɛ O
 nù O
 ɔ́ O
-"""" O
+, O
 Aurélien B-PER
 Agbenɔsi I-PER
 lɔ́ɔ O
@@ -6531,17 +6513,17 @@ nɛ́ O
 mɛ̀ O
 ǎ O
 . O
+
 Ɖi O
 xwè B-DATE
 2020 I-DATE
 ɖɔhun O
 ɔ́ O
+, O
 
-"""" O
 Acɛkpìkpà O
 sɔ́ O
 nǔ O
-
 è O
 ná O
 wà O
@@ -6574,7 +6556,7 @@ ná O
 lɛ́ɛ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 Aurélie B-PER
 Adam I-PER
 Soulé I-PER
@@ -6651,16 +6633,14 @@ lɛ́ɛ O
 bǐ O
 jí O
 é O
-"""" O
+, O
 mɔ O
 gbá O
 jí O
-"""" O
-e O
-- O
-learning O
-"""" O
-"""" O
+" O
+e-learning O
+" O
+, O
 kpódó O
 mɔ O
 gbá O
@@ -6678,7 +6658,8 @@ lɛ́ɛ O
 tɔn O
 è O
 kpán O
-"""" O
+, O
+
 mɔkàn O
 cícá O
 ée O
@@ -6689,12 +6670,11 @@ lɛ́ɛ O
 bǐ O
 tɛ́ntín O
 è O
+, O
 
-"""" O
 azɔ̌ O
 wà O
 gbɔn O
-
 mɔkàn O
 jí O
 ée O
@@ -6711,13 +6691,13 @@ tɔn O
 lɛ́ɛ O
 tɛ́ntín O
 é O
-"""" O
-"""" O
+, O
+" O
 Benɛ B-LOC
 Digital O
 Tour O
-"""" O
-"""" O
+" O
+, O
 aklunɔzángblá B-DATE
 mɔkàn O
 nǔwíwá O
@@ -6735,7 +6715,7 @@ Azɔ̌ O
 lɛ́ɛ O
 tîin O
 ɔ́ O
-"""" O
+, O
 ye O
 yì O
 nukɔn O
@@ -6768,7 +6748,7 @@ xwè B-DATE
 2021ɔ́ I-DATE
 jí O
 ɔ́ O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -6799,7 +6779,7 @@ nukɔn O
 yì O
 wɛ̀ O
 tawun O
-"""" O
+, O
 ɖélɛ́ɛ O
 tlɛ O
 ko O
@@ -6825,7 +6805,7 @@ tò O
 ɔ́ O
 bǐ O
 mɛ̀ O
-"""" O
+, O
 ali O
 ɖè O
 nú O
@@ -6844,7 +6824,7 @@ mɔkàn O
 jí O
 lɛ́ɛ O
 é O
-"""" O
+, O
 azɔwatɛ̀n O
 bǐ O
 ná O
@@ -6853,7 +6833,8 @@ wànǔ O
 gbɔn O
 mɔkàn O
 gblamɛ O
-"""" O
+, O
+
 ajɔ̌ O
 wà O
 gbɔn O
@@ -6865,11 +6846,10 @@ mɛ O
 bǐ O
 tɔn O
 kpáa O
+, O
 
-"""" O
 mɔkàn O
 nǔwíwá O
-
 lɛ́ɛ O
 zinzan O
 dó O
@@ -6935,7 +6915,7 @@ sɛ́dó O
 ɔ́ O
 mɛ́ O
 ɔ́ O
-"""" O
+, O
 hwɛɖɔ̀gbasa B-ORG
 nɛ́ I-ORG
 ɔ́ I-ORG
@@ -6992,12 +6972,12 @@ xwédó O
 gbetakɛ́n O
 nɛ́ O
 ɔ́ O
-"""" O
+" O
 ná O
 ɖi O
 nǔsinnǔ O
-"""" O
-"""" O
+" O
+, O
 gǎn O
 - O
 hɔn O
@@ -7013,13 +6993,13 @@ mɔ̌ O
 Ɖò O
 Xɔ̀gbónú B-LOC
 ɔ́ O
-"""" O
+, O
 hwɛɖiɖɔ O
 è O
 ɖò O
 tè O
 ɔ́ O
-"""" O
+, O
 è O
 sɛ́dó O
 azǎn B-DATE
@@ -7055,7 +7035,7 @@ yaɖé O
 Ɖò O
 Xɔ̀gbónú B-LOC
 ɔ́ O
-"""" O
+, O
 è O
 hùn O
 hwɛɖiɖɔ O
@@ -7112,7 +7092,7 @@ Mɔ̌ O
 ɖò O
 Kútɔ́nú B-LOC
 ɔ́ O
-"""" O
+, O
 è O
 hùn O
 hwɛɖiɖɔ O
@@ -7134,7 +7114,7 @@ nukɔntɔn I-ORG
 ɖò I-ORG
 Kútɔ́nú I-ORG
 é I-ORG
-"""" O
+, O
 ée O
 nyí O
 xwè B-DATE
@@ -7217,9 +7197,9 @@ ná O
 wá O
 hwɛgun O
 ɖó O
-"""" O
+" O
 mɛhuhu O
-"""" O
+, O
 bǒvívlɛ́ O
 kpódó O
 nù O
@@ -7229,7 +7209,7 @@ nǔ O
 dídá O
 mɛ̀ O
 kpán O
-"""" O
+" O
 wú O
 . O
 
@@ -7259,7 +7239,7 @@ wlí O
 gɔ́ O
 níí O
 ɔ́ O
-"""" O
+, O
 hwɛ O
 jó O
 é O
@@ -7281,12 +7261,12 @@ wɛ̀ O
 akpáxwé O
 ɛnɛgɔ́ɔ O
 hwɛɖɔ̀gbásá B-ORG
-"""" I-ORG
+" I-ORG
 Criet I-ORG
-"""" I-ORG
+" I-ORG
 tɔn I-ORG
 ɔ́ O
-"""" O
+, O
 hwɛxó O
 woatɔn O
 wɛ́ O
@@ -7368,10 +7348,10 @@ jɛ̀ O
 kɔ̀ O
 ná O
 é O
-"""" O
+, O
 Suulu B-PER
 Kpana I-PER
-"""" O
+, O
 yígbè O
 ɖɔ̀ O
 nǔ O
@@ -7482,7 +7462,7 @@ wú O
 gbɛ́ O
 kplékplé O
 lɛ́ɛ O
-"""" O
+, O
 tòxòɖɔgbɛta O
 lɛ́ɛ O
 ɖó O
@@ -7505,7 +7485,7 @@ bowun O
 gɔnu O
 lɛ́ɛ O
 kpán O
-"""" O
+, O
 é O
 síxú O
 nyí O
@@ -7517,9 +7497,9 @@ kpáa O
 tɔn O
 . O
 
-"""" O
+, O
 CENA B-ORG
-"""" O
+, O
 hùn O
 nǔ O
 sín O
@@ -7565,7 +7545,7 @@ lɛ́ɛ O
 Agapit B-PER
 Napoléon I-PER
 Maforikan I-PER
-"""" O
+, O
 dòbànúnǔtɔ́ O
 ɖò O
 ɖɔ̀ O
@@ -7593,7 +7573,8 @@ xò O
 Joel B-PER
 Atayi I-PER
 Gɛdɛgbě I-PER
-"""" O
+, O
+
 nǔtuuntɔ́ O
 xeɖe O
 xeɖe O
@@ -7606,18 +7587,17 @@ bó O
 ká O
 lɛ́ O
 nyí O
-
 ahwanjɛ O
 tòví O
 lɛ́ɛ O
 jí O
 tɔ́ O
-
 ɖokpó O
 . O
+
 Adonis B-PER
 Bowun I-PER
-"""" O
+, O
 tògán O
 sísɔ́ O
 2021 B-DATE
@@ -7645,7 +7625,8 @@ nù O
 tɔn O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
+
 tagbesɔ̀ O
 gannyǐ O
 gannyǐ O
@@ -7679,14 +7660,37 @@ nù O
 Benɛ B-LOC
 tò O
 mɛ̀ O
+. O
 
+Ye O
+mɛ O
+è O
+xwè O
+tɛ́nkpɔ́n O
+xwè O
+fínfó O
+lɛ́ɛ O
+kpódó O
+ye O
+mɛ O
+è O
+xwè O
+agbahwlɛ́nhwlɛ́n O
+lɛ́ɛ O
+kpán O
+ɔ́ O
+‚ O
+kɛ́n O
+yetɔn O
+ná O
+bɔ̀kùn O
 . O
 
 Bɔ̀ O
 bɛsín O
 hwenɛnu O
 ɔ́ O
-"""" O
+, O
 nǔ O
 nɛ́ O
 è O
@@ -7774,8 +7778,8 @@ sɔ́mì O
 sɔ́mì O
 nɛ́ O
 ɔ́ O
+, O
 
-"""" O
 é O
 tò O
 nyí O
@@ -7807,7 +7811,7 @@ xwè I-DATE
 1959ɔ́ I-DATE
 gbè O
 é O
-"""" O
+, O
 
 bɔ̀ O
 ɖò O
@@ -7839,7 +7843,7 @@ xwè I-DATE
 tɔn O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 tògán O
 nukɔntɔn O
 tò O
@@ -7883,7 +7887,7 @@ mɛ̀ O
 . O
 
 Amɔ̌ O
-"""" O
+, O
 tutomɛ O
 nɛ́ O
 ɔ̀ O
@@ -7897,10 +7901,10 @@ gǎn O
 zínkpó O
 tɔn O
 xwè O
-"""" O
+, O
 sɔ́jà O
 gán O
-"""" O
+, O
 ahwan O
 gán O
 sùnvínɔ O
@@ -7923,7 +7927,7 @@ Hubert B-PER
 Maga I-PER
 tɔn O
 ɔ́ O
-"""" O
+, O
 sɔ́jà O
 gán O
 ahwan O
@@ -7943,7 +7947,8 @@ xwè I-DATE
 1963ɔ́ I-DATE
 tɔn O
 gbè O
-"""" O
+, O
+
 bó O
 ké O
 ɖɔ̀ O
@@ -7969,15 +7974,14 @@ azǎn B-DATE
 26ɔ́ I-DATE
 xwè I-DATE
 1960ɔ́ I-DATE
-
 gbè O
 ɔ́ O
-"""" O
+, O
+
 ajaka O
 ní O
 dɔn O
 sí O
-
 gbɔn O
 jí O
 . O
@@ -8030,11 +8034,11 @@ sí O
 Danxomɛ B-LOC
 tɔn O
 ɔ́ O
-"""" O
+, O
 Parti B-ORG
 Démocratique I-ORG
 Dahoméen I-ORG
-"""" O
+, O
 ɖótè O
 bɔ̀ O
 éyɛ O
@@ -8060,7 +8064,7 @@ tɔn O
 kpán O
 gudo O
 ɔ́ O
-"""" O
+, O
 sɔ́jà O
 gán O
 ɔ́ O
@@ -8093,7 +8097,7 @@ tɔn O
 ɔ́ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 mí O
 kànbyɔ́ O
 míɖee O
@@ -8111,7 +8115,7 @@ nyí O
 mɛ O
 bǐ O
 tɔn O
-"""" O
+, O
 ɖò O
 tají O
 ɔ́ O
@@ -8132,14 +8136,14 @@ yɔyɔ O
 élɔ́ O
 ée O
 nyí O
-"""" O
+" O
 Culture O
 numérique O
-"""" O
+" O
 ɔ́ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 xósúsú O
 zɔ́ O
 wá O
@@ -8162,11 +8166,11 @@ nyí O
 mɛ O
 bǐ O
 tɔn O
-"""" O
+, O
 ɖò O
 tají O
 ɔ́ O
-"""" O
+, O
 vǐ O
 lɛ́ɛ O
 kpódó O
@@ -8187,11 +8191,9 @@ fun O
 ahwan O
 xá O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
-"""" O
+, O
 acɛkpìkpà O
 Benɛ B-LOC
 tò O
@@ -8214,14 +8216,14 @@ ní O
 sú O
 ɖɛxotɛn O
 lɛ́ɛ O
-"""" O
+, O
 amisa O
 xwè O
 lɛ́ɛ O
-"""" O
+, O
 sɛ́kpétɛn O
 lɛ́ɛ O
-"""" O
+, O
 hùnkpá O
 lɛ́ɛ O
 bǐ O
@@ -8234,7 +8236,7 @@ malɛnu O
 lɛ́ɛ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 è O
 ɖè O
 dó O
@@ -8256,7 +8258,7 @@ nǔxwásùn I-DATE
 tɔn O
 mɛ̀ O
 ǎ O
-"""" O
+, O
 é O
 hwe O
 bǐ O
@@ -8265,7 +8267,7 @@ nɛ́ O
 . O
 
 Hǔn O
-"""" O
+, O
 è O
 ná O
 sú O
@@ -8286,7 +8288,7 @@ nɛ́ O
 lɛ́ɛ O
 mɛ̀ O
 ǎ O
-"""" O
+, O
 ye O
 ká O
 síxú O
@@ -8325,7 +8327,7 @@ nɛ́ O
 ɔ́ O
 . O
 
-"""" O
+" O
 Ényí O
 mì O
 tintamɛ O
@@ -8337,7 +8339,7 @@ xò O
 mìɖee O
 kplé O
 ɔ́ O
-"""" O
+, O
 mì O
 ɖɔ̀ O
 mì O
@@ -8351,7 +8353,7 @@ bló O
 gbɔn O
 é O
 ɔ́ O
-"""" O
+, O
 mì O
 jɛ̀ O
 ayǐ O
@@ -8378,7 +8380,7 @@ mɛ O
 Finɛ O
 ɖesu O
 ɔ́ O
-"""" O
+, O
 gbɛ O
 mìtɔn O
 ɖó O
@@ -8391,7 +8393,7 @@ nǔ O
 baɖa O
 baɖa O
 wɛ̀ O
-"""" O
+, O
 Alufáa O
 Kabir B-PER
 Mohamed I-PER
@@ -8400,7 +8402,7 @@ Mohamed I-PER
 Nú O
 nya O
 nɛ́ O
-"""" O
+, O
 tutomɛ O
 è O
 nukɔntɔ́ O
@@ -8424,7 +8426,7 @@ mɛ O
 gbɔn O
 ɖěbǔ O
 ɔ́ O
-"""" O
+, O
 è O
 ɖó O
 na O
@@ -8464,7 +8466,7 @@ sùn O
 mɛ̀ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 ajɔ̀ O
 ɖé O
 gú O
@@ -8504,7 +8506,7 @@ nǔ O
 bǐ O
 . O
 
-"""" O
+" O
 Mɛ O
 ée O
 nɔ́ O
@@ -8517,10 +8519,10 @@ yɛhwe O
 sɛ́kpétɛ̀n O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 éhɔ́nmɛ O
 ɔ́ O
-"""" O
+, O
 è O
 zín O
 ye O
@@ -8535,7 +8537,7 @@ xwè O
 yetɔn O
 lɛ́ɛ O
 gbè O
-"""" O
+, O
 ajɔ̀ O
 ɖokpó O
 ɔ́ O
@@ -8544,8 +8546,8 @@ ye O
 ná O
 mɔ O
 yí O
-"""" O
-"""" O
+" O
+, O
 nǔ O
 è O
 ɖɔ̀ O
@@ -8622,11 +8624,7 @@ jí O
 
 Ɖò O
 gbɛtɔ́ O
-4 O
-. O
-802 O
-. O
-303 O
+4.802.303 O
 ée O
 ɖó O
 ná O
@@ -8635,21 +8633,15 @@ kɛ́n O
 lɛ́ɛ O
 jí O
 ɔ́ O
-"""" O
+, O
 gbɛtɔ́ O
-2 O
-. O
-298 O
-. O
-401 O
+2.298.401 O
 wɛ̀ O
 yì O
 sɔ́ O
 bɔ̀ O
 mɛ O
-111 O
-. O
-008 O
+111.008 O
 ká O
 hɛ̀n O
 kɛ́n O
@@ -8671,17 +8663,13 @@ bǔ O
 ɔ́ O
 mɔ O
 kɛ́n O
-1 O
-. O
-984 O
-. O
-832 O
+1.984.832 O
 ; O
 è O
 ná O
 ɖɔ̀ O
 ɔ́ O
-"""" O
+, O
 é O
 mɔ O
 kɛ́n O
@@ -8700,12 +8688,10 @@ jí O
 
 Kpódó O
 kɛ́n O
-259 O
-. O
-612 O
+259.612 O
 kpán O
 ɔ́ O
-"""" O
+, O
 agbahwlɛ́ntɔ́ O
 we O
 ɖò O
@@ -8797,7 +8783,7 @@ kpɛ̀n O
 wɛ̀ O
 . O
 
-"""" O
+" O
 Sín O
 hwenu O
 kolonâ O
@@ -8808,13 +8794,13 @@ jí O
 din O
 é O
 ɔ́ O
-"""" O
+, O
 nǔ O
 bǐ O
 wɛ̀ O
 ɖò O
 tóo O
-"""" O
+" O
 nǔ O
 è O
 Confide B-PER
@@ -8822,7 +8808,7 @@ AMǓSÙ I-PER
 ɖɔ̀ O
 é O
 nɛ́ O
-"""" O
+, O
 bɛ́ O
 nyí O
 ahwì O
@@ -8840,7 +8826,7 @@ síxú O
 ayi O
 ɖayǐ O
 ǎ O
-"""" O
+, O
 Romaric B-PER
 Labité I-PER
 ( O
@@ -8877,7 +8863,7 @@ akwɛ́ O
 tɔn O
 gbɔn O
 nǔxíxó O
-"""" O
+, O
 hanjìjì O
 kpódó O
 nǔ O
@@ -8915,19 +8901,19 @@ níí O
 titewungbe O
 . O
 
-"""" O
+" O
 Mɛ O
 lɛ́ɛ O
 ko O
 sɔ́ O
 azǎn O
 ɖòtè O
-"""" O
+, O
 nǔwíwá O
 lɛ́ɛ O
 ko O
 ɖòtè O
-"""" O
+, O
 bɔ̀ O
 è O
 ká O
@@ -8946,14 +8932,14 @@ bǐ O
 dó O
 . O
 
-"""" O
+" O
 Nǔ O
 ɔ́ O
 wlú O
 mɛ O
 tawun O
-"""" O
-"""" O
+" O
+, O
 é O
 wɛ́ O
 ɖɔ̀ O
@@ -8966,7 +8952,7 @@ nɛ́ O
 lɛ́ɛ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 azɔwatɔ́ O
 nɛ́ O
 lɛ́ɛ O
@@ -9019,7 +9005,7 @@ lɛ̀ O
 jí O
 . O
 
-"""" O
+" O
 Kanlin O
 nyìnyì O
 kpódó O
@@ -9031,7 +9017,7 @@ lɛ́ O
 mima O
 mì O
 wɛ̀ O
-"""" O
+, O
 ɖó O
 ayǐkúngban O
 nɔ́ O
@@ -9043,7 +9029,7 @@ mɛ O
 lɛ́ɛ O
 nɔ́ O
 ɖɔ̀ O
-"""" O
+" O
 nǔ O
 è O
 ɖɔ̀ O
@@ -9068,7 +9054,7 @@ kolonâ O
 ɔ́ O
 fó O
 ɔ́ O
-"""" O
+, O
 émí O
 ná O
 lɛ́ O
@@ -9100,7 +9086,7 @@ ali O
 nù O
 lɛ́ɛ O
 é O
-"""" O
+, O
 énɛ́ O
 ɔ́ O
 wɛ́ O
@@ -9135,13 +9121,11 @@ nǔ O
 è O
 gblé O
 gbɔn O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 gblamɛ O
 é O
 ɔ́ O
-"""" O
+, O
 acɛkpìkpà O
 ɔ́ O
 sɔ́ O
@@ -9172,7 +9156,7 @@ nɛ́ O
 ɔ́ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 mɔto O
 lɛ́ɛ O
 sɔ́ O
@@ -9188,7 +9172,7 @@ tɔn O
 
 Nicolas B-PER
 Yɛnusi I-PER
-"""" O
+, O
 nukɔntɔ́ O
 takwɛ́cyantɔ́ O
 lɛ́ɛ O
@@ -9270,7 +9254,7 @@ lɛ́ɛ O
 : O
 tasii O
 lɛ́ɛ O
-"""" O
+, O
 tasii O
 ée O
 nɔ́ O
@@ -9279,7 +9263,7 @@ tòxò O
 lɛ́ɛ O
 mɛ̀ O
 é O
-"""" O
+, O
 hùn O
 klewun O
 è O
@@ -9287,9 +9271,7 @@ klewun O
 nɔ́ O
 ylɔ́ O
 ɖɔ̀ O
-tɔ̀kpá O
-- O
-tɔ̀kpá O
+tɔ̀kpá-tɔ̀kpá O
 lɛ́ɛ O
 é O
 kpódó O
@@ -9326,13 +9308,13 @@ tɔ́n O
 lɛ́ɛ O
 é O
 ɔ́ O
-"""" O
+, O
 xwè B-DATE
 2021 I-DATE
 ɔ́ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 ye O
 sɔ́ O
 ná O
@@ -9368,7 +9350,7 @@ sú O
 ǎ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 zín O
@@ -9468,7 +9450,7 @@ din O
 lɛ́ɛ O
 é O
 ɔ́ O
-"""" O
+, O
 mɛ O
 ayizɛ́n O
 wɛ́ O
@@ -9514,7 +9496,7 @@ Yemɛ O
 atɔn O
 ɖelɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 tò O
 ɔ́ O
 mɛ̀ O
@@ -9529,11 +9511,11 @@ nɛ́ O
 lɛ́ɛ O
 kpán O
 ɔ́ O
-"""" O
+, O
 bɛsín O
 din O
 ɔ́ O
-"""" O
+, O
 Benɛ B-LOC
 ɖó O
 mɛ O
@@ -9544,7 +9526,7 @@ ye O
 ɖó O
 azɔnkwín O
 ɔ́ O
-"""" O
+, O
 è O
 ɖò O
 mɛ O
@@ -9554,7 +9536,7 @@ núkún O
 ɛnɛ O
 tɔ́jú O
 wɛ̀ O
-"""" O
+, O
 azɔn O
 gbɔ O
 nú O
@@ -9636,10 +9618,10 @@ nù I-ORG
 lɛ́ɛ I-ORG
 tɔn I-ORG
 è O
-"""" O
+, O
 Hôpital B-ORG
 chinois I-ORG
-"""" O
+, O
 
 Tokpɔnla O
 tantɔn O
@@ -9704,9 +9686,7 @@ nɛ́ O
 wú O
 è O
 mɔ O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɖè O
 ɖò O
 azǎn B-DATE
@@ -9793,14 +9773,14 @@ lɛ́ɛ O
 ɖò O
 mɔ̌ O
 có O
-"""" O
+, O
 hwenu O
 nǔɖé O
 ná O
 fyán O
 mɛɖé O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 nɛ́ɛ O
@@ -9861,7 +9841,7 @@ wɛ́ O
 nɛ́ O
 . O
 
-"""" O
+" O
 Mì O
 ɖó O
 gbadé O
@@ -9872,7 +9852,7 @@ afɔɖé O
 kanwe O
 ko O
 jɛji O
-"""" O
+, O
 mɔlinkún O
 já O
 tɔ́nù O
@@ -9888,10 +9868,10 @@ afowe O
 kɛnɛ O
 gban O
 kpán O
+" O
 . O
-"""" O
 
-"""" O
+" O
 Có O
 bɔ̀ O
 nǔkún O
@@ -9906,12 +9886,12 @@ yì O
 lɛ́ɛ O
 lɔ́ɔ O
 gɔna O
-"""" O
-"""" O
+" O
+‘ O
 Roland B-PER
 Justin I-PER
 Zoglobosú I-PER
-"""" O
+, O
 nukɔntɔ́ O
 ée O
 nɔ́ O
@@ -9933,7 +9913,8 @@ nɔ́ O
 kpénúkún O
 dó O
 glèlílɛ́ O
-"""" O
+, O
+
 kanlin O
 nyìnyì O
 kpódó O
@@ -9947,7 +9928,6 @@ tín O
 nǔ O
 nɛ́ O
 ɔ́ O
-
 mɛ̀ O
 . O
 
@@ -9958,13 +9938,13 @@ kpáxwé O
 ée O
 xɔkwɛ́ O
 ganjí O
-"""" O
+, O
 ɖi O
 anana O
 dídó O
 ɖɔhun O
 ɔ́ O
-"""" O
+, O
 glèlílɛ́ O
 kpáxwé O
 ɖevo O
@@ -10007,13 +9987,13 @@ xwè B-DATE
 jí O
 . O
 
-"""" O
+" O
 Ɖò O
 xwè B-DATE
 2020ɔ́ I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 mì O
 ná O
 dalɔ O
@@ -10023,11 +10003,11 @@ lɛ́ɛ O
 bǐ O
 sín O
 bìbɛ́ O
-"""" O
-"""" O
+" O
+, O
 Cyrille B-PER
 Axɔ́lukpɛ̀ I-PER
-"""" O
+, O
 gǎn O
 ée O
 kpacɛ O
@@ -10068,7 +10048,7 @@ lɛ́ɛ O
 é O
 . O
 
-"""" O
+" O
 È O
 ná O
 lɛ́ O
@@ -10079,15 +10059,15 @@ dɔ̀kùn O
 lɛ́ɛ O
 sín O
 nyìnyì O
-"""" O
-"""" O
+" O
+, O
 é O
 lɛ́ O
 ɖɔ̀ O
 mɔ̌ O
 . O
 
-"""" O
+" O
 Énɛ́ O
 wú O
 wɛ̀ O
@@ -10123,7 +10103,7 @@ nyìnyì O
 mɛ̀ O
 é O
 nɛ́ O
-"""" O
+, O
 Cyrille B-PER
 Axɔ́lúkpɛ̀ I-PER
 wɛ́ O
@@ -10132,14 +10112,14 @@ lɛ́ O
 mɔ̌ O
 . O
 
-"""" O
+" O
 Ɖò O
 hwe O
 nyìnyì O
 sín O
 kɔli O
 ɔ́ O
-"""" O
+, O
 hwedò O
 yaɖé O
 yaɖé O
@@ -10149,11 +10129,11 @@ wɛ̀ O
 è O
 ná O
 tɛɖɛ̌ O
-"""" O
-"""" O
+" O
+, O
 Innocent B-PER
 Tɔ́glá I-PER
-"""" O
+, O
 mɛ O
 bɔ́ O
 dó O
@@ -10172,7 +10152,7 @@ nɔ́ O
 kpénúkún O
 dó O
 glèlílɛ́ O
-"""" O
+, O
 kanlin O
 nyìnyì O
 kpódó O
@@ -10189,7 +10169,7 @@ mɔ̌ O
 Énɛ́ O
 wú O
 ɔ́ O
-"""" O
+, O
 hwedò O
 yaɖé O
 yaɖé O
@@ -10268,7 +10248,7 @@ dòkɔ̀ O
 tɔn O
 wú O
 ɔ́ O
-"""" O
+, O
 hùn O
 nǔ O
 sín O
@@ -10290,7 +10270,7 @@ nǔwíwá O
 lɛ́ɛ O
 tîin O
 ɖè O
-"""" O
+, O
 Salimane B-PER
 Karimou I-PER
 gbɔn O
@@ -10384,10 +10364,10 @@ dòkɔ̀ O
 tɔn O
 wú O
 ɔ́ O
-"""" O
+, O
 Salimane B-PER
 Karimou I-PER
-"""" O
+, O
 ɖò O
 azɔmɛ B-ORG
 xwé I-ORG
@@ -10439,7 +10419,7 @@ mɛ̀ O
 kpán O
 wú O
 é O
-"""" O
+, O
 Alain B-PER
 Orunla I-PER
 ɖɔ̀ O
@@ -10479,10 +10459,10 @@ sín O
 nù O
 dó O
 gbɛɖutɛ̀n O
-"""" O
+" O
 Noom B-LOC
 Hotel I-LOC
-"""" O
+" O
 è O
 è O
 gbà O
@@ -10515,7 +10495,8 @@ tɔn O
 lɛ́ɛ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
+
 è O
 mɔ O
 ɖɔ̀ O
@@ -10536,7 +10517,6 @@ nyí O
 nǔ O
 má O
 wà O
-
 xwédó O
 hwenu O
 è O
@@ -10545,7 +10525,6 @@ ná O
 dó O
 gbá O
 xwé O
-
 nɛ́ O
 ɔ́ O
 ná O
@@ -10567,7 +10546,7 @@ dó O
 ná O
 xlɛ O
 ɔ́ O
-"""" O
+, O
 Alain B-PER
 Orunla I-PER
 flín O
@@ -10584,7 +10563,7 @@ wěmá O
 tɔn O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 sùnzán B-DATE
 gban I-DATE
 xó O
@@ -10623,13 +10602,13 @@ gannyǐ O
 gannyǐ O
 ɖɔ̀ O
 gbásá O
-"""" O
+, O
 palais O
 des O
 congrès O
-"""" O
+, O
 ɔ́ O
-"""" O
+, O
 azɔn O
 ɖokpó O
 gée O
@@ -10663,7 +10642,7 @@ sɔ́ O
 ɖòtè O
 linu O
 ɔ́ O
-"""" O
+, O
 mɔzo O
 hwesivɔ́ O
 tɔn O
@@ -10673,9 +10652,9 @@ nyí O
 gbígbá O
 ɖò O
 Kplakú B-LOC
-"""" O
+, O
 Natitɛngúu B-LOC
-"""" O
+, O
 Jugu B-LOC
 kpódó O
 Gbɔ̌xikɔn B-LOC
@@ -10693,7 +10672,7 @@ nɛ́ O
 ɔ́ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 é O
 bá O
 ná O
@@ -10744,9 +10723,9 @@ tɛ̀n O
 ná O
 ɖè O
 mɔzo O
-"""" O
+, O
 mégawatts15 O
-"""" O
+, O
 tɔ́n O
 é O
 dó O
@@ -10779,9 +10758,9 @@ tɛ̀n O
 ná O
 ɖè O
 mɔzo O
-"""" O
+, O
 Mw10 O
-"""" O
+, O
 tɔ́n O
 é O
 junjɔn O
@@ -10792,7 +10771,7 @@ Natitɛ́ngúu B-LOC
 Ɖò O
 Jugu B-LOC
 ɔ́ O
-"""" O
+, O
 ayǐ O
 è O
 gbló O
@@ -10812,9 +10791,9 @@ tɛ̀n O
 ná O
 ɖè O
 mɔzo O
-"""" O
+" O
 Mw10 O
-"""" O
+" O
 tɔ́n O
 é O
 junjɔn O
@@ -10823,7 +10802,7 @@ junjɔn O
 Ɖò O
 Gbɔ̌xikɔn B-LOC
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 gbá O
@@ -10835,9 +10814,9 @@ tɛ̀n O
 bɛ́ O
 ɖè O
 mɔzo O
-"""" O
+" O
 Mw15 O
-"""" O
+" O
 tɔ́n O
 . O
 
@@ -10855,7 +10834,7 @@ tò I-LOC
 mɛ̀ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 din O
 din O
 zaanɖé O
@@ -10900,7 +10879,7 @@ lɛ́ɛ O
 è O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 è O
 tɛ́n O
 yemɛ O
@@ -10928,6 +10907,7 @@ mɛ O
 gege O
 tɔn O
 . O
+
 Tɛ́nkpɔ́n O
 nɛ́ O
 ɔ́ O
@@ -10939,18 +10919,16 @@ azɔwatɔ́ O
 ( O
 afatɔ́ɔ́n O
 afowe O
-
 kantɔn O
 ko O
 ) O
 ée O
 è O
-
 tɛ̀nkpɔ́n O
 lɛ́ɛ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 gbɛtɔ́ O
 1538 O
 wɛ́ O
@@ -10969,6 +10947,7 @@ mɔ O
 ɔ́ O
 ǎ O
 ; O
+
 è O
 ná O
 ɖɔ̀ O
@@ -10985,8 +10964,8 @@ tɛnwe O
 kanwe O
 ko O
 jí O
-"""" O
-"""" O
+" O
+, O
 gbè O
 è O
 kplé O
@@ -11027,7 +11006,7 @@ nɛ́ O
 ɔ́ O
 zínzán O
 ɔ́ O
-"""" O
+, O
 è O
 sɔ́ O
 dó O
@@ -11078,17 +11057,17 @@ jí O
 ɖò O
 tají O
 ɔ́ O
-"""" O
+, O
 alyannu O
-"""" O
+" O
 Word O
-"""" O
+, O
 Excel O
-"""" O
+, O
 PowerPoint O
-"""" O
+, O
 Outlook O
-"""" O
+, O
 Navigateur O
 kpódó O
 nǔ O
@@ -11102,11 +11081,11 @@ kpán O
 
 Maurice B-PER
 Thantan I-PER
-"""" O
+, O
 Wɛn O
 tají O
 lɛ́ɛ O
-"""" O
+, O
 Mɔzo O
 nǔwíwá O
 lɛ́ɛ O
@@ -11168,7 +11147,7 @@ wɛ̀ O
 Zansúkpɛ́ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 fí O
 è O
 kwíjì O
@@ -11215,7 +11194,7 @@ nɔ́ O
 sukpɔ́ O
 é O
 ɔ́ O
-"""" O
+, O
 è O
 ɖó O
 ná O
@@ -11285,12 +11264,12 @@ Ati O
 mɛjitɔ́ O
 lɛ́ɛ O
 ó O
-"""" O
+, O
 ati O
 vǐ O
 lɛ́ɛ O
 ó O
-"""" O
+, O
 mɛ O
 bǐ O
 wɛ́ O
@@ -11308,7 +11287,7 @@ nukɔntɔn I-DATE
 mɛ̀ O
 bǐ O
 ɔ́ O
-"""" O
+, O
 acɛkpìkpà B-ORG
 Benɛ I-ORG
 tò I-ORG
@@ -11344,7 +11323,8 @@ nukɔntɔn I-DATE
 mɛ̀ O
 bǐ O
 ɔ́ O
-"""" O
+, O
+
 acɛkpìkpà B-ORG
 Benɛ I-ORG
 tò I-ORG
@@ -11381,7 +11361,7 @@ kwɛ́ O
 dòkɔ̀ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 nǔ O
 è O
 bɔdewu O
@@ -11391,7 +11371,6 @@ gbɛtɔ́ O
 lɛ́ɛ O
 hɛnsɔ O
 kpán O
-
 ) O
 sín O
 lè O
@@ -11427,7 +11406,7 @@ súsú O
 kpán O
 ( O
 VPS B-ORG
-"""" O
+, O
 IPTS B-ORG
 et O
 CNSS B-ORG
@@ -11517,9 +11496,9 @@ jí O
 káká O
 wá O
 yì O
-"""" O
+, O
 master O
-"""" O
+, O
 jí O
 . O
 
@@ -11583,7 +11562,7 @@ gɔ́ O
 ɛ́ O
 é O
 ɔ́ O
-"""" O
+, O
 bɔlu O
 xotɔ́ O
 xwè O
@@ -11606,7 +11585,7 @@ gbɛ O
 tɔn O
 hwenu O
 : O
-"""" O
+" O
 xomɛ O
 hùn O
 mì O
@@ -11620,8 +11599,8 @@ un O
 ɖù O
 è O
 wú O
+" O
 . O
-"""" O
 
 Un O
 dógbè O
@@ -11631,12 +11610,12 @@ cè O
 ɖò O
 tají O
 ɔ́ O
-"""" O
+, O
 ataví O
 cè O
 Sana B-PER
 Touré I-PER
-"""" O
+, O
 un O
 dógbè O
 bɔlu O
@@ -11646,7 +11625,7 @@ tɔ́ O
 cè O
 Aliou B-PER
 Cissé I-PER
-"""" O
+, O
 xɔntɔn O
 cè O
 ée O
@@ -11661,7 +11640,8 @@ tɔn O
 mɛ̀ O
 lɛ́ɛ O
 é O
-"""" O
+, O
+
 mɛ O
 è O
 nyí O
@@ -11682,7 +11662,6 @@ nyɛ O
 kpán O
 ɖò O
 bɔlu O
-
 xò O
 gbɛta O
 ɖokpó O
@@ -11690,7 +11669,6 @@ gbɛta O
 mɛ̀ O
 ɖò O
 tò O
-
 gudo O
 lɛ́ɛ O
 é O
@@ -11731,7 +11709,8 @@ nɔ́ O
 nɔ̀ O
 é O
 tamɛ O
-"""" O
+, O
+
 un O
 ká O
 wɔn O
@@ -11741,7 +11720,7 @@ cè O
 Bambaly B-LOC
 ɔ́ O
 ǎ O
-"""" O
+, O
 Ajɔ̀ O
 dó O
 mɛ O
@@ -11768,11 +11747,11 @@ Belaili I-PER
 bɔlu O
 xò O
 gbɛta O
-"""" O
+, O
 Espérence B-ORG
 de I-ORG
 Tunis I-ORG
-"""" O
+, O
 tɔn O
 mɛ̀ O
 é O
@@ -11841,7 +11820,7 @@ tɔn O
 Djamel B-PER
 Belmadi I-PER
 ɔ́ O
-"""" O
+, O
 è O
 ká O
 sɔ́ O
@@ -11861,7 +11840,7 @@ Paul B-PER
 Hunkpɛ I-PER
 kpán O
 ɔ́ O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -11876,7 +11855,7 @@ nyí O
 nú O
 Boni B-PER
 Yayi I-PER
-"""" O
+, O
 agbɔnzɛ̀n O
 tò O
 xó O
@@ -11886,6 +11865,7 @@ FCBE B-ORG
 ɔ́ O
 tɔn O
 ; O
+
 é O
 ká O
 hɔn O
@@ -11902,7 +11882,7 @@ sin O
 xwè B-DATE
 2020ɔ́ I-DATE
 mɛ̀ O
-"""" O
+, O
 hwenu O
 tòxò O
 ɖɔ́ O
@@ -11911,7 +11891,6 @@ nɛ́ O
 ɔ́ O
 ɖò O
 gbɛ O
-
 légbè O
 lègbè O
 mɛ̀ O
@@ -11954,7 +11933,7 @@ wɛ̀ O
 
 Théophile B-PER
 Yarou I-PER
-"""" O
+, O
 agbɔnzɛ̀n O
 wegɔ́ɔ O
 tòxò O
@@ -11994,7 +11973,7 @@ kwí O
 wɛ̀ O
 kpowun O
 wɛ̀ O
-"""" O
+, O
 zohun O
 tòxò O
 ɖɔ́ O
@@ -12024,7 +12003,7 @@ xwè B-DATE
 2020ɔ́ I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 Fcbe B-ORG
 jɛ́n O
 nyí O
@@ -12054,7 +12033,7 @@ tògán O
 sísɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 è O
 má O
 sɔ́ O
@@ -12062,7 +12041,7 @@ xò O
 nǔ O
 kpɔ́n O
 ó O
-"""" O
+, O
 akwɛwókwín O
 mɛ O
 lɛ́ɛ O
@@ -12094,7 +12073,7 @@ mɛ̀ O
 lí O
 nù O
 ɔ́ O
-"""" O
+, O
 CENA B-ORG
 yí O
 yemɛ O
@@ -12133,16 +12112,15 @@ ayǐ O
 è O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
+
 gbɛtɔ́ O
 kantɔn O
 wŏ O
 wú O
 wɛ̀ O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 ɖè O
 ɖò O
@@ -12166,10 +12144,10 @@ ganjí O
 wú O
 é O
 ɔ̀ O
-"""" O
+, O
 Benjamin B-PER
 Hùnkpátín I-PER
-"""" O
+, O
 tín O
 nǔ O
 è O
@@ -12188,6 +12166,7 @@ wá O
 yì O
 é O
 . O
+
 Ɖò O
 azǎn B-DATE
 afɔtɔn I-DATE
@@ -12198,7 +12177,7 @@ nǔxwásùn I-DATE
 tɔn I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 gbɛtɔ́ O
 kantɔn O
 wǒ O
@@ -12209,12 +12188,11 @@ azɔnkwín O
 ɖè O
 ɖò O
 Benɛ B-LOC
+, O
 
-"""" O
 acɛkpìkpà O
 ɔ́ O
 ká O
-
 ko O
 lá O
 kantɔn O
@@ -12229,7 +12207,7 @@ tɔ́ɔn I-DATE
 Bɛsín O
 din O
 ɔ́ O
-"""" O
+, O
 mɛ O
 kanɖé O
 afɔtɔn O
@@ -12239,7 +12217,7 @@ wɛ̀ O
 azɔn O
 gbɔ O
 ná O
-"""" O
+, O
 è O
 kpò O
 ɖò O
@@ -12309,14 +12287,14 @@ zɛ O
 ée O
 tɔ́n O
 sín O
-"""" O
+, O
 PCR O
-"""" O
+, O
 ( O
 Polymerase O
 Chain O
 Reaction O
-"""" O
+, O
 ) O
 alǒ O
 ě O
@@ -12365,7 +12343,7 @@ ná O
 gbákpé O
 ǎ O
 ɔ́ O
-"""" O
+, O
 acɛkpìkpà O
 yígbè O
 nú O
@@ -12560,7 +12538,7 @@ mɛ̀ O
 ɖò O
 fínɛ́ O
 có O
-"""" O
+, O
 azɔxwé O
 ée O
 ɖò O
@@ -12597,7 +12575,7 @@ tògán O
 ɔ́ O
 ɖɔ̀ O
 ɔ́ O
-"""" O
+, O
 ali O
 è O
 gosin O
@@ -12609,7 +12587,7 @@ gbásá O
 ɔ́ O
 ko O
 fó O
-"""" O
+, O
 sɛ̀n O
 jɛ́n O
 kpò O
@@ -12626,11 +12604,11 @@ Ali O
 nɛ́ O
 nù O
 ɔ́ O
-"""" O
+, O
 azɔ̌ O
 fó O
 ɔ́ O
-"""" O
+, O
 é O
 ná O
 kpò O
@@ -12658,7 +12636,7 @@ lɛ́ɛ O
 Ali O
 zɔ́ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 bló O
@@ -12677,17 +12655,17 @@ ye O
 kpɔ́nnǔ O
 dó O
 lě O
-"""" O
+" O
 Google O
 Translate O
-"""" O
+" O
 nɔ́ O
 wànǔ O
 gbɔn O
 é O
 wú O
 ɔ́ O
-"""" O
+, O
 linlin O
 è O
 nyí O
@@ -12742,7 +12720,7 @@ nɛ́ O
 tɔ́n O
 . O
 
-"""" O
+, O
 Aliglɔ́nnú O
 nɛ́ O
 ée O
@@ -12774,7 +12752,7 @@ tutomɛ O
 FFR O
 ɔ́ O
 tɔ́n O
-"""" O
+, O
 Bonaventure B-PER
 Dòsú I-PER
 wɛ́ O
@@ -12798,7 +12776,7 @@ sín O
 walɔ O
 nɛ́ O
 ɔ́ O
-"""" O
+, O
 è O
 kpò O
 ɖò O
@@ -12841,7 +12819,7 @@ yì O
 wɛ̀ O
 . O
 
-"""" O
+" O
 È O
 ɖò O
 azɔ̌ O
@@ -12863,8 +12841,8 @@ nɛ́ O
 tɔn O
 ná O
 jɛ́jí O
-"""" O
-"""" O
+" O
+, O
 Bonaventure B-PER
 Dòsú I-PER
 tín O
@@ -12876,7 +12854,7 @@ mɛ̀ O
 Ɖò O
 fúfónu O
 ɔ́ O
-"""" O
+, O
 alyannu O
 nɛ́ O
 ɔ́ O
@@ -12904,7 +12882,7 @@ nǔɖètɔ́ntɔ́ O
 nɛ́ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 linlin O
 tají O
 ɔ́ O
@@ -12928,7 +12906,7 @@ Aflika B-LOC
 tɔn O
 lɛ́ɛ O
 jí O
-"""" O
+, O
 lóbó O
 bló O
 nú O
@@ -12948,7 +12926,7 @@ nukɔntɔn O
 ɔ́ O
 xwé O
 ɔ́ O
-"""" O
+, O
 azɔxwé O
 tò O
 ɔ́ O
@@ -12971,7 +12949,7 @@ Gonçalves I-PER
 ɖé O
 nù O
 ɔ́ O
-"""" O
+, O
 xlé O
 lě O
 mɛ O
@@ -13041,32 +13019,32 @@ adingban O
 sín O
 mɔlin O
 lɛ́ɛ O
-"""" O
+, O
 nyǐkɔ́ O
 ɖevo O
 dó O
 jɛ̀ O
 ajò O
 ná O
-"""" O
+, O
 mɛ O
 bíblɛ́ O
 bó O
 fìn O
 mɛ O
 nú O
-"""" O
+, O
 tò O
 wíwɔ́ O
 wɛ́n O
 lɛ́ɛ O
+, O
 . O
-"""" O
 
 Akpáxwé O
 wegɔ́ O
 ɔ́ O
-"""" O
+, O
 é O
 xlé O
 mɔɖíɖó O
@@ -13081,7 +13059,7 @@ ná O
 sɔ́mì O
 sɔ́mì O
 hwenu O
-"""" O
+, O
 ɖò O
 nǔ O
 è O
@@ -13104,7 +13082,7 @@ APDP B-ORG
 ɖò O
 Benɛ B-LOC
 é O
-"""" O
+, O
 Ambroise B-PER
 Zinsú I-PER
 . O
@@ -13122,7 +13100,7 @@ tòví O
 lɛ́ɛ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 azɔxwé O
 ɔ́ O
 ɖó O
@@ -13179,7 +13157,7 @@ sɔ́mì O
 sɔ́mì O
 hwenu O
 ɔ́ O
-"""" O
+, O
 tòví O
 ɔ́ O
 ɖó O
@@ -13210,7 +13188,7 @@ ali O
 nɛ́ O
 nú O
 ɔ́ O
-"""" O
+, O
 é O
 hɛ̀n O
 ɔ́ O
@@ -13230,7 +13208,7 @@ gbɛ́ O
 énɛ́ O
 wú O
 ɔ́ O
-"""" O
+, O
 é O
 wɔ́ O
 ɖɔ̀ O
@@ -13246,7 +13224,7 @@ tɔn O
 zán O
 wɛ̀ O
 ɔ́ O
-"""" O
+, O
 é O
 ná O
 wlán O
@@ -13309,7 +13287,7 @@ nyí O
 mɔ̌ O
 ǎ O
 ɔ́ O
-"""" O
+, O
 tòví O
 ɔ́ O
 hɛ̀n O
@@ -13446,7 +13424,7 @@ nɛ́ O
 ɔ́ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 Cena B-ORG
 tín O
 nǔ O
@@ -13494,11 +13472,9 @@ nyì O
 alɔ O
 nú O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 bló O
@@ -13520,7 +13496,7 @@ kplé O
 ná O
 tîin O
 ǎ O
-"""" O
+, O
 è O
 ká O
 jlá O
@@ -13563,7 +13539,7 @@ nú O
 bɔlu O
 xixo O
 ɔ́ O
-"""" O
+, O
 Gana B-LOC
 wɛ́ O
 ɖó O
@@ -13593,7 +13569,7 @@ núkún O
 gɔ́ O
 ɔ́ O
 mɛ̀ O
-"""" O
+, O
 Kouamé B-PER
 Jean I-PER
 Fiacre I-PER
@@ -13625,11 +13601,11 @@ xò O
 gbɛta O
 tɔn O
 ɔ́ O
-"""" O
+, O
 Daniel B-PER
 Afriye I-PER
 jí O
-"""" O
+, O
 
 Ɖò O
 cɛ́jú B-DATE
@@ -13641,7 +13617,7 @@ núkún I-DATE
 gɔ́ɔ I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 Percious B-PER
 Boah I-PER
 dó O
@@ -13667,7 +13643,7 @@ Botué I-PER
 Buukina B-LOC
 tɔn O
 ɔ́ O
-"""" O
+, O
 è O
 sɔ́ O
 ɛ́ O
@@ -13717,7 +13693,7 @@ kpáxwé O
 ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 Gana B-LOC
 fɔ́ngǔ O
 titewungbe O
@@ -13746,7 +13722,7 @@ akpáxwé O
 éyɛ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 Buukina B-LOC
 gbidi O
 Abijan B-LOC
@@ -13767,7 +13743,7 @@ wá O
 vivɔnù O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 ye O
 bǐ O
 wɛ́ O
@@ -13790,9 +13766,7 @@ mɛ̀ O
 . O
 
 Azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 tɔn O
 ɔ́ O
 wɛ́ O
@@ -13841,7 +13815,7 @@ lɔ́ɔ O
 ní O
 bɛ́ O
 ɔ́ O
-"""" O
+, O
 kplɔ́n O
 yì O
 jǐ O
@@ -13936,12 +13910,12 @@ lɛ́ɛ O
 Agbomɛ B-LOC
 Kánɖòfí I-LOC
 é O
-"""" O
+, O
 ée O
 ɖò O
 Kplaku B-LOC
 é O
-"""" O
+, O
 ée O
 nɔ́ O
 kpénúkún O
@@ -13959,13 +13933,13 @@ kpódó O
 nǔ O
 xwítí O
 xwítí O
-"""" O
+, O
+
 mɔzo O
 zɔ́ O
 kpódó O
 tamɛ O
 gbìgbà O
-
 zɔ́ O
 kpán O
 lí O
@@ -13973,7 +13947,6 @@ nù O
 ɖò O
 tò O
 ɔ́ O
-
 mɛ̀ O
 é O
 mɛ̀ O
@@ -13990,7 +13963,7 @@ gbà O
 ɔ́ O
 jí O
 ɔ́ O
-"""" O
+, O
 kplɔ́n O
 yì O
 jǐ O
@@ -14029,7 +14002,8 @@ gbà O
 jí O
 ná O
 é O
-"""" O
+, O
+
 bó O
 ná O
 wá O
@@ -14043,14 +14017,12 @@ ví O
 sín O
 nŭlɛ́n O
 kɛ́n O
-
 yetɔn O
 kpódó O
 xwè O
 è O
 gbè O
 è O
-
 jì O
 yě O
 ɔ́ O
@@ -14061,8 +14033,8 @@ démɛ̀ O
 Nú O
 acɛkpìkpà O
 ɔ́ O
-"""" O
-"""" O
+, O
+, O
 linlin O
 ɔ́ O
 wɛ́ O
@@ -14085,7 +14057,7 @@ nǔ O
 gbɔn O
 mɔli O
 jí O
-"""" O
+, O
 è O
 ná O
 bó O
@@ -14105,9 +14077,7 @@ nyì O
 alɔ O
 nú O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ée O
 zɔ́n O
 bɔ̀ O
@@ -14163,7 +14133,7 @@ Nɔè O
 # O
 Eléonore B-PER
 LADEKAN I-PER
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -14183,7 +14153,7 @@ nɔè O
 @ O
 Aurelie B-PER
 ASZ I-PER
-"""" O
+, O
 # O
 MND O
 ɔ́ O
@@ -14194,9 +14164,7 @@ sín O
 mɔkàn O
 gbà O
 jí O
-e O
-- O
-learning O
+e-learning O
 ɔ́ O
 nù O
 ɖò O
@@ -14210,7 +14178,7 @@ alà O
 vɔ̀ O
 gán O
 ɔ́ O
-"""" O
+, O
 mɛɖaxó O
 # O
 MaximedaCruz B-PER
@@ -14284,7 +14252,7 @@ xwè I-DATE
 tɔn I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 tògán O
 TALƆN B-PER
 ná O
@@ -14384,7 +14352,7 @@ wà O
 è O
 tɔn O
 : O
-"""" O
+, O
 Ée O
 é O
 wá O
@@ -14405,7 +14373,7 @@ tò O
 ná O
 wú O
 ɔ́ O
-"""" O
+, O
 tògán O
 ɔ́ O
 hwɛzizɛ O
@@ -14420,7 +14388,7 @@ tòví O
 lɛ́ɛ O
 . O
 
-"""" O
+" O
 Yɛkan O
 nɛ́ O
 ɔ́ O
@@ -14449,7 +14417,7 @@ xwè B-DATE
 ɖokpóo O
 é O
 ɔ́ O
-"""" O
+, O
 bó O
 ná O
 lɛ́ O
@@ -14459,9 +14427,9 @@ núkún O
 yetɔn O
 lɛ́ɛ O
 ɖesu O
+" O
 . O
-"""" O
-"""" O
+" O
 Hǔn O
 xá O
 gege O
@@ -14471,8 +14439,8 @@ tògán O
 ɔ́ O
 sín O
 jǒnɔ̀ O
+" O
 . O
-"""" O
 
 É O
 ná O
@@ -14506,7 +14474,7 @@ hwenu O
 sɔ́ O
 ɛ́ O
 ɔ́ O
-"""" O
+, O
 vlavo O
 wɛ̀ O
 Patrice B-PER
@@ -14525,7 +14493,7 @@ xwè I-DATE
 tɔn O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 é O
 yì O
 Savɛ B-LOC
@@ -14560,14 +14528,14 @@ gbɛ O
 ɔ́ O
 mɛ̀ O
 bǐ O
-"""" O
+, O
 ɖò O
 Benɛ B-LOC
 tò I-LOC
 mɛ̀ O
 ɖesu O
 ɔ́ O
-"""" O
+, O
 alulwi O
 ɔ́ O
 gbě O
@@ -14587,7 +14555,7 @@ xwè B-DATE
 tɔn O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 kpɔ̀ O
 ée O
 ɖò O
@@ -14596,13 +14564,11 @@ gbɛ O
 mɛ̀ O
 bǐ O
 ɔ́ O
-"""" O
+, O
 è O
 lɛ́n O
 dó O
-100 O
-. O
-000 O
+100.000 O
 ( O
 afatɔ́n O
 donu O
@@ -14612,7 +14578,7 @@ ko O
 
 Éhɔ́nmɛ̀ O
 ɔ́ O
-"""" O
+, O
 10 O
 000 O
 ( O
@@ -14628,7 +14594,7 @@ kpò O
 Ɖò O
 Benɛ B-LOC
 ɔ́ O
-"""" O
+, O
 16 O
 ( O
 afɔtɔn O
@@ -14704,12 +14670,12 @@ vǐ O
 tɔn O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 é O
 lɛ́kɔ̀ O
 wá O
 ɔ́ O
-"""" O
+, O
 é O
 sɔ́ O
 nɔ́ O
@@ -14767,7 +14733,7 @@ níí O
 Ɖò O
 Benɛ B-LOC
 ɔ́ O
-"""" O
+, O
 è O
 ɖò O
 dò O
@@ -14796,7 +14762,7 @@ lé O
 énɛ́ O
 wú O
 ɔ́ O
-"""" O
+, O
 é O
 yí O
 nǔ O
@@ -14843,7 +14809,7 @@ lé O
 ɖò O
 mɔ̌ O
 có O
-"""" O
+, O
 mɛ O
 ɖé O
 lɛ́ɛ O
@@ -14857,7 +14823,7 @@ wɛ̀ O
 
 Gbɔn O
 akɔnkpikpan O
-"""" O
+, O
 súndídɛ́ O
 ɖò O
 walɔ O
@@ -14871,7 +14837,7 @@ wú O
 kpán O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 yemɛ O
 ɖelɛ́ɛ O
 nɔ́ O
@@ -14921,14 +14887,14 @@ lɔ́ɔ O
 . O
 
 Amɔ̌ O
-"""" O
+, O
 é O
 kpɔ́n O
 gbɛ O
 tɔn O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 è O
 mɔ O
 nǔ O
@@ -14950,10 +14916,10 @@ wú O
 ɖò O
 Kanada B-LOC
 ɔ́ O
-"""" O
+, O
 éhɔ́nmɛ O
 ɔ́ O
-"""" O
+, O
 é O
 wá O
 nyí O
@@ -14961,7 +14927,7 @@ nukɔntɔ́ O
 ɖò O
 azɔxwé B-ORG
 GoMedical I-ORG
-"""" O
+, O
 bó O
 nyí O
 agbɔnzɛn O
@@ -14985,17 +14951,17 @@ mǐ O
 akpáxwé O
 nukɔntɔn O
 nǔwíwá O
-"""" O
+, O
 Fémina O
-"""" O
+, O
 tɔn O
 ɔ̀ O
 mɛ̀ O
 . O
 
-"""" O
+" O
 Fémina O
-"""" O
+" O
 ɔ́ O
 nǔwíwá O
 yaɖé O
@@ -15003,12 +14969,12 @@ yaɖé O
 ɖé O
 wɛ̀ O
 ɖò O
-"""" O
+" O
 5 O
 sur O
 7 O
 Matins O
-"""" O
+" O
 mɛ̀ O
 bó O
 nɔ́ O
@@ -15023,7 +14989,7 @@ wɛ̀ O
 mɔkàn O
 lí O
 nù O
-"""" O
+, O
 mɔzo O
 kpódó O
 nǔɖetɔn O
@@ -15078,21 +15044,18 @@ mɛ O
 nukɔntɔn O
 ɔ́ O
 kú O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 kú O
 é O
 . O
+
 Nǎwè O
 xwè O
 43 O
 tɔn O
 ɖé O
 kú O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 kú O
 ɖò O
 azǎn B-DATE
@@ -15121,7 +15084,7 @@ tîin O
 wú O
 é O
 ɔ́ O
-"""" O
+, O
 gbɛta O
 è O
 acɛkpìkpà O
@@ -15136,9 +15099,7 @@ dó O
 azɔnkwín O
 kolonâ O
 ( O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ) O
 wú O
 é O
@@ -15174,7 +15135,7 @@ Awɔnlincyɔ́nnú O
 ɔ́ O
 xwíxwé O
 ɔ́ O
-"""" O
+, O
 fí O
 bǐ O
 wɛ̀ O
@@ -15189,14 +15150,14 @@ xwé O
 tɔn O
 wɛ̀ O
 à O
-"""" O
+, O
 alǒ O
 mɛ O
 kpáa O
 tɔn O
-"""" O
+, O
 aximɛ O
-"""" O
+, O
 agbansɛxwetɛn O
 lɛ́ɛ O
 kpódó O
@@ -15206,17 +15167,16 @@ tɛnmɛ O
 lɛ́ɛ O
 kpán O
 ) O
-"""" O
+, O
+
 è O
 ná O
 kpɔ́n O
 dó O
-
 gbɛtɔ́ O
 sɔxa O
 è O
 ɖò O
-
 fínɛ́ O
 ɔ́ O
 wú O
@@ -15224,32 +15184,26 @@ wú O
 . O
 
 Kútɔ́nú B-LOC
-"""" O
+, O
 agbomɛ B-LOC
 Kánɖòfí I-LOC
-"""" O
-Só B-LOC
-- I-LOC
-Avà I-LOC
-"""" O
+, O
+Só-Avà B-LOC
+, O
 Zɛ B-LOC
-"""" O
+, O
 Alada B-LOC
-"""" O
+, O
 Tɔli B-LOC
-"""" O
+, O
 Glexwé B-LOC
-"""" O
-Sɛmɛ B-LOC
-- I-LOC
-Kpoji I-LOC
-"""" O
+, O
+Sɛmɛ-Kpoji B-LOC
+, O
 Xɔgbonu B-LOC
-"""" O
-Akplo B-LOC
-- I-LOC
-Mislete I-LOC
-"""" O
+, O
+Akplo-Mislete B-LOC
+, O
 Agege B-LOC
 kpódó O
 Ajala B-LOC
@@ -15307,7 +15261,7 @@ bló O
 xwè B-DATE
 2020ɔ́ I-DATE
 mɛ̀ O
-"""" O
+, O
 ɖò O
 azǎn B-DATE
 20ɔ́ I-DATE
@@ -15317,6 +15271,7 @@ tɔn I-DATE
 gbè O
 é O
 . O
+
 Sɛ́n O
 nɛ́ O
 ɔ́ O
@@ -15366,7 +15321,7 @@ jí O
 Bɛsín O
 din O
 ɔ́ O
-"""" O
+, O
 sɛ̀ O
 wá O
 mǎ O
@@ -15383,7 +15338,7 @@ dó O
 azɔxwé O
 lɛ́ɛ O
 nù O
-"""" O
+, O
 hǔn O
 acɛkpìkpà O
 ɔ́ O
@@ -15421,7 +15376,7 @@ nɛ́ O
 lɛ́ɛ O
 nù O
 ɔ́ O
-"""" O
+, O
 sɛ O
 wá O
 mǎ O
@@ -15470,7 +15425,7 @@ ná O
 bɛ́ O
 azɔ̌ O
 ɔ́ O
-"""" O
+, O
 ye O
 ɖó O
 ná O
@@ -15503,7 +15458,7 @@ nɛ́ O
 lɛ́ɛ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 azɔ̌ O
 è O
 ye O
@@ -15520,7 +15475,7 @@ hwɛ̌ O
 Mɔ̌ O
 ɖokpó O
 ɔ́ O
-"""" O
+, O
 è O
 sɔ́ O
 ná O
@@ -15556,11 +15511,11 @@ xó O
 wú O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 bɛsín O
 din O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 nɔ́ O
@@ -15583,7 +15538,7 @@ mɛ̀ O
 Énɛ́ O
 gudo O
 ɔ́ O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -15670,7 +15625,7 @@ kplé O
 è O
 Romuald B-PER
 Waɖányí I-PER
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -15693,7 +15648,8 @@ wú O
 kpódó O
 Emmanuel B-PER
 Tiando I-PER
-"""" O
+, O
+
 nukɔntɔ́ O
 Cena B-ORG
 tɔn O
@@ -15717,16 +15673,15 @@ lɛ́ɛ O
 é O
 sín O
 dòmɛ̀ O
-
 . O
+
 Ɖò O
 nǔwíwá O
 lɛ́ɛ O
 sín O
-
 fúfónu O
 ɔ́ O
-"""" O
+, O
 kplé O
 nɛ́ O
 ée O
@@ -15759,9 +15714,7 @@ lɛ́ɛ O
 bǐ O
 yì O
 liva O
-14 O
-"""" O
-4 O
+14,4 O
 . O
 
 Akpáxwé O
@@ -15817,11 +15770,11 @@ mɛ̀ O
 ( O
 CENA B-ORG
 ) O
-"""" O
+, O
 bɛsín O
 din O
 ɔ́ O
-"""" O
+, O
 ɖó O
 nyǐkɔ́ O
 sɔ́mì O
@@ -15858,13 +15811,11 @@ wú O
 lɛ́ɛ O
 ɔ́ O
 ( O
-Cos B-ORG
-- I-ORG
-Lépi I-ORG
+Cos-Lépi B-ORG
 ) O
 é O
 ɔ́ O
-"""" O
+, O
 é O
 mɛ O
 ée O
@@ -15876,7 +15827,7 @@ sɔ́ O
 ɖayǐ O
 è O
 ɔ́ O
-"""" O
+, O
 sɔ́ O
 jó O
 nú O
@@ -15890,16 +15841,15 @@ xwè I-DATE
 tɔn I-DATE
 mɛ O
 . O
+
 Nyǐkɔ́ O
 nɛ́ O
-
 lɛ́ɛ O
 ɔ́ O
 è O
 sɔ́ O
 jó O
 dó O
-
 wěmá O
 mɛ̀ O
 bó O
@@ -15971,7 +15921,7 @@ xwè I-DATE
 tɔn O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 tòví O
 5 O
 235 O
@@ -16069,14 +16019,14 @@ xò O
 Nú O
 Gilbert B-PER
 Bangana I-PER
-"""" O
+, O
 nukɔntɔ́ O
 Cos B-ORG
 - I-ORG
 Lépi I-ORG
 tɔn O
 ɔ́ O
-"""" O
+, O
 wǔvɛ́ O
 nɛ́ O
 lɛ́ɛ O
@@ -16110,7 +16060,7 @@ tɔn O
 Mɔ̌ O
 ɖokpó O
 ɔ́ O
-"""" O
+, O
 nǔ O
 hwedò O
 mɛdógesiwéma O
@@ -16145,7 +16095,7 @@ yì O
 é O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 Michel B-PER
 Dussuyer I-PER
 ɖè O
@@ -16278,7 +16228,7 @@ gɔn O
 
 Hwɛ̌ O
 ɔ́ O
-"""" O
+, O
 Stéphane B-PER
 Sessegnon I-PER
 ɖò O
@@ -16298,7 +16248,7 @@ tò O
 gudo O
 ǎ O
 ɔ́ O
-"""" O
+, O
 é O
 sɔ́ O
 dɛ́ɛ O
@@ -16316,12 +16266,12 @@ tɔ́ O
 bɔlu B-ORG
 xò I-ORG
 gbɛta I-ORG
-"""" I-ORG
-Ecureuils I-ORG
-"""" I-ORG
+" O
+Ecureuils B-ORG
+" O
 xóxó O
 ɔ́ O
-"""" O
+, O
 è O
 lɛ́ O
 dɛ́ɛ O
@@ -16355,7 +16305,7 @@ gɔn O
 lɛ́ɛ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 mɔ O
@@ -16378,7 +16328,7 @@ tɔ́ O
 gbɛta O
 ɔ́ O
 tɔn O
-"""" O
+, O
 Rudy B-PER
 Gestede I-PER
 kpán O
@@ -16403,7 +16353,7 @@ CAN O
 2021ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 é O
 nyí O
 ye O
@@ -16452,9 +16402,7 @@ Alɔ O
 nyí O
 nú O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 gbɛ́ O
 ɖɔ̀ O
@@ -16503,7 +16451,7 @@ kɔlɛ́wá O
 yetɔn O
 hwenu O
 ɔ́ O
-"""" O
+, O
 è O
 nɔ́ O
 fɛ́ O
@@ -16528,7 +16476,7 @@ yí O
 gantɔ́ O
 ɖevo O
 lɛ́ɛ O
-"""" O
+, O
 è O
 nɔ́ O
 sɔ́ O
@@ -16594,7 +16542,7 @@ tɛnwe O
 mɛ̀ O
 gudo O
 ɔ́ O
-"""" O
+, O
 acɛkpìkpà O
 ɔ́ O
 ná O
@@ -16611,7 +16559,7 @@ mɛ̀ O
 
 Ɖò O
 kútɔ́nú O
-"""" O
+, O
 ɖò O
 azǎn B-DATE
 19ɔ́ I-DATE
@@ -16621,7 +16569,7 @@ xwè I-DATE
 tɔn O
 gbè O
 ɔ́ O
-"""" O
+, O
 è O
 má O
 mɛdógesiwéma O
@@ -16637,6 +16585,7 @@ din O
 lɛ́ɛ O
 é O
 . O
+
 É O
 ko O
 dó O
@@ -16651,22 +16600,18 @@ mɛ̀ O
 tokpɔnla O
 Agbomɛ B-LOC
 Kánɖòfí I-LOC
-"""" O
-Só B-LOC
-- I-LOC
-Ava I-LOC
-"""" O
-Dasa B-LOC
-- I-LOC
-Zunmɛ I-LOC
-"""" O
+, O
+Só-Ava B-LOC
+, O
+Dasa-Zunmɛ B-LOC
+, O
 Glazwe B-LOC
-"""" O
+, O
 Jugu B-LOC
-"""" O
+, O
+
 Kopaago B-LOC
 kpódó O
-
 Uake B-LOC
 tɔn O
 kpán O
@@ -16699,7 +16644,7 @@ nukɔntɔn O
 mɛ̀ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 acɛkpìkpà O
 ɔ́ O
 sɔ́ O
@@ -16725,7 +16670,7 @@ lí O
 xò O
 énɛ́ O
 ɔ́ O
-"""" O
+, O
 gbɛtɔ́ O
 180 O
 000 O
@@ -16751,7 +16696,7 @@ xò O
 Ɖò O
 Kútɔ́nú B-LOC
 ɔ́ O
-"""" O
+, O
 gbɛtɔ́ O
 21800 O
 wɛ́ O
@@ -16779,7 +16724,7 @@ xwè B-DATE
 atɔn I-DATE
 . O
 
-"""" O
+" O
 Akpáxwé O
 alɔ O
 dó O
@@ -16834,7 +16779,7 @@ tòví O
 lɛ́ɛ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 mì O
 ná O
 kpéwú O
@@ -16842,19 +16787,18 @@ bó O
 ná O
 bló O
 é O
-"""" O
-"""" O
+" O
+, O
+
 Véronique B-PER
 Tɔ́nyífɔɖé I-PER
 Mɛwǎnǔ I-PER
-
-"""" O
+‚ O
 gǎn O
 - O
 hɔn O
 - O
 yì O
-
 - O
 tɔ́ O
 ée O
@@ -16880,6 +16824,58 @@ nɛ́ O
 mɛ̀ O
 . O
 
+Glèlílɛ́ O
+sín O
+nǔwíwá O
+lɛ́ɛ́ O
+ná O
+bɛ́ O
+ɖò O
+tò O
+mìtɔn O
+mɛ̀ O
+ɔ́ O
+, O
+gǎn O
+- O
+hɔn O
+- O
+yì O
+- O
+tɔ́ O
+ée O
+nɔ́ O
+kpénúkún O
+dó O
+glèlílɛ́ O
+‚ O
+kanlin-nyìnyì O
+kpódó O
+hwèhùhù O
+kpán O
+wú O
+é O
+‚ O
+Gaston B-PER
+DÒSÚWÌ I-PER
+wɛ́ O
+hùn O
+nǔ O
+sín O
+nù O
+ɖò O
+Bukúnbè B-LOC
+ɖò O
+nyɔ̌nuzángbè O
+azǎn B-DATE
+11ɔ́ I-DATE
+ayidósùn I-DATE
+xwè I-DATE
+2020ɔ́ I-DATE
+tɔ̀n O
+gbè O
+. O
+
 Bó O
 ná O
 dó O
@@ -16895,7 +16891,7 @@ nɔ̀ O
 ganjí O
 lí O
 xò O
-"""" O
+, O
 mɛdógesiwéma O
 yɔyɔ O
 ɔ́ O
@@ -16911,7 +16907,7 @@ gbla O
 tɔn O
 mɛ O
 ɔ́ O
-"""" O
+, O
 é O
 nɔ́ O
 zɔ́n O
@@ -16926,7 +16922,7 @@ vɔ̌nu O
 ali O
 bǐ O
 xò O
-"""" O
+, O
 è O
 nɔ́ O
 tɔ́jú O
@@ -16954,7 +16950,7 @@ kpán O
 
 Luc B-PER
 Atrokpo I-PER
-"""" O
+, O
 tokpɔnlagán O
 Kútɔ́nú B-LOC
 tɔn O
@@ -17016,7 +17012,7 @@ nǔ O
 ná O
 nyí O
 mɔ̌ O
-"""" O
+, O
 tokpɔnla O
 zɔ́ O
 wá O
@@ -17068,7 +17064,7 @@ yetɔn O
 lɛ́ɛ O
 kpán O
 é O
-"""" O
+, O
 lɔ̌n O
 yì O
 jǐ O
@@ -17095,7 +17091,7 @@ nù O
 ɔ́ O
 dòmɛ̀ O
 ɔ́ O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -17135,7 +17131,7 @@ ná O
 xlɛ́ O
 gbɛ O
 ɔ́ O
-"""" O
+, O
 é O
 ná O
 xlɛ́ O
@@ -17145,14 +17141,12 @@ abí O
 ɖò O
 tamɛ O
 lin O
-
 bó O
 sɔ́ O
 nǔ O
 yaɖé O
 yaɖé O
 nyìtè O
-
 lí O
 nù O
 é O
@@ -17171,7 +17165,7 @@ wíwá O
 lɛ́ɛ O
 junjɔn O
 ɔ́ O
-"""" O
+, O
 Aurélie B-PER
 Adam I-PER
 Soulé I-PER
@@ -17220,7 +17214,7 @@ lí O
 xò O
 è O
 wú O
-"""" O
+, O
 bɔ̀ O
 nú O
 nɛ́ O
@@ -17255,7 +17249,7 @@ tantɔn O
 ɖě O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 nǔgbó O
 wɛ̀ O
 bɔ̀ O
@@ -17286,7 +17280,7 @@ ali O
 nɛ́ O
 nù O
 ɔ́ O
-"""" O
+, O
 ɖò O
 akpá O
 ɖevo O
@@ -17309,7 +17303,7 @@ sɔ́ O
 lɛ́ɛ O
 wú O
 ɔ́ O
-"""" O
+, O
 CENA B-ORG
 kpɔ́n O
 ɖɔ̀ O
@@ -17351,7 +17345,7 @@ yě O
 gàn B-DATE
 xixo I-DATE
 72 I-DATE
-"""" O
+, O
 bɛsín O
 hwenu O
 CENA B-ORG
@@ -17442,7 +17436,7 @@ nɔ O
 Union B-ORG
 progressiste I-ORG
 ) O
-"""" O
+, O
 Sɔ́ O
 nɔ O
 ɔ́ O
@@ -17515,7 +17509,7 @@ azǎn B-DATE
 gbè I-DATE
 zǎnzǎn I-DATE
 : O
-"""" O
+" O
 kɛntɔ́ O
 baɖa O
 baɖa O
@@ -17526,10 +17520,10 @@ tɔn O
 wɛ́ O
 nyí O
 hwenu O
+" O
 . O
-"""" O
 
-"""" O
+" O
 Mì O
 sɔ́ O
 tutomɛ O
@@ -17552,7 +17546,7 @@ jɛ O
 gàn O
 gbè O
 amɔ̌ O
-"""" O
+, O
 é O
 blawu O
 bɔ̀ O
@@ -17565,8 +17559,8 @@ dɔn O
 mǐ O
 dó O
 gudo O
-. O
-"""" O
+, O
+" O
 
 Bó O
 ná O
@@ -17582,7 +17576,7 @@ wɛ̀ O
 gbɔn O
 é O
 ɔ́ O
-"""" O
+, O
 gbaví O
 nukpɛ́nnɔ O
 gɔnu O
@@ -17632,7 +17626,7 @@ Kpódó O
 Glazwe B-LOC
 kpán O
 ɔ́ O
-"""" O
+, O
 sìn O
 mímɛ́ O
 mɔ O
@@ -17654,7 +17648,7 @@ Tòví O
 nɛ́ O
 lɛ́ɛ O
 è O
-"""" O
+, O
 gege O
 yetɔn O
 má O
@@ -17672,7 +17666,7 @@ mɔkpán O
 xwè O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 ye O
 hɛn O
 din O
@@ -17690,13 +17684,13 @@ tɛgbɛ O
 gbè O
 é O
 wú O
-"""" O
+, O
 káká O
 yí O
 jɛ O
 akú O
 hwenu O
-"""" O
+, O
 nǔ O
 nyí O
 mɔ̌ O
@@ -17733,11 +17727,7 @@ gbetakɛ́n O
 xixa O
 tɔn O
 nyí O
-Ep O
-- O
-21 O
-- O
-017 O
+Ep-21-017 O
 azǎn B-DATE
 22ɔ́ I-DATE
 zofínkplɔ́sùn I-DATE
@@ -17746,7 +17736,7 @@ xwè I-DATE
 tɔn O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 sɛ́n O
 dódó O
 gbásá O
@@ -17866,7 +17856,7 @@ tɛnmɛ O
 tɛnmɛ O
 . O
 
-"""" O
+" O
 Ényí O
 mí O
 wá O
@@ -17891,7 +17881,7 @@ dalɔ O
 mɛ̀ O
 ǎ O
 ɔ́ O
-"""" O
+, O
 mì O
 ná O
 syɛ́n O
@@ -17903,6 +17893,7 @@ má O
 yí O
 ǎ O
 ; O
+
 ényí O
 mɛ́ O
 ɔ́ O
@@ -17926,12 +17917,10 @@ dalɔ O
 mɛ̀ O
 ǎ O
 ɔ́ O
-
-"""" O
+, O
 mì O
 ná O
 syɛ́n O
-
 núkún O
 bó O
 ná O
@@ -17939,8 +17928,8 @@ gɔn O
 má O
 yí O
 ǎ O
-"""" O
-"""" O
+" O
+, O
 Emmanuel B-PER
 Tiando I-PER
 wɛ́ O
@@ -17969,7 +17958,7 @@ sín O
 wěmá O
 ɔ́ O
 jí O
-"""" O
+, O
 amɔ̌ O
 CENA B-ORG
 ná O
@@ -17992,7 +17981,7 @@ Nú O
 Emmanuel B-PER
 Tiando I-PER
 ɔ́ O
-"""" O
+, O
 mɛ O
 ɔ́ O
 ní O
@@ -18022,7 +18011,7 @@ tɔn O
 34ɔ́ O
 gudo O
 ɔ́ O
-"""" O
+, O
 ví O
 nyɔ́nu O
 Godomɛ B-LOC
@@ -18039,12 +18028,12 @@ vivɔnù O
 amɔ̌ O
 ɖò O
 nǔwíwá O
-"""" O
+" O
 5 O
 sur O
 7 O
 Matins O
-"""" O
+" O
 tɔn O
 ɔ́ O
 jí O
@@ -18058,13 +18047,13 @@ xwè I-DATE
 tɔn O
 gbè O
 ɔ́ O
-"""" O
+, O
 é O
 wɔn O
 gbè O
 tɔn O
 ǎ O
-"""" O
+, O
 mɔ̌ O
 jɛn O
 é O
@@ -18091,7 +18080,7 @@ vǐ O
 we O
 tɔn O
 ɔ́ O
-"""" O
+, O
 yígbè O
 nú O
 nǔkanbyɔ́ O
@@ -18137,7 +18126,7 @@ tɔn O
 lɛ́ɛ O
 gbɔn O
 é O
-"""" O
+, O
 lě O
 wà O
 alɔ O
@@ -18150,7 +18139,7 @@ azɔ̌ O
 ɔ́ O
 gbɔn O
 é O
-"""" O
+, O
 lě O
 é O
 nɔ́ O
@@ -18161,7 +18150,7 @@ zɔ́ O
 tɔn O
 gbɔn O
 é O
-"""" O
+, O
 lě O
 é O
 lɛ́ O
@@ -18228,7 +18217,7 @@ FMI B-ORG
 sín O
 nukɔntɔ́ O
 ɔ́ O
-"""" O
+, O
 có O
 bó O
 lɛ́ O
@@ -18274,7 +18263,7 @@ sin O
 ali O
 xò O
 ɔ́ O
-"""" O
+, O
 tògán O
 ɔ́ O
 ná O
@@ -18284,14 +18273,14 @@ nukɔntɔ́ O
 - O
 gǎn O
 kpliba O
-"""" O
+" O
 Millenium B-ORG
 Challenge I-ORG
 Corporation I-ORG
-"""" O
+" O
 tɔn O
 ɔ́ O
-"""" O
+, O
 bó O
 ná O
 lɛ́ O
@@ -18343,7 +18332,8 @@ tò O
 kpán O
 tɛntin O
 é O
-"""" O
+, O
+
 bó O
 lɛ́ O
 ɖɔ̀xó O
@@ -18371,7 +18361,6 @@ alɔ O
 dó O
 Benɛ B-LOC
 wɛ̀ O
-
 lɛ́ɛ O
 é O
 wú O
@@ -18419,9 +18408,9 @@ lɛ́ɛ O
 é O
 . O
 
-"""" O
+" O
 Infodémie O
-"""" O
+" O
 wɛ̀ O
 . O
 
@@ -18432,19 +18421,19 @@ nɛ́ O
 tɔ́n O
 sín O
 xogbe O
-"""" O
+" O
 wɛn O
-"""" O
+" O
 kpódó O
-"""" O
+" O
 azɔnkwín O
-"""" O
+" O
 kpán O
 mɛ̀ O
-"""" O
-"""" O
+, O
+" O
 OMS B-ORG
-"""" O
+" O
 sín O
 gǎn O
 ɔ́ O
@@ -18475,7 +18464,7 @@ tɛnmɛ O
 nɛ́ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 mì O
 kàn O
 nǔ O
@@ -18487,11 +18476,11 @@ alà O
 vɔ́ O
 ví O
 ɖélɛ́ɛ O
-"""" O
+, O
 ɖò O
 tají O
 ɔ́ O
-"""" O
+, O
 yemɛ O
 ée O
 nɔ́ O
@@ -18505,7 +18494,7 @@ tɔn O
 wú O
 lɛ́ɛ O
 é O
-"""" O
+, O
 ye O
 ɖɔ̀ O
 nǔ O
@@ -18521,7 +18510,36 @@ tɔn O
 sín O
 xwè O
 ɖuɖu O
+wú O
+é O
+. O
 
+Gbetakɛ́n O
+nɛ́ O
+ɔ́ O
+zínzán O
+ɔ́ O
+‚ O
+è O
+sɔ́ O
+dó O
+así O
+nú O
+gǎn O
+- O
+hɔn O
+- O
+yì O
+- O
+tɔ́ O
+ée O
+nɔ́ O
+kpénúkún O
+dó O
+azɔxó O
+kpódó O
+mɔkàn O
+kpán O
 wú O
 é O
 . O
@@ -18541,13 +18559,13 @@ síxú O
 mɔ O
 nǔ O
 jɛ O
-"""" O
+" O
 Coffin B-ORG
 dancers I-ORG
-"""" O
+" O
 wú O
 gbɔn O
-"""" O
+, O
 Nicanor B-PER
 Covi I-PER
 hwɛ́n O
@@ -18567,7 +18585,7 @@ lɛ́ɛ O
 
 Maurice B-PER
 Thantan I-PER
-"""" O
+, O
 mɛ O
 è O
 sɔ́ O
@@ -18578,10 +18596,10 @@ nǔwlánwlán O
 lí O
 xò O
 é O
-"""" O
+, O
 azɔnkwín O
 kolonâ O
-"""" O
+, O
 xó O
 è O
 è O
@@ -18623,12 +18641,13 @@ dó O
 akwɛ́ O
 zínzán O
 wú O
-"""" O
+, O
 tàn O
-"""" O
+, O
 nukɔntɔ́ O
 nyìnyì O
-"""" O
+, O
+
 káká O
 yí O
 jɛ O
@@ -18669,7 +18688,6 @@ Kutɔnu B-LOC
 tɔn O
 mɛ̀ O
 lɛ́ɛ O
-
 é O
 . O
 
@@ -18678,7 +18696,7 @@ Nǔkplɔ́nmɛtɔ́ O
 Patrice B-PER
 TALƆN I-PER
 wɛ̀ O
-"""" O
+, O
 éyɛ́ O
 è O
 sɔ́ O
@@ -18740,13 +18758,13 @@ yì O
 sɔ́mì O
 sɔ́mì O
 ɔ́ O
-"""" O
+, O
 Mariam B-PER
 Chabi I-PER
 Talata I-PER
 ɖò O
 fínɛ́ O
-"""" O
+, O
 asì O
 tɔn O
 kpódó O
@@ -18757,7 +18775,8 @@ lɛ́ɛ O
 kpán O
 ɖò O
 fínɛ́ O
-"""" O
+, O
+
 mɔ̌ O
 ɖokpó O
 ɔ́ O
@@ -18765,7 +18784,8 @@ azɔ̌ O
 gbɛ́ O
 tɔn O
 lɛ́ɛ O
-"""" O
+, O
+
 gǎn O
 - O
 hɔn O
@@ -18782,17 +18802,16 @@ nɔ́ O
 wà O
 azɔ̌ O
 ɖò O
-
 tògán O
 gbásá O
 xɛ́ɛ O
-
 lɛ́ɛ O
 é O
 lɔ́ɔ O
 ɖò O
 fínɛ́ O
-"""" O
+, O
+
 tògán O
 ɔ́ O
 ɖɔ̀xó O
@@ -18822,7 +18841,7 @@ Mì O
 ná O
 ɖɔ̀ O
 ɔ́ O
-"""" O
+, O
 Patrice B-PER
 TALƆN I-PER
 jló O
@@ -18854,7 +18873,7 @@ alà O
 vɔ̀ O
 ví O
 Marzouk B-PER
-"""" O
+, O
 ée O
 kàn O
 nǔ O
@@ -18870,7 +18889,7 @@ nù O
 é O
 . O
 
-"""" O
+" O
 É O
 cí O
 nú O
@@ -18881,8 +18900,8 @@ wɔn O
 jɔwunjɔja O
 lɛ́ɛ O
 ɖɔhun O
-"""" O
-"""" O
+" O
+, O
 xò O
 è O
 dɔnkpɛvu O
@@ -18909,11 +18928,11 @@ wú O
 nɛ́ O
 . O
 
-"""" O
+" O
 Mɛsi O
 ɖaxó O
 TALƆN B-PER
-"""" O
+" O
 ɔ́ O
 yígbè O
 kaɖafya B-PER
@@ -18931,7 +18950,7 @@ wá O
 yì O
 é O
 ɔ́ O
-"""" O
+, O
 xò O
 hudo O
 jɔwunjɔja O
@@ -18981,7 +19000,7 @@ gbɔn O
 Énɛ́ O
 wú O
 ɔ́ O
-"""" O
+, O
 TALƆN B-PER
 tínmɛ O
 ɖɔ̀ O
@@ -19023,7 +19042,7 @@ dó O
 lɛ́ɛ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 TALƆN B-PER
 ɖɔ̀ O
 émí O
@@ -19071,7 +19090,7 @@ mɔ̌ O
 wɛ̀ O
 é O
 ɔ́ O
-"""" O
+, O
 TALƆN B-PER
 gɔn O
 azɔmɛ O
@@ -19081,7 +19100,7 @@ tɔn O
 ɔ́ O
 kínkɛ́n O
 ǎ O
-"""" O
+, O
 bó O
 nyí O
 xó O
@@ -19093,8 +19112,7 @@ tò O
 jí O
 . O
 
-< O
-< O
+<< O
 Mì O
 tlɛ O
 nyɔ́ O
@@ -19105,8 +19123,7 @@ bló O
 vivɔ O
 ǎ O
 . O
-> O
-> O
+>> O
 
 Ayi O
 mɔ O
@@ -19183,10 +19200,10 @@ jí O
 akwɛ́ O
 gbá O
 hinhɛn O
-"""" O
+, O
 ajɔ̌ O
 jíjlá O
-"""" O
+, O
 hwɛ O
 zɔ́ O
 wá O
@@ -19198,10 +19215,10 @@ tɛnmɛ O
 wiwa O
 lí O
 nù O
+, O
 . O
 . O
 . O
-"""" O
 ) O
 
 Azɔ̌ O
@@ -19231,12 +19248,12 @@ tɔn O
 ɖó O
 ná O
 ɖó O
-"""" O
+, O
 é O
 hwe O
 bǐ O
 ɔ́ O
-"""" O
+, O
 wǒ O
 ɖò O
 kanwe O
@@ -19268,7 +19285,7 @@ bló O
 yemɛ O
 160 O
 ) O
-"""" O
+, O
 kpódó O
 alɔ O
 dó O
@@ -19282,7 +19299,7 @@ Amɔ̌ O
 ɖò O
 tají O
 ɔ̀ O
-"""" O
+, O
 kplékplé O
 jɛɖutɔ́ O
 lɛ́ɛ O
@@ -19308,11 +19325,11 @@ hwenu O
 gbɛ́ O
 azɔ̌ O
 ɔ́ O
-"""" O
+, O
 wá O
 nyí O
 mátîintɔ́ O
-"""" O
+, O
 hǔn O
 è O
 sɔ́ O
@@ -19325,7 +19342,7 @@ síxú O
 Bɛsín O
 din O
 ɔ́ O
-"""" O
+, O
 jɛɖutɔ́ O
 lɛ́ɛ O
 bǐ O
@@ -19351,7 +19368,7 @@ jɛɖutɔ́ O
 lí O
 xò O
 ɔ́ O
-"""" O
+, O
 gbɛta O
 ée O
 nɔ́ O
@@ -19403,7 +19420,7 @@ jí O
 ná O
 ɖɔ̀ O
 ɔ́ O
-"""" O
+, O
 mɛɖé O
 tlɛ O
 ná O
@@ -19424,7 +19441,7 @@ ali O
 nɛ́ O
 nù O
 ɔ́ O
-"""" O
+, O
 é O
 na O
 vɛ́wǔ O
@@ -19492,7 +19509,7 @@ káká O
 jɛ O
 din O
 ɔ́ O
-"""" O
+, O
 tutomɛ O
 ɔ́ O
 ɖò O
@@ -19539,7 +19556,7 @@ wémá O
 nɛ́ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 sɛ́n O
 wɛ́ O
 dozogbe O
@@ -19557,7 +19574,7 @@ jí O
 ɔ́ O
 wú O
 ɔ́ O
-"""" O
+, O
 sɔ́jà O
 zɔnlin O
 zunzun O
@@ -19573,9 +19590,8 @@ tò O
 tɔn O
 ǎ O
 . O
-Kovidi O
-- O
-19 O
+
+Kovidi-19 O
 ɖù O
 ɖò O
 azǎn B-DATE
@@ -19604,7 +19620,7 @@ lyasùn I-DATE
 tɔn O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 acɛkpìkpà O
 ɔ́ O
 sɔ́ O
@@ -19627,7 +19643,7 @@ hwenu O
 ó O
 . O
 
-"""" O
+" O
 Nǔ O
 tají O
 wɛ́ O
@@ -19653,6 +19669,7 @@ mɛ̀ O
 ɔ́ O
 ǎ O
 . O
+
 Mɔ̌ O
 wú O
 wɛ̀ O
@@ -19679,6 +19696,7 @@ afɔ O
 kpowun O
 wɛ̀ O
 ; O
+
 è O
 ná O
 bló O
@@ -19698,7 +19716,6 @@ sín O
 zɔnlin O
 zunzun O
 kpódó O
-
 xwè O
 gannyǐ O
 gannyǐ O
@@ -19706,9 +19723,9 @@ kpán O
 ɖě O
 ɖè O
 ǎ O
+" O
+, O
 
-"""" O
-"""" O
 nǔ O
 è O
 ɖɔ̀ O
@@ -19738,7 +19755,7 @@ Acɛkpìkpà O
 ná O
 gbɔ́ O
 bó O
-"""" O
+, O
 sɔ́ O
 flowa O
 dó O
@@ -19752,7 +19769,7 @@ mɛkúkú O
 lɛ́ɛ O
 tɔn O
 é O
-"""" O
+, O
 bó O
 ná O
 lɛ́ O
@@ -19776,13 +19793,13 @@ sín O
 nǔwíwá O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 bló O
 bó O
 ná O
-"""" O
+" O
 sɔ́ O
 mɛ O
 vivɛna O
@@ -19796,8 +19813,8 @@ hwan O
 mìtɔn O
 kpán O
 sù O
+" O
 . O
-"""" O
 
 Tògán O
 tò O
@@ -19845,6 +19862,7 @@ tɔn O
 mɛ̀ O
 é O
 ; O
+
 gàn O
 xixo O
 yɔywɛ O
@@ -19863,13 +19881,11 @@ dó O
 tokpɔnla O
 wǒ O
 ée O
-
 ɖò O
 tofɔligbé O
 Benɛ B-LOC
 tɔn O
 é O
-
 lɛ́ɛ O
 ná O
 bɛ́ O
@@ -19881,7 +19897,7 @@ cɛ́jú B-DATE
 wǒ I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 tògán O
 ɔ́ O
 yígbè O
@@ -19898,12 +19914,12 @@ sè O
 zɔ́ O
 wá O
 tɔ́ O
-"""" O
+, O
 Angela B-PER
 Kpeija I-PER
 tɔn O
 lɛ́ɛ O
-"""" O
+, O
 bó O
 ɖɔ̀ O
 tutomɛ O
@@ -19920,7 +19936,7 @@ xá O
 azɔnkwín O
 ɔ́ O
 nyɔ́ O
-"""" O
+, O
 é O
 ká O
 lɛ́ O
@@ -19935,23 +19951,23 @@ Kpeija I-PER
 Mɛɖaxó O
 sísí O
 jɛxa O
-"""" O
+, O
 sín O
 sùn O
 mɔkpán O
 ɖye O
 ɔ́ O
-"""" O
+, O
 Benɛ B-LOC
 ɔ́ O
-"""" O
+, O
 ɖi O
 gbɛ O
 ɔ́ O
 bǐ O
 ɖɔhun O
 ɔ́ O
-"""" O
+, O
 jɛ O
 azɔnkwín O
 kolonâ O
@@ -19959,12 +19975,12 @@ kolonâ O
 sín O
 alɔ O
 mɛ̀ O
-"""" O
+, O
 azɔnkwín O
 ɔ́ O
 nyagló O
 mǐ O
-"""" O
+, O
 bɔ̀ O
 kúnkàn O
 mìtɔn O
@@ -19990,13 +20006,13 @@ TALƆN I-PER
 : O
 Nɔè O
 Kpeija B-PER
-"""" O
+, O
 mí O
 ɖɔ̀ O
 azɔnkwín O
 nyagló O
 mǐ O
-"""" O
+, O
 hwɛ O
 mítɔn O
 jɔ O
@@ -20008,7 +20024,7 @@ gbásá O
 Bsic B-ORG
 tɔn O
 ɔ́ O
-"""" O
+, O
 linlin O
 nǔníná O
 tɔn O
@@ -20025,7 +20041,7 @@ tɔn O
 lɛ́ɛ O
 . O
 
-"""" O
+" O
 Nǔ O
 è O
 sɔ́ O
@@ -20056,8 +20072,8 @@ mǐ O
 wɛ̀ O
 é O
 mɛ̀ O
-"""" O
-"""" O
+" O
+, O
 nǔ O
 è O
 nukɔntɔ́ O
@@ -20097,7 +20113,7 @@ yì O
 tó O
 . O
 
-"""" O
+" O
 Tutomɛ O
 è O
 acɛkpìkpà O
@@ -20112,7 +20128,7 @@ nú O
 azɔnkwín O
 kolonâ O
 ɔ́ O
-"""" O
+, O
 jɛ O
 mìtɔn O
 jí O
@@ -20128,11 +20144,11 @@ ná O
 nyì O
 sɛ́n O
 lɛ́ɛ O
-"""" O
-"""" O
+" O
+, O
 Jérôme B-PER
 Yoda I-PER
-"""" O
+, O
 wɛ́ O
 lɛ́ O
 ɖɔ̀ O
@@ -20157,7 +20173,7 @@ nɔ̀ O
 ganjí O
 wú O
 ɔ́ O
-"""" O
+, O
 hùn O
 xòmɛ O
 ɖó O
@@ -20199,7 +20215,7 @@ ganjí O
 wú O
 é O
 ɔ́ O
-"""" O
+, O
 nǔníná O
 Bsic B-ORG
 tɔn O
@@ -20230,16 +20246,17 @@ mɛ̀ O
 ɖě O
 . O
 
-"""" O
+" O
 Alɔ O
 dó O
 mɛ O
 nɛ́ O
 ɔ́ O
-"""" O
+, O
 nǔgbó O
 ɔ́ O
-"""" O
+, O
+
 wá O
 bó O
 ná O
@@ -20286,8 +20303,8 @@ bǐ O
 mɛ O
 kpán O
 é O
-"""" O
-"""" O
+" O
+, O
 nǔ O
 è O
 Énanyɔ́ B-PER
@@ -20295,7 +20312,6 @@ Pétas I-PER
 Akogbéto I-PER
 ɖɔ̀ O
 é O
-
 nɛ́ O
 . O
 
@@ -20334,7 +20350,7 @@ azɔnkwín O
 ɔ́ O
 ganjí O
 ɔ́ O
-"""" O
+, O
 acɛkpìkpà O
 ɔ́ O
 byɔ́ O
@@ -20365,7 +20381,7 @@ tò O
 tɔn O
 wú O
 ɔ́ O
-"""" O
+, O
 bɔ̀ O
 akwɛ́ O
 gbá O
@@ -20389,7 +20405,7 @@ lɛ́ɛ O
 È O
 hɛn O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 bló O
@@ -20417,14 +20433,12 @@ Káká O
 tɔn O
 éhɔ́nmɛ O
 ɔ́ O
-"""" O
+, O
 gbɛtɔ́ O
 16 O
 wɛ́ O
 bɛ́ O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɖò O
 Benɛ B-LOC
 tò O
@@ -20479,7 +20493,7 @@ lɛ̀kɔ̀ O
 wà O
 Kutɔnu B-LOC
 ɔ́ O
-"""" O
+, O
 ye O
 dó O
 yeɖee O
@@ -20581,7 +20595,7 @@ atɔn O
 ɖevo O
 lɛ́ɛ O
 wú O
-"""" O
+, O
 è O
 ɖó O
 ná O
@@ -20642,9 +20656,7 @@ dó O
 liza O
 xá O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 ná O
 é O
@@ -20850,11 +20862,11 @@ gbɛta O
 ɖelɛ́ɛ O
 yì O
 ǎ O
-"""" O
+, O
 ɖò O
 tají O
 ɔ́ O
-"""" O
+, O
 yemɛ O
 è O
 má O
@@ -20871,6 +20883,7 @@ wɛ̀ O
 lɛ́ɛ O
 é O
 ; O
+
 yeɖɛlɛ́ɛ O
 kpéwú O
 bó O
@@ -20878,7 +20891,6 @@ nɔ̀ O
 gbéjí O
 nú O
 tutomɛ O
-
 axɔ́sú O
 tɔn O
 lɛ́ɛ O
@@ -20888,7 +20900,7 @@ lɛ́ɛ O
 È O
 kpɔ́n O
 ɔ́ O
-"""" O
+, O
 è O
 mɔ O
 ɖɔ̀ O
@@ -20909,7 +20921,7 @@ jǎwe O
 mɛ̀ O
 . O
 
-"""" O
+" O
 Gǎn O
 - O
 hɔn O
@@ -20949,7 +20961,7 @@ lɛ́ɛ O
 ná O
 sɔgbe O
 ɔ́ O
-"""" O
+, O
 è O
 ɖò O
 ye O
@@ -20966,19 +20978,18 @@ bɔkun O
 nú O
 mɛ O
 lɛ́ɛ O
-"""" O
-"""" O
+" O
+, O
+
 ɖɔ̀ O
 nú O
 è O
 sè O
-
 ée O
 tɔ́n O
 sín O
 kplé O
 è O
-
 gǎn O
 - O
 hɔn O
@@ -21008,7 +21019,7 @@ tokpɔnlagán O
 lɛ́ɛ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 bló O
@@ -21017,13 +21028,13 @@ tlɛ O
 gbɔn O
 ɖěbǔ O
 ɔ́ O
-"""" O
+, O
 é O
 vɛ́wǔ O
 nú O
 agbahwlɛntɔ́ O
 lɛ́ɛ O
-"""" O
+, O
 ɖó O
 tutomɛ O
 è O
@@ -21052,7 +21063,7 @@ wěmá O
 émí O
 xwè O
 agbahwlɛnhwlɛn O
-"""" O
+, O
 bɔ O
 é O
 ká O
@@ -21070,7 +21081,7 @@ tokpɔnlaví O
 lɛ́ɛ O
 bǐ O
 mɛ̀ O
-"""" O
+, O
 tokpɔnla O
 77 O
 ée O
@@ -21084,7 +21095,7 @@ mɛ̀ O
 
 Bɔdewu O
 ɔ́ O
-"""" O
+, O
 tòxò O
 ɖɔ́ O
 gbɛta O
@@ -21092,12 +21103,12 @@ gbɛta O
 ná O
 mɔ O
 kɛ́n O
-"""" O
+, O
 é O
 hwe O
 bǐ O
 ɔ́ O
-"""" O
+, O
 wǒ O
 ɖò O
 kanwe O
@@ -21123,7 +21134,7 @@ mɛ̀ O
 Benɛ B-LOC
 ná O
 yí O
-"""" O
+, O
 bɛsín B-DATE
 azǎn I-DATE
 5ɔ́ I-DATE
@@ -21134,7 +21145,7 @@ wǒsùn I-DATE
 ɔ́ I-DATE
 tɔn I-DATE
 jí I-DATE
-"""" O
+, O
 bɔlu O
 xixo O
 tò O
@@ -21178,10 +21189,10 @@ nù O
 tɔn O
 dòmɛ O
 ɔ́ O
-"""" O
-"""" O
+, O
+" O
 Ecureuils O
-"""" O
+" O
 lɛ́ɛ O
 wɛta O
 ɖò O
@@ -21193,6 +21204,7 @@ A O
 ɔ̀ O
 mɛ̀ O
 . O
+
 Yedɛlɛ́ɛ O
 dó O
 ɖɔ̀ O
@@ -21212,9 +21224,9 @@ yí O
 xò O
 CAN O
 ɖò O
-"""" O
+, O
 Mauritanie B-LOC
-"""" O
+, O
 ɖò O
 xwè B-DATE
 2021ɔ́ I-DATE
@@ -21236,7 +21248,7 @@ kpanta O
 yě O
 ɔ́ O
 có O
-"""" O
+, O
 mɛ O
 ɖelɛ́ɛ O
 dó O
@@ -21249,7 +21261,7 @@ cɛ́jú B-DATE
 kanɖégɔ́ I-DATE
 ɔ́ O
 mɛ̀ O
-"""" O
+, O
 Ibrahim B-PER
 Litnine I-PER
 wɛ̀ O
@@ -21263,7 +21275,7 @@ jɛ O
 ayǐ O
 có O
 ɔ́ O
-"""" O
+, O
 é O
 lɛ́ O
 ɖó O
@@ -21324,7 +21336,7 @@ gbɛta O
 A O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 Nijɛɛ B-LOC
 yí O
 ta O
@@ -21335,7 +21347,7 @@ kpódó O
 kɛ́n O
 3 O
 kpán O
-"""" O
+, O
 Togo B-LOC
 kpódó O
 Buukina B-LOC
@@ -21358,12 +21370,12 @@ vɔ̌kwín O
 
 Sakina B-PER
 Harouna I-PER
-"""" O
+, O
 nyɔ̌nu O
 akowunká O
 nɛ́ O
 ɔ́ O
-"""" O
+, O
 hwlɛn O
 mɛ O
 5 O
@@ -21376,7 +21388,7 @@ tɔn O
 mɛ̀ O
 ɖò O
 Wolya B-LOC
-"""" O
+, O
 ɖò O
 Cacu B-LOC
 sín O
@@ -21403,7 +21415,7 @@ Hwehutɔ́ O
 ví O
 wɛ́ O
 níí O
-"""" O
+, O
 bó O
 nyí O
 nyɔ̌nu O
@@ -21417,7 +21429,7 @@ xwè B-DATE
 we I-DATE
 tɔn O
 ɖokpó O
-"""" O
+, O
 nǔ O
 è O
 wà O
@@ -21438,7 +21450,7 @@ Cacu B-LOC
 tɔn O
 
 ɔ́ O
-"""" O
+, O
 Joël B-PER
 Domagui I-PER
 kɛnu O
@@ -21514,7 +21526,7 @@ gudo O
 yìyì O
 wémá O
 kpáa O
-"""" O
+, O
 alǒ O
 azɔgbénú O
 tɔn O
@@ -21529,7 +21541,7 @@ tɔn O
 ɔ́ O
 jí O
 ɔ́ O
-"""" O
+, O
 tòví O
 lɛ́ɛ O
 ná O
@@ -21614,20 +21626,18 @@ yɔyɔ O
 è O
 è O
 nyí O
-"""" O
-e O
-- O
-casier O
+" O
+e-casier O
 judiciaire O
-"""" O
+" O
 kpán O
 ɔ́ O
-"""" O
+, O
 tòví O
 lɛ́ɛ O
 hɛn O
 ɔ́ O
-"""" O
+, O
 ye O
 ná O
 byɔ́ O
@@ -21652,7 +21662,7 @@ sín O
 xó O
 # O
 MJL O
-"""" O
+, O
 Mɛɖaxó O
 Séverin B-PER
 QUENUM I-PER
@@ -21665,12 +21675,10 @@ nyí O
 alyannu O
 mɔkàn O
 tɔn O
-"""" O
-e O
-- O
-casier O
+" O
+e-casier O
 judiciaire O
-"""" O
+" O
 ɔ́ O
 é O
 . O
@@ -21692,7 +21700,7 @@ Adonis B-PER
 Bohoun I-PER
 Xó O
 tají O
-"""" O
+, O
 sɔ́mì O
 sɔ́mì O
 tògán O
@@ -21700,7 +21708,7 @@ tɔn O
 xwè B-DATE
 2021ɔ́ I-DATE
 tɔn O
-"""" O
+, O
 xó O
 tí O
 ɖè O
@@ -21876,7 +21884,7 @@ jí I-DATE
 zofínkplɔ́sùn I-DATE
 tɔn O
 ɔ́ O
-"""" O
+, O
 wěmá O
 atɔn O
 jɛn O
@@ -21890,9 +21898,9 @@ Agbahwlɛntɔ́ O
 webɔ O
 webɔ O
 nɔ O
-"""" O
+, O
 FCBE B-ORG
-"""" O
+, O
 tɔn O
 ɔ́ O
 wɛ̀ O
@@ -21957,13 +21965,13 @@ kpowun O
 gbɛ̌ O
 wěmá O
 ɖelɛ́ɛ O
-"""" O
+, O
 ye O
 wɛ́ O
 nyí O
-"""" O
+" O
 Démocrates B-ORG
-"""" O
+" O
 lɛ́ɛ O
 tɔn O
 ée O
@@ -21980,7 +21988,7 @@ dó O
 tè O
 é O
 ; O
-"""" O
+" O
 Front B-ORG
 pour I-ORG
 la I-ORG
@@ -21988,7 +21996,7 @@ restauration I-ORG
 de I-ORG
 la I-ORG
 démocratie I-ORG
-"""" O
+" O
 Joël B-PER
 Ayivɔ I-PER
 kpódó O
@@ -22024,7 +22032,7 @@ tɔn O
 sɔ̀gbè O
 ají O
 ɔ́ O
-"""" O
+, O
 ye O
 ɖó O
 nǔ O
@@ -22071,15 +22079,15 @@ xwè I-DATE
 tɔn O
 gbè O
 ɔ́ O
-"""" O
+, O
 gbèyíɖɔ O
 lɔkpazɔwatɔ́ O
 lɛ́ɛ O
 tɔn O
-"""" O
+, O
 Roger B-PER
 Tawes I-PER
-"""" O
+, O
 nukɔntɔ́ O
 akpáxwé O
 ée O
@@ -22088,43 +22096,43 @@ nɔ́ O
 dó O
 nù O
 nú O
-"""" O
+, O
 CNSR B-ORG
-"""" O
+, O
 é O
 ɔ́ O
-"""" O
+, O
 George B-PER
 Anagonu I-PER
-"""" O
+, O
 kpódó O
 Achille B-PER
 Soɖegla I-PER
 kpán O
-"""" O
+, O
+
 mɛ O
 ée O
 nɔ́ O
-
 wazɔ O
 dó O
 nunɔmɛ O
 gbɛtɔ́ O
-
 lɛ́ɛ O
 tɔn O
 wú O
 é O
 ɔ́ O
-"""" O
+, O
 ye O
 ɖɔ̀xó O
 dó O
 kpɔ́ O
 . O
+
 Adonis B-PER
 Bohoun I-PER
-"""" O
+, O
 ɖɔ̀ O
 nú O
 è O
@@ -22135,7 +22143,7 @@ tɔ́ O
 è O
 cyan O
 é O
-"""" O
+, O
 ayǐ O
 è O
 jí O
@@ -22143,36 +22151,36 @@ gbɛtɔ́ O
 lɛ́ɛ O
 ɖè O
 é O
-"""" O
+, O
 xò O
 ɖěbǔ O
 ɖè O
 ǎ O
-"""" O
+, O
 ali O
 lɛ́ɛ O
 jí O
-"""" O
+, O
 xɛ O
 nya O
 ɖò O
 ali O
 lɛ́ɛ O
 jí O
-"""" O
+, O
 lɔkpazɔwatɔ O
 gɔnu O
 ɔ́ O
-"""" O
+, O
 sɛnsadomɛ O
 . O
 
 Ortb B-ORG
 wɛn O
 tají O
-"""" O
+, O
 toxoɖiɖɔ O
-"""" O
+, O
 xó O
 ɖěbǔ O
 ɖè O
@@ -22219,7 +22227,7 @@ Aboudou I-PER
 tɔn O
 é O
 nɛ́ O
-"""" O
+, O
 ɖyɔvi O
 wezunkantɔ́ O
 Benɛ B-LOC
@@ -22247,7 +22255,7 @@ sɔ́ O
 dó O
 Noélie B-PER
 Yarigo I-PER
-"""" O
+, O
 Matéri B-LOC
 ví O
 ɔ́ O
@@ -22285,7 +22293,7 @@ mɛ̀ O
 ɖò O
 Nijɛɛ B-LOC
 ɔ́ O
-"""" O
+, O
 é O
 yí O
 nyɔwa O
@@ -22341,12 +22349,12 @@ wɛ́ O
 nyí O
 linlin O
 tají O
-"""" O
+" O
 FGI B-ORG
 Bénin I-ORG
-"""" O
+" O
 tɔn O
-"""" O
+, O
 énɛ́ O
 ɔ́ O
 wɛ́ O
@@ -22425,7 +22433,7 @@ jí O
 
 Wɛn O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 dó O
@@ -22510,14 +22518,12 @@ nɔ́ O
 ylɔ́ O
 ɛ́ O
 ɖɔ̀ O
-"""" O
-Anti O
-- O
-fakenews O
+" O
+Anti-fakenews O
 . O
 bj O
-"""" O
-"""" O
+" O
+, O
 bɛ́ O
 ná O
 nɔ́ O
@@ -22596,7 +22602,7 @@ azɔnkwín O
 ɖè O
 lɛ́ɛ O
 ɖě O
-"""" O
+" O
 xlɛ́ O
 wuntun O
 azɔnkwín O
@@ -22605,8 +22611,8 @@ tɔn O
 lɛ́ɛ O
 ɖě O
 ǎ O
-"""" O
-"""" O
+" O
+, O
 gǎn O
 - O
 hɔn O
@@ -22639,11 +22645,11 @@ azɔnkwín O
 ǎ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 è O
-"""" O
+, O
 jó O
-"""" O
+, O
 yě O
 nú O
 ye O
@@ -22668,7 +22674,7 @@ tɔ̀ O
 kpɔ́n O
 ɖè O
 lɛ́ɛ O
-"""" O
+, O
 xlɛ́ O
 ɖɔ̀ O
 tutomɛ O
@@ -22688,11 +22694,11 @@ azɔnkwín O
 ɖè O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 nyɔ́ O
 tawun O
-"""" O
-"""" O
+, O
+, O
 bɛ́ O
 dó O
 xòmɛhùnhùn O
@@ -22711,7 +22717,7 @@ Nú O
 Benjamin B-PER
 Hùnkpátín I-PER
 ɔ́ O
-"""" O
+, O
 yemɛ O
 è O
 xwè O
@@ -22739,7 +22745,7 @@ yetɔn O
 lɛ́ɛ O
 gbè O
 ɔ́ O
-"""" O
+, O
 bǐ O
 wú O
 wɛ̀ O
@@ -22835,7 +22841,7 @@ ganjí O
 wú O
 é O
 ɔ́ O
-"""" O
+, O
 yemɛ O
 we O
 ée O
@@ -22856,11 +22862,11 @@ dó O
 flín O
 nú O
 ɔ́ O
-"""" O
+, O
 Buukina B-LOC
 nù O
 ɖokpó O
-"""" O
+, O
 Janma B-LOC
 nù O
 ɖokpó O
@@ -22890,7 +22896,7 @@ azɔnkwín O
 ɖò O
 ye O
 wú O
-"""" O
+, O
 globoto O
 è O
 è O
@@ -22905,12 +22911,12 @@ wɛ O
 
 Nǔgbó O
 ɔ̀ O
-"""" O
+, O
 éhɔ́nmɛ O
 ɖò O
 Benɛ B-LOC
 ɔ́ O
-"""" O
+, O
 gǎnɖùɖù O
 ée O
 bá O
@@ -22936,7 +22942,7 @@ sín O
 ali O
 jí O
 ɔ́ O
-"""" O
+, O
 hwɛ O
 mìtɔn O
 jɔ̀ O
@@ -22966,7 +22972,7 @@ jɛ O
 1990ɔ́ B-DATE
 jí O
 ɔ́ O
-"""" O
+, O
 tàn O
 tò O
 ɔ́ O
@@ -22991,7 +22997,7 @@ tîin O
 káká O
 ɖé O
 ǎ O
-"""" O
+, O
 akwɛ O
 zínzán O
 dódó O
@@ -23003,7 +23009,8 @@ ná O
 sítè O
 có O
 ɔ́ O
-"""" O
+, O
+
 é O
 blawu O
 bɔ O
@@ -23025,7 +23032,6 @@ má O
 tuun O
 kpán O
 glɔn O
-
 agbɔ̌n O
 níí O
 . O
@@ -23035,7 +23041,7 @@ xwè B-DATE
 1990ɔ́ I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 ée O
 è O
 bló O
@@ -23048,7 +23054,7 @@ tò O
 ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 núkún O
 ɖíɖó O
 ɖɔ̀ O
@@ -23098,12 +23104,12 @@ gannyǐ O
 gannyǐ O
 nɛ́ O
 tɔn O
-"""" O
+, O
 Mɛsi O
 ɖaxó O
 Albert B-PER
 Tévɔejlɛ I-PER
-"""" O
+, O
 ɖɔ̀ O
 ɔ́ O
 tlɛ O
@@ -23111,26 +23117,26 @@ ko O
 ɖè O
 kúnnú O
 tɔn O
-"""" O
+" O
 Saxɔntɔn O
 cè O
 lɛ́ɛ O
 émí O
-"""" O
+, O
 mí O
 nú O
 mǎ O
 jɛ O
 azɔ̌ O
 jí O
-"""" O
+, O
 mí O
 ɖù O
 ɖò O
 nyladó O
 jí O
+" O
 . O
-"""" O
 
 Nyǐkɔ́ O
 dó O
@@ -23153,7 +23159,7 @@ lidósùn I-DATE
 ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 ná O
 fó O
 ɖò O
@@ -23164,10 +23170,10 @@ zofínkplɔ́sùn I-DATE
 tɔn I-DATE
 gbadanu I-DATE
 ɖò O
-"""" O
+" O
 CENA B-ORG
+" O
 . O
-"""" O
 
 Nǔwíwá O
 nɛ́ O
@@ -23179,7 +23185,7 @@ sín O
 nù O
 tɛníígbè B-DATE
 ɔ́ O
-"""" O
+, O
 ná O
 xɔ̀ O
 azǎn B-DATE
@@ -23202,7 +23208,7 @@ azǎn B-DATE
 lɛ́ɛ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 mɛ O
 ko O
 wɛ O
@@ -23234,15 +23240,15 @@ wěmá O
 lɛ́ɛ O
 fó O
 ɔ́ O
-"""" O
+, O
 Emmanuel B-PER
 Tiando I-PER
-"""" O
+, O
 nukɔntɔ́ O
 CENA B-ORG
 tɔn O
 ɔ́ O
-"""" O
+, O
 ɖɔ O
 nǔ O
 è O
@@ -23264,7 +23270,7 @@ tlɛ O
 ɖó O
 jɛɖutɔ́ O
 ǎ O
-"""" O
+, O
 mɛ O
 ɖelɛ́ɛ O
 tlɛ O
@@ -23278,10 +23284,10 @@ xá O
 yě O
 ɔ́ O
 ǎ O
+, O
 . O
 . O
 . O
-"""" O
 
 È O
 ko O
@@ -23290,7 +23296,7 @@ wěmá O
 lɛ́ɛ O
 kpɔ́n O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 tuun O
@@ -23330,9 +23336,9 @@ Luc B-PER
 Eyraud I-PER
 wɛ́ O
 kun O
-"""" O
+, O
 FMI B-ORG
-"""" O
+, O
 sín O
 gbɛta O
 è O
@@ -23344,15 +23350,15 @@ Benɛ B-LOC
 
 É O
 tínmɛ O
-"""" O
+, O
 dó O
 ɖɔ́ O
 nú O
 è O
 sè O
-"""" O
+" O
 FMI B-ORG
-"""" O
+" O
 tɔn O
 ɖé O
 mɛ̀ O
@@ -23364,9 +23370,9 @@ tɔn O
 lɛ́ɛ O
 kpódó O
 afɔsɔdotetɔ́ O
-"""" O
+" O
 FMI B-ORG
-"""" O
+" O
 tɔn O
 lɛ́ɛ O
 kpán O
@@ -23376,27 +23382,27 @@ wěmá O
 mɛ̀ O
 ɖò O
 azɔwatɛn O
-"""" O
+" O
 FMI B-ORG
-"""" O
+" O
 tɔn O
 ɔ́ O
-"""" O
+, O
+
 bó O
 ká O
 ɖòtè O
 kpɔ́n O
 ɖɔ O
-"""" O
+, O
 FMI B-ORG
-"""" O
+, O
 sín O
 gán O
 lɛ́ɛ O
 ní O
 ɖè O
 gbè O
-
 . O
 
 Gbɔn O
@@ -23407,11 +23413,11 @@ xó O
 lɛ́ɛ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 nukɔntɔ́ O
-"""" O
+" O
 FMI B-ORG
-"""" O
+" O
 tɔn O
 lɛ́ɛ O
 ná O
@@ -23420,12 +23426,12 @@ wěmá O
 nɛ́ O
 ɔ́ O
 kpɔ́n O
-"""" O
+, O
 é O
 lín O
 din O
 ɔ́ O
-"""" O
+, O
 nǔxwásùn B-DATE
 ɔ́ I-DATE
 sín I-DATE
@@ -23459,7 +23465,7 @@ azɔnkwín O
 kolonâ O
 gblamɛ O
 lɛ́ɛ O
-"""" O
+, O
 bó O
 ká O
 ná O
@@ -23474,9 +23480,7 @@ sín O
 azɔ̌ O
 nɔte O
 ɖó O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 wú O
 lɛ́ɛ O
 bó O
@@ -23496,7 +23500,7 @@ káká O
 ó O
 . O
 
-"""" O
+" O
 Akwɛ́ O
 zínzán O
 Benɛ B-LOC
@@ -23520,8 +23524,8 @@ lóbó O
 jɛ O
 gàn O
 gbè O
-"""" O
-"""" O
+" O
+, O
 bɛ́ O
 jɛ O
 Luc B-PER
@@ -23581,7 +23585,7 @@ ná O
 wlán O
 é O
 ɔ́ O
-"""" O
+, O
 ɖó O
 gbè O
 azɔ̌ O
@@ -23610,10 +23614,10 @@ fɔn O
 kàn O
 wú O
 é O
-"""" O
+, O
 Oswald B-PER
 Homeky I-PER
-"""" O
+, O
 ɖò O
 tɛníígbè B-DATE
 azǎn I-DATE
@@ -23661,7 +23665,7 @@ dida O
 wú O
 é O
 kpán O
-"""" O
+, O
 ɖɔ̀ O
 - O
 nú O
@@ -23684,19 +23688,18 @@ fɔn O
 kàn O
 wú O
 é O
-"""" O
+, O
+
 lɔ̌n O
 yì O
 jǐ O
 lɔ̌n O
 fɔn O
-
 kàn O
 zɔ́ O
 wá O
 tɔ́ O
 xóxó O
-
 lɛ́ɛ O
 kpódó O
 kplɔ́n O
@@ -23770,7 +23773,7 @@ azɔ̌ O
 yetɔn O
 tɔn O
 ɔ́ O
-"""" O
+, O
 ye O
 huzu O
 aja O
@@ -23787,7 +23790,7 @@ tɔn O
 ɖò O
 Benɛ B-LOC
 é O
-"""" O
+, O
 nǔ O
 è O
 kàn O
@@ -23801,7 +23804,7 @@ tɛnmɛ O
 lɛ́ɛ O
 kpán O
 é O
-"""" O
+, O
 bó O
 lɛ́ O
 huzu O
@@ -23816,7 +23819,7 @@ lɛ́ɛ O
 nù O
 . O
 
-"""" O
+" O
 Gbɔjɛ O
 má O
 yì O
@@ -23836,15 +23839,13 @@ mɛ O
 bɔ O
 è O
 wɔ́ O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 ɖò O
 mɛ O
 wú O
-"""" O
-"""" O
+" O
+, O
 Benjamin B-PER
 Hùnkpátín I-PER
 wɛ́ O
@@ -23858,7 +23859,7 @@ mɛ O
 kpɔ́n O
 . O
 
-"""" O
+" O
 Amɔ̌ O
 azinzɔnnɔ O
 ɔ́ O
@@ -23874,7 +23875,7 @@ tɔn O
 tɔ́n O
 dó O
 é O
-"""" O
+, O
 bɛ́ O
 xlɛ́ O
 ɖɔ̀ O
@@ -23884,7 +23885,7 @@ azɔnkwín O
 lan O
 tɔn O
 mɛ̀ O
-"""" O
+" O
 é O
 vɛ́ O
 nú O
@@ -23927,7 +23928,7 @@ kolonâ O
 wǔ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 vɛ́ O
 níí O
 taala O
@@ -23941,7 +23942,7 @@ bǐ O
 wɛ́ O
 ɖɔ̀ O
 : O
-"""" O
+" O
 dotóoxwé O
 lɛ́ɛ O
 ɖě O
@@ -23958,7 +23959,7 @@ kolonâ O
 ɔ́ O
 ɖě O
 ǎ O
-"""" O
+, O
 ye O
 ká O
 lɛ́ O
@@ -23968,8 +23969,8 @@ lóbó O
 ná O
 hɛn O
 ǎ O
+" O
 . O
-"""" O
 
 Ye O
 ɖó O
@@ -23996,12 +23997,10 @@ Mɛ O
 ɖokpó O
 ko O
 kú O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 kú O
-"""" O
+, O
 có O
 è O
 ká O
@@ -24030,7 +24029,7 @@ lɛ́ O
 vɔ́ O
 sɔ́ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 sɔ́ O
@@ -24083,7 +24082,7 @@ mɛ̀ O
 ɖò O
 mɔ̌ O
 có O
-"""" O
+, O
 vogbingbɔn O
 kpɛɖé O
 ná O
@@ -24114,17 +24113,18 @@ nǔwíwá O
 lɛ́ɛ O
 mɛ̀ O
 . O
+
 Adonis B-PER
 Bohoun I-PER
 xó O
 wlantɔ́ O
 cyancyan O
-"""" O
+, O
 tògán O
 sísɔ́ O
 2021ɔ́ O
 tɔn O
-"""" O
+, O
 xó O
 ɖěbǔ O
 ɖè O
@@ -24202,7 +24202,7 @@ axi O
 nɛ́ O
 : O
 Togonu O
-"""" O
+, O
 Buukinanu O
 kpódó O
 Nijɛɛnu O
@@ -24250,7 +24250,7 @@ dó O
 é O
 . O
 
-"""" O
+, O
 Tò O
 nɛ́ O
 lɛ́ɛ O
@@ -24264,9 +24264,9 @@ sɔxa O
 nabí O
 ɖé O
 . O
-"""" O
+, O
 
-"""" O
+" O
 È O
 ɖó O
 ná O
@@ -24289,8 +24289,8 @@ Benɛ B-LOC
 tò O
 mɛ̀ O
 ó O
-"""" O
-"""" O
+" O
+, O
 tokpɔngán O
 Iliassou B-PER
 Ainin I-PER
@@ -24301,20 +24301,18 @@ nǔ O
 nɛ́ O
 mɛ̀ O
 bɔ O
-"""" O
+, O
 Agence B-ORG
 Bénin I-ORG
 Presse I-ORG
-"""" O
+, O
 ɖetɔ́n O
 . O
 
 Mɛɖé O
 ko O
 bɛ́ O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɖò O
 Dɔnga B-LOC
 bɔ O
@@ -24366,9 +24364,7 @@ ná O
 liza O
 xá O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 é O
 . O
@@ -24377,9 +24373,9 @@ Vincent B-PER
 Agé I-PER
 Xó O
 tají O
-"""" O
+, O
 tòxóɖiɖɔ O
-"""" O
+, O
 tògán O
 sísɔ́ O
 xwè B-DATE
@@ -24417,7 +24413,7 @@ ná O
 dalɔ O
 azɔxwé O
 lɛ́ɛ O
-"""" O
+, O
 alɔnuzɔwatɔ́ O
 kpódó O
 tòví O
@@ -24454,7 +24450,7 @@ xwè I-DATE
 2020ɔ́ I-DATE
 tɔn O
 ɔ́ O
-"""" O
+, O
 ye O
 sɔ́ O
 gbetakɛ́n O
@@ -24489,7 +24485,7 @@ Acɛkpìkpà O
 sɔ́ O
 liva O
 74 O
-"""" O
+, O
 12 O
 bó O
 ná O
@@ -24505,7 +24501,7 @@ alɔ O
 dó O
 azɔxwé O
 lɛ́ɛ O
-"""" O
+, O
 alɔnuzɔwatɔ́ O
 lɛ́ɛ O
 kpódó O
@@ -24545,7 +24541,7 @@ kolonâ O
 : O
 éhɔ́nmɛ O
 ɔ́ O
-"""" O
+, O
 sinsɛnnuwatɛn O
 lɛ́ɛ O
 kpódó O
@@ -24569,7 +24565,7 @@ Marius B-PER
 Dosu I-PER
 - I-PER
 Yovo I-PER
-"""" O
+, O
 ée O
 nyí O
 hwɛzɔwatɔ́ O
@@ -24582,7 +24578,7 @@ céɖé O
 céɖé O
 é O
 ɔ́ O
-"""" O
+, O
 sín O
 xóɖiɖɔ O
 jí O
@@ -24596,7 +24592,7 @@ xó O
 lɛ́ɛ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 ɖɔ O
 nú O
 è O
@@ -24635,11 +24631,11 @@ xó O
 gege O
 ɖevo O
 lɛ́ɛ O
-"""" O
+, O
 ɖò O
 tají O
 ɔ́ O
-"""" O
+, O
 ée O
 kàn O
 ɖɔ O
@@ -24663,7 +24659,7 @@ lɛ́ɛ O
 È O
 flín O
 ɖɔ O
-"""" O
+, O
 ɖɔ O
 nú O
 è O
@@ -24674,7 +24670,7 @@ tɔ́ O
 Ignace B-PER
 Sosú I-PER
 ɔ́ O
-"""" O
+, O
 lě O
 nǔ O
 nyí O
@@ -24700,20 +24696,20 @@ tɔn O
 Mɔ̌ O
 ɖokpó O
 ɔ́ O
-"""" O
+, O
 Casimir B-PER
 Kpejo I-PER
 ɔ́ O
-"""" O
+, O
 xó O
 tɔn O
 ɖò O
 hwɛgun O
 din O
 ɖò O
-"""" O
+" O
 Criet B-ORG
-"""" O
+" O
 ɖó O
 élɔ́ O
 gbà O
@@ -24723,8 +24719,8 @@ nɛ́ O
 ɔ́ O
 wú O
 ; O
-é O
 
+é O
 jlá O
 nǔ O
 è O
@@ -24732,7 +24728,6 @@ kàn O
 akwɛ́ O
 zínkán O
 tò O
-
 ɔ́ O
 tɔn O
 é O
@@ -24826,7 +24821,7 @@ aklunɔzangbè B-DATE
 é O
 . O
 
-"""" O
+, O
 Nǔ O
 wá O
 nyì O
@@ -24841,7 +24836,7 @@ sɔ́mì O
 sɔ́mì O
 ɔ́ O
 wú O
-"""" O
+, O
 mesi O
 ɖaxó O
 Joseph B-PER
@@ -24896,7 +24891,7 @@ wá O
 yì O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 sɛ́n O
 dódó O
 gbásá O
@@ -24906,7 +24901,7 @@ kpɛɖé O
 jí O
 
 Hǔn O
-"""" O
+, O
 sɛ́n O
 gbásá O
 dódó O
@@ -24922,7 +24917,7 @@ lɛ́ɛ O
 tɔn O
 nyí O
 50 O
-"""" O
+, O
 63 O
 % O
 . O
@@ -24931,7 +24926,7 @@ Kɛ́n O
 ɖíɖó O
 nɛ́ O
 ɔ́ O
-"""" O
+, O
 sɛ́n O
 dódó O
 gbásá O
@@ -24939,7 +24934,7 @@ gbásá O
 tó O
 ná O
 hwɛ̌ O
-"""" O
+, O
 é O
 lɛ́ O
 ɖó O
@@ -24968,7 +24963,7 @@ tɔn O
 . O
 
 Amɔ̌ O
-"""" O
+, O
 nǔ O
 è O
 è O
@@ -24987,16 +24982,14 @@ wɛ O
 
 Jelemi B-PER
 Adomahun I-PER
-"""" O
-"""" O
-Cos O
-- O
-Lépi O
-"""" O
+, O
+" O
+Cos-Lépi O
+" O
 sín O
 nukɔntɔ́ O
 ɔ́ O
-"""" O
+, O
 flín O
 ɖɔ O
 sɔ́mì O
@@ -25042,16 +25035,15 @@ gbɔn O
 kpán O
 wú O
 ; O
+
 bɔ O
 sɛ́n O
 wegɔ́ O
-
 ɔ́ O
 kunkpla O
 nunɔmɛ O
 è O
 wěmá O
-
 kpéwún O
 kpéwún O
 ée O
@@ -25100,7 +25092,7 @@ xwè B-DATE
 2019ɔ́ I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 sɔ́mì O
 sɔ́mì O
 wémá O
@@ -25213,7 +25205,7 @@ tɔ́ O
 ɔ́ O
 ɖɔ O
 mɛjí O
-"""" O
+, O
 ayijayǐ O
 xó O
 ɔ́ O
@@ -25237,12 +25229,12 @@ hwɛ O
 lí O
 jí O
 lɛ́ɛ O
-"""" O
+, O
 tokpɔnán O
-"""" O
+, O
 lɔkpazɔwatɔ́ O
 lɛ́ɛ O
-"""" O
+, O
 azɔxwé O
 kpáa O
 ée O
@@ -25252,7 +25244,7 @@ lí O
 nù O
 lɛ́ɛ O
 é O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -25268,7 +25260,7 @@ ayijayǐ O
 xó O
 wú O
 é O
-"""" O
+, O
 ée O
 nɔ́ O
 kpénúkún O
@@ -25279,12 +25271,11 @@ wá O
 dòkɔ̀ O
 wú O
 é O
-"""" O
-ɖɛmɛnu O
+, O
 
+ɖɛmɛnu O
 lɛ́ɛ O
 kpódó O
-
 alɔgɔ́númɛtɔ́ O
 ée O
 ɖò O
@@ -25293,7 +25284,7 @@ gudo O
 lɛ́ɛ O
 é O
 kpán O
-"""" O
+, O
 mɛ O
 bǐ O
 wɛ O
@@ -25314,17 +25305,17 @@ ayijayǐ O
 tɔn O
 élɔ́ O
 ɔ́ O
-"""" O
+, O
 Hans B-PER
 Seidel I-PER
-"""" O
+, O
 xwé O
 ɔ́ O
 wɛ́ O
 gɔ́ O
 alɔ O
 ná O
-"""" O
+, O
 gbeta O
 è O
 tɔ́n O
@@ -25332,7 +25323,7 @@ sín O
 mɛ̀ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 gbaví O
 bowun O
 bowun O
@@ -25383,7 +25374,7 @@ nù O
 ( O
 CENA B-ORG
 ) O
-"""" O
+, O
 ko O
 kpɔ́n O
 hwɛn O
@@ -25398,7 +25389,7 @@ xwè I-DATE
 2021ɔ́ I-DATE
 ɔ́ O
 gbè O
-"""" O
+, O
 bɔ O
 fí O
 è O
@@ -25409,7 +25400,8 @@ ná O
 nɔ̀ O
 é O
 ɔ́ O
-"""" O
+, O
+
 é O
 sɔ́ O
 ɖò O
@@ -25425,12 +25417,11 @@ yetɔn O
 lɛ́ɛ O
 kpán O
 núkún O
-
 mɛ̀ O
 . O
+
 Agbahwlɛntɔ́ O
 webɔ O
-
 webɔ O
 nɔ O
 ée O
@@ -25450,7 +25441,7 @@ kpán O
 Énɛ́ O
 gudo O
 ɔ́ O
-"""" O
+, O
 Alassane B-PER
 Soumanou I-PER
 kpódó O
@@ -25500,7 +25491,7 @@ lidósùn I-DATE
 ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 ná O
 nɔ O
 tè O
@@ -25513,7 +25504,7 @@ mɛ̀ O
 nú O
 wěmá O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 mɔ O
@@ -25521,7 +25512,7 @@ wuntun O
 CENA B-ORG
 tɔn O
 ɔ́ O
-"""" O
+, O
 bó O
 ná O
 lɛ́ O
@@ -25554,7 +25545,7 @@ wémá O
 ɔ́ O
 jí O
 ɔ́ O
-"""" O
+, O
 wuntun O
 Agbahwlɛntɔ́ O
 webɔ O
@@ -25580,7 +25571,7 @@ ayizɛn O
 
 Emmanuel B-PER
 Tiando I-PER
-"""" O
+, O
 CENA B-ORG
 sín O
 gǎn O
@@ -25627,13 +25618,13 @@ gbɛ O
 ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 Benɛ B-LOC
 nyɔ́nu O
 ví O
 ɖé O
 wɛ O
-"""" O
+, O
 bɔ O
 è O
 sɔ́ O
@@ -25641,9 +25632,9 @@ sɔ́ O
 gbɔn O
 han O
 tɔn O
-"""" O
+" O
 Celia O
-"""" O
+" O
 è O
 é O
 ji O
@@ -25654,7 +25645,7 @@ gblamɛ O
 Han O
 nɛ́ O
 ɔ́ O
-"""" O
+, O
 é O
 ɖè O
 tɔ́n O
@@ -25665,9 +25656,9 @@ mɛ̀ O
 bó O
 sɔ́ O
 hanjitɔ́ O
-"""" O
+" O
 Cuba B-LOC
-"""" O
+" O
 nù O
 Celia B-PER
 Cruz I-PER
@@ -25692,7 +25683,7 @@ din O
 é O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 é O
 bló O
 azɔn O
@@ -25711,20 +25702,20 @@ sɔ́ O
 ɖò O
 tè O
 tɔ́ O
-"""" O
+" O
 Unicef B-ORG
-"""" O
+" O
 tɔn O
 ɔ́ O
-"""" O
+, O
 è O
 sɔ́ O
 ɛ́ O
 ɖò O
-"""" O
+" O
 Grammy O
+" O
 . O
-"""" O
 
 Azɔn O
 atɔngɔ́ O
@@ -25751,10 +25742,10 @@ mɛ̀ O
 kpódó O
 han O
 tɔn O
-"""" O
+, O
 Djin O
 Djin O
-"""" O
+, O
 ɔ́ O
 kpán O
 ɖò O
@@ -25779,7 +25770,7 @@ atɔngɔ́ O
 ɔ́ O
 kpán O
 ɔ́ O
-"""" O
+, O
 é O
 yí O
 ɖò O
@@ -25814,7 +25805,7 @@ aluunsùn I-DATE
 tɔn I-DATE
 gbadanu I-DATE
 ɔ́ O
-"""" O
+, O
 hǔn O
 è O
 ná O
@@ -25832,7 +25823,7 @@ ná O
 nyí O
 mɔ̌ O
 ɔ́ O
-"""" O
+, O
 é O
 ná O
 tó O
@@ -25843,18 +25834,18 @@ Awɔnlin O
 nù O
 ɔ́ O
 hwɛ̌ O
-"""" O
+, O
 é O
 wɛ́ O
 ɖù O
 baba O
 nú O
-"""" O
+" O
 Afrofusion O
 Burna B-PER
 Boy I-PER
-"""" O
-"""" O
+" O
+, O
 ɖò O
 akpáxwé O
 han O
@@ -25881,7 +25872,7 @@ EP21 O
 ɔ́ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 sɛ́n O
 dódó O
 gbásá O
@@ -25914,6 +25905,7 @@ gbè O
 lɛ́ɛ O
 é O
 . O
+
 Dotóo O
 gán O
 ɖokpó O
@@ -25922,14 +25914,12 @@ mɛ O
 ée O
 xò O
 kpó O
-
 ɖó O
 níí O
 ɔ́ O
 kpán O
 nú O
 akpáxwé O
-
 ayizɛn O
 ée O
 kan O
@@ -25952,7 +25942,7 @@ nɛ́ O
 tɔn O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 azɔ̌ O
 è O
 nyí O
@@ -25976,7 +25966,7 @@ Lucien B-PER
 Dòsú I-PER
 - I-PER
 Yovo I-PER
-"""" O
+, O
 dotóoxwé B-ORG
 Louis I-ORG
 Pasteur I-ORG
@@ -25996,7 +25986,7 @@ Mɛ O
 ka O
 nyí O
 Sakina B-PER
-"""" O
+, O
 nyɔ̌nu O
 akowunka B-LOC
 Woria I-LOC
@@ -26007,18 +25997,18 @@ Aklunɔzángbla B-DATE
 we I-DATE
 gudo O
 ɔ́ O
-"""" O
+, O
 éyɛ́ O
 è O
 jɛ O
 nyǐ O
-"""" O
+, O
 Akowunka B-LOC
 Woria I-LOC
 tɔn O
-"""" O
+, O
 ɔ́ O
-"""" O
+, O
 wá O
 Kutɔnu B-LOC
 bó O
@@ -26144,14 +26134,14 @@ xwé O
 ɔ́ O
 gbɔn O
 ɔ́ O
-"""" O
+, O
 mɛ O
 ée O
 gbá O
 é O
 wɛ́ O
 ɖɔ O
-"""" O
+, O
 bɔ O
 è O
 sɔ́ O
@@ -26200,7 +26190,7 @@ wlí O
 wú O
 . O
 
-"""" O
+" O
 Acɛkpìkpà O
 ɔ́ O
 ɖò O
@@ -26235,8 +26225,8 @@ nú O
 tò O
 ɔ́ O
 bǐ O
-"""" O
-"""" O
+" O
+, O
 gǎn O
 - O
 hɔn O
@@ -26271,7 +26261,7 @@ wɛ O
 è O
 ná O
 ɖayǐ O
-"""" O
+, O
 din O
 ɔ́ O
 è O
@@ -26318,10 +26308,10 @@ dó O
 amisa O
 xwé O
 lɛ́ɛ O
-"""" O
+, O
 sɛkpetɛn O
 lɛ́ɛ O
-"""" O
+, O
 goxɔ O
 lɛ́ɛ O
 kpódó O
@@ -26331,7 +26321,7 @@ kpán O
 súsú O
 nù O
 ɔ́ O
-"""" O
+, O
 ná O
 xò O
 flógò O
@@ -26380,7 +26370,7 @@ lidósùn I-DATE
 tɔn O
 gbè O
 ɔ́ O
-"""" O
+, O
 Benɛ B-LOC
 xlé O
 ɖɔ O
@@ -26422,7 +26412,7 @@ linlin O
 nɛ́ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 wěmá O
 yí O
 bó O
@@ -26432,7 +26422,7 @@ Benɛ B-LOC
 tò O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 ɖó O
 jlɛ̌ O
 . O
@@ -26449,7 +26439,7 @@ ná O
 wá O
 Benɛ B-LOC
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 zín O
@@ -26468,7 +26458,7 @@ hwɛ̌ O
 Énɛ́ O
 wú O
 ɔ́ O
-"""" O
+, O
 è O
 yí O
 xɔ̀ O
@@ -26532,10 +26522,10 @@ yì O
 azɔgbénu O
 ɖě O
 ó O
-"""" O
+, O
 nǔwíwá O
 ɖé O
-"""" O
+, O
 agɔ̌ O
 ɖúɖú O
 gannyǐ O
@@ -26549,15 +26539,15 @@ jǐ O
 lɔ̌n O
 fɔn O
 kàn O
-"""" O
+, O
 hwɛndo O
 nú O
 wíwá O
-"""" O
+, O
 sinsɛn O
 nú O
 wíwá O
-"""" O
+, O
 tòxò O
 ɖíɖɔ́ O
 ɖé O
@@ -26565,7 +26555,7 @@ kún O
 ná O
 tîin O
 ó O
-"""" O
+, O
 mɔ̌ O
 ɖokpó O
 
@@ -26585,7 +26575,7 @@ tîin O
 
 Galiou B-PER
 Soglo I-PER
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -26618,7 +26608,8 @@ xwè I-DATE
 tɔn O
 gbè O
 ɔ́ O
-"""" O
+, O
+
 awě O
 ɖé O
 xò O
@@ -26638,7 +26629,6 @@ wǔ O
 í O
 kpódó O
 tú O
-
 kpán O
 . O
 
@@ -26650,7 +26640,7 @@ bɔ O
 kplɛ́ O
 yì O
 CNHU B-ORG
-"""" I-ORG
+, I-ORG
 Hubert I-ORG
 Maga I-ORG
 tɔn O
@@ -26680,7 +26670,7 @@ Agbomɛ B-LOC
 Kánɖòfí I-LOC
 é O
 mɛ̀ O
-"""" O
+, O
 bɔ O
 adǎn O
 mɔ̌wun O
@@ -26705,7 +26695,7 @@ bɔ O
 nǔ O
 nɛ́ O
 jɛ O
-"""" O
+, O
 lě O
 nǔ O
 lɛ́ɛ O
@@ -26713,13 +26703,13 @@ ká O
 nyí O
 gbɔn O
 ɔ́ O
-"""" O
+, O
 mɛɖé O
 ká O
 ko O
 tuun O
 ǎ O
-"""" O
+, O
 mɛ O
 bǐ O
 wɛ́ O
@@ -26752,14 +26742,14 @@ jɛ O
 ye O
 wɛ́ O
 nyí O
-"""" O
+" O
 Démocrates B-ORG
 lɛ́ɛ́ O
-"""" O
+, O
 FCBE B-ORG
-"""" O
+, O
 PRD B-ORG
-"""" O
+, O
 Front B-ORG
 pour I-ORG
 la I-ORG
@@ -26767,8 +26757,8 @@ restauration I-ORG
 de I-ORG
 la I-ORG
 démocratie I-ORG
+" O
 . O
-"""" O
 
 Ye O
 ɖò O
@@ -26788,7 +26778,7 @@ dó O
 xó O
 nɛ́ O
 jí O
-"""" O
+, O
 ní O
 bó O
 ká O
@@ -26852,7 +26842,7 @@ azɔnkwín O
 mɛ̀ O
 . O
 
-"""" O
+" O
 Di O
 lě O
 mí O
@@ -26861,7 +26851,7 @@ tuun O
 gbɔn O
 é O
 ɔ́ O
-"""" O
+, O
 sín O
 hwenu O
 azɔnkwín O
@@ -26870,7 +26860,7 @@ ko O
 wá O
 é O
 ɔ́ O
-"""" O
+, O
 acɛkpìkpà O
 ɔ́ O
 sɔ́ O
@@ -26902,14 +26892,14 @@ avatɛn O
 nú O
 azǎn B-DATE
 woɛnɛ I-DATE
-"""" O
+, O
 bɔ O
 azǎn O
 nɛ́ O
 lɛ́ɛ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 mì O
 nɔ́ O
 gbéjé O
@@ -26930,7 +26920,7 @@ nɔ́ O
 jó O
 yě O
 dó O
-"""" O
+" O
 Benjamin B-PER
 Hùnkpátín I-PER
 wɛ́ O
@@ -26944,7 +26934,7 @@ wá O
 tɛn O
 ɔ́ O
 mɛ̀ O
-"""" O
+, O
 è O
 síxú O
 gɔn O
@@ -26994,10 +26984,10 @@ nyǐkɔ́ O
 yetɔn O
 wěmá O
 mɛ̀ O
-"""" O
+, O
 Paul B-PER
 Hunkpɛ I-PER
-"""" O
+, O
 wěgbójínɔtɔ́ O
 tòxó O
 ɖɔ́ O
@@ -27025,16 +27015,16 @@ sín O
 mɛ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 tòxó O
 ɖɔ́ O
 gbɛta O
 acɛkpìkpà O
 ɔ́ O
 tɔn O
-"""" O
+" O
 UP B-ORG
-"""" O
+" O
 ée O
 nyí O
 kplékplé O
@@ -27042,7 +27032,7 @@ kplékplé O
 46 O
 tɔn O
 ɔ́ O
-"""" O
+, O
 lɔ́ɔ O
 wá O
 CENA B-ORG
@@ -27056,7 +27046,7 @@ mɛ̀ O
 
 Modeste B-PER
 Kérékou I-PER
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -27081,7 +27071,7 @@ bíbá O
 kpán O
 wú O
 ɔ́ O
-"""" O
+, O
 hùn O
 nǔ O
 sín O
@@ -27105,8 +27095,8 @@ lɛ́ɛ O
 hɛn O
 din O
 ɔ́ O
-"""" O
-"""" O
+, O
+" O
 ye O
 ná O
 kpé O
@@ -27116,11 +27106,11 @@ gege O
 nɔtɛn O
 ɖokpó O
 ɔ́ O
-"""" O
+, O
 bó O
 hɛn O
 ɔ́ O
-"""" O
+, O
 ye O
 ná O
 sɔ́ O
@@ -27132,20 +27122,20 @@ yetɔn O
 kpán O
 dó O
 ajò O
-"""" O
+, O
 lóbónú O
 è O
 ɖó O
 hudo O
 yetɔn O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 yí O
 yě O
-"""" O
-"""" O
+" O
+, O
 nǔ O
 è O
 é O
@@ -27191,7 +27181,7 @@ nɛ́ O
 ɔ́ O
 toolo O
 ɔ́ O
-"""" O
+, O
 ye O
 sukpɔ́ O
 bó O
@@ -27234,7 +27224,7 @@ azɔmɛ O
 wɛ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 tɛn O
 1704 O
 wɛ́ O
@@ -27258,7 +27248,7 @@ din O
 ǎ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 azɔxwé O
 lɛ́ɛ O
 ná O
@@ -27296,15 +27286,13 @@ xwèjísùn I-DATE
 ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 yɛ̌n O
 dó O
 bá O
 gán O
 ɖò O
-kovidi O
-- O
-19 O
+kovidi-19 O
 sí O
 ɔ́ O
 ná O
@@ -27350,7 +27338,7 @@ nɔ̀ O
 ganjí O
 wú O
 é O
-"""" O
+, O
 Benjamin B-PER
 Hùnkpátín I-PER
 . O
@@ -27359,16 +27347,16 @@ Benɛ B-LOC
 yí O
 yɛ̌n O
 144000 O
-"""" O
+, O
 AstraZenéca O
-"""" O
+, O
 tɔn O
 kpódó O
 yɛ̌n O
 203000 O
-"""" O
+, O
 CoronaVac O
-"""" O
+, O
 tɔn O
 kpán O
 . O
@@ -27385,7 +27373,7 @@ wɛ́ O
 nyí O
 dotóo O
 lɛ́ɛ O
-"""" O
+, O
 mɛ O
 ée O
 ko O
@@ -27401,20 +27389,20 @@ lɛ́ɛ O
 aɖɔ̌ O
 víví O
 zɔn O
-"""" O
+, O
 hùn O
 yì O
 jǐ O
 zɔn O
-"""" O
+, O
 kpɛ́n O
 gbɔ O
 xíí O
-"""" O
+, O
 hùn O
 jí O
 zɔn O
-"""" O
+, O
 xúɖu O
 xúɖu O
 ) O
@@ -27434,9 +27422,7 @@ kpán O
 Xó O
 è O
 kàn O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 è O
 bǐ O
 : O
@@ -27446,7 +27432,7 @@ dídó O
 nɛ́ O
 gudo O
 ɔ́ O
-"""" O
+, O
 Benjamin B-PER
 Hùnkpátín I-PER
 ná O
@@ -27473,9 +27459,7 @@ za O
 li O
 xá O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 wɛ́ O
 é O
 gɔ́n O
@@ -27543,7 +27527,7 @@ azɔnkwín O
 ɔ́ O
 ɖó O
 ǎ O
-"""" O
+, O
 Benjamin B-PER
 Hùnkpátín I-PER
 wɛ́ O
@@ -27563,7 +27547,7 @@ alɔ O
 nú O
 azɔnkwín O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 vún O
@@ -27576,7 +27560,7 @@ xwè I-DATE
 2020ɔ́ I-DATE
 tɔn O
 gbè O
-"""" O
+, O
 amɔ̌ O
 za O
 li O
@@ -27606,7 +27590,7 @@ yì O
 é O
 dó O
 ɔ́ O
-"""" O
+, O
 ye O
 sɔ́ O
 gbetakɛ́n O
@@ -27626,7 +27610,7 @@ wá O
 wú O
 kpɛɖé O
 kpɛɖé O
-"""" O
+, O
 bó O
 ká O
 xwédó O
@@ -27652,7 +27636,7 @@ xwèjísùn I-DATE
 ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 azɔn O
 we O
 wɛ O
@@ -27662,7 +27646,7 @@ sísɛ́ O
 
 dó O
 nukɔn O
-"""" O
+, O
 bɛ́ O
 
 gbɔn O
@@ -27700,7 +27684,7 @@ mɔ O
 kwɛ́ O
 ná O
 bɛ́ O
-"""" O
+, O
 bɔ O
 mɛ O
 ɖokpó O
@@ -27724,7 +27708,7 @@ nɛ́ O
 lí O
 nù O
 ǎ O
-"""" O
+, O
 mɔ̌ O
 wú O
 wɛ O
@@ -27765,7 +27749,7 @@ gbaví O
 nukpɛ́nnɔ O
 gɔnu O
 lɛ́ɛ O
-"""" O
+, O
 gbaví O
 bowun O
 bowun O
@@ -27779,7 +27763,7 @@ nù O
 ( O
 HAAC B-ORG
 ) O
-"""" O
+, O
 ɖè O
 ɖɔ O
 nú O
@@ -27795,7 +27779,7 @@ xwè I-DATE
 2020ɔ́ I-DATE
 tɔn O
 gbè O
-"""" O
+, O
 bó O
 nyì O
 gbehwan O
@@ -27844,7 +27828,7 @@ tò O
 mɛ̀ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 ényí O
 ye O
 má O
@@ -27854,7 +27838,7 @@ HAAC B-ORG
 tɔn O
 ǎ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 jɛ O
@@ -27876,7 +27860,7 @@ HAAC B-ORG
 nù O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 xó O
 jíjlá O
 gbɔn O
@@ -27914,7 +27898,7 @@ gɔnu O
 kpáa O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 cóbónú O
 ye O
 ná O
@@ -27923,7 +27907,7 @@ dó O
 mɔkàn O
 jí O
 ɔ́ O
-"""" O
+, O
 sɛ́n O
 è O
 ná O
@@ -27939,7 +27923,8 @@ hwɛ̌ O
 ɔ́ O
 ɖye O
 : O
-"""" O
+
+" O
 Xó O
 jlá O
 zɔ́ O
@@ -27953,7 +27938,7 @@ alɔkpa O
 Benɛ B-LOC
 tò O
 ɔ́ O
-"""" O
+, O
 é O
 síxú O
 nyí O
@@ -27963,12 +27948,10 @@ alǒ O
 nɔ́ O
 bló O
 bó O
-
 nɔ́ O
 yí O
 kwɛ́ O
-"""" O
-
+, O
 HAAC B-ORG
 wɛ́ O
 ná O
@@ -27977,15 +27960,16 @@ ná O
 gbè O
 tɔn O
 hwɛ̌ O
+" O
 . O
-"""" O
+
 Sɛ́nkwín O
 ée O
 ɖɔ̀nǔ O
 dé O
 nù O
 ɔ́ O
-"""" O
+, O
 xixa O
 tɔn O
 ɖye O
@@ -27993,9 +27977,7 @@ tɔn O
 sɛ́nkwín O
 252ɔ́ O
 sɛ́n O
-2015 O
-- O
-07 O
+2015-07 O
 azǎn B-DATE
 20 I-DATE
 xwèjísùn I-DATE
@@ -28021,7 +28003,7 @@ sín O
 ali O
 nù O
 ɔ́ O
-"""" O
+, O
 xó O
 jíjlá O
 gbɔn O
@@ -28074,7 +28056,7 @@ mɔkpán O
 ɖye O
 ɖokpóo O
 ɔ́ O
-"""" O
+, O
 sɛ́n O
 jɛn O
 HAAC B-ORG
@@ -28101,7 +28083,7 @@ yɔywɛ O
 mɛ̀ O
 din O
 ɔ́ O
-"""" O
+, O
 Benɛ B-LOC
 tò O
 ɔ́ O
@@ -28154,7 +28136,7 @@ tɔn O
 ɖù O
 wɛ O
 ɔ́ O
-"""" O
+, O
 mɛ O
 ée O
 nɔ́ O
@@ -28189,10 +28171,10 @@ gbɛ O
 ɔ́ O
 tɔn O
 ɛnɛ O
-"""" O
+, O
 Grammy's O
 Award O
-"""" O
+, O
 tɔn O
 lɛ́ɛ O
 sɔ́ O
@@ -28209,7 +28191,7 @@ yì O
 - I-LOC
 Unis I-LOC
 ɔ́ O
-"""" O
+, O
 bó O
 gosin O
 Paris B-LOC
@@ -28217,7 +28199,7 @@ wá O
 yì O
 Johannesburg B-LOC
 ɔ́ O
-"""" O
+, O
 xɔntɔn O
 tɔn O
 lɛ́ɛ O
@@ -28247,11 +28229,11 @@ kplé O
 Alicia B-PER
 Keys I-PER
 ɖémɛ O
-"""" O
+, O
 Salif B-PER
 Kéïta I-PER
 ɖémɛ O
-"""" O
+, O
 Baaba B-PER
 Mall I-PER
 ɖémɛ O
@@ -28306,7 +28288,7 @@ Benɛ B-LOC
 yíkúngban O
 jí O
 ɔ́ O
-"""" O
+, O
 wlán O
 nǔ O
 dó O
@@ -28373,7 +28355,7 @@ gbè O
 webɔ O
 webɔ O
 ɔ́ O
-"""" O
+, O
 hwenuxó O
 yaɖé O
 yaɖé O
@@ -28390,6 +28372,7 @@ lí O
 nù O
 nɛ́ O
 . O
+
 Ɖò O
 xó O
 è O
@@ -28398,18 +28381,17 @@ tòxó O
 gbɛ́ O
 ví O
 tɔn O
-"""" O
+" O
 UP B-ORG
-"""" O
+" O
 tɔn O
-
 lɛ́ɛ O
 ɖɔ O
 mɛ̀ O
 ɔ́ O
-"""" O
-é O
+, O
 
+é O
 tlɛ O
 ɖò O
 tutomɛ O
@@ -28456,7 +28438,7 @@ yeɖee O
 mɛ O
 ǎ O
 wú O
-"""" O
+, O
 Abraham B-PER
 Zinzinɖoxwé I-PER
 wɛ O
@@ -28472,10 +28454,10 @@ gbaví O
 bowun O
 bowun O
 gɔnu O
-"""" O
+" O
 Frisson B-ORG
 Radio I-ORG
-"""" O
+" O
 jí O
 . O
 
@@ -28484,15 +28466,15 @@ Nǔ O
 ganjí O
 wɛ́ O
 ɔ́ O
-"""" O
-"""" O
+, O
+" O
 Bloc B-ORG
 Républicain I-ORG
-"""" O
+" O
 kpódó O
-"""" O
+" O
 UP B-ORG
-"""" O
+" O
 kpán O
 ná O
 ko O
@@ -28538,7 +28520,7 @@ kpáa O
 tɔn O
 wú O
 é O
-"""" O
+, O
 Sacca B-PER
 Lafia I-PER
 ( O
@@ -28562,7 +28544,7 @@ gbà O
 jí O
 gán O
 ɔ́ O
-"""" O
+, O
 Robert B-PER
 Gbian I-PER
 ǎ O
@@ -28690,7 +28672,7 @@ CAN O
 ɔ́ O
 ǎ O
 ɔ́ O
-"""" O
+, O
 tò O
 è O
 ko O
@@ -28707,9 +28689,9 @@ ná O
 gbɔ́ O
 bó O
 xò O
-"""" O
+, O
 CHAN O
-"""" O
+, O
 yetɔn O
 ɖò O
 Caméroun B-LOC
@@ -28759,7 +28741,7 @@ tɛnwe I-DATE
 ɔ́ O
 dòmɛ O
 ɔ́ O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -28833,6 +28815,7 @@ nɛ́ O
 ná O
 nyɔ́ O
 . O
+
 Awɔntin O
 hwɛ́n O
 ayǐ O
@@ -28848,19 +28831,17 @@ síxú O
 bɛ́ O
 gbɔn O
 lé O
-"""" O
+, O
 bɛ́ O
 ná O
 nyí O
 nyɔ̌na O
 nú O
-
 azɔxwé O
 ée O
 ɖò O
 mɔzo O
 kpódó O
-
 mɔkàn O
 kpán O
 lí O
@@ -28877,8 +28858,9 @@ yetɔn O
 ná O
 jɛ O
 ajò O
-"""" O
-"""" O
+" O
+, O
+
 lě O
 gbè O
 ɖíɖó O
@@ -28893,7 +28875,7 @@ nɛ́ O
 Ɖò O
 fúfónu O
 ɔ́ O
-"""" O
+, O
 sɔ́mì O
 sɔ́mì O
 ɔ́ O
@@ -28925,7 +28907,7 @@ gbɔn O
 nɛ́ O
 . O
 
-"""" O
+" O
 Nǔgbó O
 wɛ O
 bɔ O
@@ -28967,13 +28949,13 @@ sín O
 wiwe O
 wú O
 ǎ O
-"""" O
-"""" O
+" O
+, O
 lě O
 Geneviève B-PER
 Bocco I-PER
 Najɔ I-PER
-"""" O
+, O
 gǎn O
 bɔ O
 dó O
@@ -28991,7 +28973,7 @@ Kɛ́n O
 sísɔ́ O
 gbá O
 ɔ́ O
-"""" O
+, O
 ko O
 wá O
 CENA B-ORG
@@ -29001,7 +28983,7 @@ yì O
 % O
 có O
 ɔ́ O
-"""" O
+, O
 CENA B-ORG
 gbɛ́ O
 ɖɔ O
@@ -29049,7 +29031,8 @@ aklunɔzangbla I-DATE
 ɔ́ O
 tɔn O
 . O
-"""" O
+
+" O
 Tutomɛ O
 è O
 mì O
@@ -29070,7 +29053,7 @@ ná O
 ná O
 kɛ́n O
 ɔ́ O
-"""" O
+, O
 amɔ̌ O
 nyɛ O
 mɔ O
@@ -29078,22 +29061,20 @@ mɔ O
 kɛ́n O
 níná O
 ɔ́ O
-
 ná O
 ko O
 tɔn O
 nɛ́ O
-"""" O
+, O
 é O
-
 lín O
 din O
 azǎngagbè B-DATE
 ée O
 jǎwe O
 é O
+" O
 . O
-"""" O
 
 Ée O
 è O
@@ -29120,7 +29101,7 @@ wɛ O
 ɔ́ O
 jí O
 ɔ́ O
-"""" O
+, O
 é O
 ɖɔ O
 CENA B-ORG
@@ -29141,7 +29122,7 @@ ná O
 ó O
 . O
 
-"""" O
+" O
 Mì O
 lɔ́ɔ O
 sè O
@@ -29161,8 +29142,8 @@ tɔn O
 ɔ́ O
 ɖě O
 ǎ O
-"""" O
-"""" O
+" O
+, O
 Geneviève B-PER
 Bocco I-PER
 Najɔ I-PER
@@ -29186,7 +29167,7 @@ ali O
 nɛ́ O
 nù O
 ɔ́ O
-"""" O
+, O
 sɛ́n O
 gbá O
 jí O
@@ -29197,7 +29178,7 @@ wɛ O
 ná O
 ɖɔ O
 ná O
-"""" O
+, O
 eyɛ O
 kɛɖɛ O
 wɛ́ O
@@ -29223,13 +29204,11 @@ Benɛ B-LOC
 zali O
 xá O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 lí O
 nù O
 ɔ́ O
-"""" O
+, O
 tutomɛ O
 ée O
 nɔ́ O
@@ -29245,7 +29224,7 @@ gbɛ O
 ɔ́ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 gbɔn O
 afɔ O
 sɔ́ O
@@ -29306,6 +29285,7 @@ xwè I-DATE
 tɔn O
 gbè O
 . O
+
 Mɛ O
 ɖe O
 sɛdo O
@@ -29323,30 +29303,29 @@ nukɔn O
 sya O
 ná O
 ɔ́ O
-"""" O
+, O
+
 hɛn O
 alyannu O
 tɛnmɛ O
-
 tɛnmɛ O
 wá O
 : O
 avɔ O
 è O
 dotóo O
-
 lɛ́ɛ O
 nɔ O
 sìn O
 kɔ O
 é O
-"""" O
+, O
 cici O
-"""" O
+, O
 awɔntin O
 cyɔn O
 nù O
-"""" O
+, O
 awu O
 è O
 dotóo O
@@ -29354,7 +29333,7 @@ lɛ́ɛ O
 nɔ O
 dó O
 é O
-"""" O
+, O
 . O
 . O
 . O
@@ -29373,7 +29352,7 @@ tɔn O
 ɔ́ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 alyannu O
 nukɔntɔn O
 è O
@@ -29382,7 +29361,7 @@ ná O
 nɛ́ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 bɛ́ O
@@ -29414,7 +29393,7 @@ lɛ́ɛ O
 ná O
 wá O
 gɔna O
-"""" O
+, O
 lě O
 Harouna B-PER
 Djingarey I-PER
@@ -29431,7 +29410,7 @@ sín O
 nyǐkɔ O
 mɛ O
 ɔ́ O
-"""" O
+, O
 mɛ O
 bɔ́ O
 dó O
@@ -29500,7 +29479,7 @@ nyǐ O
 ɖayǐ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 alyannu O
 è O
 OMS B-ORG
@@ -29567,7 +29546,7 @@ azɔnkwín O
 kolonâ O
 ɔ́ O
 bǐ O
-"""" O
+, O
 Adonis B-PER
 Bohoun I-PER
 . O
@@ -29646,7 +29625,7 @@ hwɛ̌ O
 mɛ O
 . O
 
-"""" O
+" O
 Sín O
 azǎn B-DATE
 15ɔ́ I-DATE
@@ -29656,7 +29635,7 @@ wá O
 yì O
 tɔn O
 ɔ́ O
-"""" O
+, O
 mì O
 sú O
 hɔn O
@@ -29671,16 +29650,17 @@ xɛ O
 azɔgbɛ O
 mìtɔn O
 lɛ́ɛ O
-"""" O
+, O
 hɛ̌nnu O
 mìtɔn O
 lɛ́ɛ O
-"""" O
+, O
+
 axisinɔ O
 mìtɔn O
 lɛ́ɛ O
 jí O
-"""" O
+, O
 bó O
 ká O
 ná O
@@ -29694,14 +29674,13 @@ acɛkpìkpà O
 ɔ́ O
 tɔn O
 lɛ́ɛ O
-"""" O
+" O
+, O
 
-"""" O
 nǔ O
 è O
 Clarisse B-PER
 Gauthe I-PER
-
 tínmɛ O
 é O
 nɛ́ O
@@ -29724,7 +29703,7 @@ bɔ O
 sú O
 hɔn O
 ɔ́ O
-"""" O
+, O
 è O
 bo O
 ká O
@@ -29744,7 +29723,7 @@ wà O
 azɔ̌ O
 ɖě O
 ó O
-"""" O
+, O
 bó O
 ká O
 lɛ́ O
@@ -29776,7 +29755,7 @@ wɛ O
 syɛn O
 có O
 ɔ́ O
-"""" O
+, O
 Clarisse B-PER
 Gauthe I-PER
 ká O
@@ -29786,7 +29765,7 @@ ná O
 ǎ O
 . O
 
-"""" O
+" O
 Akwɛ O
 síxú O
 xɔ O
@@ -29795,7 +29774,7 @@ ná O
 nɔ O
 ganjí O
 ǎ O
-"""" O
+, O
 nǔ O
 tají O
 wɛ O
@@ -29816,7 +29795,7 @@ cí O
 alɔkpa O
 ɖěbǔ O
 ɔ́ O
-"""" O
+, O
 akwɛ O
 biba O
 wɛ O
@@ -29839,7 +29818,7 @@ tòxò O
 mɛ̀ O
 ǎ O
 ɔ́ O
-"""" O
+, O
 aní O
 bà O
 è O
@@ -29867,12 +29846,12 @@ mɛɖee O
 tɔn O
 gán O
 ɔ́ O
-"""" O
+, O
 é O
 nyɔ O
 hú O
-"""" O
-"""" O
+, O
+, O
 lě O
 é O
 ɖɔ O
@@ -29886,12 +29865,10 @@ Clarisse B-PER
 Gauthe I-PER
 ɖɔhun O
 ɔ́ O
-"""" O
+, O
 jɔhɔn O
 nyanya O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 tɔn O
 ɔ́ O
 ɖò O
@@ -29904,7 +29881,7 @@ tɔn O
 lɛ́ɛ O
 jí O
 wɛ O
-"""" O
+, O
 gǎn O
 azɔwatɛn O
 ée O
@@ -29932,7 +29909,7 @@ ná O
 tîin O
 ó O
 ɔ́ O
-"""" O
+, O
 nǔwíwá O
 ɖélɛ́ɛ O
 sɔ O
@@ -29979,26 +29956,26 @@ lɛ́ɛ O
 Nú O
 yedɛlɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 nǔ O
 ɔ́ O
 tlɛ O
 blawu O
 . O
 
-"""" O
+" O
 Ɖó O
-"""" O
+, O
 hwɛ̌ O
 ɔ́ O
-"""" O
+, O
 akwɛ O
 è O
 è O
 nɔ O
 sú O
 mǐ O
-"""" O
+, O
 ɖó O
 mì O
 nyí O
@@ -30011,7 +29988,7 @@ tɔ́ O
 lɛ́ɛ O
 wú O
 ɔ́ O
-"""" O
+, O
 è O
 sɔ O
 nɔ O
@@ -30027,7 +30004,7 @@ xwè O
 sɔ O
 ɖè O
 ǎ O
-"""" O
+, O
 bónú O
 nǔ O
 ká O
@@ -30038,7 +30015,7 @@ mɔ̌ O
 cí O
 wɛ O
 ɔ́ O
-"""" O
+, O
 azɔxwé O
 mìtɔn O
 sɔ O
@@ -30047,10 +30024,10 @@ mɔ O
 azɔ̌ O
 ɖé O
 ǎ O
-"""" O
+" O
 Ilarie B-PER
 Amah I-PER
-"""" O
+, O
 wɛ O
 tín O
 nǔ O
@@ -30067,15 +30044,15 @@ lí O
 nù O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 ati O
 azɔgán O
 ó O
-"""" O
+, O
 ati O
 azɔví O
 ó O
-"""" O
+, O
 ɖɛ O
 ɖokpó O
 jɛn O
@@ -30114,9 +30091,9 @@ wú O
 ɔ́ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 atinkɛn O
-"""" O
+" O
 Chloroquine O
 wɛ O
 è O
@@ -30134,7 +30111,7 @@ ná O
 Ortb B-ORG
 azɔnkwín O
 kolonâ O
-"""" O
+, O
 wɛn O
 tají O
 lɛ́ɛ O
@@ -30173,7 +30150,7 @@ lɛ́ɛ O
 sísɔ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 tòxò O
 ɖiɖɔ O
 Benɛ B-LOC
@@ -30221,7 +30198,7 @@ acɛkpìkpà O
 ɔ́ O
 tɔn O
 lɛ́ɛ O
-"""" O
+, O
 Union B-ORG
 Progressiste I-ORG
 ( O
@@ -30251,7 +30228,7 @@ acɛkpìkpà O
 wɛ O
 ǎ O
 ɔ́ O
-"""" O
+, O
 Force B-ORG
 Cauris I-ORG
 pour I-ORG
@@ -30268,7 +30245,7 @@ UDBN B-ORG
 kpódó O
 PRD B-ORG
 kpán O
-"""" O
+, O
 yemɛ O
 we O
 nɛ́ O
@@ -30279,7 +30256,7 @@ agbahwlɛntɔ́ O
 lɛ́ɛ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 kpéwú O
 bó O
 ɖò O
@@ -30313,8 +30290,7 @@ mɛ̀ O
 . O
 
 Tutomɛ O
-10 O
-% O
+10% O
 tɔn O
 ɔ́ O
 xò O
@@ -30345,7 +30321,7 @@ kpán O
 ɖɛmɛnu O
 gbásá O
 ɔ́ O
-"""" O
+, O
 UP B-ORG
 xlɛ O
 ɖɔ O
@@ -30364,7 +30340,7 @@ azinkpo O
 tokpɔnla O
 lɛ́ɛ O
 mɛ̀ O
-"""" O
+, O
 bɔ O
 we O
 ɖò O
@@ -30374,12 +30350,12 @@ nyí O
 tòxò O
 hùn O
 núkún O
-"""" O
+, O
 Kutɔnu B-LOC
 kpódó O
 Xɔgbonu B-LOC
 kpán O
-"""" O
+, O
 ye O
 jɛn O
 ká O
@@ -30396,7 +30372,7 @@ gbɛta O
 BR B-ORG
 hɛn O
 ɔ́ O
-"""" O
+, O
 élɔ́ O
 ná O
 síxú O
@@ -30416,7 +30392,7 @@ mɛ̀ O
 
 Maurice B-PER
 Thantan I-PER
-"""" O
+, O
 xo O
 jlá O
 wlantɔ O
@@ -30424,7 +30400,7 @@ wlantɔ O
 è O
 sɔ́ O
 é O
-"""" O
+, O
 akwɛ O
 zínkán O
 . O
@@ -30439,15 +30415,15 @@ dà O
 gǎ O
 é O
 ɔ́ O
-"""" O
-"""" O
+, O
+" O
 Union B-ORG
 Démocratique I-ORG
 pour I-ORG
 un I-ORG
 Bénin I-ORG
 Nouveau I-ORG
-"""" O
+" O
 ( O
 UDBN B-ORG
 ) O
@@ -30456,15 +30432,15 @@ wɛ O
 jɛ O
 nukɔn O
 tɔntlɔngbɔn O
-"""" O
+, O
 bɔ O
-"""" O
+" O
 Parti B-ORG
 pour I-ORG
 le I-ORG
 Renouveau I-ORG
 Démocratique I-ORG
-"""" O
+" O
 ( O
 PRD B-ORG
 ) O
@@ -30475,14 +30451,14 @@ túnnú O
 tɔn O
 . O
 
-"""" O
+" O
 Forces B-ORG
 Cauris I-ORG
 Pour I-ORG
 un I-ORG
 Bénin I-ORG
 Émergent I-ORG
-"""" O
+" O
 ( O
 FCBE B-ORG
 ) O
@@ -30491,7 +30467,7 @@ wá O
 nyí O
 atɔngɔ́ O
 ɔ́ O
-"""" O
+, O
 Union B-ORG
 Progressiste I-ORG
 ( O
@@ -30533,7 +30509,7 @@ Tògán O
 Patrice B-PER
 TALƆN I-PER
 ɔ́ O
-"""" O
+, O
 yí O
 afɔ O
 sɔ O
@@ -30656,7 +30632,7 @@ Cóbónú O
 sɛ́n O
 nɛ́ O
 ɔ́ O
-"""" O
+, O
 sɛ́n O
 gbásá O
 dódó O
@@ -30665,7 +30641,7 @@ ná O
 dó O
 zogbeji O
 ɔ́ O
-"""" O
+, O
 Patrice B-PER
 TALƆN I-PER
 bà O
@@ -30736,6 +30712,7 @@ kàn O
 mɛ O
 ) O
 . O
+
 Agbahwlɛntɔ O
 95405 O
 wɛ O
@@ -30749,7 +30726,7 @@ bɔ O
 nyí O
 sunnu O
 ɖémɛ O
-"""" O
+, O
 ye O
 má O
 ye O
@@ -30775,7 +30752,6 @@ yì O
 jǐ O
 alà O
 vɔ O
-
 tɔn O
 ɔ́ O
 . O
@@ -30804,9 +30780,9 @@ mɛ O
 Yemɛ O
 è O
 bló O
-"""" O
+, O
 D O
-"""" O
+, O
 lɛ́ɛ O
 wɛ O
 sukpɔ O
@@ -30819,9 +30795,9 @@ bɔ O
 yemɛ O
 è O
 bló O
-"""" O
+, O
 E O
-"""" O
+, O
 lɛ́ɛ O
 hwe O
 hú O
@@ -30842,7 +30818,7 @@ gbɛ O
 jí O
 có O
 ɔ́ O
-"""" O
+, O
 tɛnkpɔn O
 xwè O
 fúfónu O
@@ -30928,20 +30904,20 @@ sɔ O
 kanlin B-ORG
 nyìnyì I-ORG
 kpá I-ORG
-"""" I-ORG
+" I-ORG
 W I-ORG
 Bénin I-ORG
-"""" I-ORG
+" I-ORG
 ɔ́ O
 zínzán O
 jó O
 nú O
-"""" O
+" O
 African B-ORG
 Parks I-ORG
-"""" O
+" O
 ɔ́ O
-"""" O
+, O
 ná O
 zɔ́n O
 bɔ O
@@ -30954,7 +30930,8 @@ lɛ́ O
 yí O
 kàn O
 déjí O
-"""" O
+, O
+
 lě O
 gǎn O
 - O
@@ -30980,10 +30957,9 @@ wú O
 ɖɔ O
 é O
 nɛ́ O
-
 . O
 
-"""" O
+" O
 Kɛ́n O
 níná O
 è O
@@ -31001,8 +30977,8 @@ dɔn O
 mǐ O
 wá O
 fínɛ́ O
-"""" O
-"""" O
+" O
+, O
 José B-PER
 Tonato I-PER
 wɛ O
@@ -31020,13 +30996,13 @@ dó O
 kanlin B-ORG
 nyì I-ORG
 kpá I-ORG
-"""" I-ORG
+" I-ORG
 W I-ORG
 Bénin I-ORG
-"""" I-ORG
+" I-ORG
 ɔ́ O
 jí O
-"""" O
+, O
 ɖò O
 sɔ O
 yí O
@@ -31034,6 +31010,7 @@ yí O
 ná O
 hɔ́n O
 : O
+
 è O
 ná O
 bló O
@@ -31043,7 +31020,7 @@ tɛn O
 mɛ O
 ná O
 jacɔ́ O
-"""" O
+, O
 lóbónú O
 ɖò O
 má O
@@ -31053,7 +31030,8 @@ lín O
 mɛ O
 din O
 ɔ́ O
-"""" O
+, O
+
 tò O
 è O
 bɔdó O
@@ -31067,14 +31045,13 @@ zɛhwɛ O
 wá O
 mì O
 gɔ̌n O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
 - O
 yì O
 - O
-
 tɔ O
 Tonato O
 wɛ O
@@ -31100,26 +31077,27 @@ zán O
 kanlin B-ORG
 nyì I-ORG
 kpá I-ORG
-"""" I-ORG
+" I-ORG
 W I-ORG
-"""" I-ORG
+" I-ORG
 xá O
-"""" O
+" O
 African B-ORG
 Parks I-ORG
 NetWork I-ORG
-"""" O
+" O
 ée O
 ɖò O
 Afrique B-LOC
 du I-LOC
 Sud I-LOC
 é O
-"""" O
+, O
 nɛ́ O
 tîin O
 nɛ́ O
 . O
+
 Alɔ O
 dó O
 wěmá O
@@ -31155,7 +31133,6 @@ t O
 . O
 co O
 / O
-
 0uPrKHynqf O
 - O
 - O
@@ -31163,7 +31140,6 @@ co O
 José B-PER
 Tonato I-PER
 ( O
-
 @ O
 JoseTonato O
 ) O
@@ -31184,7 +31160,7 @@ zoosùn I-DATE
 tɔn O
 gbè O
 ɔ́ O
-"""" O
+, O
 azɔmɛví O
 dòkɔ O
 tɔn O
@@ -31208,7 +31184,7 @@ gbɛ O
 jí O
 có O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 bɛ́ O
@@ -31230,7 +31206,7 @@ zoosùn I-DATE
 ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 è O
 ko O
 hùn O
@@ -31307,7 +31283,7 @@ sín O
 gbɔjɛ O
 gudo O
 ɔ́ O
-"""" O
+, O
 azɔmɛví O
 lɛ́ɛ O
 ná O
@@ -31358,7 +31334,7 @@ wegɔ́ O
 ɔ́ O
 nɛ́ O
 ɔ́ O
-"""" O
+, O
 azɔmɛví O
 lɛ́ɛ O
 ná O
@@ -31531,7 +31507,7 @@ hǎ O
 Énɛ́ O
 wú O
 ɔ́ O
-"""" O
+, O
 azǎn B-DATE
 nukɔntɔn I-DATE
 abɔxwísùn I-DATE
@@ -31564,7 +31540,7 @@ azǎn B-DATE
 lidósùn I-DATE
 ɔ́ O
 tɔn O
-"""" O
+, O
 bɔ O
 jǐ O
 xwé O
@@ -31620,7 +31596,7 @@ mɛ O
 bǐ O
 . O
 
-"""" O
+" O
 Gbɔn O
 akɔ O
 è O
@@ -31630,7 +31606,7 @@ nɛ́ O
 ɔ́ O
 gblamɛ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 má O
@@ -31641,14 +31617,14 @@ dò O
 bà O
 nú O
 nǔ O
-"""" O
+, O
 nǔ O
 è O
 ɖò O
 ayikungban O
 glɔ O
 lɛ́ɛ O
-"""" O
+, O
 dɔkun O
 è O
 atín O
@@ -31657,7 +31633,7 @@ kanlin O
 mɛ O
 lɛ́ɛ O
 é O
-"""" O
+, O
 ɖě O
 ko O
 kú O
@@ -31677,6 +31653,7 @@ xá O
 yeɖee O
 lɛ́ɛ O
 ; O
+
 kplé O
 gannyǐ O
 gannyǐ O
@@ -31685,24 +31662,22 @@ gannyǐ O
 è O
 ná O
 bló O
-"""" O
+, O
 tamɛ O
 linlin O
 ɖěbǔ O
 è O
-
 ná O
 sɔ O
 ɖòtè O
 bónú O
 tutomɛ O
 nɛ́ O
-
 ɔ́ O
 ná O
 jɛjlɔ O
 ɔ́ O
-"""" O
+, O
 bǐ O
 wɛ O
 è O
@@ -31712,15 +31687,16 @@ kpódó O
 xomɛ O
 hùnhùn O
 kpán O
-"""" O
-"""" O
+" O
+, O
+
 Martin B-PER
 Parfait I-PER
 Aimé I-PER
 Coussoud I-PER
 - I-PER
 Mavoungou I-PER
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -31755,7 +31731,7 @@ ná O
 xɔ O
 xwè B-DATE
 atɔ́ɔn I-DATE
-"""" O
+, O
 bɔ O
 è O
 ná O
@@ -31766,7 +31742,7 @@ yaɖé O
 tɔn O
 jɛ O
 hwɛhwɛ O
-"""" O
+, O
 nǔ O
 wà O
 dó O
@@ -31795,7 +31771,7 @@ tɔn O
 ná O
 lí O
 dǒ O
-"""" O
+, O
 lě O
 akpáxwé O
 Benɛ B-LOC
@@ -31807,7 +31783,7 @@ gbɔn O
 nɛ́ O
 . O
 
-"""" O
+" O
 Ényí O
 è O
 tuun O
@@ -31825,7 +31801,8 @@ vɔ O
 ɖè O
 ɖò O
 nǔtuuntuun O
-"""" O
+, O
+
 ée O
 nyí O
 cavi O
@@ -31834,7 +31811,7 @@ yí O
 nukɔn O
 tɔn O
 ɔ́ O
-"""" O
+, O
 xomɛ O
 hùnhùn O
 jɛn O
@@ -31855,11 +31832,12 @@ mìtɔn O
 jí O
 é O
 wú O
-"""" O
+
+" O
 Élénonore B-PER
 Yayi I-PER
 Ladékan I-PER
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -31871,14 +31849,12 @@ Benɛ B-LOC
 tɔn O
 ée O
 nɔ O
-
 kpénúkún O
 dó O
 dò O
 bà O
 nú O
 nǔ O
-
 Kpódó O
 nǔ O
 xwiti O
@@ -31887,7 +31863,7 @@ kpán O
 wú O
 é O
 ɔ́ O
-"""" O
+, O
 wɛ O
 tín O
 nǔ O
@@ -31909,7 +31885,7 @@ tó O
 jɛ O
 akɔ O
 ɔ́ O
-"""" O
+, O
 gǎn O
 ée O
 kpacɛ O
@@ -31956,7 +31932,7 @@ ali O
 nɛ́ O
 nù O
 ɔ́ O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -31977,7 +31953,7 @@ lɛ́ɛ O
 ɔ́ O
 wú O
 ɔ́ O
-"""" O
+, O
 dó O
 kú O
 dó O
@@ -31999,7 +31975,7 @@ tɛntin O
 tamɛ O
 . O
 
-"""" O
+" O
 Un O
 bà O
 ɖɔ O
@@ -32010,8 +31986,8 @@ kpɔ́ O
 mɔ̌wun O
 ní O
 gbàkún O
-"""" O
-"""" O
+" O
+, O
 José B-PER
 Didier I-PER
 Tonato I-PER
@@ -32033,39 +32009,39 @@ nyɔnúzángbè B-DATE
 gbadanu I-DATE
 élɔ́ O
 ɖò O
-"""" O
+, O
 Novotel B-ORG
 . O
-"""" O
+, O
 
 Ɖě O
 jɛ O
 ɖě O
 gudo O
 ɔ́ O
-"""" O
+, O
 gbɛɖutɛn O
-"""" O
+" O
 Novotel B-ORG
 Orisha I-ORG
-"""" O
+" O
 kpódó O
-"""" O
+" O
 Ibis B-ORG
-"""" O
+" O
 tɔn O
 kpán O
 sín O
 gǎn O
 ɔ́ O
-"""" O
+, O
 Stéphane B-PER
 Jamin I-PER
-"""" O
+, O
 xwlé O
 tutomɛ O
 ɔ́ O
-"""" O
+, O
 weɖexamɛtɔ́ O
 ɖò O
 tamɛ O
@@ -32076,12 +32052,13 @@ nǔ O
 tɔ́n O
 lí O
 nù O
-"""" O
+" O
 Nov'Art O
-"""" O
+" O
 tɔn O
 ɔ́ O
-"""" O
+, O
+
 Charly B-PER
 d'Almeida I-PER
 lɔ́ɔ O
@@ -32097,7 +32074,6 @@ etɔn O
 ée O
 ɖò O
 ali O
-
 ɖokpó O
 ɔ́ O
 jí O
@@ -32105,10 +32081,10 @@ xɛ́ɛ O
 lɛ́ɛ O
 dó O
 azɔ̌ O
-
 nɛ́ O
 wú O
-"""" O
+, O
+
 bɔ O
 gǎn O
 - O
@@ -32147,7 +32123,7 @@ sín O
 nǔwíwá O
 nɛ́ O
 ɔ́ O
-"""" O
+, O
 è O
 bló O
 bɛ O
@@ -32166,7 +32142,7 @@ gbɔn O
 Xɔ O
 gbásá O
 ɔ́ O
-"""" O
+, O
 ali O
 è O
 gbò O
@@ -32174,13 +32150,13 @@ xɔ O
 lɛ́ɛ O
 tɛntin O
 é O
-"""" O
+, O
 ahannutɛn O
 ɔ́ O
-"""" O
+, O
 jikpá O
 ɔ́ O
-"""" O
+, O
 fí O
 è O
 ko O
@@ -32190,9 +32166,9 @@ gbɛɖutɛn O
 bǐ O
 wɛ O
 ɖè O
-"""" O
+" O
 Nov'Art O
-"""" O
+" O
 ɔ́ O
 xlɛ O
 : O
@@ -32221,16 +32197,16 @@ sín O
 nǔ O
 nukɔntɔn O
 è O
-"""" O
+" O
 Nov'Art O
-"""" O
+" O
 bló O
 ɔ́ O
 ná O
 xɔ O
 sùn B-DATE
 atɔn I-DATE
-"""" O
+, O
 è O
 ná O
 fó O
@@ -32242,7 +32218,8 @@ tɔn O
 ɔ́ O
 sín O
 bibɛ O
-"""" O
+, O
+
 jɛɖutɔ́ O
 tutomɛ O
 ɔ́ O
@@ -32265,11 +32242,10 @@ nǔ O
 tɔ́n O
 tɔn O
 lɛ́ɛ O
-"""" O
+, O
 bɔ O
 jlo O
 nɛ́ O
-
 dɔn O
 yě O
 wá O
@@ -32277,7 +32253,7 @@ gbɛɖutɛn O
 ɔ́ O
 . O
 
-"""" O
+" O
 Tòxó O
 ɖɔ O
 gbɛta O
@@ -32295,12 +32271,12 @@ xwè O
 sɔmì O
 sɔmì O
 é O
-"""" O
-"""" O
+" O
+, O
 nukɔntɔ́ O
 CENA B-ORG
 tɔn O
-"""" O
+, O
 Emmanuel B-PER
 Tiando I-PER
 wɛ O
@@ -32323,7 +32299,7 @@ Tòxó O
 ɖɔ O
 gbɛta O
 FCDB B-ORG
-"""" O
+, O
 MOELE B-ORG
 - I-ORG
 Bénin I-ORG
@@ -32331,7 +32307,7 @@ kpódó O
 PER B-ORG
 kpán O
 ɔ́ O
-"""" O
+, O
 CENA B-ORG
 gbɛ́ O
 wěmá O
@@ -32349,7 +32325,7 @@ wú O
 Ɖě O
 wɛ O
 nyí O
-"""" O
+" O
 wěmá O
 è O
 byɔ́ O
@@ -32369,8 +32345,8 @@ tlɛ O
 wěmá O
 lɔ́ɔ O
 ǎ O
-"""" O
-"""" O
+" O
+, O
 gbɛta O
 ée O
 nɔ O
@@ -32401,7 +32377,7 @@ nɛ́ O
 kàn O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 ényí O
 wěmá O
 yetɔn O
@@ -32415,7 +32391,7 @@ yetɔn O
 jí O
 ǎ O
 ɔ́ O
-"""" O
+, O
 ye O
 hɛn O
 ɔ́ O
@@ -32454,11 +32430,11 @@ tɔn O
 kpán O
 wú O
 ɔ́ O
-"""" O
+, O
 Abdoulaye B-PER
 Bio I-PER
 Tchané I-PER
-"""" O
+, O
 hùn O
 nǔ O
 sín O
@@ -32504,9 +32480,7 @@ má O
 jayǐ O
 ée O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 dɔ́n O
 wá O
@@ -32536,19 +32510,19 @@ jǐ O
 alà O
 vɔ O
 lɛ́ɛ O
-"""" O
+, O
+
 nukɔntɔ́ O
 tòxó O
 ɖɔ O
 gbɛta O
 tɔn O
 lɛ́ɛ O
-"""" O
+, O
 kpódó O
 alɔ O
 dó O
 mɛ O
-
 tɔ́ O
 ɖò O
 akwɛ O
@@ -32556,7 +32530,6 @@ lí O
 xò O
 kpán O
 tò O
-
 ɔ́ O
 tɔn O
 lɛ́ɛ O
@@ -32619,14 +32592,14 @@ bɔ O
 mɛ O
 ɖě O
 ɖayǐ O
-"""" O
+, O
 mɛ O
 ɖě O
 ká O
 ɖò O
 mɔkàn O
 jí O
-"""" O
+, O
 bó O
 ná O
 dó O
@@ -32646,7 +32619,7 @@ kɔ́nyásùn I-DATE
 tɔn O
 gbè O
 ɔ́ O
-"""" O
+, O
 OMS B-ORG
 ɖó O
 kɛ́n O
@@ -32676,7 +32649,7 @@ nú O
 mɛ O
 livi O
 28 O
-"""" O
+, O
 mɛ O
 livi O
 ɖokpó O
@@ -32692,7 +32665,7 @@ mátîitɔ́ O
 Ɖò O
 Benɛ B-LOC
 ɔ́ O
-"""" O
+, O
 ɖò O
 mɛ O
 2 O
@@ -32704,7 +32677,7 @@ azɔnkwín O
 lɛ́ɛ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 42 O
 wɛ O
 nyí O
@@ -32716,7 +32689,7 @@ Abdoulaye B-PER
 Bio I-PER
 Tchané I-PER
 ɔ́ O
-"""" O
+" O
 kplé O
 gannyǐ O
 gannyǐ O
@@ -32744,8 +32717,8 @@ azɔnkwín O
 nɛ́ O
 ná O
 é O
+" O
 . O
-"""" O
 
 Tògán O
 kplá O
@@ -32810,7 +32783,7 @@ xwè I-DATE
 2019ɔ́ I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 tò O
 dógbó O
 Awɔnlin B-LOC
@@ -32825,7 +32798,7 @@ xwè I-DATE
 2020ɔ́ I-DATE
 tɔn O
 mɛ̀ O
-"""" O
+, O
 sùnzán B-DATE
 16 I-DATE
 gudo I-DATE
@@ -32868,7 +32841,7 @@ we O
 lɛ́ɛ O
 tɛntin O
 ɔ́ O
-"""" O
+, O
 ye O
 lintamɛ O
 déwú O
@@ -32890,7 +32863,7 @@ byɔ́ O
 Awɔnlin B-LOC
 . O
 
-"""" O
+" O
 È O
 ɖó O
 ná O
@@ -32904,7 +32877,7 @@ mɛ O
 sí O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 nǔ O
 tají O
 wɛ O
@@ -32922,14 +32895,14 @@ hagbɛ O
 mɛtɔn O
 tɔn O
 ɔ́ O
-"""" O
+, O
 gbɛ O
 ninɔ O
 mɛ O
 ɖesunɔ O
 tɔn O
 wɛ O
-"""" O
+, O
 bɛ́ O
 jɛxa O
 ɖɔ O
@@ -32943,8 +32916,8 @@ nɛ́ O
 ní O
 ɖòtè O
 tɛgbɛ O
-"""" O
-"""" O
+" O
+, O
 Muhammadu B-PER
 Buhari I-PER
 wɛ O
@@ -32955,9 +32928,9 @@ nɛ́ O
 mɔkàn O
 gbà O
 jí O
-"""" O
+" O
 Twitter B-ORG
-"""" O
+" O
 tògán O
 ɔ́ O
 gbásá O
@@ -32977,7 +32950,7 @@ nù O
 ( O
 DGI B-ORG
 ) O
-"""" O
+, O
 lɛ́ O
 kpó O
 ɖò O
@@ -33002,7 +32975,7 @@ xwè I-DATE
 tɔn O
 gbè O
 ɔ́ O
-"""" O
+, O
 gǎn O
 ée O
 kpacɛ O
@@ -33011,7 +32984,7 @@ azɔxwé O
 nɛ́ O
 nù O
 ɔ́ O
-"""" O
+, O
 Nicolas B-PER
 Yènoussi I-PER
 hùn O
@@ -33060,16 +33033,16 @@ mɔto O
 ée O
 nɔ O
 sú O
-"""" O
+, O
 TVM O
-"""" O
+, O
 lɛ́ɛ O
 . O
 
 Énɛ́ O
 wú O
 ɔ́ O
-"""" O
+, O
 tòví O
 lɛ́ɛ O
 ɖó O
@@ -33094,14 +33067,14 @@ ní O
 ɖè O
 mɔkàn O
 wlɛnwin O
-"""" O
+, O
 Mobile O
 Tax O
-"""" O
+, O
 ɖò O
-"""" O
+, O
 Playstore O
-"""" O
+, O
 jí O
 . O
 
@@ -33116,37 +33089,33 @@ gbɔn O
 mɔkàn O
 alokan O
 gɔnu O
-"""" O
+" O
 MTN B-ORG
-"""" O
+" O
 kpódó O
-"""" O
+" O
 Moov B-ORG
-"""" O
+" O
 kpán O
 jí O
 . O
 Akpáxwé O
 énɛ́ O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 zín O
 kɛnkwin O
 élɔ́ O
 : O
-* O
-400 O
-# O
+*400# O
 nú O
 MTN B-ORG
 bó O
 ná O
 zín O
-* O
-155 O
-# O
+*155# O
 nú O
 Moov B-ORG
 lóbó O
@@ -33177,7 +33146,7 @@ lɛ́ɛ O
 Fínɛ́ O
 ɖesu O
 ɔ́ O
-"""" O
+, O
 nǔ O
 lɛ́ɛ O
 bǐ O
@@ -33198,7 +33167,7 @@ hán O
 ó O
 . O
 
-"""" O
+" O
 Wě O
 tají O
 è O
@@ -33223,15 +33192,15 @@ kàn O
 ná O
 nylá O
 wɛ O
-"""" O
+, O
 bó O
 ká O
 ɖò O
 gbè O
 sísɔ O
 éhɔ́nmɛ O
-"""" O
-"""" O
+" O
+, O
 xógbè O
 gǎn O
 ée O
@@ -33261,11 +33230,11 @@ dó O
 tó O
 lɛ́ɛ O
 mɛ̀ O
-"""" O
+, O
+
 ɖó O
 nǔ O
 è O
-
 síxú O
 wá O
 jɛ O
@@ -33308,9 +33277,7 @@ ná O
 síxú O
 liza O
 xá O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 gbɔn O
 ? O
@@ -33333,7 +33300,7 @@ Dotóo O
 gán O
 Lamidhi B-PER
 SALAMI I-PER
-"""" O
+, O
 gǎn O
 ée O
 kpacɛ O
@@ -33348,16 +33315,16 @@ kpáa O
 tɔn O
 wú O
 ɔ́ O
-"""" O
+, O
 è O
 ylɔ́ O
 wá O
 nǔwíwá O
-"""" O
+" O
 90MN O
 pour O
 convaincre O
-"""" O
+" O
 jí O
 bɛ́ O
 gbà O
@@ -33453,7 +33420,7 @@ nú O
 mɛ O
 azɔxwé O
 lɛ́ɛ O
-"""" O
+, O
 gbeyiɖɔ O
 tò O
 gudo O
@@ -33476,25 +33443,25 @@ Bohoun I-PER
 Xó O
 tají O
 lɛ́ɛ O
-"""" O
+, O
 tòxó O
 ɖiɖɔ O
-"""" O
+, O
 xó O
 ɖěbǔ O
 ɖè O
 ǎ O
-"""" O
+, O
 afɔ O
 sɔ O
 ɖo O
 tè O
 tɔ O
 lɛ́ɛ O
-"""" O
+, O
 Patrice B-PER
 TALƆN I-PER
-"""" O
+, O
 xwè O
 gbè O
 dídó O
@@ -33548,7 +33515,7 @@ kpódó O
 Japon B-LOC
 kpán O
 tɛntin O
-"""" O
+, O
 eye O
 mɛ O
 è O
@@ -33641,7 +33608,7 @@ nyí O
 cɛ́jú B-DATE
 wǒ I-DATE
 ɔ́ O
-"""" O
+, O
 ali O
 nɛ́ O
 zán O
@@ -33658,7 +33625,7 @@ zán O
 é O
 ɔ́ O
 mɛ̀ O
-"""" O
+, O
 afɔ O
 sɔ O
 ɖo O
@@ -33715,7 +33682,7 @@ kɛ́n O
 nyanya O
 wú O
 ɔ́ O
-"""" O
+, O
 ye O
 lɛ́ O
 wá O
@@ -33736,7 +33703,7 @@ azɔ̌ O
 ganjí O
 lɛ́ɛ O
 é O
-"""" O
+, O
 bɔ O
 è O
 ná O
@@ -33765,7 +33732,7 @@ nú O
 mɛ O
 bí O
 ɔ́ O
-"""" O
+, O
 byɔ́ O
 linlin O
 acɛkpìkpà O
@@ -33794,7 +33761,7 @@ nǔ O
 hlún O
 ɖɔ O
 wá O
-"""" O
+, O
 bɔ O
 Salimane B-PER
 Karimou I-PER
@@ -33817,7 +33784,7 @@ azɔmɛ O
 dandan O
 . O
 
-"""" O
+" O
 Tutomɛ O
 è O
 è O
@@ -33872,8 +33839,8 @@ nyínyɔ́ O
 ɖokpó O
 ɔ́ O
 ɖémɛ O
-"""" O
-"""" O
+" O
+, O
 mɔ̌ O
 wɛ O
 é O
@@ -33890,7 +33857,7 @@ ná O
 xá O
 Pierre B-PER
 Nkurunziza I-PER
-"""" O
+, O
 amɔ̌ O
 kú O
 vawun O
@@ -33976,7 +33943,7 @@ bǐ O
 lɔ́ɔ O
 . O
 
-"""" O
+" O
 Ahwan O
 nukɔn O
 sya O
@@ -33987,19 +33954,19 @@ tòví O
 ɖagbe O
 fɔ O
 ɖiɖe O
-"""" O
+" O
 lóbó O
 jó O
 tògán O
 gbásá O
 ɔ́ O
 dó O
-"""" O
+, O
 é O
 ká O
 cí O
 ɖɔ O
-"""" O
+, O
 ahwan O
 nukɔn O
 sya O
@@ -34007,10 +33974,10 @@ tòví O
 ɖagbe O
 fɔ O
 ɖiɖe O
-"""" O
+, O
 tɔn O
 ɔ́ O
-"""" O
+, O
 xù O
 wɛ O
 nyí O
@@ -34029,7 +33996,7 @@ zínkpó O
 ɔ́ O
 jí O
 nù O
-"""" O
+, O
 bɔ O
 Pierre B-PER
 Nkurunziza I-PER
@@ -34040,10 +34007,10 @@ tɔn O
 nú O
 éɖee O
 ɔ́ O
-"""" O
+, O
 byɔ́ O
 ɖɔ O
-"""" O
+" O
 è O
 ní O
 tó O
@@ -34061,7 +34028,7 @@ tò O
 tɔn O
 lí O
 nù O
-"""" O
+, O
 ɖò O
 tòví O
 ɖagbe O
@@ -34077,8 +34044,8 @@ tɔn O
 kpán O
 lí O
 nù O
+" O
 . O
-"""" O
 
 Ényí O
 è O
@@ -34091,7 +34058,7 @@ gǎn O
 nyínyí O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 azɔ̌ O
 ɔ́ O
 nyí O
@@ -34104,7 +34071,7 @@ zɔ́ O
 xɔ O
 klewun O
 ɖé O
-"""" O
+, O
 sùnzán B-DATE
 fó I-DATE
 kwɛ O
@@ -34153,14 +34120,14 @@ sɔ O
 ɛ́ O
 dó O
 ɖó O
-"""" O
+, O
 ahwan O
 nukɔn O
 sya O
 tɛgbɛ O
 gbè O
 . O
-"""" O
+, O
 
 Nkurunziza B-PER
 nɔ O
@@ -34183,7 +34150,7 @@ tɔn O
 lɛ́ɛ O
 mɛ̀ O
 wɛ O
-"""" O
+, O
 é O
 tuun O
 tòxó O
@@ -34201,7 +34168,7 @@ kpán O
 ǎ O
 . O
 
-"""" O
+" O
 È O
 sɔ O
 tutomɛ O
@@ -34240,7 +34207,7 @@ gbà O
 má O
 sí O
 nǔɖé O
-"""" O
+, O
 bɔ O
 è O
 ná O
@@ -34321,19 +34288,20 @@ lɛ́ɛ O
 tafu O
 lí O
 nù O
-"""" O
-"""" O
+" O
+, O
 Solange B-PER
 Odjo I-PER
 Ahlɔnsú I-PER
-"""" O
+, O
 gǎn O
 ée O
 nɔ O
 ɖɔ̀nǔ O
 dó O
 hɛ̌nnu O
-"""" O
+, O
+
 yakpɔvu O
 kpódó O
 mɛ O
@@ -34345,7 +34313,6 @@ lɛ́ɛ O
 kpán O
 nù O
 ɖò O
-
 gǎn O
 - O
 hɔn O
@@ -34354,7 +34321,6 @@ yì O
 - O
 tɔ́ O
 ée O
-
 kpacɛ O
 dó O
 nunɔmɛ O
@@ -34400,11 +34366,11 @@ lɛ́ɛ O
 yí O
 bó O
 hɛn O
-"""" O
+, O
 tó O
 ɖó O
 yě O
-"""" O
+, O
 wěɖexamɛ O
 abǐ O
 ye O
@@ -34426,7 +34392,7 @@ hùn O
 ná O
 có O
 ɔ́ O
-"""" O
+, O
 è O
 ɖò O
 mɛ O
@@ -34446,10 +34412,10 @@ vǐ O
 lɛ́ɛ O
 ɔ́ O
 gbà O
-"""" O
+, O
 Eléonore B-PER
 Soglohun I-PER
-"""" O
+, O
 vǐ O
 xó O
 wá O
@@ -34515,7 +34481,7 @@ ná O
 sɔ O
 3ɔ́ O
 ɔ́ O
-"""" O
+, O
 nǔ O
 hlun O
 ɖɔ O
@@ -34523,7 +34489,7 @@ sukpɔ O
 ɖekɔn O
 có O
 ɔ́ O
-"""" O
+, O
 è O
 ko O
 lá O
@@ -34549,11 +34515,11 @@ lɛ́ɛ O
 ká O
 síxú O
 kpé O
-"""" O
+, O
 ɖò O
 tají O
 ɔ́ O
-"""" O
+, O
 CEDEAO B-ORG
 ? O
 
@@ -34610,10 +34576,10 @@ lɛ́ɛ O
 kpán O
 tɛntin O
 ó O
-"""" O
+, O
 ɖò O
 tají O
-"""" O
+, O
 gǎn O
 - O
 hɔn O
@@ -34626,7 +34592,7 @@ nukɔntɔn O
 acɛkpìkpà O
 ɔ́ O
 tɔn O
-"""" O
+, O
 Cellou B-PER
 Dalein I-PER
 Diallo I-PER
@@ -34647,11 +34613,11 @@ fí O
 Aflika B-LOC
 gbéjí O
 ɔ́ O
-"""" O
+, O
 ɖò O
 tají O
 ɔ́ O
-"""" O
+, O
 ɖò O
 Zimbabwe B-LOC
 ɖò O
@@ -34659,7 +34625,7 @@ xwè B-DATE
 2008ɔ́ I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 xlɛ O
 fí O
 è O
@@ -34690,7 +34656,7 @@ níná O
 ɔ́ O
 ɖɔ O
 ɔ́ O
-"""" O
+, O
 sítè O
 kaɖafyawun O
 bó O
@@ -34708,14 +34674,12 @@ Tòví O
 ce O
 lɛ́ɛ O
 émí O
-"""" O
+, O
 
 Nabí O
 è O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 tɔn O
 ɔ́ O
 ɖè O
@@ -34749,10 +34713,10 @@ nɔ O
 ganjí O
 wú O
 é O
-"""" O
+, O
 Benjamin B-PER
 Hùnkpátín I-PER
-"""" O
+, O
 wɛ O
 ɖe O
 kúnnú O
@@ -34805,7 +34769,7 @@ ayidósùn I-DATE
 tɔn O
 gbè O
 ɔ́ O
-"""" O
+, O
 mɛ O
 è O
 wú O
@@ -34818,7 +34782,8 @@ Benɛ B-LOC
 bǐ O
 bló O
 650 O
-"""" O
+, O
+
 azɔn O
 ká O
 ko O
@@ -34826,7 +34791,7 @@ gbɔ O
 nú O
 mɛ O
 247 O
-"""" O
+, O
 è O
 ɖò O
 mɛ O
@@ -34837,10 +34802,9 @@ bɔ O
 mɛ O
 11 O
 kú O
-
 . O
 
-"""" O
+" O
 Mɛ O
 è O
 wú O
@@ -34860,7 +34824,7 @@ gbɛ̌ O
 ( O
 dotóo O
 lɛ́ɛ O
-"""" O
+, O
 mɛ O
 è O
 ja O
@@ -34899,12 +34863,12 @@ kpán O
 jí O
 lɛ́ɛ O
 é O
-"""" O
-"""" O
+" O
+, O
+
 Benjamin B-PER
 Hùnkpátín I-PER
 wɛ O
-
 ɖɔ O
 mɔ̌ O
 . O
@@ -34934,11 +34898,11 @@ lɛ́ɛ O
 aɖɔ̌ O
 víví O
 zɔ́n O
-"""" O
+, O
 hùn O
 yì O
 jǐ O
-"""" O
+, O
 xúɖu O
 xúɖu O
 ) O
@@ -34953,9 +34917,7 @@ tawun O
 
 Lě O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 ɖò O
 yíyí O
@@ -34964,7 +34926,7 @@ wɛ O
 ɖò O
 Benɛ B-LOC
 ɔ́ O
-"""" O
+, O
 ( O
 è O
 zín O
@@ -34973,9 +34935,9 @@ dó O
 xó O
 ɖɔ O
 wúntún O
-"""" O
+" O
 play O
-"""" O
+" O
 ɔ́ O
 jí O
 bó O
@@ -34987,9 +34949,7 @@ Acɛkpìkpà O
 ɔ́ O
 ɖè O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 gbéjé O
 kpɔ́n O
@@ -35019,10 +34979,10 @@ ganjí O
 wú O
 é O
 ɔ́ O
-"""" O
+, O
 Benjamin B-PER
 Hùnkpátín I-PER
-"""" O
+, O
 wɛ O
 lá O
 ɖò O
@@ -35054,29 +35014,26 @@ tɔn O
 gudo O
 é O
 . O
+
 Bɛsín O
 din O
 ɔ́ O
-"""" O
+, O
 mɛ O
 ée O
 ná O
 gosin O
-
 Kutɔnu B-LOC
 bó O
 ná O
 yì O
 tò O
 mɛ O
-
 lɛ́ɛ O
 ná O
 sú O
 caki O
-50 O
-. O
-000 O
+50.000 O
 . O
 
 Mɛ O
@@ -35089,17 +35046,13 @@ lɔ́ɔ O
 ná O
 sú O
 caki O
-50 O
-. O
-000 O
-"""" O
+50.000 O
+, O
 é O
 sɔ O
 nyí O
 caki O
-100 O
-. O
-000 O
+100.000 O
 è O
 è O
 nɔ O
@@ -35116,7 +35069,7 @@ yě O
 kpɔ́n O
 gudo O
 ɔ́ O
-"""" O
+, O
 è O
 ná O
 bló O
@@ -35133,7 +35086,7 @@ Hùnkpátín I-PER
 tɔ́n O
 nɛ́ O
 ɔ́ O
-"""" O
+, O
 jɛ O
 túnnú O
 nú O
@@ -35191,9 +35144,7 @@ atɔn I-DATE
 ǎ O
 lɛ́ɛ O
 sín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 gbéjé O
 kpɔ́n O
 sín O
@@ -35224,7 +35175,7 @@ xwè B-DATE
 2020ɔ́ I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 acɛkpìkpà O
 ɔ́ O
 ná O
@@ -35272,10 +35223,10 @@ ná O
 ɖó O
 sɔ́jà O
 500 O
-"""" O
+, O
 lɔkpazɔwatɔ́ O
 500 O
-"""" O
+, O
 zungbó O
 cɔ́tɔ́ O
 lɛ́ɛ O
@@ -35375,7 +35326,6 @@ gbè O
 gbɔn O
 nukpɛ́n O
 mɔkàn O
-
 tɔn O
 jí O
 . O
@@ -35388,7 +35338,8 @@ zán O
 hwenu O
 tɛgbɛ O
 ɔ́ O
-"""" O
+, O
+
 azɔxwé O
 è O
 kpacɛ O
@@ -35436,14 +35387,13 @@ bowun O
 gɔnu O
 lɛ́ɛ O
 kpán O
-
 kɔn O
 . O
 
 Énɛ́ O
 wú O
 ɔ́ O
-"""" O
+, O
 azɔxwé O
 ée O
 nɔ O
@@ -35467,7 +35417,7 @@ xwè I-DATE
 2021ɔ́ I-DATE
 tɔn O
 gbè O
-"""" O
+, O
 bɛ́ O
 kàn O
 azɔ̌ O
@@ -35492,19 +35442,19 @@ ná O
 wá O
 é O
 . O
+
 Cóbónú O
 sɔmì O
 sɔmì O
 hwenu O
 ɔ́ O
-
 ná O
 wá O
 ɔ́ O
-"""" O
+, O
+
 xó O
 jíjlá O
-
 gɔnu O
 lɛ́ɛ O
 hɛn O
@@ -35540,7 +35490,7 @@ tɔn O
 ɔ́ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 HAAC B-ORG
 ɖènyǐ O
 hwenu O
@@ -35601,9 +35551,7 @@ lɛ́ɛ O
 xà O
 gbetakɛn O
 kɛ́n O
-21 O
-- O
-002 O
+21-002 O
 / O
 HAAC B-ORG
 azǎn B-DATE
@@ -35725,7 +35673,7 @@ wá O
 dó O
 ɖɔ O
 we O
-"""" O
+, O
 ɖokpó O
 ɖò O
 cɛ́jú B-DATE
@@ -35745,7 +35693,7 @@ B O
 ɔ́ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 gǒ O
 xó O
 dó O
@@ -35777,7 +35725,7 @@ cɛ́jú B-DATE
 90 I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 gbɛta O
 we O
 lɛ́ɛ O
@@ -35794,7 +35742,7 @@ Kpódó O
 nɛ́ O
 kpán O
 ɔ́ O
-"""" O
+, O
 Buukina B-LOC
 - I-LOC
 Faso I-LOC
@@ -35808,13 +35756,13 @@ kpó O
 ɖó O
 nú O
 Mauritanie B-LOC
-"""" O
+, O
 Gambie B-LOC
-"""" O
+, O
 Ouganda B-LOC
-"""" O
+, O
 Tanzanie B-LOC
-"""" O
+, O
 Namibie B-LOC
 kpódó O
 Mozambique B-LOC
@@ -35843,13 +35791,13 @@ tɔn O
 ahwan O
 nukɔn O
 sya O
-"""" O
+, O
 ahwangán O
 Assimi B-PER
 Goïta I-PER
 kùn O
 ɔ́ O
-"""" O
+, O
 wá O
 Accra B-LOC
 ɖò O
@@ -35893,7 +35841,7 @@ zǎnzǎn I-DATE
 Amɔ̌ O
 toolo O
 ɔ́ O
-"""" O
+, O
 è O
 ko O
 tuun O
@@ -35915,7 +35863,7 @@ kàn O
 ( O
 CNSP B-ORG
 ) O
-"""" O
+, O
 wá O
 Kpódó O
 tutomɛ O
@@ -35972,7 +35920,7 @@ CNSP B-ORG
 sín O
 akpáxwé O
 ɔ́ O
-"""" O
+, O
 ée O
 ye O
 hwɛ́n O
@@ -35990,7 +35938,7 @@ zofínkplɔsùn I-DATE
 ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
+, O
 ye O
 mɔ O
 tutomɛ O
@@ -36042,12 +35990,12 @@ gbɛta O
 è O
 ylɔ́ O
 ɖɔ O
-"""" O
+, O
 Mouvement B-ORG
 du I-ORG
 5 I-ORG
 juin I-ORG
-"""" O
+, O
 ( O
 M5 B-ORG
 - I-ORG
@@ -36076,7 +36024,7 @@ xú O
 énɛ́ O
 jí O
 ɔ́ O
-"""" O
+, O
 CEDEAO B-ORG
 byɔ́ O
 ɖɔ O
@@ -36180,9 +36128,7 @@ wɛ O
 lɛ́ɛ O
 ɖò O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 liza O
 xá O
@@ -36200,7 +36146,7 @@ nǔwíwá O
 è O
 ylɔ́ O
 ɖɔ O
-"""" O
+, O
 fonds O
 fiduciaire O
 ARC O
@@ -36250,14 +36196,12 @@ ná O
 liza O
 xá O
 azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 ganjí O
 . O
 
-"""" O
+" O
 Tò O
 mìtɔn O
 ée O
@@ -36278,7 +36222,8 @@ yě O
 wɛ O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
+
 mì O
 ná O
 ná O
@@ -36294,7 +36239,7 @@ ye O
 dó O
 FMI B-ORG
 lɛ́ɛ O
-"""" O
+, O
 mì O
 ná O
 kpɔ́n O
@@ -36317,10 +36262,10 @@ alɔgɔ O
 nú O
 yě O
 ají O
-"""" O
+, O
+
 axɔ́ O
 è O
-
 mì O
 jó O
 nú O
@@ -36328,7 +36273,6 @@ yě O
 ɔ́ O
 ná O
 zɔ́n O
-
 bɔ O
 nǔ O
 kpɛɛ O
@@ -36337,7 +36281,7 @@ kpɛɛ O
 ye O
 sí O
 ɔ́ O
-"""" O
+, O
 ye O
 ná O
 sɔ O
@@ -36358,10 +36302,10 @@ ye O
 ɖesu O
 tɔn O
 wú O
-"""" O
+" O
 Kristalina B-PER
 Georgieva I-PER
-"""" O
+, O
 gǎn O
 kpabliba O
 FMI B-ORG
@@ -36377,7 +36321,7 @@ nǔwíwá O
 élɔ́ O
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 xósúsú O
 zɔ O
 wá O
@@ -36394,13 +36338,13 @@ mɛ O
 ɖé O
 mɛ̀ O
 : O
-"""" O
+" O
 aní O
 wɛ O
 ɖiɖe O
-"""" O
+" O
 emojis O
-"""" O
+" O
 ée O
 mì O
 nɔ O
@@ -36420,7 +36364,8 @@ mì O
 ɖesunɔ O
 wú O
 ? O
-"""" O
+" O
+
 Cóbónú O
 mì O
 ná O
@@ -36431,8 +36376,7 @@ xó O
 ɔ́ O
 tɔn O
 ɔ́ O
-"""" O
-
+, O
 è O
 ɖò O
 tají O
@@ -36440,18 +36384,17 @@ bɔ O
 mì O
 má O
 tuun O
-
 vogbingbɔn O
 è O
 ɖò O
-"""" O
+" O
 emoticône O
 lɛ́ɛ O
-"""" O
+" O
 kpódó O
-"""" O
+" O
 emoji O
-"""" O
+" O
 lɛ́ɛ O
 kpán O
 tɛntin O
@@ -36506,7 +36449,7 @@ hwɛ̌ O
 étimocône O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 ɖiɖe O
 ɖé O
 sín O
@@ -36535,12 +36478,12 @@ xlɛ́ O
 alwɛ O
 mɛ̀ O
 à O
-"""" O
+, O
 awăjíjɛ́ O
 mɛ̀ O
 wɛ O
 à O
-"""" O
+, O
 nǔ O
 víví O
 nú O
@@ -36549,10 +36492,10 @@ dín O
 gàn O
 wɛ O
 à O
+, O
 . O
 . O
 . O
-"""" O
 
 Bó O
 ná O
@@ -36567,7 +36510,7 @@ kanbyɔ́ O
 miɖee O
 lɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 mì O
 kàn O
 nǔ O
@@ -36607,17 +36550,17 @@ tɔ́ O
 è O
 sɔ O
 è O
-"""" O
+, O
 tokpɔnlagán O
 sísɔ O
 xwè B-DATE
 2020ɔ́ I-DATE
 tɔn O
-"""" O
+, O
 Xó O
 tají O
 lɛ́ɛ O
-"""" O
+, O
 tòxó O
 ɖiɖɔ O
 . O
@@ -36636,7 +36579,7 @@ tògán O
 ɔ́ O
 gbásá O
 ɔ́ O
-"""" O
+, O
 Pascal B-PER
 Affo I-PER
 nyí O
@@ -36697,7 +36640,7 @@ kú O
 tɔn O
 toolo O
 ɔ́ O
-"""" O
+, O
 Patrice B-PER
 TALƆN I-PER
 yì O
@@ -36723,7 +36666,7 @@ gege O
 tɛntin O
 tɔ́ O
 wɛ O
-"""" O
+, O
 Patrice B-PER
 TALƆN I-PER
 tó O
@@ -36746,7 +36689,8 @@ xwè I-DATE
 2016ɔ́ I-DATE
 tɔn O
 mɛ̀ O
-"""" O
+, O
+
 cóbó O
 lɛ́ O
 wá O
@@ -36767,17 +36711,16 @@ tògán O
 ɔ́ O
 gbásá O
 ɔ́ O
-"""" O
+, O
 sùn B-DATE
 tɔn I-DATE
 we I-DATE
 gudo I-DATE
-"""" O
+, O
 ɖò O
 azǎn B-DATE
 6ɔ́ I-DATE
 lidósùn I-DATE
-
 ɔ́ O
 tɔn O
 . O
@@ -36796,13 +36739,13 @@ atɔ́ɔn I-DATE
 
 Ɖayi O
 ɔ́ O
-"""" O
+, O
 ɖò O
 xwè B-DATE
 2007ɔ́ I-DATE
 mɛ̀ O
 ɔ́ O
-"""" O
+, O
 è O
 sɔ O
 Pascal B-PER
@@ -36848,7 +36791,8 @@ wú O
 ɔ́ O
 gbásá O
 tɔn O
-"""" O
+, O
+
 bó O
 lɛ́ɛ O
 wá O
@@ -36858,7 +36802,6 @@ gǎn O
 è O
 ná O
 nɔ O
-
 kpénúkún O
 dó O
 Benɛ B-LOC
@@ -36867,7 +36810,6 @@ ví O
 ɖò O
 tò O
 gudo O
-
 wú O
 lɛ́ɛ O
 é O
@@ -36888,7 +36830,7 @@ mɛ̀ O
 ( O
 France B-LOC
 ) O
-"""" O
+, O
 bó O
 nyí O
 gǎn O
@@ -36933,7 +36875,7 @@ gbásá O
 Lagos B-LOC
 ɔ́ O
 é O
-"""" O
+, O
 bó O
 lɛ́ O
 wá O
@@ -36941,7 +36883,7 @@ yì O
 nyí O
 ɖò O
 Abuja B-LOC
-"""" O
+, O
 é O
 lɛ́ O
 nyí O
@@ -36950,10 +36892,10 @@ Benɛ B-LOC
 tɔn O
 ɖò O
 Cameroun B-LOC
-"""" O
+, O
 ɖò O
 CEDEAO B-ORG
-"""" O
+, O
 ɖò O
 Tchad B-LOC
 bɛsín O
@@ -36969,9 +36911,7 @@ mɛ̀ I-DATE
 . O
 
 Azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 ɖò O
 jijɛ O
@@ -36985,25 +36925,26 @@ mɛ O
 850 O
 wɛ O
 bɛ́ O
-"""" O
+, O
 è O
 kpó O
 ɖò O
 mɛ O
 565 O
 wú O
-"""" O
+, O
 é O
 gbɔ́ O
 nú O
 mɛ O
 272 O
-"""" O
+, O
 mɛ O
 13 O
 ká O
 kú O
 ; O
+
 lě O
 kɛ́n O
 ɖíɖó O
@@ -37022,7 +36963,7 @@ gbè O
 é O
 nɛ́ O
 ) O
-"""" O
+, O
 bɛ́ O
 byɔ́ O
 ɖɔ O
@@ -37035,14 +36976,13 @@ dó O
 za O
 li O
 xá O
-
 azɔnkwín O
 ɔ́ O
 wú O
 . O
 
 Amɔ̌ O
-"""" O
+, O
 é O
 jɛxa O
 ɖɔ O
@@ -37052,9 +36992,7 @@ tuun O
 nǔ O
 dó O
 Azɔnkwín O
-Kovidi O
-- O
-19 O
+Kovidi-19 O
 ɔ́ O
 wú O
 bó O
@@ -37074,15 +37012,14 @@ jǒnɔ O
 mɛ O
 é O
 . O
-Kovidi O
-- O
-19 O
+
+Kovidi-19 O
 nɔ O
 hu O
 mɛ O
 có O
 ɔ́ O
-"""" O
+, O
 è O
 ká O
 nɔ O
@@ -37093,7 +37030,7 @@ nɔ O
 gbɔ̀ O
 . O
 
-"""" O
+" O
 Gege O
 mɛ O
 è O
@@ -37124,7 +37061,7 @@ dó O
 dotóoxwé O
 ǎ O
 é O
-"""" O
+, O
 nǔ O
 è O
 è O
@@ -37182,7 +37119,7 @@ ko O
 tuun O
 é O
 ɔ́ O
-"""" O
+, O
 é O
 jɛxa O
 ɖɔ O
@@ -37230,11 +37167,11 @@ tutomɛ O
 lɛ́ O
 wú O
 ɔ́ O
-"""" O
+, O
 Abdoulaye B-PER
 Bio I-PER
 Tchané I-PER
-"""" O
+, O
 hùn O
 nǔ O
 sín O
@@ -37306,6 +37243,7 @@ kpán O
 núkún O
 mɛ̀ O
 . O
+
 Ali O
 è O
 ná O
@@ -37319,7 +37257,7 @@ Benɛ B-LOC
 kpán O
 tɛntin O
 ɔ́ O
-"""" O
+, O
 ga O
 ɖiɖi O
 tɔn O
@@ -37329,8 +37267,8 @@ bɔ O
 675 O
 ɖò O
 Benɛ B-LOC
-
 . O
+
 É O
 ná O
 zɔ́n O
@@ -37375,12 +37313,12 @@ nɛ́ O
 lɛ́ɛ O
 bǐ O
 ɔ́ O
-"""" O
+, O
 mì O
 dà O
 Franck B-PER
 KƐNNƐVƆ I-PER
-"""" O
+, O
 nǔ O
 tuun O
 tɔ́ O
@@ -37426,7 +37364,7 @@ acɛkpìkpà O
 ɔ́ O
 ɖè O
 ɔ́ O
-"""" O
+, O
 kplɔn O
 yì O
 jǐ O
@@ -37443,7 +37381,8 @@ wɛ O
 é O
 kàn O
 : O
-"""" O
+
+" O
 Hwenu O
 è O
 ná O
@@ -37458,7 +37397,7 @@ xwè B-DATE
 - I-DATE
 2019ɔ́ I-DATE
 mɛ̀ I-DATE
-"""" O
+, O
 mɛɖé O
 bǔ O
 ká O
@@ -37487,10 +37426,9 @@ kplɔ́nnǔ O
 lɛ́ɛ O
 ye O
 ɖesunɔ O
-
 ǎ O
+" O
 . O
-"""" O
 
 Tɛnkpɔn O
 nɛ́ O
@@ -37500,7 +37438,7 @@ acɛkpìkpà O
 sɔ O
 ɖòtè O
 ɔ́ O
-"""" O
+, O
 dɔn O
 nǔ O
 hlún O
@@ -37512,7 +37450,7 @@ jǐ O
 alà O
 vɔ O
 lɛ́ɛ O
-"""" O
+, O
 azɔmɛ O
 xwé O
 mɛ O
@@ -37553,8 +37491,8 @@ Amɔ̌ O
 nú O
 acɛkpìkpà O
 ɔ́ O
-"""" O
-"""" O
+, O
+" O
 Acɛkpìkpà O
 ɔ́ O
 ɖó O
@@ -37578,8 +37516,8 @@ tuun O
 kpán O
 lí O
 nù O
+" O
 . O
-"""" O
 
 Ahannutɛn O
 lɛ́ɛ O
@@ -37610,7 +37548,7 @@ dó O
 nya O
 azɔnkwín O
 ɔ́ O
-"""" O
+, O
 è O
 ká O
 ko O
@@ -37636,7 +37574,7 @@ gbɛ́ O
 kɛ́n O
 ɖélɛ́ɛ O
 ɔ́ O
-"""" O
+, O
 é O
 zɔ́n O
 bɔ O
@@ -37649,7 +37587,7 @@ gbéjé O
 gbéjé O
 kpɔ́n O
 ɔ́ O
-"""" O
+, O
 bɔ O
 mɛ O
 gege O
@@ -37662,21 +37600,19 @@ mɛ̀ O
 
 Éhɔ́nmɛ O
 ɔ́ O
-"""" O
+, O
 xɛsi O
 kpódó O
 sijaji O
 ninɔ O
 kpán O
 è O
-kovidi O
-- O
-19 O
+kovidi-19 O
 ɔ́ O
 hɛn O
 wà O
 ɔ́ O
-"""" O
+, O
 ko O
 ɖò O
 túntún O
@@ -37694,7 +37630,7 @@ azɔnkwín O
 tají O
 ɖayǐ O
 ɔ́ O
-"""" O
+, O
 è O
 tlɛ O
 sɔ́ O

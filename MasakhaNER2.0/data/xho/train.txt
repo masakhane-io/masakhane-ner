@@ -44517,6 +44517,7 @@ u O
 ' O
 Ndiyekeni O
 , O
+ O
 uNdila B-PER
 uthuma O
 uFuneka B-PER
@@ -74509,6 +74510,7 @@ plagiarism O
 ) O
 ' O
 kunye O
+ O
 nokukopa O
 . O
 ' O
