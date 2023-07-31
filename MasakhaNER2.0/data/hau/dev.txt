@@ -1,4 +1,4 @@
-Yan O
+‘Yan O
 sanda O
 sun O
 kama O
@@ -17,7 +17,7 @@ Kano B-LOC
 . O
 
 Rundunar O
-yan O
+‘yan O
 sandan O
 jihar B-LOC
 Benue I-LOC
@@ -127,7 +127,7 @@ da I-DATE
 ya I-DATE
 gabata I-DATE
 ne O
-yan O
+‘yan O
 sanda O
 a O
 Kano B-LOC
@@ -160,7 +160,7 @@ Korona O
 . O
 
 Kwamishinan O
-yan O
+‘yan O
 sandan O
 jihar B-LOC
 Kano I-LOC
@@ -197,7 +197,7 @@ taliyar O
 ne O
 ya O
 rabawa O
-yan O
+‘yan O
 kasuwar O
 da O
 ya O
@@ -212,7 +212,7 @@ zuwa O
 Kano B-LOC
 . O
 
-"""" O
+" O
 Kwamitin O
 da O
 ke O
@@ -226,7 +226,7 @@ a O
 raba O
 tallafin O
 ga O
-yan O
+‘yan O
 kasuwar O
 , O
 aka O
@@ -244,7 +244,7 @@ da O
 su O
 . O
 
-"""" O
+" O
 Binciken O
 da O
 muka O
@@ -268,7 +268,7 @@ gaba O
 da O
 shi O
 . O
-"""" O
+" O
 
 A O
 cewarta O
@@ -507,14 +507,12 @@ Kano B-LOC
 ta O
 kama O
 barayin O
-zanga O
-- O
-zanga O
+zanga-zanga O
 59 O
 . O
 
 Rundunar O
-yan O
+‘yan O
 sandan O
 jihar B-LOC
 Kano I-LOC
@@ -537,9 +535,7 @@ faru O
 a O
 Kano B-LOC
 yayin O
-zanga O
-- O
-zangar O
+zanga-zangar O
 # O
 EndSARS O
 . O
@@ -583,7 +579,7 @@ mai O
 mukamin O
 mataimakin O
 sufurtandan O
-yan O
+‘yan O
 sanda O
 ya O
 ce O
@@ -620,7 +616,7 @@ da O
 tarzomar O
 amma O
 dai O
-yan O
+‘yan O
 tada O
 kayar O
 bayan O
@@ -1224,7 +1220,7 @@ kone O
 kurmus O
 . O
 
-"""" O
+" O
 Yan O
 kwana O
 - O
@@ -1246,12 +1242,12 @@ suka O
 zo O
 . O
 
-"""" O
+" O
 yanzu O
 daliban O
 da O
 ba O
-yan O
+‘yan O
 Kano B-LOC
 ba O
 sunanan O
@@ -1660,7 +1656,7 @@ sankarar O
 hanta O
 . O
 
-"""" O
+" O
 Muna O
 fata O
 nan O
@@ -1686,7 +1682,7 @@ sauki O
 domin O
 taimakawa O
 al'umma O
-"""" O
+" O
 . O
 
 Rashin O
@@ -1768,7 +1764,9 @@ laima O
 da O
 suka O
 kira O
-CoDEN’ B-ORG
+' O
+CoDEN B-ORG
+' O
 . O
 
 Malam O
@@ -1782,8 +1780,10 @@ talauci O
 rashin O
 ba O
 wa O
-‘Kananan O
-Hukumomi’ O
+' O
+Kananan O
+Hukumomi O
+' O
 kudadensu O
 ya O
 haifar O
@@ -2174,7 +2174,9 @@ samar O
 da O
 gamayyar O
 ta O
+' O
 CoDEN B-ORG
+' O
 Malam O
 Abdullahi B-PER
 Sule I-PER
@@ -2247,7 +2249,9 @@ samar O
 da O
 gamayyar O
 ta O
-CoDEN’ B-ORG
+' O
+CoDEN B-ORG
+' O
 su O
 ne O
 YEDA B-ORG
@@ -2344,7 +2348,7 @@ Aregbesola I-PER
 Na O
 kiran O
 daukacin O
-al'ummar O
+al’ummar O
 musulmi O
 da O
 su O
@@ -2355,7 +2359,7 @@ hutun O
 wajen O
 yiwa O
 kasa O
-adduoi O
+addu’o’i O
 . O
 
 Ministan O
@@ -3061,7 +3065,7 @@ sanar O
 da O
 cewa O
 wasu O
-yan O
+‘yan O
 bindiga O
 da O
 ba O
@@ -3140,6 +3144,7 @@ a O
 ranar B-DATE
 Talata I-DATE
 cewar O
+
 ‘yan O
 bidigar O
 sun O
@@ -3155,7 +3160,6 @@ matar O
 a O
 gaban O
 mijin O
-
 nata O
 . O
 
@@ -3345,7 +3349,7 @@ ba O
 . O
 
 Rundunar O
-yan O
+‘yan O
 sandan O
 Kano B-LOC
 ta O
@@ -3379,7 +3383,9 @@ Shehu I-PER
 da O
 ake O
 zargin O
-‘bokane’ O
+' O
+bokane O
+' O
 da O
 ya O
 nemi O
@@ -3423,7 +3429,7 @@ mai O
 mukamin O
 mataimakin O
 sufurtandan O
-yan O
+‘yan O
 sanda O
 ya O
 ce O
@@ -5010,7 +5016,9 @@ Kano B-LOC
 biyu O
 sun O
 bukaci O
-‘Sarki’ O
+' O
+Sarki O
+' O
 ya O
 taka O
 rawa O
@@ -5166,9 +5174,7 @@ fi O
 mallakar O
 katin O
 dan O
-kasa O
-- O
-Sarkin O
+kasa-Sarkin O
 Karaye B-LOC
 Farfesa O
 Danbatta B-PER
@@ -5177,6 +5183,7 @@ ziyarci O
 malaman O
 Kano B-LOC
 , O
+
 ya O
 roki O
 a O
@@ -5205,7 +5212,7 @@ kan O
 matasa O
 su O
 rungumi O
-sana'o’in O
+sana’o’in O
 dogaro O
 da O
 kai O
@@ -5220,7 +5227,6 @@ don O
 ciyar O
 da O
 kansu O
-
 gaba O
 . O
 
@@ -5435,9 +5441,7 @@ sati O
 daya O
 akan O
 kudi O
-N20 O
-, O
-000 O
+N20,000 O
 , O
 na O
 sati B-DATE
@@ -5457,9 +5461,7 @@ wata O
 guda O
 akan O
 kudi O
-N70 O
-, O
-000 O
+N70,000 O
 . O
 
 Ya O
@@ -5873,7 +5875,7 @@ tsaiko O
 ba O
 . O
 
-"""" O
+" O
 kuma O
 duk O
 wannan O
@@ -5899,7 +5901,7 @@ kanka O
 cikin O
 hadari O
 . O
-"""" O
+" O
 
 """" O
 Nasha O
@@ -5940,7 +5942,9 @@ na O
 son O
 yin O
 rayuwar O
-‘dage’ O
+' O
+dage O
+' O
 da O
 hakan O
 ke O
@@ -6508,7 +6512,7 @@ lafiya O
 An O
 kuma O
 yi O
-addu'o’i O
+addu'o'i O
 na O
 musamman O
 kan O
@@ -6532,9 +6536,9 @@ Kano B-LOC
 suka O
 zabi O
 zuwa O
-"""" O
+' O
 kyamis O
-"""" O
+' O
 maimakon O
 asibiti O
 . O
@@ -8460,9 +8464,11 @@ kular O
 mata O
 da O
 gidan O
+' O
 Wanka O
 da O
-Bahaya’ O
+Bahaya O
+' O
 da O
 ke O
 Middle O
@@ -8680,7 +8686,9 @@ Talatar I-DATE
 da I-DATE
 ta I-DATE
 gabata I-DATE
+' O
 Da O
+' O
 na O
 Arabi B-PER
 ya O
@@ -9614,7 +9622,7 @@ kwana O
 hudu O
 a O
 ofishin O
-yan O
+‘yan O
 sanda O
 dake O
 Gwagwarwa B-LOC
@@ -10060,8 +10068,10 @@ da O
 sabon O
 gidan O
 rediyon O
+' O
 Nasara B-ORG
 98.5 I-ORG
+' O
 da O
 ya O
 gudana O
@@ -10143,7 +10153,7 @@ wannan O
 Kwankwaso B-PER
 ya O
 budewa O
-‘ya'yan O
+‘ya‘yan O
 makiyaya O
 makaranta O
 a O
@@ -10164,8 +10174,10 @@ ya O
 ce O
 sabuwar O
 Rediyon O
-‘yar O
-yayi’ O
+' O
+yar O
+yayi O
+' O
 za O
 ta O
 yi O
@@ -10244,7 +10256,9 @@ shekara I-DATE
 . O
 
 Shirin O
-‘lafiya’ O
+' O
+lafiya O
+' O
 ya O
 horas O
 da O
@@ -10388,7 +10402,7 @@ Kano I-LOC
 Ya O
 ce O
 matukar O
-yan O
+‘yan O
 jarida O
 da O
 kungiyoyo O
@@ -10413,7 +10427,7 @@ baya O
 suka O
 watse O
 ba O
-"""" O
+" O
 wannan O
 shi O
 ne O
@@ -10876,9 +10890,7 @@ wasu O
 daga O
 cikin O
 kayan O
-gine O
-- O
-gine O
+gine-gine O
 . O
 
 Farshin O
@@ -11567,7 +11579,7 @@ likitoci O
 sai O
 kuma O
 wasu O
-yan O
+‘yan O
 tsiraru O
 dake O
 aiki O
@@ -12223,8 +12235,7 @@ Sunnah O
 Haka O
 kuma O
 wasu O
-"""" O
-yan O
+‘yan O
 matan O
 sun O
 ce O
@@ -12656,11 +12667,9 @@ baya O
 burgeta O
 . O
 
-Zanga O
+Zanga-zanga O
 - O
-zanga O
-- O
-yan O
+‘yan O
 sanda O
 sun O
 kama O
@@ -12843,9 +12852,7 @@ masallatai O
 da O
 majami'u O
 ( O
-coci O
-- O
-coci O
+coci-coci O
 ) O
 . O
 
@@ -12970,7 +12977,7 @@ Thomas I-ORG
 Kwankwaso B-PER
 ya O
 budewa O
-ya'yan O
+‘ya’yan O
 makiyaya O
 makaranta O
 a O
@@ -13139,7 +13146,7 @@ na'ura O
 mai O
 kwakwalwa O
 ga O
-‘ya'yan O
+‘ya’yan O
 makiyayan O
 . O
 
@@ -13232,7 +13239,7 @@ samar O
 da O
 wannan O
 makaranta O
-‘ya'yan O
+‘ya’yan O
 su O
 na O
 tafiyar O
@@ -13284,7 +13291,7 @@ shekaru B-DATE
 65 I-DATE
 ya O
 ce O
-‘ya'yan O
+‘ya’yan O
 sa O
 basa O
 zuwa O
@@ -13301,7 +13308,7 @@ wajibi O
 ya O
 rinka O
 tura O
-‘ya'yan O
+‘ya’yan O
 sa O
 makaranta O
 . O
@@ -13944,9 +13951,7 @@ fi O
 mallakar O
 katin O
 dan O
-kasa O
-- O
-Sarkin O
+kasa-Sarkin O
 Karaye B-LOC
 . O
 
@@ -14586,8 +14591,7 @@ suna O
 bacci O
 yayin O
 da O
-"""" O
-yan O
+‘yan O
 sandan O
 suka O
 zo O
@@ -15098,7 +15102,7 @@ saboda O
 zafi O
 . O
 
-"""" O
+" O
 Bayan O
 sun O
 kamashi O
@@ -15106,7 +15110,7 @@ a O
 daren O
 naje O
 ofishin O
-yan O
+‘yan O
 sanda O
 sai O
 akacemin O
@@ -15121,7 +15125,7 @@ da O
 safe B-DATE
 naje O
 , O
-"""" O
+" O
 a O
 cewar O
 mahaifin O
@@ -15234,8 +15238,7 @@ suna O
 bacci O
 yayin O
 da O
-"""" O
-yan O
+‘yan O
 sandan O
 suka O
 zo O
@@ -16154,7 +16157,7 @@ mai O
 mukamin O
 mataimakin O
 sufurtandan O
-yan O
+‘yan O
 sanda O
 ya O
 ce O
@@ -16763,7 +16766,7 @@ takardun O
 shiga O
 zabe O
 ga O
-yan O
+‘yan O
 takara O
 . O
 
@@ -17210,7 +17213,7 @@ gaza O
 samun O
 sulhu O
 tsakanin O
-yan O
+‘yan O
 takara O
 ana O
 gudanar O
@@ -17626,7 +17629,7 @@ da O
 yaki O
 da O
 ayyukan O
-yan O
+‘yan O
 ta'adda O
 a O
 kasar O
@@ -17728,8 +17731,8 @@ ci O
 gaba O
 da O
 aki O
-da O
-‘yan O
+da’ O
+yan O
 ta'adda O
 a O
 arewacin O
@@ -18206,7 +18209,7 @@ ke I-DATE
 ciki I-DATE
 fadar O
 shugaban O
-茩asa O
+ƙasa O
 ta O
 ce O
 ‘yan O
@@ -19405,9 +19408,7 @@ ce O
 sun O
 samu O
 rahoton O
-aika O
-- O
-aikar O
+aika-aikar O
 da O
 Anas B-PER
 ya O
@@ -19777,7 +19778,7 @@ ma O
 ya O
 saba O
 da O
-yancin O
+‘yancin O
 da O
 suke O
 da O
@@ -20339,7 +20340,7 @@ Kano B-ORG
 Focus I-ORG
 irin O
 yadda O
-yar O
+‘yar O
 uwarta O
 ke O
 karbar O
@@ -20988,7 +20989,7 @@ Na O
 yi O
 zaton O
 cinkonson O
-jama O
+jama’ O
 ne O
 ya O
 saya O
@@ -21032,9 +21033,7 @@ wajen O
 yaki O
 da O
 cutar O
-Covid O
-- O
-19 O
+Covid-19 O
 a O
 Kano B-LOC
 - O
@@ -21045,10 +21044,10 @@ ke O
 sa O
 iyaye O
 yiwa O
-‘ya'yansu O
+‘ya’yansu O
 auren O
 dole O
-Yan O
+‘Yan O
 wasan O
 Hausa O
 a O
@@ -21060,7 +21059,7 @@ alatsine O
 ga O
 shugaban O
 Faransa B-LOC
-"""" O
+" O
 Da O
 na O
 fuskanci O
@@ -21080,6 +21079,7 @@ ya O
 ke O
 yi O
 , O
+
 amma O
 sai O
 ya O
@@ -21091,7 +21091,6 @@ shi O
 ko O
 kadan O
 bai O
-
 aikataba O
 . O
 
@@ -21319,7 +21318,7 @@ da O
 ke O
 karatu O
 a O
-jami'oI O
+jami'o'I O
 masu O
 zaman O
 kansu O
@@ -21542,7 +21541,8 @@ zaben O
 fidda O
 gwani O
 - O
-Yayan O
+‘Ya O
+‘yan O
 jam'iyyar B-ORG
 APC I-ORG
 a O
@@ -21705,14 +21705,12 @@ wajen O
 yaki O
 da O
 cutar O
-Covid O
-- O
-19 O
+Covid-19 O
 a O
 Kano B-LOC
 - O
 Kwamishina O
-Yan O
+‘Yan O
 daba O
 sun O
 kashe O
@@ -21748,7 +21746,7 @@ a O
 bashi O
 abinsa O
 . O
-"""" O
+" O
 
 A O
 cewar O
@@ -21779,7 +21777,8 @@ sanya O
 wasu O
 daga O
 cikin O
-yayanta O
+‘ya O
+‘yanta O
 suka O
 fito O
 zanga O
@@ -21970,7 +21969,9 @@ kawai O
 sai O
 sukaji O
 ance O
-wai’ O
+' O
+wai O
+' O
 Fa'izu B-PER
 ne O
 dan O
@@ -22164,8 +22165,8 @@ amsa O
 lafinsa O
 a O
 wani O
-ofishin O
-‘yan O
+ofishin’ O
+yan O
 sanda O
 . O
 
