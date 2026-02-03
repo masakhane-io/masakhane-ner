@@ -1,31 +1,38 @@
 # coding=utf-8
-# David Adelani
+# Bytte AI
+# Improved version with bug fixes and enhancements
 
-'''
-
+"""
+Usage example:
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 from transformers import pipeline
+
 tokenizer = AutoTokenizer.from_pretrained("Davlan/distilbert-base-multilingual-cased-masakhaner")
 model = AutoModelForTokenClassification.from_pretrained("Davlan/distilbert-base-multilingual-cased-masakhaner")
 nlp = pipeline("ner", model=model, tokenizer=tokenizer)
 example = "Emir of Kano turban Zhang wey don spend 18 years for Nigeria"
 ner_results = nlp(example)
 print(ner_results)
-'''
+"""
+
 import logging
 import os
 from transformers import AutoConfig, AutoTokenizer, AutoModelForTokenClassification
 from seqeval.metrics import f1_score, precision_score, recall_score, classification_report
-from torch.utils.data import DataLoader, RandomSampler, SequentialSampler, TensorDataset
+from torch.utils.data import DataLoader, SequentialSampler, TensorDataset
 from torch.nn import CrossEntropyLoss
 import torch
 import string
 from tqdm import tqdm
 import numpy as np
 
+# Configure logging
+logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+
 def get_labels():
+    """Get NER labels for the MasakhaNER task"""
     return ["O", "B-DATE", "I-DATE", "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC"]
 
 
@@ -57,15 +64,23 @@ class InputFeatures(object):
 
 
 def read_examples(text):
+    """Read text and convert to examples"""
     guid_index = 1
     examples = []
-
-    sentences = text.splitlines()
+    
+    # Handle both single sentence and multi-line text
+    sentences = text.strip().splitlines() if '\n' in text else [text]
     mode = 'test'
+    
     for sent in sentences:
+        if not sent.strip():  # Skip empty lines
+            continue
+            
+        # Add spaces around punctuation
         sent = sent.translate(str.maketrans({key: " {0} ".format(key) for key in string.punctuation}))
         words = sent.split()
-        labels = ['O']*len(words)
+        labels = ['O'] * len(words)
+        
         if words:
             examples.append(InputExample(guid="{}-{}".format(mode, guid_index), words=words, labels=labels))
             guid_index += 1
@@ -90,7 +105,7 @@ def convert_examples_to_features(
     sequence_a_segment_id=0,
     mask_padding_with_zero=True,
 ):
-    """ Loads a data file into a list of `InputBatch`s
+    """Loads a data file into a list of `InputBatch`s
         `cls_token_at_end` define the location of the CLS token:
             - False (Default, BERT/XLM pattern): [CLS] + A + [SEP] + B + [SEP]
             - True (XLNet/GPT pattern): A + [SEP] + B + [SEP] + [CLS]
@@ -101,7 +116,6 @@ def convert_examples_to_features(
 
     features = []
     for (ex_index, example) in enumerate(examples):
-        #print(ex_index, len(example.words))
         if ex_index % 10000 == 0:
             logger.info("Writing example %d of %d", ex_index, len(examples))
 
@@ -109,6 +123,8 @@ def convert_examples_to_features(
         label_ids = []
         for word, label in zip(example.words, example.labels):
             word_tokens = tokenizer.tokenize(word)
+            if not word_tokens:  # Handle empty tokenization
+                word_tokens = [tokenizer.unk_token]
             tokens.extend(word_tokens)
             # Use the real label id for the first token of the word, and padding ids for the remaining tokens
             label_ids.extend([label_map[label]] + [pad_token_label_id] * (len(word_tokens) - 1))
@@ -135,7 +151,7 @@ def convert_examples_to_features(
         # it easier for the model to learn the concept of sequences.
         #
         # For classification tasks, the first vector (corresponding to [CLS]) is
-        # used as as the "sentence vector". Note that this only makes sense because
+        # used as the "sentence vector". Note that this only makes sense because
         # the entire model is fine-tuned.
         tokens += [sep_token]
         label_ids += [pad_token_label_id]
@@ -176,9 +192,10 @@ def convert_examples_to_features(
         assert len(input_ids) == max_seq_length
         assert len(input_mask) == max_seq_length
         assert len(segment_ids) == max_seq_length
-        try:
-            assert len(label_ids) == max_seq_length
-        except:
+        
+        # Fixed: Better error handling for label_ids length mismatch
+        if len(label_ids) != max_seq_length:
+            logger.warning(f"Skipping example {ex_index} due to label_ids length mismatch")
             continue
 
         if ex_index < 5:
@@ -197,6 +214,7 @@ def convert_examples_to_features(
 
 
 def load_and_cache_examples(text, tokenizer, labels, pad_token_label_id, max_seq_length, model_type):
+    """Load examples and convert to dataset"""
     examples = read_examples(text)
     features = convert_examples_to_features(
         examples,
@@ -204,14 +222,11 @@ def load_and_cache_examples(text, tokenizer, labels, pad_token_label_id, max_seq
         max_seq_length,
         tokenizer,
         cls_token_at_end=bool(model_type in ["xlnet"]),
-        # xlnet has a cls token at the end
         cls_token=tokenizer.cls_token,
         cls_token_segment_id=2 if model_type in ["xlnet"] else 0,
         sep_token=tokenizer.sep_token,
         sep_token_extra=bool(model_type in ["roberta"]),
-        # roberta uses an extra separator b/w pairs of sentences, cf. github.com/pytorch/fairseq/commit/1684e166e3da03f5b600dbb7855cb98ddfcd0805
         pad_on_left=bool(model_type in ["xlnet"]),
-        # pad on the left for xlnet
         pad_token=tokenizer.convert_tokens_to_ids([tokenizer.pad_token])[0],
         pad_token_segment_id=4 if model_type in ["xlnet"] else 0,
         pad_token_label_id=pad_token_label_id,
@@ -228,13 +243,11 @@ def load_and_cache_examples(text, tokenizer, labels, pad_token_label_id, max_seq
 
 
 def evaluate(model, tokenizer, labels, pad_token_label_id, text, max_seq_length, model_type, device):
-
-    #load_and_cache_examples(text, tokenizer, labels, pad_token_label_id, max_seq_length, model_type)
+    """Evaluate model and return predictions"""
     eval_dataset = load_and_cache_examples(text, tokenizer, labels, pad_token_label_id, max_seq_length, model_type)
 
-    eval_batch_size = 16 #args.per_gpu_eval_batch_size * max(1, args.n_gpu)
-    # Note that DistributedSampler samples randomly
-    eval_sampler = SequentialSampler(eval_dataset) #if args.local_rank == -1 else DistributedSampler(eval_dataset)
+    eval_batch_size = 16
+    eval_sampler = SequentialSampler(eval_dataset)
     eval_dataloader = DataLoader(eval_dataset, sampler=eval_sampler, batch_size=eval_batch_size)
 
     eval_loss = 0.0
@@ -242,6 +255,7 @@ def evaluate(model, tokenizer, labels, pad_token_label_id, text, max_seq_length,
     preds = None
     out_label_ids = None
     model.eval()
+    
     for batch in tqdm(eval_dataloader, desc="Evaluating"):
         batch = tuple(t.to(device) for t in batch)
 
@@ -250,12 +264,13 @@ def evaluate(model, tokenizer, labels, pad_token_label_id, text, max_seq_length,
             if model_type != "distilbert":
                 inputs["token_type_ids"] = (
                     batch[2] if model_type in ["bert", "xlnet"] else None
-                )  # XLM and RoBERTa don"t use segment_ids
+                )
             outputs = model(**inputs)
             tmp_eval_loss, logits = outputs[:2]
 
             eval_loss += tmp_eval_loss.item()
         nb_eval_steps += 1
+        
         if preds is None:
             preds = logits.detach().cpu().numpy()
             out_label_ids = inputs["labels"].detach().cpu().numpy()
@@ -277,79 +292,77 @@ def evaluate(model, tokenizer, labels, pad_token_label_id, text, max_seq_length,
                 out_label_list[i].append(label_map[out_label_ids[i][j]])
                 preds_list[i].append(label_map[preds[i][j]])
 
-    '''
-    results = {
-        "loss": eval_loss,
-        "precision": precision_score(out_label_list, preds_list),
-        "recall": recall_score(out_label_list, preds_list),
-        "f1": f1_score(out_label_list, preds_list),
-        'report': classification_report(out_label_list, preds_list),
-    }
-    '''
-
-    #for key in sorted(results.keys()):
-    #    logger.info("  %s = %s", key, str(results[key]))
-
     return preds_list
 
 
-def predict_tags(text, model_name_or_path, model_type):
-    # Prepare CONLL-2003 task
+def predict_tags(text, model_name_or_path="Davlan/distilbert-base-multilingual-cased-masakhaner", model_type="distilbert", output_file="test_predictions.txt"):
+    """
+    Predict NER tags for input text
+    
+    Args:
+        text: Input text (can be single sentence or multi-line)
+        model_name_or_path: Hugging Face model name or path
+        model_type: Type of model (default: distilbert)
+        output_file: Output file path for predictions
+        
+    Returns:
+        predictions: List of predicted labels for each sentence
+    """
+    # Prepare labels
     labels = get_labels()
     num_labels = len(labels)
-    # Use cross entropy ignore index as padding label id so that only real label ids contribute to the loss later
     pad_token_label_id = CrossEntropyLoss().ignore_index
 
-    model_name_or_path = "Davlan/distilbert-base-multilingual-cased-masakhaner"
-    config_class, model_class, tokenizer_class = AutoConfig, AutoModelForTokenClassification, AutoTokenizer  # MODEL_CLASSES[args.model_type]
-
-    '''
-    config = config_class.from_pretrained(model_name_or_path,
-        num_labels=num_labels,
-        id2label={str(i): label for i, label in enumerate(labels)},
-        label2id={label: i for i, label in enumerate(labels)},
-        cache_dir=None,
-    )
-    tokenizer = tokenizer_class.from_pretrained(model_name_or_path,
-        cache_dir=None,
-    )
-    model = model_class.from_pretrained(model_name_or_path,
-        from_tf=bool(".ckpt" in model_name_or_path),
-        config=config,
-        cache_dir=None,
-    )
-    '''
+    # Load model and tokenizer
+    tokenizer_class = AutoTokenizer
+    model_class = AutoModelForTokenClassification
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    n_gpu = torch.cuda.device_count()
+    logger.info(f"Using device: {device}")
 
-    # Evaluation
+    # Load pretrained model
     tokenizer = tokenizer_class.from_pretrained(model_name_or_path, do_lower_case=False)
     model = model_class.from_pretrained(model_name_or_path)
     model.to(device)
+    
     max_seq_length = 200
-    model_type = "distilbert"
+    
+    # Get predictions
     predictions = evaluate(model, tokenizer, labels, pad_token_label_id, text, max_seq_length, model_type, device)
-    # evaluate(model, tokenizer, labels, pad_token_label_id, mode="test")
-    # Save predictions
-
-    sentences = text.splitlines()
-    output_test_predictions_file = 'test_predictions.txt'
-    with open(output_test_predictions_file, "w") as writer:
+    
+    # Process and save predictions
+    sentences = text.strip().splitlines() if '\n' in text else [text]
+    
+    with open(output_file, "w", encoding="utf-8") as writer:
         for example_id, sent in enumerate(sentences):
+            if not sent.strip():  # Skip empty lines
+                continue
+                
             sent = sent.translate(str.maketrans({key: " {0} ".format(key) for key in string.punctuation}))
             words = sent.split()
+            
+            if example_id >= len(predictions):  # Safety check
+                logger.warning(f"No predictions for sentence {example_id}")
+                continue
 
             for word in words:
-                label = predictions[example_id].pop(0)
-                writer.write(word + " " + label + "\n")
-                print(word + " " + label + "\n")
+                if not predictions[example_id]:  # Check if predictions list is empty
+                    label = "O"
+                else:
+                    label = predictions[example_id].pop(0)
+                writer.write(f"{word} {label}\n")
+                print(f"{word} {label}")
             writer.write("\n")
-            print("\n")
+            print()
+    
+    logger.info(f"Predictions saved to {output_file}")
+    return predictions
 
 
 if __name__ == "__main__":
+    # Example usage
     text = "Emir of Kano turban Zhang wey don spend 18 years for Nigeria"
     model_name = "Davlan/distilbert-base-multilingual-cased-masakhaner"
     model_type = 'distilbert'
+    
     predict_tags(text, model_name, model_type)
