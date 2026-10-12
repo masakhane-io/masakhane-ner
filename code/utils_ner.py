@@ -50,58 +50,30 @@ class InputFeatures(object):
 
 
 def read_examples_from_file_flexible(file_path, mode):
-    guid_index = 1
+    """Read whitespace-delimited CoNLL rows, including unlabeled test words."""
     examples = []
+    words, labels = [], []
     with open(file_path, encoding="utf-8") as f:
-        words = []
-        labels = []
         for line in f:
-            if line.startswith("-DOCSTART-") or line == "" or line == "\n":
+            fields = line.split()
+            if not fields or fields[0] == "-DOCSTART-":
                 if words:
-                    examples.append(InputExample(guid="{}-{}".format(mode, guid_index), words=words, labels=labels))
-                    guid_index += 1
-                    words = []
-                    labels = []
-            else:
-                splits = line.split(" ")
-                words.append(splits[0])
-                if len(splits) > 1:
-                    labels.append(splits[-1].replace("\n", ""))
-                else:
-                    # Examples could have no label for mode = "test"
-                    labels.append("O")
-        if words:
-            examples.append(InputExample(guid="{}-{}".format(mode, guid_index), words=words, labels=labels))
+                    examples.append(InputExample(
+                        guid="{}-{}".format(mode, len(examples) + 1),
+                        words=words, labels=labels))
+                    words, labels = [], []
+                continue
+            words.append(fields[0])
+            labels.append(fields[-1] if len(fields) > 1 else "O")
+    if words:
+        examples.append(InputExample(
+            guid="{}-{}".format(mode, len(examples) + 1), words=words, labels=labels))
     return examples
 
 
 def read_examples_from_file(data_dir, mode):
-    file_path = os.path.join(data_dir, "{}.txt".format(mode))
-    guid_index = 1
-    examples = []
-    with open(file_path, encoding="utf-8") as f:
-        words = []
-        labels = []
-        for line in f:
-            line = line.strip()
-            if len(line) < 2  or line == "\n":
-                #print(line, words)
-                if words:
-                    examples.append(InputExample(guid="{}-{}".format(mode, guid_index), words=words, labels=labels))
-                    guid_index += 1
-                    words = []
-                    labels = []
-            else:
-                splits = line.split(" ")
-                words.append(splits[0])
-                if len(splits) > 1:
-                    labels.append(splits[-1].replace("\n", ""))
-                else:
-                    # Examples could have no label for mode = "test"
-                    labels.append("O")
-        if words:
-            examples.append(InputExample(guid="{}-{}".format(mode, guid_index), words=words, labels=labels))
-    return examples
+    return read_examples_from_file_flexible(
+        os.path.join(data_dir, "{}.txt".format(mode)), mode)
 
 
 def convert_examples_to_features(
@@ -128,6 +100,9 @@ def convert_examples_to_features(
         `cls_token_segment_id` define the segment id associated to the CLS token (0 for BERT, 2 for XLNet)
     """
 
+    special_tokens_count = 3 if sep_token_extra else 2
+    if max_seq_length < special_tokens_count:
+        raise ValueError("max_seq_length must fit all special tokens")
     label_map = {label: i for i, label in enumerate(label_list)}
 
     features = []
@@ -136,10 +111,16 @@ def convert_examples_to_features(
         if ex_index % 10000 == 0:
             logger.info("Writing example %d of %d", ex_index, len(examples))
 
+        if len(example.words) != len(example.labels):
+            raise ValueError("{}: word and label lengths differ".format(example.guid))
         tokens = []
         label_ids = []
         for word, label in zip(example.words, example.labels):
             word_tokens = tokenizer.tokenize(word)
+            if not word_tokens:
+                if tokenizer.unk_token is None:
+                    raise ValueError("{}: empty tokenization without unk_token".format(example.guid))
+                word_tokens = [tokenizer.unk_token]
             tokens.extend(word_tokens)
             # Use the real label id for the first token of the word, and padding ids for the remaining tokens
             label_ids.extend([label_map[label]] + [pad_token_label_id] * (len(word_tokens) - 1))
@@ -207,10 +188,7 @@ def convert_examples_to_features(
         assert len(input_ids) == max_seq_length
         assert len(input_mask) == max_seq_length
         assert len(segment_ids) == max_seq_length
-        try:
-            assert len(label_ids) == max_seq_length
-        except:
-            continue
+        assert len(label_ids) == max_seq_length
 
         if ex_index < 5:
             logger.info("*** Example ***")
